@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<title>Конструктор плейлистов онлайн. Создать IPTV плейлист</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Создать IPTV плейлист в один клик. Конструктор плейлистов онлайн для: VLC player, Smart TV, телефона, ТВ приставки и др..">
+<meta name="robots" content="index, follow">
+<meta name="author" content="https://vk.com/radio.ebm.android">
+<meta name="generator" content="Powered by TvPult Playlist Constructor" />
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+<meta property="og:type" content="video.other" />
+<meta property="og:site_name" content="/m3u-creator" />
+<meta property="og:url" content="/m3u-creator">
+<meta property="og:title" content="Конструктор плейлистов. Создать IPTV плейлист онлайн - Bit.do/m3u-creator">
+<meta property="og:description" content="Создать IPTV плейлист в один клик. Конструктор плейлистов онлайн, форматы для: VLC player, Smart TV, телефона, ТВ приставки и др.." />
+<meta property="og:image" content="/m3u-creator/logo.png" />
+<link rel="Stylesheet" href="style.css" tppabs="m3u-creator/style.css" />
+<link rel="icon" href="favicon.ico" tppabs="/m3u-creator/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" tppabs="/m3u-creator/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="apple-touch-icon.png" tppabs="/m3u-creator/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png" tppabs="/m3u-creator/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png" tppabs="/m3u-creator/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png" tppabs="/m3u-creator/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png" tppabs="/m3u-creator/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png" tppabs="/m3u-creator/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png" tppabs="/m3u-creator/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png" tppabs="/m3u-creator/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon-180x180.png" tppabs="/m3u-creator/apple-touch-icon-180x180.png" />
+</head>
+<body>
+<header>
+<figure>
+<a href="index.htm" tppabs="/m3u-creator/" title=""><img alt="Конструктор IPTV плейлистов онлайн" src="logo.png" tppabs="/m3u-creator/logo.png" /></a>
+<br>
+<h1>Конструктор плейлистов</h1>
+<br>
+<span id="status"></span>
+</figure>
+</header>
+<main>
+<article>
+<div id="playtvpult">
+<form name="formconvert" class="constructor">
+<textarea id="input" placeholder="Введите данные"></textarea>
+<label for="format">Формат</label>
+<select name="format" id="format">
+<option selected value="1">.M3U</option>
+<option value="2">.XSPF</option>
+<option value="3">.WPL</option>
+<option value="4">.PLS</option>
+<option value="5">.AZBOX</option>
+</select>
+<input type="checkbox" class="checkbox" name="list" id="list" checked="checked" autocomplete="off" />
+<label for="list">с названием каналов</label>
+<a id="help" href="#">?
+<span>
+<em>С названиями каналов. </em>
+<i>Название канала и ссылка с новой строчки.</i><br>
+<strong>Пример:</strong><br>
+Название канала<br>
+http://127.0.0.1/stream<br>
+Название канала<br>
+http://ссылка на трансляцию
+<br><br>
+<em>Без названия каналов. </em>
+<i>Каждая ссылка с новой строчки.</i><br>
+<strong>Пример:</strong><br>
+http://127.0.0.1/stream<br>
+http://ссылка на трансляцию<br>
+http://ссылка на трансляцию<br>
+http://ссылка на трансляцию<br>
+</span></a>
+<div style="float:right;">
+<input id="reset" type="button" style="display:none;" value="Сбросить" />
+<input type="button" id="convert" name="convert" value="Создать плейлист" />
+</div>
+<label for="output" id="plstname" style="display:none;"><h3>Ваш плейлист:</h3></label>
+<textarea id="output" name="output" style="display:none;"></textarea>
+</form>
+<div id="constructordesc">
+<h2>Создать плейлист онлайн</h2>
+<p>Конструктор позволяет создавать плейлисты разных форматов в онлайн режиме.</p>
+<p>
+С помощью <strong>TvPult плейлист конструктор</strong> создать IPTV плейлист проще простого:
+<ol>
+<li>Выберите формат плейлиста</li>
+<li id="namechk">Введите название канала</li>
+<li>Введите ссылку на поток <span id="namechk2">с новой строки</span></li>
+<li>Нажимаем создать плейлист</li>
+<li>Готово. Добавляем сайт в закладки. Радуемся <span id="favhome"></span></li>
+</ol>
+</p>
+<p>
+Конструировать плейлисты вручную довольно утомительное занятие, особенно когда нужно создать один плейлист для разных устройств/программ. Теперь создать плейлист для VLC player, Smart TV, телефона или ТВ приставки можно в один клик.
+</p>
+</div>
+</div>
+</article>
+</main>
+<script src="script.js" tppabs="/m3u-creator/script.js"></script>
+<footer>
+Copyright &copy;<a href="https://vk.com/radio.ebm.android"> vk.com/radio.ebm.android</a>2019
+</footer>
+</body>
+</html>
