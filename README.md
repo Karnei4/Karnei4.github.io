@@ -9,3 +9,9 @@
 
 
 https://karnei4.github.io/m3u-creator/index.html
+
+Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG
+
+https://Karnei4.github.io/convert/index.html
+
+
