@@ -327,9 +327,9 @@ ul#files.view-details li.header {
         webvisor:true
    });
 </script>
- <script type="text/javascript" src="https://vk.com/js/api/openapi.js?162"></script>      
-<noscript><div><img src="https://mc.yandex.ru/watch/55421242" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+ <!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?162"></script>
+       <!-- /Yandex.Metrika counter -->
 <h2 class="shelf-title">Каталог иконок для IPTV m3u/m3u8... </h2>
 <p class="shelf-lead">Скачать или добавить иконки IPTV в свой m3u Paylist можно с этой страницы! </p>
 
@@ -1333,10 +1333,14 @@ ul#files.view-details li.header {
  <li><a href="https://karnei4.github.io/convert/index_files/zootv.png" class="" title="zootv.png"><img src="https://karnei4.github.io/convert/index_files/zootv.png" class="picz" width="25px"><span class="name">zootv.png</span></a></li>
  <li><a href="https://karnei4.github.io/convert/index_files/zvezda.png" class="" title="zvezda.png"><img src="https://karnei4.github.io/convert/index_files/zvezda.png" class="picz" width="25px"><span class="name">zvezda.png</span></a></li></ul>
          </div>
- <!-- VK Widget -->
-<div id="vk_community_messages"></div>
 <script type="text/javascript">
-VK.Widgets.CommunityMessages("vk_community_messages", 127607773, {expanded: "1",tooltipButtonText: "Есть вопрос?"});
+  VK.init({apiId: API_ID, onlyWidgets: true});
+</script>
+
+<!-- Put this div tag to the place, where the Comments block will be -->
+<div id="vk_comments"></div>
+<script type="text/javascript">
+VK.Widgets.Comments("vk_comments", {limit: 5, attach: "*"});
 </script> 
 <noscript><div><img src="https://mc.yandex.ru/watch/55421242" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
