@@ -1,0 +1,13 @@
+(function($) {
+    var field;
+    field = {
+        id: '#id_translit',
+        dependency_ids: [],
+        dependency_list: [],
+        maxLength: 30000
+    };
+    field['dependency_ids'].push('#id_cyrillic');
+    field['dependency_list'].push('cyrillic');
+    $('#field-translit').addClass('prepopulated_field');
+    $(field.id).data('dependency_list', field['dependency_list']).prepopulate(field['dependency_ids'], field.maxLength);
+})(translitme.jQuery);
