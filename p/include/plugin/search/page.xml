@@ -1,0 +1,5 @@
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="{ICON}" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="{LINK}"> {TITLE}</a>{SUBMENU} <div style="float:right;">{MENU} {AUTHOR} {DATE} </div><br>
+	<span style="color:green;font-size:80%;">{INFOLINK} </span> <div style="overflow-y:auto; max-height:400px;">{DESCRIPTION}</div>
+</div>

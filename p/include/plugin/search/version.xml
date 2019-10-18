@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<name>Поиск</name>
+	<author>ForkPlayer! Project</author>
+	<creationDate>Jan 2019</creationDate>
+	<copyright>Copyright (C) 2019 Open Source</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>alexkdpu@ya.ru</authorEmail>
+	<authorUrl>xml.forkplayer.tv</authorUrl>
+	<version>1.0.0</version>
+	<icon>search.png</icon>
+	<search_on>Что ищете?</search_on>
+	<presearch>presearch.php</presearch>
+	<requiredXmlCms>1.0.0</requiredXmlCms>	
+	<description>Поиск по страницам сайта</description>
+	<settings> 
+		<allowread>0</allowread>
+		<showonmain>1</showonmain>
+		<showonmenu>1</showonmenu>		
+	</settings>
+</plugin>
