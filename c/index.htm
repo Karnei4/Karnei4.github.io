@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>OTTV.TK </title>
+<script src="include/templates/js/jquery.js" tppabs="http://fork.ottv.tk/include/templates/js/jquery.js"></script>
+<script src="include/templates/js/adm.js" tppabs="http://fork.ottv.tk/include/templates/js/adm.js"></script>
+<script src="include/templates/js/jquery-ui.js" tppabs="http://fork.ottv.tk/include/templates/js/jquery-ui.js"></script>
+<script type="text/javascript" src="include/templates/js/jHtml/jHtmlArea-0.8.js" tppabs="http://fork.ottv.tk/include/templates/js/jHtml/jHtmlArea-0.8.js"></script>
+<link rel="Stylesheet" type="text/css" href="include/templates/js/jquery-ui.css" tppabs="http://fork.ottv.tk/include/templates/js/jquery-ui.css" />
+<link rel="Stylesheet" type="text/css" href="include/templates/js/jHtml/jHtmlArea.css" tppabs="http://fork.ottv.tk/include/templates/js/jHtml/jHtmlArea.css" />
+<style>
+a:link, a:visited {
+   color: #eeeeee;
+   text-decoration:underline;
+}
+a:hover {
+   color: #fa5961;
+   text-decoration:underline;
+}
+
+#menu,
+#menu ul {
+    list-style: none;
+}
+#menu {
+    float: left;
+	width: 100%;
+    padding: 0px;
+}
+#menu > li {
+    float: left;
+}
+#menu li a {
+display: block;
+    height: 2em; 
+    line-height: 2em;
+    padding: 0 1.5em;
+    text-decoration: none;
+}
+#menu ul {
+    position: absolute;
+    display: none;
+z-index: 999;
+}
+#menu li:hover ul {
+    display: block;
+	padding: 0px;
+}
+#menu {
+    font-family: Arial;
+    font-size: 12px;
+    background: #2f8be8;
+}
+#menu > li > a {
+    color: #fff;
+    font-weight: bold;
+}
+#menu > li:hover > a {
+    background: #2f8be8;
+    color: #000;
+}
+ 
+/* Submenu
+------------------------------------------*/
+#menu ul {
+    background: #9dcdfd;
+}
+#menu ul li a {
+    color: #000;
+}
+#menu ul li:hover a {
+    background: #2f8be8;
+}
+.button {
+    width: auto;
+    height: 30px;
+    background: #e3dbdb;
+    padding: 5px;
+    text-align: center;
+    border-radius: 2px;
+    color: black;
+    font-weight: bold;
+	text-decoration: none;
+}
+</style>
+</head>
+<body style="width:100%;text-align:center;background-color:gray;">
+<div style="width:1000px;min-height:600px; margin: auto;background-color:white;padding:10px;">
+	<div>
+		<div style="float:left;"><img src="include/templates/images/logo.png" tppabs="http://fork.ottv.tk/include/templates/images/logo.png" style="width:200px;" /></div>
+		<div style="text-align:center;font-size:2em;">OTTV.TK </div>
+	</div>	
+	<div style="clear:both;"><hr></div>
+	<div id="site" style="min-height:460px;">
+		<div style="text-align:left;"><ul id='menu' style='background-color:;'><li><a href="index.htm" tppabs="http://fork.ottv.tk/" style='color:#ffff80;' > OTTV.TK </a></li><li><a href='#' style='color:#ffff80;' ><img align='left' src="include/templates/images/menu.png" tppabs="http://fork.ottv.tk/include/templates/images/menu.png" onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;'/> Меню</a><ul id='sub1' style='background-color:;'><li><a href="-do=-plugin&id=search.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=search"><img align='left' src="include/plugin/search/search.png" tppabs="http://fork.ottv.tk/include/plugin/search/search.png" onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Поиск</a></li><li><a href="-do=-plugin&id=userlink.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink"><img align='left' src="include/plugin/userlink/userlinks.png" tppabs="http://fork.ottv.tk/include/plugin/userlink/userlinks.png" onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Пользовательские ссылки</a></li><li><a href="-do=-category&id=4.htm" tppabs="http://fork.ottv.tk/?do=/category&id=4"><img align='left' src='' onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Каналы (2)</a></li></ul></li><li><a href='#' style='color:#ffff80;' > Последнее</a><ul id='sub2' style='background-color:;'></ul></li><li><a href='#' style='color:#ffff80;' > Популярное</a><ul id='sub3' style='background-color:;'></ul></li><li><a href="-do=-module&id=auth&act=login.htm" tppabs="http://fork.ottv.tk/?do=/module&id=auth&act=login" style='color:#ffff80;' > Авторизация</a></li></ul><br clear='both'></div>
+		<hr>
+	
+		<div style='float:left;text-align: left; border-right: 1px solid gray;padding-right:5px;width:170px;'><img align='left' src="include/plugin/search/search.png" tppabs="http://fork.ottv.tk/include/plugin/search/search.png" onerror="this.style.display='none';" height=16 width=18 style='margin:-2px 2px;' /><a href="-do=-plugin&id=search.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=search">Поиск</a><br><img align='left' src="include/plugin/userlink/userlinks.png" tppabs="http://fork.ottv.tk/include/plugin/userlink/userlinks.png" onerror="this.style.display='none';" height=16 width=18 style='margin:-2px 2px;' /><a href="-do=-plugin&id=userlink.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink">Пользовательские ссылки</a><br></div>
+		<div id='contents' style='text-align: left;margin-left:180px;max-height:654px;overflow-y:auto;overflow-x:hidden;'>Нет страниц или нет доступа к этому разделу сайта!<script>applyStyles({"cssid":{"menu":{"enabled":"1","backgroundColor":"#00a400","color":"#ffff80"},"content":{"before":"<center>\u0418\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u044f.<\/center><div style=\"position:absolute;   left:70%;top:80%;font-size:80%;\"><br>(C) http:\/\/fork.ottv.tk 2019<\/div>"},"site":{"background":"url(http:\/\/fork.ottv.tk\/include\/templates\/images\/fon20.jpg)","color":"#eeeeee"},"infoList":{"color":"#eeeeee"},"navigate":{"color":"#eeeeee"}},"channels":{"parent":{"default":{"background":"none","color":"#eeeeee"},"selected":{"background":"none  ","color":"#fa5961"}}}});</script></div>
+	</div>
+
+	
+	
+</div>	
+<div style="width:1000px;clear:both;margin: auto;background-color:white;padding:40px 10px;">
+		<hr>
+		<div style="float:left;">© OTTV.TK  2019</div>
+</div>
+</body>
+</html>

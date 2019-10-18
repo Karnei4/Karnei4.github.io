@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Пользовательские ссылки OTTV.TK </title>
+<script src="include/templates/js/jquery.js" tppabs="http://fork.ottv.tk/include/templates/js/jquery.js"></script>
+<script src="include/templates/js/adm.js" tppabs="http://fork.ottv.tk/include/templates/js/adm.js"></script>
+<script src="include/templates/js/jquery-ui.js" tppabs="http://fork.ottv.tk/include/templates/js/jquery-ui.js"></script>
+<script type="text/javascript" src="include/templates/js/jHtml/jHtmlArea-0.8.js" tppabs="http://fork.ottv.tk/include/templates/js/jHtml/jHtmlArea-0.8.js"></script>
+<link rel="Stylesheet" type="text/css" href="include/templates/js/jquery-ui.css" tppabs="http://fork.ottv.tk/include/templates/js/jquery-ui.css" />
+<link rel="Stylesheet" type="text/css" href="include/templates/js/jHtml/jHtmlArea.css" tppabs="http://fork.ottv.tk/include/templates/js/jHtml/jHtmlArea.css" />
+<style>
+a:link, a:visited {
+   color: #eeeeee;
+   text-decoration:underline;
+}
+a:hover {
+   color: #fa5961;
+   text-decoration:underline;
+}
+
+#menu,
+#menu ul {
+    list-style: none;
+}
+#menu {
+    float: left;
+	width: 100%;
+    padding: 0px;
+}
+#menu > li {
+    float: left;
+}
+#menu li a {
+display: block;
+    height: 2em; 
+    line-height: 2em;
+    padding: 0 1.5em;
+    text-decoration: none;
+}
+#menu ul {
+    position: absolute;
+    display: none;
+z-index: 999;
+}
+#menu li:hover ul {
+    display: block;
+	padding: 0px;
+}
+#menu {
+    font-family: Arial;
+    font-size: 12px;
+    background: #2f8be8;
+}
+#menu > li > a {
+    color: #fff;
+    font-weight: bold;
+}
+#menu > li:hover > a {
+    background: #2f8be8;
+    color: #000;
+}
+ 
+/* Submenu
+------------------------------------------*/
+#menu ul {
+    background: #9dcdfd;
+}
+#menu ul li a {
+    color: #000;
+}
+#menu ul li:hover a {
+    background: #2f8be8;
+}
+.button {
+    width: auto;
+    height: 30px;
+    background: #e3dbdb;
+    padding: 5px;
+    text-align: center;
+    border-radius: 2px;
+    color: black;
+    font-weight: bold;
+	text-decoration: none;
+}
+</style>
+</head>
+<body style="width:100%;text-align:center;background-color:gray;">
+<div style="width:1000px;min-height:600px; margin: auto;background-color:white;padding:10px;">
+	<div>
+		<div style="float:left;"><img src="include/templates/images/logo.png" tppabs="http://fork.ottv.tk/include/templates/images/logo.png" style="width:200px;" /></div>
+		<div style="text-align:center;font-size:2em;">OTTV.TK </div>
+	</div>	
+	<div style="clear:both;"><hr></div>
+	<div id="site" style="min-height:460px;">
+		<div style="text-align:left;"><ul id='menu' style='background-color:;'><li><a href="index.htm" tppabs="http://fork.ottv.tk/" style='color:#ffff80;' > OTTV.TK </a></li><li><a href='#' style='color:#ffff80;' ><img align='left' src="include/templates/images/menu.png" tppabs="http://fork.ottv.tk/include/templates/images/menu.png" onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;'/> Меню</a><ul id='sub1' style='background-color:;'><li><a href="-do=-plugin&id=search.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=search"><img align='left' src="include/plugin/search/search.png" tppabs="http://fork.ottv.tk/include/plugin/search/search.png" onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Поиск</a></li><li><a href="-do=-plugin&id=userlink.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink"><img align='left' src="include/plugin/userlink/userlinks.png" tppabs="http://fork.ottv.tk/include/plugin/userlink/userlinks.png" onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> <b>Пользовательские ссылки</b></a></li><li><a href="-do=-category&id=4.htm" tppabs="http://fork.ottv.tk/?do=/category&id=4"><img align='left' src='' onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Каналы (2)</a></li></ul></li><li><a href='#' style='color:#ffff80;' > Последнее</a><ul id='sub2' style='background-color:;'></ul></li><li><a href='#' style='color:#ffff80;' > Популярное</a><ul id='sub3' style='background-color:;'></ul></li><li><a href="-do=-module&id=auth&act=login.htm" tppabs="http://fork.ottv.tk/?do=/module&id=auth&act=login" style='color:#ffff80;' > Авторизация</a></li></ul><br clear='both'></div>
+		<hr>
+	
+		<div style='float:left;text-align: left; border-right: 1px solid gray;padding-right:5px;width:170px;'></div>
+		<div id='contents' style='text-align: left;margin-left:180px;max-height:654px;overflow-y:auto;overflow-x:hidden;'><script src="include/plugin/userlink/page.js" tppabs="http://fork.ottv.tk/include/plugin/userlink/page.js"></script>
+Ссылки пользователей на плейлисты XML/M3U<br>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:"> </a><ul id='menu'><li><a href='#' style='' >Показывать сначала: самые комментируемые</a><ul id='subs'><li><a href="-do=-plugin&id=userlink&sort=pop&room=.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&sort=pop&room="><img align='left' src='' onerror="this.style.display='none'" id='img_' width=20 height=18 style='margin: 2px;'/> популярные</a></li><li><a href="-do=-plugin&id=userlink&sort=old&room=.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&sort=old&room="><img align='left' src='' onerror="this.style.display='none'" id='img_' width=20 height=18 style='margin: 2px;'/> старые</a></li><li><a href="-do=-plugin&id=userlink&sort=new&room=.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&sort=new&room="><img align='left' src='' onerror="this.style.display='none'" id='img_' width=20 height=18 style='margin: 2px;'/> новые</a></li><li><a href="-do=-plugin&id=userlink&sort=reports&room=.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&sort=reports&room="><img align='left' src='' onerror="this.style.display='none'" id='img_' width=20 height=18 style='margin: 2px;'/> самые комментируемые</a></li></ul></li></ul> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;"> </span> <div style="overflow-y:auto; max-height:400px;"><small></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:"> </a><ul id='menu'><li><a href='#' style='' >Категория ссылок: Все</a><ul id='subs'><li><a href="-do=-plugin&id=userlink.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink"><img align='left' src="include/plugin/userlink/index.htm" tppabs="http://fork.ottv.tk/include/plugin/userlink/" onerror="this.style.display='none'" id='img_' width=20 height=18 style='margin: 2px;'/> Все</a></li><li><a href="-do=-plugin&id=userlink&room=0.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&room=0"><img align='left' src="include/plugin/userlink/userlinks.png" tppabs="http://fork.ottv.tk/include/plugin/userlink/userlinks.png" onerror="this.style.display='none'" id='img_' width=20 height=18 style='margin: 2px;'/> FXML порталы</a></li><li><a href="-do=-plugin&id=userlink&room=1.htm" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&room=1"><img align='left' src="include/plugin/userlink/userlinks.png" tppabs="http://fork.ottv.tk/include/plugin/userlink/userlinks.png" onerror="this.style.display='none'" id='img_' width=20 height=18 style='margin: 2px;'/> Пользовательские ссылки</a></li></ul></li></ul> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;"> </span> <div style="overflow-y:auto; max-height:400px;"><small></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://ruip.tv/playlist?auth=demo:demo  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://ruip.tv/playlist?auth=demo:demo%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=67"> ruip.tv</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://ruip.tv/playlist?auth=demo:demo </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 12432<br><b>Пользовательские ссылки</b><br><div style='margin:2px;font-size:90%;background-color:gray;color:white;'>14.05.2019 12:09<br><i>furnik.2015958229 пишет</i> Почему плейлист перестал работать?</div><div style='margin:2px;font-size:90%;background-color:gray;color:white;'>14.05.2019 09:01<br><i>vyacheslav2019 пишет</i> плейлист перестал показывать</div><div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.05.2019 21:18<br><i>furnik.2015958229 пишет</i> Наполнение каналов супер! Спасибо.<br><i>modified</i></div>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.05.2019 19:39<br>
+			178.120.11.65 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://185.41.23.27:8000/playlist.m3u8  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://185.41.23.27:8000/playlist.m3u8%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=60"> UKR.TV</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://185.41.23.27:8000/playlist.m3u8 </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 16656<br><b>Пользовательские ссылки</b><br><div style='margin:2px;font-size:90%;background-color:gray;color:white;'>10.05.2019 15:15<br><i>tosik767 пишет</i> супер спосибо</div>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>09.05.2019 19:43<br>
+			178.120.78.149 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=68  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=68%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=68"> iptv</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://194.113.104.145/playlist.m3u8?auth=iptviptv3:iptv2019 </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 10556<br><b>Пользовательские ссылки</b><br><div style='margin:2px;font-size:90%;background-color:gray;color:white;'>14.05.2019 12:02<br><i>vyacheslav2019 пишет</i> набор каналов отличный только на lg через несколько секунд просмотра канал выключается</div>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>14.05.2019 10:31<br>
+			178.120.9.196 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://re.strah.video:1234/playlist.m3u8?auth=zarin:RJsKR  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://re.strah.video:1234/playlist.m3u8?auth=zarin:RJsKR%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=49"> Strah tv</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://re.strah.video:1234/playlist.m3u8?auth=zarin:RJsKR </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 45787<br><b>Пользовательские ссылки</b><br><div style='margin:2px;font-size:90%;background-color:gray;color:white;'>06.05.2019 12:15<br><i>valentin2166555530 пишет</i> спасибо</div>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>05.05.2019 21:24<br>
+			178.120.67.86 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=111  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=111%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=111"> </a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;"> </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 1165<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>01.01.1970 00:00<br>
+			 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="../hdtv.pp.ua/files/dop.m3u" tppabs="http://hdtv.pp.ua/files/dop.m3u" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=109  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=109%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=109"> http://hdtv.pp.ua/files/dop.m3u</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://hdtv.pp.ua/files/dop.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 11225<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>24.07.2019 19:25<br>
+			105.154.85.124 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=112  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=112%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=112"> lll</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/ferasdxxx </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 5211<br><b>FXML порталы</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>09.08.2019 22:34<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="../denms.ru/playlists/Denisoft/zabava.m3u" tppabs="http://denms.ru/playlists/Denisoft/zabava.m3u" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="../denms.ru/playlists/Denisoft/zabava.m3u" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=110"> http://denms.ru/playlists/Denisoft/zabava.m3u</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://denms.ru/playlists/Denisoft/zabava.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 12341<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>24.07.2019 19:28<br>
+			105.154.85.124 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=113  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=113%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=113"> llll</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/mmmu </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 2617<br><b>FXML порталы</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>09.08.2019 22:39<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=117  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=117%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=117"> deo.at.ua</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">https://deo.at.ua/deooleg.4pda.ru.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 2585<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>19.08.2019 10:23<br>
+			178.120.31.31 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=116  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=116%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=116"> payd_title</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">https://opera.ru </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 3811<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>16.08.2019 07:29<br>
+			141.105.139.28 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=115  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=115%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=115"> Украина</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://www.odessa.tv/playlist.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 4858<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>11.08.2019 20:11<br>
+			178.120.12.172 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=114  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=114%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=114"> lllll</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/smotrismart </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 11498<br><b>FXML порталы</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>09.08.2019 22:42<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="../hdtv.pp.ua/files/uzb.m3u" tppabs="http://hdtv.pp.ua/files/uzb.m3u" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=108  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=108%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=108"> http://hdtv.pp.ua/files/uzb.m3u</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://hdtv.pp.ua/files/uzb.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 5694<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>24.07.2019 19:22<br>
+			105.154.85.124 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="../hdtv.pp.ua/files/tele.m3u" tppabs="http://hdtv.pp.ua/files/tele.m3u" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=107  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=107%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=107"> http://hdtv.pp.ua/files/tele.m3u</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://hdtv.pp.ua/files/tele.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 5118<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>24.07.2019 19:20<br>
+			105.154.85.124 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://free-iptv.ru/iptv/0703tppz/pl_test_all.m3u  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://free-iptv.ru/iptv/0703tppz/pl_test_all.m3u%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=97"> free-iptv</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://free-iptv.ru/iptv/0703tppz/pl_test_all.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 15980<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>04.07.2019 21:24<br>
+			178.120.66.217 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=98  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=98%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=98"> </a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;"> </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 1010<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>01.01.1970 00:00<br>
+			 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=96  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=96%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=96"> </a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;"> </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 861<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>01.01.1970 00:00<br>
+			 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=95  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=95%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=95"> </a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;"> </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 628<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>01.01.1970 00:00<br>
+			 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=93  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=93%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=93"> free-iptv</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://free-iptv.ru/iptv/07rtzb/pl.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 7115<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>01.07.2019 21:06<br>
+			178.120.56.68 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="../101.tk/index.htm" tppabs="http://101.tk/" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=94  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=94%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=94"> http://101.tk</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://101.tk </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 6112<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>03.07.2019 06:56<br>
+			196.65.38.240 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=99  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=99%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=99"> </a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;"> </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 1464<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>01.01.1970 00:00<br>
+			 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="../100k.tk/index.htm" tppabs="http://100k.tk/" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=100  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=100%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=100"> http://100k.tk</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://100k.tk </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 6394<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>10.07.2019 23:03<br>
+			105.155.67.221 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="../pastebin.com/raw/HXpsBwJA" tppabs="http://bit.ly/EDSON-FLIX" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=105  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=105%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=105"> http://bit.ly/EDSON-FLIX</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://bit.ly/EDSON-FLIX </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 4984<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>20.07.2019 19:46<br>
+			160.179.3.54 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="../hdtv.pp.ua/files/arb.m3u" tppabs="http://hdtv.pp.ua/files/arb.m3u" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=106  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=106%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=106"> http://hdtv.pp.ua/files/arb.m3u</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://hdtv.pp.ua/files/arb.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 3792<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>24.07.2019 19:08<br>
+			105.154.85.124 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=103  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=103%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=103"> Хабаровск тв.</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://iptvsmotri.ru/pl24/hbr2/habarovskred1.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 6752<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>20.07.2019 00:04<br>
+			178.120.48.161 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=102  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=102%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=102"> Хабаровск тв.</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://iptvsmotri.ru/pl24/hbr2/habarovskred2.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 4362<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>19.07.2019 23:57<br>
+			178.120.48.161 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://free-iptv.ru/iptv/0703tppz/pl_all.m3u  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://free-iptv.ru/iptv/0703tppz/pl_all.m3u%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=101"> free-iptv</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://free-iptv.ru/iptv/0703tppz/pl_all.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 185229<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>11.07.2019 22:01<br>
+			178.120.13.227 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://avdmono.do.am/iptv/HD.m3u  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://avdmono.do.am/iptv/HD.m3u%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=118"> avdmono[HD]</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://avdmono.do.am/iptv/HD.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 13716<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>19.08.2019 10:27<br>
+			178.120.31.31 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://q-vision.com.ua/spysky/qiptv.m3u  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://q-vision.com.ua/spysky/qiptv.m3u%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=119"> q-vision</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://q-vision.com.ua/spysky/qiptv.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 16363<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>19.08.2019 10:31<br>
+			178.120.31.31 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=137  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=137%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=137"> llHabarovck</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/z1habarovck </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 628<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.09.2019 00:39<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=138  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=138%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=138"> llHabarovsk</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/z1habarovsk </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 549<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.09.2019 00:41<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=136  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=136%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=136"> FreeBest</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://urlcut.ru/FreeBestTV.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 5164<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>12.09.2019 13:21<br>
+			37.252.91.20 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27https://dl.dropbox.com/s/4r6xzt4leuxwm2g/BITNET-Razbit.m3u  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://dl.dropbox.com/s/4r6xzt4leuxwm2g/BITNET-Razbit.m3u%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=135"> TV</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">https://dl.dropbox.com/s/4r6xzt4leuxwm2g/BITNET-Razbit.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 27521<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>07.09.2019 22:41<br>
+			sergej.yushkevith929722 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=134  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=134%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=134"> partner</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">https://ip-tv.club/partner/368 </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 4247<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>07.09.2019 10:44<br>
+			37.252.88.131 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=139  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=139%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=139"> llHabarovsk2</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/z1habarovsk2 </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 659<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.09.2019 00:43<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=140  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=140%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=140"> llTver</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/z1tver </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 976<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.09.2019 00:46<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=144  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=144%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=144"> llOmsk</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/z1omsk </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 1134<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.09.2019 00:58<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=145  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=145%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=145"> llSamara</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/z1samara </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 1656<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.09.2019 01:00<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=143  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=143%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=143"> llirkutsk</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/z1irkutsk </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 854<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.09.2019 00:56<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=142  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=142%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=142"> llNovosibirsk2</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/z1novosibirsk2 </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 775<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.09.2019 00:52<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=141  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=141%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=141"> llNovosibirsk</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://mylist.obovse.ru/z1novosibirsk </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 665<br><b></b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>13.09.2019 00:51<br>
+			Sistemizator298279 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=133  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=133%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=133"> Adults</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://topplay.do.am/AdultsTopPlay.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 9686<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>06.09.2019 17:15<br>
+			37.252.88.131 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=132  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=132%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=132"> Tuchka</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://tuchkatv.org/ </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 4682<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>06.09.2019 17:00<br>
+			37.252.88.131 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://p.denys.club/b6/ip.m3u  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://p.denys.club/b6/ip.m3u%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=123"> p.denys.club</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://p.denys.club/b6/ip.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 21531<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>19.08.2019 10:53<br>
+			178.120.31.31 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://ekzot.ucoz.net/m3u/select.m3u  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://ekzot.ucoz.net/m3u/select.m3u%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=124"> Ekzot</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://ekzot.ucoz.net/m3u/select.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 29067<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>25.08.2019 06:35<br>
+			37.252.90.252 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=122  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=122%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=122"> deo.at.ua</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">https://deo.at.ua/deooleg.m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 7940<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>19.08.2019 10:44<br>
+			178.120.31.31 загрузил ссылку/файл</div></small></div>
+</div>
+<div style="clear:both;width:600px;margin-top:15px;"> 
+	<img src="payd_icon" tppabs="http://fork.ottv.tk/payd_icon" onerror="this.style.display='none';" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="javascript:if(confirm(%27http://bit.do/tv-m3u  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://bit.do/tv-m3u%27" tppabs="http://fork.ottv.tk/?do=/plugin&id=userlink&cmd=open&lid=121"> bit.do</a> <div style="float:right;">    </div><br>
+	<span style="color:green;font-size:80%;">http://bit.do/tv-m3u </span> <div style="overflow-y:auto; max-height:400px;"><small>Просмотров: 23505<br><b>Пользовательские ссылки</b><br>
+			<div style='margin:2px;font-size:90%;background-color:gray;color:white;'>19.08.2019 10:37<br>
+			178.120.31.31 загрузил ссылку/файл</div></small></div>
+</div><script>applyStyles({"cssid":{"menu":{"enabled":"1","backgroundColor":"#00a400","color":"#ffff80"},"site":{"background":"url(http:\/\/fork.ottv.tk\/include\/templates\/images\/fon20.jpg)","color":"#eeeeee"},"infoList":{"color":"#eeeeee"},"navigate":{"color":"#eeeeee"}},"channels":{"parent":{"default":{"background":"none","color":"#eeeeee"},"selected":{"background":"none  ","color":"#fa5961"}}}});</script></div>
+	</div>
+
+	
+	
+</div>	
+<div style="width:1000px;clear:both;margin: auto;background-color:white;padding:40px 10px;">
+		<hr>
+		<div style="float:left;">© OTTV.TK  2019</div>
+</div>
+</body>
+</html>
