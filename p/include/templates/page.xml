@@ -1,0 +1,5 @@
+<div style="width:600px;margin-top:15px;"> 
+	<img onerror="this.onerror=null; this.src='/include/templates/images/nologo.png';" src="{ICON}" style="float:left;width:50; height:30px;margin:5px;" />
+	<a href="{LINK}"> {TITLE}</a> <div style="float:right;"> {AUTHOR} {EDIT}</div> <br>{DESCRIPTION}
+	<div style="padding-top:7px;font-size:85%;">{CATEGORY} <div style="float:right;">{DATE}</div></div>
+</div>
