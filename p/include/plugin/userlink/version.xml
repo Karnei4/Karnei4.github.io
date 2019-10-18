@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<name>Пользовательские ссылки</name>
+	<author>ForkPlayer! Project</author>
+	<creationDate>Jan 2019</creationDate>
+	<copyright>Copyright (C) 2019 Open Source</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>alexkdpu@ya.ru</authorEmail>
+	<authorUrl>xml.forkplayer.tv</authorUrl>
+	<version>1.0.0</version>
+	<icon>userlinks.png</icon>
+	<requiredXmlCms>1.0.0</requiredXmlCms>	
+	<description>Список ссылок пользователей и добавление своих ссылок на страницы и плейлисты</description>
+	<settings> 
+		<allowread>0</allowread>
+		<allowwrite>2,3,4,5,6,7,8,9,10</allowwrite>
+		<allowupload>4,5,9,10</allowupload>
+		<allowdelete>9,10</allowdelete>
+		<showonmain>1</showonmain>
+		<showonmenu>1</showonmenu>
+		<rooms>
+			<enable>1</enable>
+			<icon>userlinks.png</icon>
+			<name>FXML порталы</name>
+			<description>Ссылки на порталы построенные на FXML CMS</description>
+		</rooms>
+		<rooms>
+			<enable>1</enable>
+			<icon>userlinks.png</icon>
+			<name>Пользовательские ссылки</name>
+			<description>Остальные ссылки</description>
+		</rooms>
+		<rooms>
+			<enable>0</enable>
+			<icon>userlinks.png</icon>
+			<name>Развлечение</name>
+			<description>Список ссылок пользователей и добавление своих ссылок на страницы и плейлисты</description>
+		</rooms>
+	</settings>
+</plugin>
