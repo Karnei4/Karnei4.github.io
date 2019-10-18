@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name><![CDATA[-= © <font color="#00ccff">S</font><font color="yellow">MART</font><font color="red">TV</font><font color="lime">LINKS</font> =- RU - SERV -]]></playlist_name>
+	<channel>
+	<title><![CDATA[Сервер COM - <font color="lime">NEW</font>]]></title>
+	<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/390472958440767488/634092861222158356/Karnei4.jpg]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">MART</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="http://whos.amung.us/stats/25joy6do3ah5"><img src="http://whos.amung.us/widget/25joy6do3ah5.png" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер COM <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Портал с максимальным количеством плейлистов.]]></description>
+	<playlist_url><![CDATA[http://bit.do/tv-m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[Сервер RU]]></title>
+	<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/390472958440767488/634081270170779669/1571184717.jpg]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">MART</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="http://whos.amung.us/stats/25joy6do3ah5"><img src="http://whos.amung.us/widget/25joy6do3ah5.png" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=195.216.243.114:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Портал с минимальным количеством плейлистов.]]></description>
+	<playlist_url><![CDATA[https://dl.dropbox.com/s/3jaul2v9tbynfnp/PlayList-Karnei4-M3U-1763.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[Сервер DE]]></title>
+	<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">MART</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="http://whos.amung.us/stats/25joy6do3ah5"><img src="http://whos.amung.us/widget/25joy6do3ah5.png" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер DE <img src="http://monitor.zone-game.info/check.php?do=status&ip=188.40.142.195:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Портал с минимальным количеством плейлистов.]]></description>
+	<playlist_url><![CDATA[http://gronik.strana.de/start.xml]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="gold">Избранное</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/favorites.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="gold">Избранное</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/favorites.png" width = "100"/><p><h2><font color="gold">Favorites</font></h2><p><hr>Пользовательские закладки на видео и плейлисты.]]></description>
+		<playlist_url><![CDATA[OpenFav]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="gray">История</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/history.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="gray">История</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/history.png" width = "100"/><p><h2><font color="gray">History</font></h2><p><hr>История основных действий пользователя.]]></description>
+		<playlist_url><![CDATA[OpenHistory]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="palegreen">Настройки виджета</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/func.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="palegreen">Настройки виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/func.png" width = "100"/><p><h2><font color="palegreen">Options</font></h2><p><hr>Настройки виджета.]]></description>
+		<playlist_url><![CDATA[Settings]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="dodgerblue">USB - сканер</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/usb.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="dodgerblue">USB - сканер</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/usb.png" width = "100"/><p><h2><font color="dodgerblue">USB - scanner</font></h2><p><hr>Сканирование подключенных к телевизору дисковых накопителей.]]></description>
+		<playlist_url><![CDATA[ScanUSB]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="red">Выход из виджета</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
+		<playlist_url><![CDATA[exit]]></playlist_url>
+	</channel>
+</items>
