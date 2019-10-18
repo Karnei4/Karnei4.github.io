@@ -1,0 +1,1 @@
+<?php if(!defined("XMLCMS")) exit(); $siteversion="1.0.21";
