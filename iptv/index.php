@@ -19,14 +19,14 @@ if(isset($_GET['search'])&&strpos($_GET["search"],";&#")!==false){
 	header("decsearch: ".$_GET["search"]);
 }
 $search=$_GET["search"];
-$siteurl="http://195.88.208.101/kinopub";
+$siteurl="https://Karnei4.github.io/iptv/index.php";
 $CLIENT_ID="xbmc";
 $CLIENT_SECRET = "cgg3gtifu46urtfp2zp1nqtba0k2ezxh";
 $logged=0;
 $_PL=array();
 $_CH=array();
 $_MENU=array();
-$_MENU[]=["title"=>"kinopub","logo_30x30"=>"https://kino.pub/images/logo.png","playlist_url"=>"$siteurl/"];
+$_MENU[]=["title"=>"kinopub","logo_30x30"=>"https://Karnei4.github.io/iptv/images/logo.png","playlist_url"=>"$siteurl/"];
 $_MENU[]=["title"=>"Поиск","search_on"=>"Название или имя","logo_30x30"=>"$siteurl/icon/search.png","playlist_url"=>"$siteurl/?cat=search"];
 $_MENU[]=["title"=>"ТВ","logo_30x30"=>"$siteurl/icon/sport.png","parser"=>"https://api.service-kp.com/v1/tv/index?access_token=$_COOKIE[access_token]","playlist_url"=>"$siteurl/?cat=tv&resp=md5hash"];
 $_MENU[]=["title"=>"Новинки","logo_30x30"=>"$siteurl/icon/new_releases.png","playlist_url"=>"$siteurl/?cat=".urlencode("type=popular")."&ttl=".urlencode("Новинки")];
@@ -67,7 +67,7 @@ $_PL["style"]["menu"]["parent"]["default"]["borderRadius"]="2px";
 $_PL["style"]["menu"]["parent"]["default"]["color"]="white";
 $_PL["style"]["menu"]["parent"]["selected"]["color"]="white";
 $_PL["color"]="#b0b1b5";
-$_PL["icon"]="https://kino.pub/images/logo.png";
+$_PL["icon"]="https://Karnei4.github.io/iptv/images/logo.png";
 if(isset($_GET["speedtestserv"])){
 		$iframe='<body style="background-color:black;color:white;text-align:center;">
 		<div id="resspeed" style="font-size:140%;">Измерение скорости к серверу {loc}, ожидайте...</div>
@@ -153,8 +153,8 @@ else{
 				"hardware"=> "$_GET[box_hardware]",
 				"software"=> "ForkPlayer2.5"
 			]);
-		$_CH[]=["logo_30x30"=>"none","title"=>"Добавить этот портал в закладки / стартовое меню","playlist_url"=>"AddFavorite(Кинопаб,https://kino.pub/images/logo.png,http://195.88.208.101/kinopub/);"];	
-		$_CH[]=["logo_30x30"=>"none","title"=>"Добавить этот портал в Глобальный поиск","playlist_url"=>"AddSearch(Кинопаб,https://kino.pub/images/logo.png,http://195.88.208.101/kinopub/?cat=search);"];	
+		$_CH[]=["logo_30x30"=>"none","title"=>"Добавить этот портал в закладки / стартовое меню","playlist_url"=>"AddFavorite(Кинопаб,https://Karnei4.github.io/iptv/images/logo.png,https://dl.dropbox.com/s/3jaul2v9tbynfnp/PlayList-Karnei4-M3U-1763.m3u);"];	
+		$_CH[]=["logo_30x30"=>"none","title"=>"Добавить этот портал в Глобальный поиск","playlist_url"=>"AddSearch(Кинопаб,https://Karnei4.github.io/iptv/images/logo.png,https://dl.dropbox.com/s/3jaul2v9tbynfnp/PlayList-Karnei4-M3U-1763.m3u?cat=search);"];	
 		
 		$main=["Популярные фильмы"=>"type=movie&sort=views-&conditions=".urlencode("year=".date("Y")),
 			"Новые фильмы"=>"type=movie&sort=created-",
@@ -509,4 +509,3 @@ function seconds_to_time($seconds){
     $ret = $hours.":".$minutes.":".$seconds;
     return($ret);
 }
-
