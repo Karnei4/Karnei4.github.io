@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<<?xml version="1.0" encoding="UTF-8" ?>
 <items>
 <playlist_name><![CDATA[-= © <font color="#00ccff">M3U ОТ</font><font color="yellow">Karnei4</font><font color="red">TV</font><font color="lime">LINKS</font> =- BY - SERV -]]></playlist_name>
 	<channel>
@@ -44,12 +44,6 @@
 	<playlist_url><![CDATA[https://webarmen.com/my/iptv/auto.nogrp.m3u]]></playlist_url>
 	</channel>
 	<channel>
-	<title><![CDATA[ IPTV Забава ТВ]]></title>
-	<logo_30x30><![CDATA[http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png]]></logo_30x30>
-	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">Забава</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист! Короткое описание: Все подряд. Много каналов, обновления не так часто, как хотелось бы.!]]></description>
-	<playlist_url><![CDATA[http://free-iptv.ru/iptv/0703tppz/pl_zabava.m3u]]></playlist_url>
-	</channel>
-	<channel>
 	<title><![CDATA[IPTV Full]]></title>
 	<logo_30x30><![CDATA[http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png]]></logo_30x30>
 	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">IPTV Forever</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=195.216.243.114:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист! Короткое описание: Из названия понятно, что плейлист в себе содержит всё. Проверенный годами, регулярные обновления, интересные каналы, но обновления не так часто, как это нужно.]]></description>
@@ -93,7 +87,7 @@
 	</channel>
 	<channel>
 		<title><![CDATA[Segaz]]></title>
-		<logo_30x30><![http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
 		<playlist_url><![CDATA[http://segaz.my1.ru/xml/ob_ag//segaz.xml]]></playlist_url>
 	</channel>	
 	<channel>
@@ -108,7 +102,7 @@
 	</channel>
 	<channel>
 		<title><![CDATA[Romas]]></title>
-		<logo_30x30><![http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
 		<playlist_url><![CDATA[http://pl.ok.xsph.ru/start.xml]]></playlist_url>
 	</channel>	
 	<channel>
@@ -128,3 +122,4 @@
 		<playlist_url><![CDATA[exit]]></playlist_url>
 	</channel>
 </items>
+
