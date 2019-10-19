@@ -1,110 +1,76 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="ru" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>Karnei4.github.io</title>
-<script src="include/templates/js/jquery.js" tppabs="https://Karnei4.github.io/c/include/templates/js/jquery.js"></script>
-<script src="include/templates/js/adm.js" tppabs="https://Karnei4.github.io/c/include/templates/js/adm.js"></script>
-<script src="include/templates/js/jquery-ui.js" tppabs="https://Karnei4.github.io/c/include/templates/js/jquery-ui.js"></script>
-<script type="text/javascript" src="include/templates/js/jHtml/jHtmlArea-0.8.js" tppabs="https://Karnei4.github.io/c/include/templates/js/jHtml/jHtmlArea-0.8.js"></script>
-<link rel="Stylesheet" type="text/css" href="include/templates/js/jquery-ui.css" tppabs="https://Karnei4.github.io/c/include/templates/js/jquery-ui.css" />
-<link rel="Stylesheet" type="text/css" href="include/templates/js/jHtml/jHtmlArea.css" tppabs="https://Karnei4.github.io/c/include/templates/js/jHtml/jHtmlArea.css" />
-<style>
-a:link, a:visited {
-   color: #eeeeee;
-   text-decoration:underline;
-}
-a:hover {
-   color: #fa5961;
-   text-decoration:underline;
-}
-#menu,
-#menu ul {
-    list-style: none;
-}
-#menu {
-    float: left;
-	width: 100%;
-    padding: 0px;
-}
-#menu > li {
-    float: left;
-}
-#menu li a {
-display: block;
-    height: 2em; 
-    line-height: 2em;
-    padding: 0 1.5em;
-    text-decoration: none;
-}
-#menu ul {
-    position: absolute;
-    display: none;
-z-index: 999;
-}
-#menu li:hover ul {
-    display: block;
-	padding: 0px;
-}
-#menu {
-    font-family: Arial;
-    font-size: 12px;
-    background: #2f8be8;
-}
-#menu > li > a {
-    color: #fff;
-    font-weight: bold;
-}
-#menu > li:hover > a {
-    background: #2f8be8;
-    color: #000;
-}
- 
-/* Submenu
-------------------------------------------*/
-#menu ul {
-    background: #9dcdfd;
-}
-#menu ul li a {
-    color: #000;
-}
-#menu ul li:hover a {
-    background: #2f8be8;
-}
-.button {
-    width: auto;
-    height: 30px;
-    background: #e3dbdb;
-    padding: 5px;
-    text-align: center;
-    border-radius: 2px;
-    color: black;
-    font-weight: bold;
-	text-decoration: none;
-}
-</style>
-</head>
-<body style="width:100%;text-align:center;background-color:gray;">
-<div style="width:1000px;min-height:600px; margin: auto;background-color:white;padding:10px;">
-	<div>
-		<div style="float:left;"><img src="include/templates/images/logo.png" tppabs="https://Karnei4.github.io/c/include/templates/images/logo.png" style="width:200px;" /></div>
-		<div style="text-align:center;font-size:2em;">IPTV</div>
-	</div>	
-	<div style="clear:both;"><hr></div>
-	<div id="site" style="min-height:460px;">
-		<div style="text-align:left;"><ul id='menu' style='background-color:;'><li><a href="index.htm" tppabs="https://Karnei4.github.io/c/" style='color:#ffff80;' >IPTV</a></li><li><a href='#' style='color:#ffff80;' ><img align='left' src="include/templates/images/menu.png" tppabs="https://Karnei4.github.io/c/include/templates/images/menu.png" onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;'/> Меню</a><ul id='sub1' style='background-color:;'><li><a href="-do=-plugin&id=search.htm" tppabs="https://Karnei4.github.io/c/?do=/plugin&id=search"><img align='left' src="include/plugin/search/search.png" tppabs="https://Karnei4.github.io/c/include/plugin/search/search.png" onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Поиск</a></li><li><a href="-do=-plugin&id=userlink.htm" tppabs="https://Karnei4.github.io/c/?do=/plugin&id=userlink"><img align='left' src="include/plugin/userlink/userlinks.png" tppabs="https://Karnei4.github.io/c/include/plugin/userlink/userlinks.png" onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Пользовательские ссылки</a></li><li><a href="-do=-category&id=4.htm" tppabs="https://Karnei4.github.io/c/?do=/category&id=4"><img align='left' src='' onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Каналы (2)</a></li></ul></li><li><a href='#' style='color:#ffff80;' > Последнее</a><ul id='sub2' style='background-color:;'></ul></li><li><a href='#' style='color:#ffff80;' > Популярное</a><ul id='sub3' style='background-color:;'></ul></li><li><a href="-do=-module&id=auth&act=login.htm" tppabs="https://Karnei4.github.io/c/?do=/module&id=auth&act=login" style='color:#ffff80;' > Авторизация</a></li></ul><br clear='both'></div>
-		<hr>
-	
-		<div style='float:left;text-align: left; border-right: 1px solid gray;padding-right:5px;width:170px;'><img align='left' src="include/plugin/search/search.png" tppabs="https://Karnei4.github.io/c/include/plugin/search/search.png" onerror="this.style.display='none';" height=16 width=18 style='margin:-2px 2px;' /><a href="-do=-plugin&id=search.htm" tppabs="https://Karnei4.github.io/c/?do=/plugin&id=search">Поиск</a><br><img align='left' src="include/plugin/userlink/userlinks.png" tppabs="https://Karnei4.github.io/c/include/plugin/userlink/userlinks.png" onerror="this.style.display='none';" height=16 width=18 style='margin:-2px 2px;' /><a href="-do=-plugin&id=userlink.htm" tppabs="https://Karnei4.github.io/c/?do=/plugin&id=userlink">Пользовательские ссылки</a><br></div>
-		<div id='contents' style='text-align: left;margin-left:180px;max-height:654px;overflow-y:auto;overflow-x:hidden;'>Нет страниц или нет доступа к этому разделу сайта!<script>applyStyles({"cssid":{"menu":{"enabled":"1","backgroundColor":"#00a400","color":"#ffff80"},"content":{"before":"<center>\u0418\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u044f.<\/center><div style=\"position:absolute;   left:70%;top:80%;font-size:80%;\"><br>(C) http:\/\/fork.ottv.tk 2019<\/div>"},"site":{"background":"url(https:\/\/Karnei4.github.io\/c\/include\/templates\/images\/fon20.jpg)","color":"#eeeeee"},"infoList":{"color":"#eeeeee"},"navigate":{"color":"#eeeeee"}},"channels":{"parent":{"default":{"background":"none","color":"#eeeeee"},"selected":{"background":"none  ","color":"#fa5961"}}}});</script></div>
-	</div>
-
-	
-	
-</div>	
-<div style="width:1000px;clear:both;margin: auto;background-color:white;padding:40px 10px;">
-		<hr>
-		<div style="float:left;">© Karnei4.github.io  2019</div>
-</div>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name><![CDATA[-= © <font color="#00ccff">M3U ОТ</font><font color="yellow">Karnei4</font><font color="red">TV</font><font color="lime">LINKS</font> =- BY - SERV -]]></playlist_name>
+	<channel>
+	<title><![CDATA[Плейлист от <font color="lime">Karnei4</font>]]></title>
+	<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">Karnei4</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Сборка от Karnei4 (Все каналы работают хорошо в Беларусии!) Если есть пожелания и предложения пишите ВКантакте: https://vk.com/radio.ebm.android ]]></description>
+	<playlist_url><![CDATA[http://bit.do/tv-m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[БЫВШИЙ Провайдер Гарант<font color="lime">A1</font>]]></title>
+	<logo_30x30><![CDATA[https://rynak.by/components/com_djclassifieds/images/item/73_logo_garant_thb.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">TelecomTV</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>РАБОТАЕТ ТОЛЬКО В СЕТИ ПРОВАЙДЕРА TelecomTV BY!]]></description>
+	<playlist_url><![CDATA[http://help.telecom.by/_files/TelecomTV/TelecomTVpacket/TVPACKET3.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[Karnei4 - <font color="lime">RADIO EBM</font>]]></title>
+	<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/390472958440767488/634081270170779669/1571184717.jpg]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">Karnei4</font><font color="red">РАДИО</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Болшая Подборка радиостанций!Различных жанров! Разбит на категории! Если есть пожелания и предложения пишите ВКантакте: https://vk.com/radio.ebm.android ]]></description>
+	<playlist_url><![CDATA[https://dl.dropbox.com/s/wofi4blvu98a8so/PotokovoeRU.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[IPTV Forever]]></title>
+	<logo_30x30><![CDATA[http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">IPTV Forever</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=195.216.243.114:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист! Короткое описание: Бесплатный плейлист, который разбит на категории и имеет 3 версии. Так же, на странице плейлиста в комментариях можно попросить добавление определенного канала. ]]></description>
+	<playlist_url><![CDATA[https://webhalpme.ru/if18.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[ IPTV Zigfreed]]></title>
+	<logo_30x30><![CDATA[http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">IPTV Panda</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=188.40.142.195:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист! Короткое описание: Хороший плейлист (пока что!), разбит на категории, имеет большой выбор каналов, в котором можно найти много интересного.]]></description>
+	<playlist_url><![CDATA[http://zigfreed.cc.ua/url/iptv.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[ IPTV SlyNet]]></title>
+	<logo_30x30><![CDATA[http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">SlyNet</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист! Короткое описание: Наверное, самый старый плейлист в сети. Включает в себя всё подряд (RU, UA, BY, MD) Не имеет деления на категории, зато каналы разложены в алфавитном порядке.]]></description>
+	<playlist_url><![CDATA[http://urlcut.ru/FreeBestTV.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[ IPTV webarmen]]></title>
+	<logo_30x30><![CDATA[http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">webarmen</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист! Короткое описание: Полностью автоматизированный плейлист, который обновляется несколько раз в день. Содержит в себе немного каналов, но все интересные.]]></description>
+	<playlist_url><![CDATA[https://webarmen.com/my/iptv/auto.nogrp.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[ IPTV Забава ТВ]]></title>
+	<logo_30x30><![CDATA[http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">Забава</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист! Короткое описание: Все подряд. Много каналов, обновления не так часто, как хотелось бы.!]]></description>
+	<playlist_url><![CDATA[http://free-iptv.ru/iptv/0703tppz/pl_zabava.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[IPTV Full]]></title>
+	<logo_30x30><![CDATA[http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">IPTV Forever</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=195.216.243.114:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист! Короткое описание: Из названия понятно, что плейлист в себе содержит всё. Проверенный годами, регулярные обновления, интересные каналы, но обновления не так часто, как это нужно.]]></description>
+	<playlist_url><![CDATA[https://smarttvapp.ru/app/iptvfull.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[ IPTV SmartTvNews]]></title>
+	<logo_30x30><![CDATA[http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">SmartTvNews</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист! Короткое описание: Хороший плейлист без мусорных каналов, но обновляется не очень часто.]]></description>
+	<playlist_url><![CDATA[https://smarttvnews.ru/apps/iptvchannels.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[ИНФОРМАЦИЯ]]></title>
+	<logo_30x30><![CDATA[http://tc-image.3dn.ru/Image/Button/logo_tips.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">инфо</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=195.216.243.114:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>МЕСТО ДЛЯ ВАШЕГО ЛИСТА! Если есть пожелания и предложения пишите ВКантакте: https://vk.com/radio.ebm.android ]]></description>
+	<playlist_url><![CDATA[https://webhalpme.ru/if18.m3u]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="red">Выход из виджета</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
+		<playlist_url><![CDATA[exit]]></playlist_url>
+	</channel>
+</items>
