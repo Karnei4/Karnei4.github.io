@@ -88,17 +88,17 @@
 	</channel>
        <channel>
 		<title><![CDATA[Alexdpu (Obovse)]]></title>
-		<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
+		<logo_30x30><![CDATA[CDATA[http://gronik.ucoz.ru/logos/colors/yellow.png]]></logo_30x30>
 		<playlist_url><![CDATA[http://obovse.ru/alexkdpu.php]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[Segaz]]></title>
-		<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
+		<logo_30x30><![http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
 		<playlist_url><![CDATA[http://segaz.my1.ru/xml/ob_ag//segaz.xml]]></playlist_url>
 	</channel>	
 	<channel>
 		<title><![CDATA[Alexsander1972]]></title>
-		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/colors/yellow.png]]></logo_30x30>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
 		<playlist_url><![CDATA[http://sascha.ucoz.net/Alexander1972.xml]]></playlist_url>
 	</channel>
 	<channel>
@@ -108,17 +108,17 @@
 	</channel>
 	<channel>
 		<title><![CDATA[Romas]]></title>
-		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/colors/yellow.png]]></logo_30x30>
+		<logo_30x30><![http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
 		<playlist_url><![CDATA[http://pl.ok.xsph.ru/start.xml]]></playlist_url>
 	</channel>	
 	<channel>
 		<title><![CDATA[Videonavigator]]></title>
-		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/colors/yellow.png]]></logo_30x30>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
 		<playlist_url><![CDATA[http://enigma2.videonavigator.net.ua/portal.xml]]></playlist_url>
 	</channel>	
 	<channel>
 		<title><![CDATA[Ruslachka]]></title>
-		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/colors/red.png]]></logo_30x30>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
 		<playlist_url><![CDATA[http://nstreamportal.ru/]]></playlist_url>
 	</channel>
 	<channel>
