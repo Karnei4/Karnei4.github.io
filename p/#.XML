@@ -1,111 +1,64 @@
-!DOCTYPE html>
-<html class="client-nojs" lang="ru" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>OTTV.TK </title>
-<script src="/include/templates/js/jquery.js"></script>
-<script src="/include/templates/js/adm.js"></script>
-<script src="/include/templates/js/jquery-ui.js"></script>
-<script type="text/javascript" src="/include/templates/js/jHtml/jHtmlArea-0.8.js"></script>
-<link rel="Stylesheet" type="text/css" href="/include/templates/js/jquery-ui.css" />
-<link rel="Stylesheet" type="text/css" href="/include/templates/js/jHtml/jHtmlArea.css" />
-<style>
-a:link, a:visited {
-   color: #eeeeee;
-   text-decoration:underline;
-}
-a:hover {
-   color: #fa5961;
-   text-decoration:underline;
-}
-
-#menu,
-#menu ul {
-    list-style: none;
-}
-#menu {
-    float: left;
-	width: 100%;
-    padding: 0px;
-}
-#menu > li {
-    float: left;
-}
-#menu li a {
-display: block;
-    height: 2em; 
-    line-height: 2em;
-    padding: 0 1.5em;
-    text-decoration: none;
-}
-#menu ul {
-    position: absolute;
-    display: none;
-z-index: 999;
-}
-#menu li:hover ul {
-    display: block;
-	padding: 0px;
-}
-#menu {
-    font-family: Arial;
-    font-size: 12px;
-    background: #2f8be8;
-}
-#menu > li > a {
-    color: #fff;
-    font-weight: bold;
-}
-#menu > li:hover > a {
-    background: #2f8be8;
-    color: #000;
-}
- 
-/* Submenu
-------------------------------------------*/
-#menu ul {
-    background: #9dcdfd;
-}
-#menu ul li a {
-    color: #000;
-}
-#menu ul li:hover a {
-    background: #2f8be8;
-}
-.button {
-    width: auto;
-    height: 30px;
-    background: #e3dbdb;
-    padding: 5px;
-    text-align: center;
-    border-radius: 2px;
-    color: black;
-    font-weight: bold;
-	text-decoration: none;
-}
-</style>
-</head>
-<body style="width:100%;text-align:center;background-color:gray;">
-<div style="width:1000px;min-height:600px; margin: auto;background-color:white;padding:10px;">
-	<div>
-		<div style="float:left;"><img src="http://fork.ottv.tk/include/templates/images/logo.png" style="width:200px;" /></div>
-		<div style="text-align:center;font-size:2em;">OTTV.TK </div>
-	</div>	
-	<div style="clear:both;"><hr></div>
-	<div id="site" style="min-height:460px;">
-		<div style="text-align:left;"><ul id='menu' style='background-color:;'><li><a href='http://fork.ottv.tk/' style='color:#ffff80;' > OTTV.TK </a></li><li><a href='#' style='color:#ffff80;' ><img align='left' src='http://fork.ottv.tk/include/templates/images/menu.png' onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;'/> Меню</a><ul id='sub1' style='background-color:;'><li><a href='http://fork.ottv.tk/?do=/plugin&id=search'><img align='left' src='http://fork.ottv.tk/include/plugin/search/search.png' onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Поиск</a></li><li><a href='http://fork.ottv.tk/?do=/plugin&id=userlink'><img align='left' src='http://fork.ottv.tk/include/plugin/userlink/userlinks.png' onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Пользовательские ссылки</a></li><li><a href='http://fork.ottv.tk/?do=/category&id=4'><img align='left' src='' onerror="this.style.display='none'" id='img_i' width=20 height=18 style='margin: 2px;color:#ffff80;'/> Каналы (2)</a></li></ul></li><li><a href='#' style='color:#ffff80;' > Последнее</a><ul id='sub2' style='background-color:;'></ul></li><li><a href='#' style='color:#ffff80;' > Популярное</a><ul id='sub3' style='background-color:;'></ul></li><li><a href='http://fork.ottv.tk/?do=/module&id=auth&act=login' style='color:#ffff80;' > Авторизация</a></li></ul><br clear='both'></div>
-		<hr>
-	
-		<div style='float:left;text-align: left; border-right: 1px solid gray;padding-right:5px;width:170px;'><img align='left' src='http://fork.ottv.tk/include/plugin/search/search.png' onerror="this.style.display='none';" height=16 width=18 style='margin:-2px 2px;' /><a href='http://fork.ottv.tk/?do=/plugin&id=search'>Поиск</a><br><img align='left' src='http://fork.ottv.tk/include/plugin/userlink/userlinks.png' onerror="this.style.display='none';" height=16 width=18 style='margin:-2px 2px;' /><a href='http://fork.ottv.tk/?do=/plugin&id=userlink'>Пользовательские ссылки</a><br></div>
-		<div id='contents' style='text-align: left;margin-left:180px;max-height:654px;overflow-y:auto;overflow-x:hidden;'>Нет страниц или нет доступа к этому разделу сайта!<script>applyStyles({"cssid":{"menu":{"enabled":"1","backgroundColor":"#00a400","color":"#ffff80"},"content":{"before":"<center>\u0418\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u044f.<\/center><div style=\"position:absolute;   left:70%;top:80%;font-size:80%;\"><br>(C) http:\/\/fork.ottv.tk 2019<\/div>"},"site":{"background":"url(http:\/\/fork.ottv.tk\/include\/templates\/images\/fon20.jpg)","color":"#eeeeee"},"infoList":{"color":"#eeeeee"},"navigate":{"color":"#eeeeee"}},"channels":{"parent":{"default":{"background":"none","color":"#eeeeee"},"selected":{"background":"none  ","color":"#fa5961"}}}});</script></div>
-	</div>
-
-	
-	
-</div>	
-<div style="width:1000px;clear:both;margin: auto;background-color:white;padding:40px 10px;">
-		<hr>
-		<div style="float:left;">© OTTV.TK  2019</div>
-</div>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name><![CDATA[-= © <font color="#00ccff">M3U ОТ</font><font color="yellow">Karnei4</font><font color="red">TV</font><font color="lime">LINKS</font> =- BY - SERV -]]></playlist_name>
+	<channel>
+	<title><![CDATA[Плейлист от <font color="lime">Karnei4</font>]]></title>
+	<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">Karnei4</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер COM <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Сборка от Karnei4(Все каналы работают хорошо в Беларусии!).]]></description>
+	<playlist_url><![CDATA[http://bit.do/tv-m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[БЫВШИЙ Провайдер Гарант<font color="lime">A1</font>]]></title>
+	<logo_30x30><![CDATA[https://rynak.by/components/com_djclassifieds/images/item/73_logo_garant_thb.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">TelecomTV</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер COM <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>РАБОТАЕТ ТОЛЬКО В СЕТИ ПРОВАЙДЕРА TelecomTV BY!]]></description>
+	<playlist_url><![CDATA[http://help.telecom.by/_files/TelecomTV/TelecomTVpacket/TVPACKET3.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[Karnei4 - <font color="lime">RADIO EBM</font>]]></title>
+	<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/390472958440767488/634081270170779669/1571184717.jpg]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">Karnei4</font><font color="red">РАДИО</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер COM <img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Подборка радиостанций!]]></description>
+	<playlist_url><![CDATA[https://dl.dropbox.com/s/wofi4blvu98a8so/PotokovoeRU.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[ukrainskie]]></title>
+	<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">IPTV Forever</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=195.216.243.114:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист!]]></description>
+	<playlist_url><![CDATA[https://webhalpme.ru/if18.m3u]]></playlist_url>
+	</channel>
+	<channel>
+	<title><![CDATA[Сервер DE]]></title>
+	<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
+	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">Karnei4</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s11.flagcounter.com/count2/hSzg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер DE <img src="http://monitor.zone-game.info/check.php?do=status&ip=188.40.142.195:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Самообновляемый плейлист!]]></description>
+	<playlist_url><![CDATA[http://cooltv.info/start#.XML]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="gold">Избранное</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/favorites.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="gold">Избранное</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/favorites.png" width = "100"/><p><h2><font color="gold">Favorites</font></h2><p><hr>Пользовательские закладки на видео и плейлисты.]]></description>
+		<playlist_url><![CDATA[http://ottv.tk/public/plst/plstfb/ukrainskie__no_save.m3u]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="gray">История</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/history.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="gray">История</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/history.png" width = "100"/><p><h2><font color="gray">History</font></h2><p><hr>История основных действий пользователя.]]></description>
+		<playlist_url><![CDATA[http://fork.ottv.tk/#.XML]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="palegreen">Настройки виджета</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/func.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="palegreen">Настройки виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/func.png" width = "100"/><p><h2><font color="palegreen">Options</font></h2><p><hr>Настройки виджета.]]></description>
+		<playlist_url><![CDATA[http://ottv.tk/plst/Bolshoy_kinozal_FIL_MY.m3u]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="dodgerblue">USB - сканер</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/usb.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="dodgerblue">USB - сканер</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/usb.png" width = "100"/><p><h2><font color="dodgerblue">USB - scanner</font></h2><p><hr>Сканирование подключенных к телевизору дисковых накопителей.]]></description>
+		<playlist_url><![CDATA[ScanUSB]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[<font color="red">Выход из виджета</font>]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
+		<description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
+		<playlist_url><![CDATA[exit]]></playlist_url>
+	</channel>
+</items>
