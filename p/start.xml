@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<<?xml version="1.0" encoding="UTF-8"?>
 <items>
 	<playlist_name><![CDATA[<font color="#00ccff">K</font><font color="yellow">arnei4</font><font color="red">TV</font><font color="lime">LINKS</font> - DE]]></playlist_name>
 	<options>
@@ -14,12 +14,27 @@
 		<playlist_limits>sort_ch</playlist_limits>
 	</options>
 	<channel>
-		<title><![CDATA[<font color="silver"><font color="#00ccff">S</font><font color="yellow">MART</font><font color="red">TV</font><font color="lime">LINKS</font> - servers</font>]]></title>
+		<title><![CDATA[<font color="silver"><font color="#00ccff">K</font><font color="yellow">arnei4</font><font color="red">TV</font><font color="lime">LINKS</font> - m3u</font>]]></title>
 		<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
-		<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">MART</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="http://whos.amung.us/stats/25joy6do3ah7"><img src="http://whos.amung.us/widget/25joy6do3ah5.png" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2><font color="silver"><font color="#00ccff">S</font><font color="yellow">MART</font><font color="red">TV</font><font color="lime">LINKS</font> - servers</font></h2><p><img src="https://karnei4.github.io/convert/index_files/belarus24.png" height="50"/><hr>Ссылки на другие сервера.<br>Links to other servers.
-		<hr><a href="http://s07.flagcounter.com/more/m0h"><img src="http://s07.flagcounter.com/count/m0h/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/" alt="Flag Counter" border="0"></a>]]></description>
+		<description><![CDATA[<center><font color="#00ccff">K</font><font color="yellow">arnei4</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://s01.flagcounter.com/count2/AvTt/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2><font color="silver"><font color="#00ccff">K</font><font color="yellow">arnei4</font><font color="red">TV</font><font color="lime">LINKS</font> - servers</font></h2><p><img src="https://karnei4.github.io/convert/index_files/belarus24.png" height="50"/><hr>Ссылки на другие сервера.<br>Links to other servers.
+		<hr><a href="https://info.flagcounter.com/AvTt"><img src="https://s01.flagcounter.com/count2/AvTt/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>]]></description>
+		<playlist_url><![CDATA[http://bit.do/tv-m3u]]></playlist_url>
+	</channel>
+    <channel>
+		<title><![CDATA[Ruslachka]]></title>
+		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/colors/red.png]]></logo_30x30>
+		<playlist_url><![CDATA[http://help.velcom.by/_files/TelecomTV/TelecomTVpacket/TVPACKET3.m3u]]></playlist_url>
+	</channel>
+	<channel>
+		<title><![CDATA[4254]]></title>
+		<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
 		<playlist_url><![CDATA[https://dl.dropbox.com/s/3jaul2v9tbynfnp/PlayList-Karnei4-M3U-1763.m3u]]></playlist_url>
-	</channel>	
+	</channel>
+	<channel>
+		<title><![CDATA[4254]]></title>
+		<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
+		<playlist_url><![CDATA[https://dl.dropbox.com/s/3jaul2v9tbynfnp/PlayList-Karnei4-M3U-1763.m3u]]></playlist_url>
+	</channel>
 	<channel>
 		<title><![CDATA[4254]]></title>
 		<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
