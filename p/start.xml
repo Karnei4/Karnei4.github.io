@@ -11,31 +11,31 @@
 	<title><![CDATA[Сервер RU]]></title>
 	<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
 	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">MART</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://info.flagcounter.com/AvTt.png" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер RU <img src="http://monitor.zone-game.info/check.php?do=status&ip=195.216.243.114:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Портал с минимальным количеством плейлистов.]]></description>
-	<playlist_url><![CDATA[http://films.vladna.club/]]></playlist_url>
+	<playlist_url><![CDATA[http://ottv.tk/public/plst/plstfb/ukrainskie__no_save.m3u]]></playlist_url>
 	</channel>
 	<channel>
 	<title><![CDATA[Сервер DE]]></title>
 	<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/serv/serv.png]]></logo_30x30>
 	<description><![CDATA[<center><font color="#00ccff">S</font><font color="yellow">MART</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/AvTt"><img src="https://info.flagcounter.com/AvTt.png" alt="web stats" width="81" height="25" border="0"/></a><hr><center><p><h2>Сервер DE <img src="http://monitor.zone-game.info/check.php?do=status&ip=188.40.142.195:80&id=6"></h2><p><img src="http://gronik.ucoz.ru/logos/serv/serv.png" height="100"/><hr>Портал с минимальным количеством плейлистов.]]></description>
-	<playlist_url><![CDATA[http://hdtv.pp.ua/files/beltel.m3u]]></playlist_url>
+	<playlist_url><![CDATA[http://cooltv.info/start#.XML ></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[<font color="gold">Избранное</font>]]></title>
 		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/favorites.png]]></logo_30x30>
 		<description><![CDATA[<center><p><h2><font color="gold">Избранное</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/favorites.png" width = "100"/><p><h2><font color="gold">Favorites</font></h2><p><hr>Пользовательские закладки на видео и плейлисты.]]></description>
-		<playlist_url><![CDATA[OpenFav]]></playlist_url>
+		<playlist_url><![CDATA[http://ottv.tk/public/plst/plstfb/ukrainskie__no_save.m3u]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[<font color="gray">История</font>]]></title>
 		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/history.png]]></logo_30x30>
 		<description><![CDATA[<center><p><h2><font color="gray">История</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/history.png" width = "100"/><p><h2><font color="gray">History</font></h2><p><hr>История основных действий пользователя.]]></description>
-		<playlist_url><![CDATA[OpenHistory]]></playlist_url>
+		<playlist_url><![CDATA[http://fork.ottv.tk/#.XML ]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[<font color="palegreen">Настройки виджета</font>]]></title>
 		<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/func.png]]></logo_30x30>
 		<description><![CDATA[<center><p><h2><font color="palegreen">Настройки виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/func.png" width = "100"/><p><h2><font color="palegreen">Options</font></h2><p><hr>Настройки виджета.]]></description>
-		<playlist_url><![CDATA[Settings]]></playlist_url>
+		<playlist_url><![CDATA[http://ottv.tk/plst/Bolshoy_kinozal_FIL_MY.m3u]]></playlist_url>
 	</channel>
 	<channel>
 		<title><![CDATA[<font color="dodgerblue">USB - сканер</font>]]></title>
