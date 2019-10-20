@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <items>
 <playlist_name><![CDATA[-= © <font color="#00ccff">M3U ОТ</font><font color="yellow">Karnei4</font><font color="red">TV</font><font color="lime">LINKS</font> =- BY - SERV -]]></playlist_name>
+	<options>
+		<playlist_limits>nosavefav</playlist_limits>
+	</options>
+	<options>
+		<playlist_limits>no_save_playlist</playlist_limits>
+	</options>
+	<options>
+		<playlist_limits>no_save_fav</playlist_limits>
+	</options>
+	<options>
+		<playlist_limits>sort_ch</playlist_limits>
+	</options
 	<channel>
 	<title><![CDATA[Плейлист от <font color="lime">Karnei4</font>]]></title>
 	<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
