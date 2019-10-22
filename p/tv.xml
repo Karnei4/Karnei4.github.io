@@ -3,9 +3,6 @@
 <background-image><![CDATA[https://karnei4.github.io/convert/belarus24.png]]></background-image>
 <title><![CDATA[Портал karnei4]]></title>
 <icon><![CDATA[https://karnei4.github.io/convert/index_files/epoque.png]]></icon>
-
- 
-
 <items>
 <channel>
 <title><![CDATA[kinoHD]]></title><playlist_url><![http://fork-portal.ru/assets/cinema/kinoHD.xml#.XML]></playlist_url>
