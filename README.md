@@ -51,7 +51,7 @@
 - FORK: https://karnei4.github.io/p/tv.xml
 - OTT-PLAYER: https://karnei4.github.io/p/tv.xml#.XML 
 - Группа ВКантакте Radio EBM: https://vk.com/radio.ebm.android
-- OTT-PLAYER: https://dl.dropbox.com/s/f9pmi12ztcdrxbr/RadioEBM_Karnei4.m3u 
+- ПОДБОРКА РАДИОСТАНЦИЙ: https://dl.dropbox.com/s/f9pmi12ztcdrxbr/RadioEBM_Karnei4.m3u 
 
 
 
