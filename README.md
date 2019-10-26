@@ -33,7 +33,8 @@
 особенно когда нужно создать один плейлист для разных устройств/программ. 
 Теперь создать плейлист для VLC player, Smart TV, телефона или ТВ приставки можно в один клик.
 
-
+- **[Ссылка:](https://karnei4.github.io/m3u-creator/index.html)**
+- [UserInsights](https://userinsights.com)
 # Ссылка: https://karnei4.github.io/m3u-creator/index.html
 
 ## Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG
