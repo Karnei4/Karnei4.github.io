@@ -17,7 +17,8 @@
 <p align="center"><img src="https://i.ytimg.com/vi/C6mxWItiErg/maxresdefault.jpg" width="400"></p>
  
 #  ===== FORK и OTT-PLAYER =====
-Листы можно смотреть На Fork и Ott-Player!
+
+
  
 # Fork: https://karnei4.github.io/p/start.xml
 # Ott-Player: https://karnei4.github.io/p/start.xml#.XML
