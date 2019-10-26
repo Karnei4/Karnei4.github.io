@@ -45,11 +45,15 @@
 - **[Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG](https://Karnei4.github.io/convert/index.html)**
 - **[Онлайн транслитерация слов в латиницу](https://karnei4.github.io/translit/index.html)**
 - **[319 обновляемых ссылок!Разных провайдеров](https://karnei4.github.io/translit/index.html)**
-Для FORK и OTT-PLAYER смотреть можно по ссылкам ниже и выбрать подходящую себе в закладки! Некоторые могут не работать на данный день! Обновляются как написано на сайте раз в сутки! Листы немного отличаются набором каналов!
-FORK: 
-https://karnei4.github.io/p/tv.xml
-OTT-PLAYER: https://karnei4.github.io/p/tv.xml#.XML 
+Для FORK и OTT-PLAYER смотреть можно по ссылкам ниже и выбрать подходящую себе в закладки! 
+Некоторые могут не работать на данный день! 
+Обновляются как написано на сайте раз в сутки! Листы немного отличаются набором каналов!
+- FORK: https://karnei4.github.io/p/tv.xml
+- OTT-PLAYER: https://karnei4.github.io/p/tv.xml#.XML 
 - **[Группа ВКантакте Radio EBM [IPTV]](https://vk.com/radio.ebm.android)**
 - **[Плейлист Radio EBM m3u](https://dl.dropbox.com/s/f9pmi12ztcdrxbr/RadioEBM_Karnei4.m3u)**
 # m3u https://dl.dropbox.com/s/f9pmi12ztcdrxbr/RadioEBM_Karnei4.m3u
+
+
+
 2019г Karnei4 IPTV.
