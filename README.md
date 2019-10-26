@@ -46,4 +46,4 @@
 - **[Онлайн транслитерация слов в латиницу](https://karnei4.github.io/translit/index.html)**
 - **[Группа ВКантакте Radio EBM [IPTV]](https://vk.com/radio.ebm.android)**
 
-2019г Kaarnei4 IPTV.
+2019г Karnei4 IPTV.
