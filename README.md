@@ -50,8 +50,9 @@
 Обновляются как написано на сайте раз в сутки! Листы немного отличаются набором каналов!
 - FORK: https://karnei4.github.io/p/tv.xml
 - OTT-PLAYER: https://karnei4.github.io/p/tv.xml#.XML 
-- **[Группа ВКантакте Radio EBM [IPTV]https://vk.com/radio.ebm.android] (https://vk.com/radio.ebm.android)**
-- **[Плейлист Radio EBM m3u https://dl.dropbox.com/s/f9pmi12ztcdrxbr/RadioEBM_Karnei4.m3u](https://dl.dropbox.com/s/f9pmi12ztcdrxbr/RadioEBM_Karnei4.m3u)**
+- Группа ВКантакте Radio EBM: https://vk.com/radio.ebm.android
+- OTT-PLAYER: https://dl.dropbox.com/s/f9pmi12ztcdrxbr/RadioEBM_Karnei4.m3u 
+
 
 
 
