@@ -4,7 +4,7 @@
 
 ## Смотреть IPTV для всех плееров
 
-       =====ПЛЕЙЛИСТ===== 
+#     =====ПЛЕЙЛИСТ===== 
  
 # Короткая ссылка: http://bit.do/tv-m3u 
 
@@ -12,32 +12,37 @@
 
 
 
-
+## Листы можно смотреть На Fork и Ott-Player!
   
 <p align="center"><img src="https://i.ytimg.com/vi/C6mxWItiErg/maxresdefault.jpg" width="400"></p>
  
-## =====FORK и OTT-PLAYER=====
+#  ===== FORK и OTT-PLAYER =====
 Листы можно смотреть На Fork и Ott-Player!
  
+# Fork: https://karnei4.github.io/p/start.xml
+# Ott-Player: https://karnei4.github.io/p/start.xml#.XML
 
 
 
 
+##              Создать Плей лист Онлайн для IPTV
 
-              Создать Плей лист Онлайн для IPTV
+<p align="center"><img src="https://i.ytimg.com/vi/2k4UivU1l9k/maxresdefault.jpg" width="400"></p>
 
 Конструировать плейлисты вручную довольно утомительное занятие, 
 особенно когда нужно создать один плейлист для разных устройств/программ. 
 Теперь создать плейлист для VLC player, Smart TV, телефона или ТВ приставки можно в один клик.
 
 
-https://karnei4.github.io/m3u-creator/index.html
+# Ссылка: https://karnei4.github.io/m3u-creator/index.html
 
-Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG
+## Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG
 
-https://Karnei4.github.io/convert/index.html
+<p align="center"><img src="http://oboi.cc/uploads/11_05_2013/view/201209/oboik.ru_39707.jpg" width="400"></p>
 
-Онлайн транслитерация слов в латиницу
-Моментальный транслит слов, букв, имен с русского, украинского и других языков на английский.
+# Ссылка: https://Karnei4.github.io/convert/index.html
 
-https://karnei4.github.io/translit/index.html
+## Онлайн транслитерация слов в латиницу
+# Моментальный транслит слов, букв, имен с русского, украинского и других языков на английский.
+
+# Ссылка: https://karnei4.github.io/translit/index.html
