@@ -51,8 +51,8 @@
               
               
 - Плейлист станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/stations.txt
-- Плейлист станций радио: http://bit.do/stations2
-- Плейлист станций радио: http://bit.do/stations3
+- Плейлист станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/p/stations.txt
+
 - **[Radio EBM-ANDROID](http://4pda.ru/forum/index.php?showtopic=943031)**
 - **[319 обновляемых ссылок! Разных провайдеров](https://karnei4.github.io/translit/index.html)**
 
