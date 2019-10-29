@@ -44,16 +44,29 @@
 
 - **[Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG](https://Karnei4.github.io/convert/index.html)**
 - **[Онлайн транслитерация слов в латиницу](https://karnei4.github.io/translit/index.html)**
-- **[CustomRadioPlayer - Stream your URLs-ANDROID](http://4pda.ru/forum/index.php?showtopic=917977)**
+- **[CustomRadioPlayer (URL RADIO)- Stream your URLs-ANDROID](http://4pda.ru/forum/index.php?showtopic=917977)**
 - **[Скачать APK](https://github.com/Karnei4/Karnei4.github.io/blob/master/URL+Radio.ver.1.8.7.0.build.1871.apk?raw=true)**
 
 
 
-              В ПРОГРАМКЕ CustomRadioPlayer УКАЖИТЕ ЭТИ ССЫЛКИ ДЛЯ ДОБАВЛЕНИЯ ПОТОКОВ ОНЛАЙН!
-             
+              В ПРОГРАМКЕ (URL RADIO) CustomRadioPlayer УКАЖИТЕ ЭТИ ССЫЛКИ ДЛЯ ДОБАВЛЕНИЯ ПОТОКОВ ОНЛАЙН!
+             https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/c/stations.txt
+              
+           Отличное URL Radio! На Android
+Всем советую! Минималистичнй дизайн хороший звук и можно добавить свои любимые Радио потоки! Иконки и название станции!
+Станции можно двигать выше и ниже как вам удобно!
+(Не выключается в фоне и нет рекламы! )
+Ссылка на скачивание есть Выше так же ниже есть три ссылки для импорта станций! 
+Вводите в плеере галочкой выбираете нужную и добавляете список!
+Можно скачать лист и положить в корневую папку вашего устройства и добавить станции первый способ проще!   
+              
+              
+              
               
 - Плейлист станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/stations.txt
-- Плейлист станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/p/stations.txt
+- Плейлист станций EBM радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/p/stations.txt
+- 366 станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/p/stations.txt
+
 
 - **[Radio EBM-ANDROID](http://4pda.ru/forum/index.php?showtopic=943031)**
 - **[319 обновляемых ссылок! Разных провайдеров](https://karnei4.github.io/translit/index.html)**
