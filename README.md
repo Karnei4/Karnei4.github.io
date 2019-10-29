@@ -50,7 +50,7 @@
               В ПРОГРАМКЕ CustomRadioPlayer УКАЖИТЕ ЭТИ ССЫЛКИ ДЛЯ ДОБАВЛЕНИЯ ПОТОКОВ ОНЛАЙН!
               
               
-- Плейлист станций радио: http://bit.do/stations1
+- Плейлист станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/stations.txt
 - Плейлист станций радио: http://bit.do/stations2
 - Плейлист станций радио: http://bit.do/stations3
 - **[Radio EBM-ANDROID](http://4pda.ru/forum/index.php?showtopic=943031)**
