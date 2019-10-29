@@ -45,7 +45,7 @@
 - **[Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG](https://Karnei4.github.io/convert/index.html)**
 - **[Онлайн транслитерация слов в латиницу](https://karnei4.github.io/translit/index.html)**
 - **[CustomRadioPlayer - Stream your URLs-ANDROID](http://4pda.ru/forum/index.php?showtopic=917977)**
-             В ПРОГРАМКЕ CustomRadioPlayer УКАЖИТЕ ЭТИ ССЫЛКИ ДЛЯ ДОБАВЛЕНИЯ ПОТОКОВ ОНЛАЙН!
+              В ПРОГРАМКЕ CustomRadioPlayer УКАЖИТЕ ЭТИ ССЫЛКИ ДЛЯ ДОБАВЛЕНИЯ ПОТОКОВ ОНЛАЙН!
 - Плейлист станций радио: http://bit.do/stations1
 - Плейлист станций радио: http://bit.do/stations2
 - Плейлист станций радио: http://bit.do/stations3
