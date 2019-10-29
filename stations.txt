@@ -1,0 +1,31 @@
+####Stations####
+Городские Сороки,http://radio40.ru/public/stream.php,https://pbs.twimg.com/profile_images/2585072409/1r3rlb7gt9n6jbdoue7a_400x400.jpeg
+Наше радио,http://nashe1.hostingradio.ru:80/nashe-128.mp3,https://lh3.googleusercontent.com/6LPBelhzf2xQiFMUwOE8DLjTSc151SJDZjOvwDq2bswRhtY4Z_ymLCU2znSBmg0oFPY
+Наше радио UK,http://cast.radiogroup.com.ua:8000/nashe,http://radioclub.ua/thumb/og_image_600x315_station/properies/2017/2d/30/59bfcc0f0a93d_1_nashe.png
+meta,http://s2.metaradio.ru/mradio.strm?type=.flv,https://www.radiobells.com/stations/metaradio.jpg
+Отличное,http://radio.oneex.ru:9000/8234_320.mp3,https://www.radiobells.com/stations/otlihnoeradio.jpg
+Модель для сборки,http://mds-station.com:8000/mds,http://i48.fastpic.ru/big/2013/0413/d8/e06eedc7b2b017312c15d9fe7b543dd8.jpeg
+Comedy radio ,http://ic7.101.ru:8000/v11_1,https://online-radio24.ru/wp-content/uploads/2018/08/6789890009.png
+Юмор FM,http://ic2.101.ru:8000/n5_1 ,https://image.winudf.com/v2/image/Y29tLndSYWRpb1lVbW9yRk1faWNvbl8wX2Y5MTZjZTZh/icon.png?w=170&fakeurl=1&type=.png
+Романтика,http://ic3.101.ru:8000/v4_1,https://radiomaniya.ru/online_radio/images/cdd8f35e5e8410a9b92c199cc31ada1b.jpg
+Noise FM,http://noisefm.ru:8000/play_64_aac ,https://cs5-1.4pda.to/13504018.png
+EQUILIBRIUM ,http://stream0.radiostyle.ru:8000/128,https://www.rockharz-festival.com/wp-content/uploads/2017/07/equilibrium.png
+FOX FM,http://31.192.104.139:8000/live?type=.flv,https://4.bp.blogspot.com/-sZ4fqnYnf6E/VWnCRN3NYpI/AAAAAAAAATs/7d57w5IYLKM/s200/FOX%2BFM.png
+Рок Омлет,http://radio.rock-omlet.com:8000/live,http://static.radio.net/images/broadcasts/eb/84/37366/1/c175.png
+Русский рок,http://ic2.101.ru:8000/c1_2,http://cdn2.101.ru/vardata/modules/channel/dynamics/pro/0/42.png
+Хиты 90х,http://ic7.101.ru:8000/a33,http://cdn3.101.ru/vardata/modules/channel/dynamics/pro/0/54.png
+Топ 50,http://ic7.101.ru:8000/a34,http://cdn7.101.ru/vardata/modules/channel/dynamics/personal/27/270620.png
+Рок ,http://nashe1.hostingradio.ru:80/rock-128.mp3,https://lh3.googleusercontent.com/LpOgyQYhma0xrdjQZCKEqID3XI89WjuurykpnAundVksday1YRbBP-z1bPZ-yoC4Ig=s180
+Хеви,http://jfm1.hostingradio.ru:14536/metal.mp3,https://lh3.googleusercontent.com/LpOgyQYhma0xrdjQZCKEqID3XI89WjuurykpnAundVksday1YRbBP-z1bPZ-yoC4Ig=s180
+прогр,http://jfm1.hostingradio.ru:14536/prog.mp3,https://lh3.googleusercontent.com/LpOgyQYhma0xrdjQZCKEqID3XI89WjuurykpnAundVksday1YRbBP-z1bPZ-yoC4Ig=s180
+Хиты 70х,http://jfm1.hostingradio.ru:14536/rock70.mp3,https://lh3.googleusercontent.com/LpOgyQYhma0xrdjQZCKEqID3XI89WjuurykpnAundVksday1YRbBP-z1bPZ-yoC4Ig=s180
+Хиты 80х,http://jfm1.hostingradio.ru:14536/rock80.mp3,https://lh3.googleusercontent.com/LpOgyQYhma0xrdjQZCKEqID3XI89WjuurykpnAundVksday1YRbBP-z1bPZ-yoC4Ig=s180
+Хиты 90х,http://jfm1.hostingradio.ru:14536/rock90.mp3,https://lh3.googleusercontent.com/LpOgyQYhma0xrdjQZCKEqID3XI89WjuurykpnAundVksday1YRbBP-z1bPZ-yoC4Ig=s180
+Хиты 00х,http://jfm1.hostingradio.ru:14536/rock00.mp3,https://lh3.googleusercontent.com/LpOgyQYhma0xrdjQZCKEqID3XI89WjuurykpnAundVksday1YRbBP-z1bPZ-yoC4Ig=s180
+MyRadio - Rock Music,http://music.myradio.ua/rockmusic128.ogg,https://cdn6.aptoide.com/imgs/7/6/4/76432fa3eb60b4dcbb5c6a8a0d904387_icon.png?w=256
+Alternative Rock ,http://music.myradio.ua/Alternative_Rock128.ogg,https://cdn6.aptoide.com/imgs/7/6/4/76432fa3eb60b4dcbb5c6a8a0d904387_icon.png?w=256
+Jazz-Rock Fusion ,http://music.myradio.ua/JazzRockFusion128.ogg,https://cdn6.aptoide.com/imgs/7/6/4/76432fa3eb60b4dcbb5c6a8a0d904387_icon.png?w=256
+Reggae, http://music.myradio.ua/funkreggi128.ogg,https://cdn6.aptoide.com/imgs/7/6/4/76432fa3eb60b4dcbb5c6a8a0d904387_icon.png?w=256
+X Radio,http://data.teos.fm:8024/mp3_128,http://gta.riotpixels.com/i/sa/radio/07-radio-x.png
+Raz-Raz,http://109.169.26.216:8181/stream,https://ghost2ghost.org/myftphub/wp-content/uploads/2018/01/unnamed.png
+Радио Ангелов,http://stream.angelsradio.ru:9000/8162,https://radiopotok.ru/f/station/512/1143.png
