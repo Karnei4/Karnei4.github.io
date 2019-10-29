@@ -44,11 +44,16 @@
 
 - **[Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG](https://Karnei4.github.io/convert/index.html)**
 - **[Онлайн транслитерация слов в латиницу](https://karnei4.github.io/translit/index.html)**
+- **[CustomRadioPlayer - Stream your URLs-ANDROID](http://4pda.ru/forum/index.php?showtopic=917977)**
+- **[Radio EBM-ANDROID](http://4pda.ru/forum/index.php?showtopic=943031)**
 - **[319 обновляемых ссылок! Разных провайдеров](https://karnei4.github.io/translit/index.html)**
-- **[Програмка для проверки m3u для Android](https://dl.dropbox.com/s/vd0aw54w1afwvp3/IPTV-%D0%A2%D0%B5%D1%81%D1%82-URL.ver.1.1.build.122%20%282%29.apk)**
+
+- **[Програмка для проверки m3u для-ANDROID](https://dl.dropbox.com/s/vd0aw54w1afwvp3/IPTV-%D0%A2%D0%B5%D1%81%D1%82-URL.ver.1.1.build.122%20%282%29.apk)**
 
 
 
+
+http://4pda.ru/forum/index.php?showtopic=917977
 Для FORK и OTT-PLAYER смотреть можно по ссылкам ниже и выбрать подходящую себе в закладки! 
 Некоторые могут не работать на данный день! 
 Обновляются как написано на сайте раз в сутки! Листы немного отличаются набором каналов!
