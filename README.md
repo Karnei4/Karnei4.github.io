@@ -137,7 +137,7 @@ Google Play: https://play.google.com/store/apps/details?id=de.battlestr1k3.radio
               
 - Плейлист станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/stations.txt
 - Плейлист станций EBM радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/p/stations.txt
-- 366 станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/p/stations.txt
+
 
 
 - **[Radio EBM-ANDROID](http://4pda.ru/forum/index.php?showtopic=943031)**
