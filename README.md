@@ -48,7 +48,7 @@
 
 
               В ПРОГРАМКЕ CustomRadioPlayer УКАЖИТЕ ЭТИ ССЫЛКИ ДЛЯ ДОБАВЛЕНИЯ ПОТОКОВ ОНЛАЙН!
-              
+             
               
 - Плейлист станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/stations.txt
 - Плейлист станций радио: https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/p/stations.txt
@@ -58,8 +58,9 @@
 
 - **[Програмка для проверки m3u для-ANDROID](https://dl.dropbox.com/s/vd0aw54w1afwvp3/IPTV-%D0%A2%D0%B5%D1%81%D1%82-URL.ver.1.1.build.122%20%282%29.apk)**
 
+- **[Скачать APK](https://github.com/Karnei4/Karnei4.github.io/blob/master/URL+Radio.ver.1.8.7.0.build.1871.apk?raw=true)**
 
-http://4pda.ru/forum/index.php?act=attach&id=13862035&dlsess=7ca61fdfd5e293a1d47f16700f54ae16
+
 
 
 Для FORK и OTT-PLAYER смотреть можно по ссылкам ниже и выбрать подходящую себе в закладки! 
