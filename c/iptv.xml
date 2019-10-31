@@ -222,8 +222,10 @@
 </channel>
 <channel>
 <title>filmix.red</title>
-<playlist_url><![CDATA[https://pastebin.com/raw/vLbpNqqS#.XML]]></playlist_url>
-<description><![CDATA[<h3>filmix.red.]]></description>
+<logo_30x30><![CDATA[https://sun9-54.userapi.com/c5324/g33668783/a_903fcc63.jpg]]></logo_30x30> 
+<playlist_url><![CDATA[https://filmix.red/fork/movies#.XML]]></playlist_url>
+<icon><![CDATA[https://pbs.twimg.com/media/DbxrjxGXcAA2955.jpg]]></icon>  
+<description><![CDATA[<h3>filmix.red]]></description>
 </channel>
 <channel>
 <title><![CDATA[RADIO EBM - <font color="lime">Karnei4</font>]]></title>
