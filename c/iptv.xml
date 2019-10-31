@@ -93,11 +93,10 @@
 </channel>
 <channel>
 <title><![CDATA[Kinokrad]]></title>
-<logo_30x30><![CDATA[http://obovse.ru/smarttv/img/kinokrad.jpg]]></logo_30x30>  
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://obovse.ru/smarttv/img/kinokrad.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">http://kinokrad.co/
-</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
+<logo_30x30><![CDATA[http://telegramity.ru/web/Imagesbots/e7d00708409348920d09c0ca754320c0.jpg]]></logo_30x30>  
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://telegramity.ru/web/Imagesbots/e7d00708409348920d09c0ca754320c0.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">http://kinokrad.co/</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
 <playlist_url><![CDATA[http://obovse.ru/smarttv/kinokrad.php]]></playlist_url>
-<icon><![CDATA[http://obovse.ru/smarttv/img/kinokrad.jpg]]></icon>
+<icon><![CDATA[http://telegramity.ru/web/Imagesbots/e7d00708409348920d09c0ca754320c0.jpg]]></icon>
 </channel>
 <channel>
 <title><![CDATA[Kinogo]]></title>
@@ -120,6 +119,13 @@
 <playlist_url><![CDATA[http://cooltv.info/start#.XML]]></playlist_url>
 <icon><![CDATA[http://cooltv.info/img/tvcool.jpg]]></icon>
 </channel>
+<channel>
+<title><![CDATA[CoolTV.Info]]></title>
+<logo_30x30><![CDATA[http://cooltv.info/img/tvcool.jpg]]></logo_30x30>
+<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">IPTV</font><font color="red">TV</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/Vcmz"><img src="https://cloverhost.net/wp-content/uploads/2018/05/Server-PNG-Image.png" alt="web stats" width="162" height="50" border="0"/></a><hr><center><p><h2>Посещаемость плейлиста<img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="https://s05.flagcounter.com/count2/Vcmz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" height="200"/><hr>Самообновляемый плейлист!]]></description>
+<playlist_url><![CDATA[http://cooltv.info/media/kinovhd/#.XML]]></playlist_url>
+<icon><![CDATA[http://cooltv.info/img/tvcool.jpg]]></icon>
+</channel>  
 <channel>
 <title><![CDATA[Kodik]]></title>
 <logo_30x30><![CDATA[http://cdn.nserv.host/logo/kodik.png]]></logo_30x30>
@@ -187,7 +193,8 @@
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/390472958440767488/634081270170779669/1571184717.jpg]]></logo_30x30>
 <description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">Karnei4</font><font color="red">РАДИО</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/2Scn"><img src="https://cloverhost.net/wp-content/uploads/2018/05/Server-PNG-Image.png" alt="web stats" width="162" height="50" border="0"/></a><hr><center><p><h2>Посещаемость плейлиста<img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="https://s04.flagcounter.com/count2/2Scn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" height="200"/><hr>Самообновляемый плейлист! Болшая Подборка радиостанций!Различных жанров! Разбит на категории! Если есть пожелания и предложения пишите ВКантакте: https://vk.com/radio.ebm.android ]]></description>
 <playlist_url><![CDATA[https://dl.dropbox.com/s/wofi4blvu98a8so/PotokovoeRU.m3u]]></playlist_url>
-</channel>
+</channel>  
+<channel>  
 <title><![CDATA[<font color="red">Выход из виджета</font>]]></title>
 <logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
