@@ -108,6 +108,20 @@
 <playlist_url><![CDATA[http://vekart.ucoz.net/v/tomandjerry.xml]]></playlist_url>
 <description><![CDATA[<center><br><center><img src='http://vekart.ucoz.net/logo/cin.png' height='350' width='350'></img></center>]]></description>
 <logo_30x30>http://vekart.ucoz.net/logo/kino.png</logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[Сериалы]]></title>
+<playlist_url>http://smartportaltv.ru/9/tush.php</playlist_url>
+<icon><![CDATA[https://demiart.ru/forum/uploads5/post-333293-1269088733.jpg]]></icon> 
+<description><![CDATA[<center></br><img src="https://demiart.ru/forum/uploads5/post-333293-1269088733.jpg" height="210" width="210"/></br></br></br>Сериалы</center>]]></description>
+<logo_30x30>https://demiart.ru/forum/uploads5/post-333293-1269088733.jpg</logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[Фильмы]]></title>
+<playlist_url>http://sp-social.ru/kinopars/ts.xml</playlist_url>
+<icon><![CDATA[https://demiart.ru/forum/uploads5/post-333293-1269088733.jpg]]></icon>  
+<description><![CDATA[<center></br><img src="https://demiart.ru/forum/uploads5/post-333293-1269088733.jpg" height="210" width="210"/></br></br></br>Фильмы</center>]]></description>
+<logo_30x30>https://demiart.ru/forum/uploads5/post-333293-1269088733.jpg</logo_30x30>
 </channel>  
 <channel>
 <title><![CDATA[Kinokrad]]></title>
