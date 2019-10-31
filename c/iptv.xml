@@ -92,6 +92,24 @@
 <icon><![CDATA[http://188.246.233.180/wp-content/uploads/2017/12/new-logo-descriptor-300x270.png]]></icon>
 </channel>
 <channel>
+<title><![CDATA[<FONT COLOR="#7FFFD4">Фильмы</FONT>]]></title>
+<playlist_url><![CDATA[http://vekart.ucoz.net/pl/KinoVekart45.m3u]]></playlist_url>
+<description><![CDATA[<center><br><center><img src='http://vekart.ucoz.net/logo/cin.png' height='350' width='350'></img></center>]]></description>
+<logo_30x30>http://vekart.ucoz.net/logo/kino.png</logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<FONT COLOR="#7FFFD4">Старое Кино</FONT>]]></title>
+<playlist_url><![CDATA[http://vekart.ucoz.net/v/oldkino2.xml]]></playlist_url>
+<description><![CDATA[<center><br><center><img src='http://vekart.ucoz.net/logo/cin.png' height='350' width='350'></img></center>]]></description>
+<logo_30x30>http://vekart.ucoz.net/logo/kino.png</logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[<FONT COLOR="#7FFFD4">Tom and Jerry</FONT>]]></title>
+<playlist_url><![CDATA[http://vekart.ucoz.net/v/tomandjerry.xml]]></playlist_url>
+<description><![CDATA[<center><br><center><img src='http://vekart.ucoz.net/logo/cin.png' height='350' width='350'></img></center>]]></description>
+<logo_30x30>http://vekart.ucoz.net/logo/kino.png</logo_30x30>
+</channel>  
+<channel>
 <title><![CDATA[Kinokrad]]></title>
 <logo_30x30><![CDATA[http://telegramity.ru/web/Imagesbots/e7d00708409348920d09c0ca754320c0.jpg]]></logo_30x30>  
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://telegramity.ru/web/Imagesbots/e7d00708409348920d09c0ca754320c0.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">http://kinokrad.co/</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
