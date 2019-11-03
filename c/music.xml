@@ -14,45 +14,13 @@
 	<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=searchplaylist&search=Полный концерт Full HD]]></playlist_url>
     <logo_30x30>logos/open.png</logo_30x30>
 </channel>
-
-
 <channel>
-    <title><![CDATA[Концерты]]></title>
-	<description><![CDATA[<table style='width:100%; padding-top:4px;padding-bottom:4px;'><tr height='4px' bgcolor='#cccccc'>
-	<td></td></tr></table><table><tr><td style='vertical-align: top'>
-	<img src='http://u11.s.vpenze.ru/userfiles/picoriginal/img-20140218162714-721.jpg' height='128' width='128'></img></td><td><h1>Концерты</h1></td></tr></table><table style='width:100%; padding-top:4px;padding-bottom:4px;'><tr height='4px' bgcolor='#cccccc'><td></td></tr><td><center><br></center></td></table>]]></description>
-    <playlist_url>http://wilhelm2006.strana.de/music/концерты.xml</playlist_url>
-    <logo_30x30>open.png</logo_30x30>
+	<title><![CDATA[Концерты c YouTube]]></title>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://u11.s.vpenze.ru/userfiles/picoriginal/img-20140218162714-721.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Концерты c YouTube.Плейлисты.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
+	<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=searchplaylist&search=Ren TV Full HD]]></playlist_url>
+    <logo_30x30>logos/open.png</logo_30x30>
 </channel>
 
-
-<channel>
-    <title><![CDATA[Музыка 90-x]]></title>
-	<description><![CDATA[<table style='width:100%; padding-top:4px;padding-bottom:4px;'><tr height='4px' bgcolor='#cccccc'><td></td></tr></table><table><tr><td style='vertical-align: top'><img src='http://www.soyuz.ru/images/news/mp3pic/000124/4607173011992_f_l.jpg'height='128' width='128'></img></td><td><h1>Музыка 90-x</h1></td></tr></table><table style='width:100%;padding-top:4px;padding-bottom:4px;'><tr height='4px' bgcolor='#cccccc'><td></td></tr><td><center><br></center></td></table>]]></description>
-    <playlist_url>http://wilhelm2006.strana.de/music/music90.xml</playlist_url>
-    <logo_30x30>open.png</logo_30x30>
-</channel>
-
-<channel>
-<title><![CDATA[YouTube Клипы]]></title>
-<description><![CDATA[<h2 style="text-align:center">Подборка клипов</h2><hr /><p></p><p></p>]]></description>
-<logo_30x30><![CDATA[http://smarton.net.ua/Images/Icons/youtube.png]]></logo_30x30>
-<playlist_url><![CDATA[http://smarton.net.ua/Playlist/Id/7]]></playlist_url>
-  </channel>
-  
-  <channel>
-<title><![CDATA[Подборка караоке]]></title>
-<description><![CDATA[<h2 style="text-align:center">Подборка караоке</h2><hr /><p></p><p></p>]]></description>
-<logo_30x30><![CDATA[http://smarton.net.ua/Images/Icons/youtube.png]]></logo_30x30>
-<playlist_url><![CDATA[http://smarton.net.ua/Playlist/Id/6]]></playlist_url>
-  </channel>
-
-  <channel>
-<title><![CDATA[Kараоке]]></title>
-<description><![CDATA[<h2 style="text-align:center">Kараоке</h2><hr /><p></p><p></p>]]></description>
-<logo_30x30><![CDATA[http://smarton.net.ua/Images/Icons/youtube.png]]></logo_30x30>
-<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=searchchannel&search=Kараоке]]></playlist_url>
-  </channel>
 
   
  </items>
