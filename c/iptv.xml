@@ -8,7 +8,13 @@
 <description><![CDATA[<center><p><h2><font color="red">ВКантакте ВХОД</font></h2><p><img src="https://vk.com/images/stickers/3/512.png" width = "100"/><p><h2><font color="red">ВКантакте</font></h2><p><hr>Привязать ВК ID пользователя: Ссылка где можно получить код привязки: http://forkplayer.tv/vkforkstore/ ]]></description>
 <playlist_url><![CDATA[vk://enter]]></playlist_url>
 <icon><![CDATA[https://smmis.ru/wp-content/uploads/2015/02/udalitsoobshestvoVK.png]]></icon>
-</channel>  
+</channel> 
+<channel>  
+<title><![CDATA[<font color="red">YouTube</font>]]></title>
+<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
+<description><![CDATA[<center><font color="#00ccff">=</font><font color="yellow">YouTube</font><font color="red">VIDEO</font><font color="lime">LINKS</font> - online: <a href="https://info.flagcounter.com/BEKJ"><img src="https://cloverhost.net/wp-content/uploads/2018/05/Server-PNG-Image.png" alt="web stats" width="162" height="50" border="0"/></a><hr><center><p><h2>Посещаемость плейлиста<img src="http://monitor.zone-game.info/check.php?do=status&ip=104.28.17.99:80&id=6"></font></h2><p><img src="https://s04.flagcounter.com/count2/BEKJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" height="200"/><hr> YouTube ]]></description> 
+<playlist_url><![CDATA[https://Karnei4.github.io/c/music.xml]]></playlist_url>
+</channel> 
 <channel>
 <title><![CDATA[ПОИСК]]></title>
 <logo_30x30><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></logo_30x30>
@@ -259,23 +265,7 @@
 <logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
 <playlist_url><![CDATA[exit]]></playlist_url>
-</channel>   
-<channel>  
-<title><![CDATA[<font color="red">Выход из виджета</font>]]></title>
-<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
-<playlist_url><![CDATA[http://z1.fm/]]></playlist_url>
-</channel>     
-<channel>  
-<title><![CDATA[<font color="red">http://z1.fm/</font>]]></title>
-<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
-<playlist_url><![CDATA[http://z1.fm/]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="red">https://Karnei4.github.io/c/music.xml</font>]]></title>
-<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
-<playlist_url><![CDATA[https://Karnei4.github.io/c/music.xml]]></playlist_url>
-</channel>  
+</channel>        
+ 
+  
 </items>
