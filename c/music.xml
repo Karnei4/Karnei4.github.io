@@ -1,18 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <items>
-
+	<channel>
+	<title><![CDATA[YouTube]]></title>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://u11.s.vpenze.ru/userfiles/picoriginal/img-20140218162714-721.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Концерты c YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
+	<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php]]></playlist_url>
+    <logo_30x30>https://png.pngtree.com/png-vector/20190725/ourmid/pngtree-youtube-square-png-png-image_1589629.jpg</logo_30x30>
+</channel>
 <channel>
 	<title><![CDATA[Концерты c YouTube]]></title>
 	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://u11.s.vpenze.ru/userfiles/picoriginal/img-20140218162714-721.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Концерты c YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
 	<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=Полный концерт Full HD]]></playlist_url>
+    <logo_30x30>https://png.pngtree.com/png-vector/20190725/ourmid/pngtree-youtube-square-png-png-image_1589629.jpg</logo_30x30>
+</channel>
+<channel>
+	<title><![CDATA[Кипы c YouTube]]></title>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://u11.s.vpenze.ru/userfiles/picoriginal/img-20140218162714-721.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Концерты c YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
+	<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=Кипы Full HD]]></playlist_url>
     <logo_30x30>logos/open.png</logo_30x30>
 </channel>
-
 <channel>
 	<title><![CDATA[ДОКУМЕНТАЛБНЫЕ ПРОЕКТЫ c YouTube]]></title>
 	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://u11.s.vpenze.ru/userfiles/picoriginal/img-20140218162714-721.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Концерты c YouTube.Плейлисты.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
 	<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=%D0%A0%D0%95%D0%9D%20%D0%A2%D0%92%20]]></playlist_url>
-    <logo_30x30>logos/open.png</logo_30x30>
+    <logo_30x30>https://png.pngtree.com/png-vector/20190725/ourmid/pngtree-youtube-square-png-png-image_1589629.jpg</logo_30x30>
 </channel>
 <channel>
 	<title><![CDATA[ФИЛЬМЫ c YouTube]]></title>
