@@ -266,6 +266,12 @@
 <description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
 <playlist_url><![CDATA[exit]]></playlist_url>
 </channel>        
- 
+<channel>   
+<title><![CDATA[<font color="red">ВКантакте ВХОД</font>]]></title>
+<logo_30x30><![CDATA[https://smmis.ru/wp-content/uploads/2015/02/udalitsoobshestvoVK.png]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="red">ВКантакте ВХОД</font></h2><p><img src="https://vk.com/images/stickers/3/512.png" width = "100"/><p><h2><font color="red">ВКантакте</font></h2><p><hr>Привязать ВК ID пользователя: Ссылка где можно получить код привязки: http://forkplayer.tv/vkforkstore/ ]]></description>
+<playlist_url><![CDATA[vk://get_video/10000/-43215063]]></playlist_url>
+<icon><![CDATA[https://smmis.ru/wp-content/uploads/2015/02/udalitsoobshestvoVK.png]]></icon>
+</channel>  
   
 </items>
