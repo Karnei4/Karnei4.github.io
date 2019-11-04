@@ -2,6 +2,12 @@
 <items>
 <playlist_name><![CDATA[<font color="#00ccff">M3U -</font><font color="yellow">Karnei4 </font><font color="red">TV</font><font color="lime">LINKS</font>- BY - SERV]]></playlist_name>
 <playlist_logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></playlist_logo_30x30>
+<channel>
+<title><![CDATA[<font color="red">Назад</font>]]></title>
+<logo_30x30><![CDATA[http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="red">Назад</font></h2><p><img src="http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif" width = "100"/><p><h2><font color="red">НАЗАД</font></h2><p><hr>Вернуться на предыдущую страницу.]]></description>
+<playlist_url><![CDATA[https://karnei4.github.io/s/start_no_save_1.xml]]></playlist_url>
+</channel>  
 <channel>  
 <title><![CDATA[ПОИСК]]></title>
 <logo_30x30><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></logo_30x30>
