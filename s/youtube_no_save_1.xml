@@ -3,6 +3,12 @@
 <playlist_name><![CDATA[<font color="#00ccff">YouTube</font><font color="yellow">Karnei4 </font><font color="red">YouTube</font><font color="lime">LINKS</font>- BY - SERV]]></playlist_name>
 <playlist_logo_30x30><![CDATA[https://bigstartgo.ru/wp-content/uploads/2017/08/giphy.gif]]></playlist_logo_30x30>
 <channel>
+<title><![CDATA[<font color="red">Назад</font>]]></title>
+<logo_30x30><![CDATA[http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="red">Вернуться</font></h2><p><img src="http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif" width = "100"/><p><h2><font color="red">НАЗАД</font></h2><p><hr>Вернуться на предыдущую страницу.]]></description>
+<playlist_url><![CDATA[https://karnei4.github.io/s/video_no_save_1.xml]]></playlist_url>
+</channel>  
+<channel>
 <title><![CDATA[YouTube]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
 <playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php]]></playlist_url>
@@ -33,8 +39,8 @@
 <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
 <channel>
-<title><![CDATA[Fork Portal YouTube]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">YouTube.Плейлисты.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
+<title><![CDATA[Fork-portal YouTube]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://fork-portal.ru/include/templates/images/logo.png" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Fork-portal для Forkplayer и OTTplayer ВКантакте: https://vk.com/club186400980 </td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
 <playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=channel/UCVmP1Ago-mT3xaqME165Bkg]]></playlist_url>
 <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
