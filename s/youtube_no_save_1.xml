@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 <background-image><![CDATA[https://karnei4.github.io/s/png/fon-info_optimized.jpg]]></background-image>
-<playlist_name><![CDATA[<font color="#00ccff">M3U -</font><font color="yellow">Karnei4 </font><font color="red">TV</font><font color="lime">LINKS</font>- BY - SERV]]></playlist_name>
+<playlist_name><![CDATA[<font color="#00ccff">YouTube </font><font color="yellow">Karnei4 </font><font color="red">TV</font><font color="lime">LINKS</font>- BY - SERV]]></playlist_name>
 <playlist_logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></playlist_logo_30x30>
 <channel>
 <title><![CDATA[<font color="red">Назад</font>]]></title>
 <logo_30x30><![CDATA[http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="red">Вернуться</font></h2><p><img src="http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif" width = "100"/><p><h2><font color="red">НАЗАД</font></h2><p><hr>Вернуться на предыдущую страницу.]]></description>
 <playlist_url><![CDATA[https://karnei4.github.io/s/video_no_save_1.xml]]></playlist_url>
-</channel>  
+</channel>
+<channel>  
+<title><![CDATA[<font color="red">Информация</font>]]></title>
+<logo_30x30><![CDATA[https://i.gifer.com/IXNn.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="yellow">MIX GOLD ПЛЕЙЛИСТОВ:</font></h1><p><h2><font color="yellow"> https://vk.com/club188265624</font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[https://karnei4.github.io/s/youtube_no_save_1.xml]]></playlist_url>
+</channel>
 <channel>
 <title><![CDATA[YouTube]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
@@ -16,8 +22,8 @@
 <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
 <channel>
-<title><![CDATA[КОНЦЕРТЫ c YouTube]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Концерты c YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
+<title><![CDATA[КОНЦЕРТЫ YouTube]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Концерты  YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
 <playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=Полный концерт Full HD]]></playlist_url>
 <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
@@ -28,21 +34,33 @@
 <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
 <channel>
-<title><![CDATA[КЛИПЫ c YouTube]]></title>
+<title><![CDATA[КЛИПЫ  YouTube]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
 <playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=playlist?list=PLKmwSRudTs4yo1aDu1jJ3Xh4gM0_fVQQP]]></playlist_url>
 <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
 <channel>
-<title><![CDATA[ФИЛЬМЫ c YouTube]]></title>
+<title><![CDATA[ФИЛЬМЫ YouTube]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">YouTube.Плейлисты.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
 <playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B%20HD%20]]></playlist_url>
 <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
 <channel>
-<title><![CDATA[Fork-portal YouTube]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="http://fork-portal.ru/include/templates/images/logo.png" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Fork-portal для Forkplayer и OTTplayer ВКантакте: https://vk.com/club186400980 </td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
-<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=channel/UCVmP1Ago-mT3xaqME165Bkg]]></playlist_url>
+<title><![CDATA[Доктор Дью YouTube]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Концерты  YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
+<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=Доктор Дью]]></playlist_url>
 <logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
 </channel>
+<channel>
+<title><![CDATA[Вдумчиво обо всем YouTube]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">Концерты  YouTube.Видео.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
+<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=Вдумчиво обо всем]]></playlist_url>
+<logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[Fork Portal YouTube]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://turbologo.ru/blog/wp-content/uploads/2019/03/film-589491_960_720-678x381.jpg" height="200" width="200"></img></td><td style="width:100%;text-align:center;font-size:22px;">YouTube.Плейлисты.</td></tr></table><table style="width:100%; padding-top:4px;"><tr height="4px" bgcolor="#FFFF00"><td></td></tr></table>]]></description>
+<playlist_url><![CDATA[http://obovse.ru/smarttv/ytube.php?id=search&search=list=PL2QS9eviz-PSOmv5CegOfabLsxzOKmnJL]]></playlist_url>
+<logo_30x30><![CDATA[http://pngimg.com/uploads/youtube/youtube_PNG23.png]]></logo_30x30>
+</channel>  
 </items>
