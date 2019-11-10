@@ -64,8 +64,8 @@
 </channel>
 <channel>
 <title><![CDATA[<font color="red">Выход из виджета</font>]]></title>
-<logo_30x30><![CDATA[http://gronik.ucoz.ru/logos/start/exit.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="http://gronik.ucoz.ru/logos/start/exit.png" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
+<logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="https://Karnei4.github.io/s/png/exit.gif" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
 <playlist_url><![CDATA[exit]]></playlist_url>
 </channel>
 </items>
