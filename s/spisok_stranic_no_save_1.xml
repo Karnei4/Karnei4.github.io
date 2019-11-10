@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
+<background-image><![CDATA[https://karnei4.github.io/s/png/fon-info_optimized.jpg]]></background-image>
 <playlist_name><![CDATA[<font color="#00ccff">M3U -</font><font color="yellow">Karnei4 </font><font color="red">TV</font><font color="lime">LINKS</font>- BY - SERV]]></playlist_name>
 <playlist_logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></playlist_logo_30x30>
 <channel>
@@ -8,6 +9,12 @@
 <description><![CDATA[<center><p><h2><font color="red">Вернуться</font></h2><p><img src="http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif" width = "500"/><p><h2><font color="red">НАЗАД</font></h2><p><hr>Вернуться на предыдущую страницу.]]></description>
 <playlist_url><![CDATA[https://karnei4.github.io/s/ott_video_no_save_1.xml]]></playlist_url>
 </channel>
+<channel>  
+<title><![CDATA[<font color="red">Информация</font>]]></title>
+<logo_30x30><![CDATA[https://i.gifer.com/IXNn.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="yellow">MIX GOLD ПЛЕЙЛИСТОВ:</font></h1><p><h2><font color="yellow"> https://vk.com/club188265624</font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[https://karnei4.github.io/s/avtorskie_raboty_no_save_1.xml]]></playlist_url>
+</channel>  
 <channel>  
 <title><![CDATA[<font color="#00ccff">ПЕРВАЯ СТРАНИЦА</font>]]></title>
 <logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
