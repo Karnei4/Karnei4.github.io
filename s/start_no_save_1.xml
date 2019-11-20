@@ -89,12 +89,11 @@
 <playlist_url><![CDATA[https://topplay.do.am/RadioTopPlay.m3u#.XML]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[МУЗЫКА <font color="lime">FLAC-ТЕСТ MX-PLAYER PRO</font>]]></title>
+<title><![CDATA[МУЗЫКА <font color="lime">FLAC-ТЕСТ XML</font>]]></title>
 <logo_30x30><![CDATA[http://muzmo.ru/news/files/800/9fb70f3573cb80cfe7f66f4d5c7cac5d.jpg]]></logo_30x30>
 <description><![CDATA[<div class="film" style="float: left; margin: 0 0 0 5px; width: 100%; height: 380px;"><div class="title" style="margin: 0 0 0 5px; position: relative; border: 0px solid #EBEBEB; color: #CE490D; font-weight: bold; font-size: 20px;"><center>МУЗЫКА - ВЫСОКОГО КАЧЕСТВА FLAC </center></div><div class="poster"><img style="float:left; margin: 7px 7px 0px 0px; width: 150px; height: 220px;border: 2px #B10000 solid;" src="http://muzmo.ru/news/files/800/9fb70f3573cb80cfe7f66f4d5c7cac5d.jpg"></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: #167519; padding-right: 1px; font-weight: bold;">Описание сборк:</b><font color="BEBEBE">FLAC (англ. Free Lossless Audio Codec) — популярный свободный кодек, предназначенный для сжатия аудиоданных без потерь. В отличие от аудио-кодеков, обеспечивающих сжатие с потерями (MP3, AAC, WMA, Ogg Vorbis) flac, как и любой другой lossless кодек (ape, wma, lpac, la, m4a, wv, tta), не удаляет никакой информации из аудиопотока и подходит как для прослушивания музыки на высококачественной звуковоспроизводящей аппаратуре, так и для архивирования аудиоколлекции....</font><font color="yellow">Для прослушивания использую: Функцию встроенный плеер в FORK / Выбрал MX-PLAYER PRO!</font></div><div class="genre" style="margin: 0 0 0 5px; position: relative; border: 0px solid #EBEBEB; font-size: 16px;">  <b style="color: #CE470C; padding-right: 1px; font-weight: bold">Karnei4 </b>  <font color="BEBEBE">ТЕСТ Оцифровка с Пластинок!</font></div></div>]]></description>
-<playlist_url><![CDATA[https://dl.dropbox.com/s/gbsbh355f46n2ab/Karnei4-M3U-flac.m3u]]></playlist_url>
+<playlist_url><![CDATA[https://dl.dropbox.com/s/yud9kvbx882j1ly/FLAC_audio_no_save_1.xml]]></playlist_url>
 </channel>
-<channel>
 <title><![CDATA[<font color="red">Выход из виджета</font>]]></title>
 <logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="https://Karnei4.github.io/s/png/exit.gif" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
