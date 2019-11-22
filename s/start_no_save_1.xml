@@ -8,13 +8,7 @@
 <logo_30x30><![CDATA[http://storage.inovaco.ru/media/cache/e7/ac/78/b0/77/dd/e7ac78b077dd57c58171fdd5e0cdbaf8.jpg]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Пользовательское соглашение:</font></h2><p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmAbXyoSrn9qCp8dPyOe9dARG2tJgUKzlcWXKdy-uH_72RJYR&s" width = "150"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> IPTV-Karnei4  представляет собой упорядоченные ссылки на медиа-контент: фильмы 4K,60FPS,FullHD, сериалы, мультфильмы, IPTV, и многое другое. Они собраны в плейлистах в формате .XML, .M3U. Все ссылки взятые из открытых источников и не классифицированы по возрастным категориям, могут принадлежать третьим лицам в плане авторских прав и размещённые в интернете. IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
 <playlist_url><![CDATA[https://dl.dropbox.com/s/pjyb0lnfygsud44/start_no_save_1.xml]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="red">СТРАНИЦА НА GitHub</font>]]></title>
-<logo_30x30><![CDATA[https://i.gifer.com/IXNn.gif]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">ПЕРЕХОД</font></h1><p><h2><font color="yellow"> НА СТРАНИЦУ GitHub </font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
-<playlist_url><![CDATA[https://karnei4.github.io/s/start_no_save_1.xml]]></playlist_url>
-</channel>  
+</channel> 
 <channel>  
 <title><![CDATA[ПОИСК]]></title>
 <logo_30x30><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></logo_30x30>
