@@ -3,310 +3,95 @@
 <background-image><![CDATA[https://karnei4.github.io/s/png/fon-info_optimized.jpg]]></background-image>
 <playlist_name><![CDATA[<font color="#00ccff">M3U -</font><font color="yellow">Karnei4 </font><font color="red">TV</font><font color="lime">LINKS</font>- BY - SERV]]></playlist_name>
 <playlist_logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></playlist_logo_30x30>
-<channel>
-<title><![CDATA[<font color="red">Назад</font>]]></title>
-<logo_30x30><![CDATA[http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="red">Вернуться</font></h2><p><img src="http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif" width = "100"/><p><h2><font color="red">НАЗАД</font></h2><p><hr>Вернуться на предыдущую страницу.]]></description>
-<playlist_url><![CDATA[https://karnei4.github.io/s/start_no_save_1.xml]]></playlist_url>
-</channel>
 <channel>  
-<title><![CDATA[<font color="red">Информация</font>]]></title>
+<title><![CDATA[<font color="red">Информация</font>]]></title> 
 <logo_30x30><![CDATA[https://i.gifer.com/IXNn.gif]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="yellow">MIX GOLD ПЛЕЙЛИСТОВ:</font></h1><p><h2><font color="yellow"> https://vk.com/club188265624</font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
-<playlist_url><![CDATA[https://karnei4.github.io/s/avtorskie_raboty_no_save_1.xml]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">KINOZAL</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/4Zgr"><img src="https://s01.flagcounter.com/count2/4Zgr/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Karnei4</font></h2><p><hr>ФИЛЬМЫ]]></description>
-<playlist_url><![CDATA[https://dl.dropbox.com/s/bzt3acnzpxzflb5/PlayList-Karnei4-M3U-KINOZAL.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">KINOZAL1</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/59Aj"><img src="https://s01.flagcounter.com/count2/59Aj/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Karnei4-M3U-KINOZAL</font></h2><p><hr>ФИЛЬМЫ]]></description>
-<playlist_url><![CDATA[https://dl.dropbox.com/s/tb9zsbbq71dajjq/PlayList-Karnei4-M3U-KINOZAL1.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">Фильмы</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/mOb4"><img src="https://s11.flagcounter.com/count2/mOb4/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Серега Иргазиев</font></h2><p><hr>Фильмы]]></description>
-<playlist_url><![CDATA[http://only-tv.ucoz.net/serega/films.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">Новогодние фильмы</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/UMjL"><img src="https://s01.flagcounter.com/count2/UMjL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Серега Иргазиев</font></h2><p><hr>Новогодние фильмы]]></description>
-<playlist_url><![CDATA[http://only-tv.ucoz.net/serega/new.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СССР фильмы - сериалы</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/nt6d"><img src="https://s05.flagcounter.com/count2/nt6d/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Серега Иргазиев</font></h2><p><hr>СССР фильмы - сериалы]]></description>
-<playlist_url><![CDATA[http://only-tv.ucoz.net/serega/sssr.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">фильмы 2</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/sgH9"><img src="https://s11.flagcounter.com/count2/sgH9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">https://iptvfreeworld.ml</font></h2><p><hr>ФИЛЬМЫ некоторые могут не работать качество хорошее! НАДО ТЕСТИТЬ]]></description>
-<playlist_url><![CDATA[https://iptvfreeworld.ml/filmonline/2.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">фильмы 3</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/22Nm"><img src="https://s11.flagcounter.com/count2/22Nm/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">https://iptvfreeworld.ml</font></h2><p><hr>ФИЛЬМЫ некоторые могут не работать качество хорошее! НАДО ТЕСТИТЬ]]></description>
-<playlist_url><![CDATA[https://iptvfreeworld.ml/filmonline/3.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">фильмы 4</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/9fuT"><img src="https://s05.flagcounter.com/count2/9fuT/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">https://iptvfreeworld.ml</font></h2><p><hr>ФИЛЬМЫ некоторые могут не работать качество хорошее! НАДО ТЕСТИТЬ]]></description>
-<playlist_url><![CDATA[https://iptvfreeworld.ml/filmonline/4.m3u]]></playlist_url>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
 </channel>  
 <channel>  
-<title><![CDATA[<font color="#00ccff">Сериалы</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/PH7s"><img src="https://s05.flagcounter.com/count2/PH7s/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Серега Иргазиев</font></h2><p><hr>Сериалы]]></description>
-<playlist_url><![CDATA[http://only-tv.ucoz.net/serega/serial.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">МУЛЬТСЕРИАЛ ЮЖНЫЙ ПАРК (22 сезона)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/22Nm"><img src="https://s11.flagcounter.com/count2/22Nm/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Karnei4</font></h2><p><hr>МУЛЬТСЕРИАЛ ЮЖНЫЙ ПАРК (22 сезона)]]></description>
-<playlist_url><![CDATA[https://dl.dropbox.com/s/vqy3xi77zfnzncp/southpark.m3u]]></playlist_url>
-</channel>  
-<channel>  
-<title><![CDATA[<font color="#00ccff">Мультфильмы</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/7uqk"><img src="https://s01.flagcounter.com/count2/7uqk/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Серега Иргазиев</font></h2><p><hr>Мультфильмы]]></description>
-<playlist_url><![CDATA[http://only-tv.ucoz.net/serega/mult.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">Мультфильмы 2</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/pcSl"><img src="https://s11.flagcounter.com/count2/pcSl/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Серега Иргазиев</font></h2><p><hr>Мультфильмы 2]]></description>
-<playlist_url><![CDATA[http://only-tv.ucoz.net/serega/mult2.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">Disney мультфильмы</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/Yqst"><img src="https://s11.flagcounter.com/count2/Yqst/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Серега Иргазиев</font></h2><p><hr>Disney мультфильмы]]></description>
-<playlist_url><![CDATA[http://only-tv.ucoz.net/serega/disney.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">Союз-мультфильмы</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/qRz2"><img src="https://s11.flagcounter.com/count2/qRz2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">Серега Иргазиев</font></h2><p><hr>Союз-мультфильмы]]></description>
-<playlist_url><![CDATA[http://only-tv.ucoz.net/serega/soyuz.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">МУЛЬТСЕРИАЛЫ (759 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/Q2oH"><img src="https://s01.flagcounter.com/count2/Q2oH/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Алиса знает,что делать, Кунг-фу Панда, Доктор Плюшева, Путешествия Жюля Верна, Скуби-Ду.Корпорация Загадка, Элвинн! И бурундуки, Звездные войны.Войны клонов, Маша и Медведь, Машины сказки, Приключения Винни Пуха, Винни Пух и его друзья, Новые приключения Винни Пуха, Микки Маус, Клуб Микки Мауса, Черепашки ниндзя.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/Multserial.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">МУЛЬТСЕРИАЛЫ 2 (168 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/iP2o"><img src="https://s11.flagcounter.com/count2/iP2o/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>КАЧЕСТВО SD. Приключения капитана Врунгеля, Приключения кота Леопольда, Новые приключения кота Леопольда, Маугли, Остров сокровищ, Веселая карусель, Самый маленький гном, Приключения Незнайки и его друзей, Незнайка в Солнечном городе, На задней парте, Три лягушонка, Фантадром, Пришелец Ванюша, Жил-был Саушкин, Ну, погоди!, Трое из Простоквашино, Возвращение в Простоквашино, Котенок по имени Гав, Пришелец Ванюша. ]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/Multserial2.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">МУЛЬТСЕРИАЛЫ 3  (776 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/4ys5"><img src="https://s01.flagcounter.com/count2/4ys5/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Приключения кота в сапогах, Лео и Тиг, Губка Боб квадратные штаны, Кряк-Бряк, Чокнутый, Новая школа императора, Геркулес, Лило и Стич, H2O Остров Русалок.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/Multserial3.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">МУЛЬТСЕРИАЛЫ 4 (733 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/uyiU"><img src="https://s04.flagcounter.com/count2/uyiU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Утиные истории, Утиные истории (2017),  Чип и Дейл спешат на помощь, Русалочка, Гуфи и его команда, Пингвины из Мадагаскара, Тимон и Пумба, Финес и Ферб, Чудеса на виражах.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/Multserial4.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">МУЛЬТСЕРИАЛЫ 5 (166 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/L8cJ"><img src="https://s11.flagcounter.com/count2/L8cJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Розовая пантера и друзья, Каспер и его друзья, Фогхорн Легхорн и друзья, Фрэнклин и друзья,]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/Multserial5.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">МУЛЬТСЕРИАЛЫ 6 (716 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/L8cJ"><img src="https://s11.flagcounter.com/count2/L8cJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Чип и Дейл спешат на помощь, Утиные истории, Новые приключения Винни Пуха, Городские спасатели, Том и Джерри, Аладдин, Тимон и Пумба, Гуфи и его команда, Клуб Микки Мауса, Микки Маус.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/Multserial6.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">МУЛЬТСЕРИАЛЫ 7 (342 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/LnLz"><img src="https://s11.flagcounter.com/count2/LnLz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Новые приключения Принцессы на горошине, Винни Пух и его друзья, Новые приключения Винни Пуха, Лило и Стич, Легенда о Тарзане, Тарзан и Джейн, Метеор и крутые тачки, Тачки против!, Феи.Невероятные приключения, H2O Остров Русалок, По Ту Сторону Изгороди, Любовь,смерть и роботы, Остров сокровищ, Котенок по имени Гав.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/Multserial7.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">МУЛЬТСЕРИАЛЫ СССР  (419 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/k9l4"><img src="https://s04.flagcounter.com/count2/k9l4/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Сказки СССР. Мульты СССР. Ералаш  1-257 серий]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/MultserialSSSR.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">НАШИ СЕРИАЛЫ (500 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/eIbD"><img src="https://s01.flagcounter.com/count2/eIbD/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Однажды в Одессе, Лучшая неделя моей жизни, Поездка за счастьем, Пляж, Сваты, Байки Митяя, Сваты у плиты, Коли ми вдома, Ограбление по-женски, Жених для дурочки, Светка, Папа Дэн, Спасти босса, Пончик Люся.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial1.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">ТУРЕЦКИЕ СЕРИАЛЫ (832 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/ILbr"><img src="https://s04.flagcounter.com/count2/ILbr/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Буря внутри меня, Внутри, Бодрумская повесть, Великолепный век, Великолепный век.Империя Кёсем, Ее имя Зехра, 46 исчезнувших, Анчоусы Эгейского моря, Белая гвоздика, Богатство, Богатые и бедные, Вдребезги, Великий сыщик Филинта, Венера, Вишневый сезон, Боль в моем сердце, Война роз, Волк, Вор сердец, Ворон, Воскресший Эртугрул, Восьмой день, Враг в моем доме.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial2.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">ТУРЕЦКИЕ СЕРИАЛЫ-2 (712 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/GTGa"><img src="https://s11.flagcounter.com/count2/GTGa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Госпожа Фазилет, Дочери Гюнеш, Дениз в моем сердце, Достаточно одной надежды, До самой смерти, Время переселения, Дно, Гюлизар, Грехи моего отца, Все от любви, Джингез Реджаи, Высшее общество, Глубокие воды, Грешник, Грязные деньги и любовь, Дочка, Гюльпери, Давай же,Сынок, Два лица Стамбула, Двор, Дети доверены тебе, Дети сестер, Доверие, Единое сердце, Если бы я стал облаком, Ее имя Зехра, Если вернется-твоя, Женщина, Жизнь полна чудес, Закон ради семьи, Замечательный зять, Запах клубники, Запах ребенка, Запрет, Запретный плод, Затаив дыхание, Защитник, Звезды – мои свидетели, Здравствуй жизнь, Зимнее солнце.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial3.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">ТУРЕЦКИЕ СЕРИАЛЫ-3 (1023 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/V9wY"><img src="https://s05.flagcounter.com/count2/V9wY/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Любовь не понимает слов, Любовь напрокат, И на солнце есть пятна, Имя Счастье, Искусный, История одной любви, История Яз. Карадай, Клятва, Кольцо, Конец, Королева ночи, Королек -птичка певчая, Красная косынка, Кто тебя забрал, Кузей Гюней, Курт Сеит и Шура, Любовь ангелов, Лицом к лицу, Любовь и Мави, Любовь и наказания, Любовь любит ложь, Маленькая невеста, Маленькие секреты, Маленький партнер, Мама, Марал, Менекше и Халиль, Мерьем, Месть, Мехмед, Милосердие, Моя опасная жена, Моя родина -это ты, Моя тетя пришла, Надежда не умирает, Научи меня любить.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial4.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ (1204 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/5kTI"><img src="https://s05.flagcounter.com/count2/5kTI/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Грань, Гримм, Ходячие мертвецы, Властелин колец, Нация Z, Пункт назначения, Риддик, Под куполом, Рухнувшие небеса, Вечность, Индиана Джонс, Мумия, Сверхъестественное, Терминатор, Хоббит, Пуаро, Светлячок, Демоны Да Винчи, Викинги, Десятое королевство, Проповедник, Пространство, Игра престолов.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial5.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ (1235 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/U6Br"><img src="https://s05.flagcounter.com/count2/U6Br/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Американские боги, Стрела, Маньяк, Штамм, Террор, Готэм, Дневники вампира, Зачарованные, Звездный путь.Дискавери, Звездный путь.Дискавери, Призраки дома на холме, Сотня, Агент Картер, Видоизмененный углерод, Агенты Щ.И.Т., Лемони Сникет.33 несчастья, Однажды в сказке, Джессика Джонс, Легион, Бойтесь ходячих мертвецов.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial6.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ ИНДИЯ (1123серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/99zB"><img src="https://s04.flagcounter.com/count2/99zB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr> Порус, Махабхарата, Мелочи жизни, Богом данная, Вишну Пурана, Дыши, Еще четыре шота,пожалуйста, Иллюзия повсюду, Лики Индии.документальный, Мелодия любви, Мирзапур, Преступление в Дели, Сита и Рама, Хранительница очага, Гуль, Ашока.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial7.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ  УЖАСЫ (1291 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/Lw93"><img src="https://s05.flagcounter.com/count2/Lw93/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Герои, Диета из Санта-Клариты, Древние. Дневники вампира, Волшебники, Ужасы по дешевке, Охотник на вампиров, Американская история ужасов, Безмозглые, Врата, Второй шанс, Бешенство, Блэйд, Бойтесь ходячих мертвецов, Бугипоп никогда не смеется, Буря столетия, В темноту, Вампиры (1915), Волчья яма, Гаро.Сияющий во Тьме, Говорящий с призраками, Диаблеро, Доминион, Дракула, Дрожащая Правда, Дрожь земли, Дэмиен, Живые и мертвые, Жуткие истории, Жуть, За стенами, Замби, Злые вещи, Знание, Изгой, Изгоняющий дьявола, Капля настоящей крови, Касл-Рок, Клан вампиров, Комната, Константин, Королевство, Крик, Кровь ворона, Леденящие душу приключения Сабрины, Мгла, Мотель Бейтса, Носферату, Ночные Страхи, Оатс, От заката до рассвета, Падающая вода, Перерождение, Призрак дома на холме, Призрачные войны, Разгар лета, Байки из склепа.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial8.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ -УЖАСТИКОВ (604 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/0jlX"><img src="https://s11.flagcounter.com/count2/0jlX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Волчонок, Очень странные дела, Эш против Зловещих мертвецов, Страшные сказки, Штамм, Кровавая гонка, Лангольеры, Полтергейст, Сумеречная зона, Во плоти, Укушенная, Река, Изгоняющий дьявола, Погружение, Королевство, Чироки Крик, Крик, Мертвое лето, Призраки, Призраки Шэрон Тейт, Призраки, Призраки дома священника в Борли, Призраки Молли Хартли, Блэйд, Воин-изгой.Робот-боец, Изгой, Сумеречная зона, Истории о Франкенштейне, Наследие, Леденящие душу приключения Сабрины,  Черное озеро, Болотная тварь, Судная ночь, Волчья яма, Нулевой канал, Слэшер, Сибирь, Страна Рождества, Зубастики.Новый загул, Горячая зона, Стэн против сил зла, Фортитьюд, Кровь, Покои, Реальные упыри, Леденящее шоу.Напуганные знаменитости.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial9.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ (865 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/xkoK"><img src="https://s04.flagcounter.com/count2/xkoK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Юдоль Херши, Юная, Юнкера, Юнус Эмре, Юристы, Юркины рассветы, Юрочка, Эберсберг, Эвермор, Эврика, Эда, Эйдан 5, Эйнштейн.Теория любви, Эйфория, Эйч Плюс, Экипаж-СССР, Экли Бридж, Эксперт, Экспресс-командировка, Элай Стоун, Электрические сны Филипа К. Дика, Электронные жучки, Элементарно, Эль Чапо, Эмбер, Энгелби, Энджи Трайбека, Энди Мак, Энн, Эпизоды, Эпоха за эпохой, Крик.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial10.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ СССР (577 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/sSxm"><img src="https://s11.flagcounter.com/count2/sSxm/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>КАЧЕСТВО SD. Гостья из будущего, Большая перемена, Семнадцать мгновений весны, Место встречи изменить нельзя, Гостья из будущего, В поисках капитана Гранта, Государственная граница, 12 стульев, Вечный зов, Тени исчезают в полдень, Гардемарины, вперед!, Два капитана, Кортик, Бронзовая птица, Последнее лето детства, Адъютант его превосходительства, Освобождение, Россия молодая, Цыган, Возвращение Будулая, Рожденная революцией, Долгая дорога в дюнах, Вариант «Омега», Капитан Немо, Михайло Ломоносов, Секретный фарватер, ТАСС уполномочен заявить, Остров сокровищ, Визит к Минотавру, Противостояние, На всю оставшуюся жизнь, Хождение по мукам, Отряд специального назначения, Открытая книга, Мертвые души, Макар-следопыт, Богач, бедняк, Каникулы Кроша, Узник замка Иф, Трест, который лопнул, Анискин и Фантомас, И снова Анискин, Строговы, Колье Шарлотты, Мираж, Гонки по вертикали, Профессия - следователь , Крах инженера Гарина, Война на западном направлении, Вход в лабиринт, И это все о нем, Красное и черное, Юркины рассветы, Соль земли, Овод, В лесах под Ковелем, Женщины,которым повезло, Как закалялась сталь, Инспектор Лосев, Опасный поворот, Нежность к ревущему зверю, Никколо Паганини, Человек в проходном дворе, Волны Черного моря, Смок и Малыш, Кабачок 13 стульев, Угрюм-река, Дни хирурга Мишкина, Сердце Бонивура, Ольга Сергеевна, Вся королевская рать, Морской волк, Черный треугольник, Адвокат, Петля, Подросток, Взять живым, Последний рейс «Альбатроса», Расколотое небо, Отцы и дети, Операция «Трест», Хмель, Кодекс молчания, Картина, Время выбрало нас, Вера, Надежда, Любовь, Привал странников, Звездочет, Люди и дельфины, Хозяйка детского дома, редел возможного, Тайна Эдвина Друда, Берега, бретешь в бою, Моя жизнь, Житие Дон Кихота и Санчо, Солнечный ветер, Вкус хлеба, Память земли, Такая короткая долгая жизнь, Кончина, Дни и годы Николая Батыгина, Конец света с последующим симпозиумом, Поражение, Иван Бабушкин, Лучшая дорога нашей жизни, Впереди океан, Нам здесь жить, Антарктическая повесть, Огненные дороги, Хроника одного лета, Однофамилец.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial11.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ  (1164 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/QNVN"><img src="https://s05.flagcounter.com/count2/QNVN/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Пока цветет папоротник, Беловодье.Тайна затерянной страны, Колдовская любовь, Воронины, Папины дочки, Моя прекрасная няня]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial12.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ (774 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/FIf6"><img src="https://s04.flagcounter.com/count2/FIf6/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Качество соответствует годам.  Мерлин, Гвен Джонс-ученица Мерлина, Одиссей, Горец, Доктор Кто, Легенда об Искателе, Зена-королева воинов, Молодость Геракла, Геракл:Легендарные приключения, Приключения Синдбада,]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial13.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ  (1037 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/2u5O"><img src="https://s11.flagcounter.com/count2/2u5O/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Герои, Рассказ служанки, Каратель, Почти человек, Плоский мир Терри Пратчетта, Звездные врата.SG-1, Звездные врата: Атлантида, Звездные врата.Вселенная, Звездные врата.Истоки, Звездный крейсер.Галактика, Зачарованные, Десятое королевство, Светлячок, Мир Дикого запада, Выжить "После", Области тьмы, Вспомни, что будет, Радиоволна, Флэш (1990), Флэш.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial14.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ  (1045 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/cFK7"><img src="https://s01.flagcounter.com/count2/cFK7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Готэм, Детективное агентство Дирка Джентли, Джессика Джонс, Торчвуд, Новый день, Жизнь на Марсе, Эврика, Спартак Боги арены, Последнее королевство, Побег, Тротуарная империя, Остаться в живых, Клан Сопрано, Белый воротничок, Обмани меня, Менталист, Миллиарды, Однажды ночью, Марко Поло, Это мы.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial15.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ  Мелодрамы (501 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/eivB"><img src="https://s04.flagcounter.com/count2/eivB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Шрам, Ведьма, Я всё преодолею, Благими намерениями, Самый лучший муж, Алхимик, Сестра по наследству, Когда наступит рассвет, Взойдет рассвет, Двое против смерти, Научи меня жить, Вольф Мессинг.Видевший сквозь время, Влюбленные женщины, Петербург.Любовь.До востребования, 25-й час, Желтый глаз тигра, Пелена, Рая знает все!, Там,где нас нет, Пока цветет папоротник, Беловодье.Тайна затерянной страны, Ни слова о любви, Письмо по ошибке, Старая гвардия, Ловушка для королевы, Тест на беременность, Ангел-хранитель, А.Л.Ж.И.Р., На рассвете, Роман с прошлым, Ангелина, Отель Толедо, Мастер охоты на единорога, Чужой грех, Подлежит уничтожению, Звонарь, Соленая карамель, Синее озеро, Когда его совсем не ждешь, Мама Лора, Соседи, Чугунск Style, Охота на пиранью, Последняя неделя, Никогда не говори "Никогда", Большой артист, Кассирши, Овраг, Год собаки, Московские тайны.Графский парк, Поселенцы, Ты только будь со мною рядом, Московские тайны. Опасный переплет, Девять жизней, В отражении тебя, Капитан полиции метро, Женская версия. Дедушкина внучка, Психология любви, Я тоже его люблю,]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial16.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ  (775 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/yHwM"><img src="https://s04.flagcounter.com/count2/yHwM/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Улицы разбитых фонарей, Убойная сила, Опера.Хроники убойного отдела, Ментовские войны.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial17.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ  (800 серий+Бонус 100 Сериалов СССР )</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/do7T"><img src="https://s11.flagcounter.com/count2/do7T/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>2,5 человека, БРУКЛИН 9-9, ЗАМЕДЛЕННОЕ РАЗВИТИЕ, Викинги, и т.д и т.п. + СССР]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial18.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ  (754 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/0j8f"><img src="https://s11.flagcounter.com/count2/0j8f/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Лучше звоните Солу, Остаться в живых, Секретные материалы, Чужестранка, Параллельные миры, Спартак Кровь и песок, Спартак Боги арены, Спартак Месть, Спартак Война проклятых, Вавилон 5, Вавилон 5.Крестовый поход, Звездный Крейсер Галактика.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial19.m3u]]></playlist_url>
-</channel> 
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ  (1025 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/auph"><img src="https://s04.flagcounter.com/count2/auph/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>Черные паруса, Шучу, Флэш, Легенда об Искателе, Стрела, Тайны Смолвиля, Оставленные, Восьмое чувство, Почти человек, Квантовый скачок, Крутой Уокер, Дурнушка.]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serial20.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ СССР (1055 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/RjZ4"><img src="https://s04.flagcounter.com/count2/RjZ4/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>от Я до К]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serialSSSR1.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="#00ccff">СЕРИАЛЫ СССР (644 серий)</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="#00ccff">СЧЕТЧИК ПРОСМОТРОВ</font></h2><p><a href="https://info.flagcounter.com/EKwC"><img src="https://s11.flagcounter.com/count2/EKwC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><p><h2><font color="yellow">АНДРЕЙ САННИКОВ</font></h2><p><hr>от И до А]]></description>
-<playlist_url><![CDATA[http://denms.ru/playlists/eye911/serialSSSR2.m3u]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="yellow">МЕСТО СВОБОДНО</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="yellow">MIX GOLD ПЛЕЙЛИСТОВ:</font></h1><p><h2><font color="yellow"> https://vk.com/club188265624</font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
-<playlist_url><![CDATA[https://karnei4.github.io/s/avtorskie_raboty_no_save_1.xml]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="yellow">МЕСТО СВОБОДНО</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="yellow">MIX GOLD ПЛЕЙЛИСТОВ:</font></h1><p><h2><font color="yellow"> https://vk.com/club188265624</font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
-<playlist_url><![CDATA[https://karnei4.github.io/s/avtorskie_raboty_no_save_1.xml]]></playlist_url>
-</channel>
-<channel>  
-<title><![CDATA[<font color="yellow">МЕСТО СВОБОДНО</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/convert/VIDEOSALONVHS.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="yellow">MIX GOLD ПЛЕЙЛИСТОВ:</font></h1><p><h2><font color="yellow"> https://vk.com/club188265624</font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
-<playlist_url><![CDATA[https://karnei4.github.io/s/avtorskie_raboty_no_save_1.xml]]></playlist_url>
+<title><![CDATA[ПОИСК]]></title>
+<logo_30x30><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></icon>
 </channel>
 <channel>
-<title><![CDATA[<font color="red">Назад</font>]]></title>
-<logo_30x30><![CDATA[http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="red">Назад</font></h2><p><img src="http://roble.pntic.mec.es/egum0009/eva_gutierrez/images/back_arrow_circle_hc.gif" width = "100"/><p><h2><font color="red">НАЗАД</font></h2><p><hr>Вернуться на предыдущую страницу.]]></description>
-<playlist_url><![CDATA[https://karnei4.github.io/s/start_no_save_1.xml]]></playlist_url>
+<title><![CDATA[spiderxml.com/top]]></title>
+<logo_30x30><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></icon>
+</channel> 
+<channel>
+<title><![CDATA[OTTV.TK]]></title>
+<logo_30x30><![CDATA[http://ottv.tk/public/media/logo-light.png]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[http://ottv.tk/public/media/logo-light.png]]></icon>
 </channel>  
+<channel>
+<title><![CDATA[Плейлист от <font color="lime">Karnei4</font>]]></title>
+<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+</channel> 
+<channel>  
+<title><![CDATA[ <font color="lime">IPTV</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></icon>
+</channel>  
+<channel>  
+<title><![CDATA[ <font color="lime">OTT-PLAYER</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></icon>
+</channel>
+<channel>  
+<title><![CDATA[<font color="#00ccff">НОВИНКИ ТЕСТ</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="#00ccff">СТРАНИЦА </font></h2><p><img src="https://karnei4.github.io/convert/VIDEOSALONVHS.png" width = "200"/><p><h2><font color="yellow">ПЕРЕХОД</font></h2><p><hr> НА №-XXX СТРАНИЦЫ В СПИСКЕ<p></h2><font color="yellow">В FORK-PLAYER жмем-->>> В конце страницы для перехода на слейдущую! в ott-player есть навигация -> ВПЕРЕД внизу страницы!</font><p> ]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+</channel>    
+<channel>  
+<title><![CDATA[ <font color="lime">ФИЛЬМЫ</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></icon>
+</channel>
+<channel>  
+<title><![CDATA[ <font color="lime">АВТОРСКИЕ ССЫЛКИ</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></icon>
+</channel> 
+<channel>
+<title><![CDATA[RADIO EBM - <font color="lime">Karnei4</font>]]></title>
+<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/390472958440767488/634081270170779669/1571184717.jpg]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+</channel>
+<channel>
+<title><![CDATA[Radio - <font color="lime">TopPlay</font>]]></title>
+<logo_30x30><![CDATA[https://img.radios.com.br/radio/lg/radio33279_1489689671.jpg]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h1><font color="red">Обращаем ваше внимание:</font></h1><p><h2><font color="yellow">Актуальную Бесплатную ссылку можно взять ВКантакте в группе!  </font></font></h2><p><hr>Created by Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+</channel>
+<channel>
+<title><![CDATA[МУЗЫКА <font color="lime">FLAC-ТЕСТ XML</font>]]></title>
+<logo_30x30><![CDATA[http://muzmo.ru/news/files/800/9fb70f3573cb80cfe7f66f4d5c7cac5d.jpg]]></logo_30x30>
+<description><![CDATA[<div class="film" style="float: left; margin: 0 0 0 5px; width: 100%; height: 380px;"><div class="title" style="margin: 0 0 0 5px; position: relative; border: 0px solid #EBEBEB; color: #CE490D; font-weight: bold; font-size: 20px;"><center>МУЗЫКА - ВЫСОКОГО КАЧЕСТВА FLAC </center></div><div class="poster"><img style="float:left; margin: 7px 7px 0px 0px; width: 150px; height: 220px;border: 2px #B10000 solid;" src="http://muzmo.ru/news/files/800/9fb70f3573cb80cfe7f66f4d5c7cac5d.jpg"></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: #167519; padding-right: 1px; font-weight: bold;">Описание сборк:</b><font color="BEBEBE">FLAC (англ. Free Lossless Audio Codec) — популярный свободный кодек, предназначенный для сжатия аудиоданных без потерь. В отличие от аудио-кодеков, обеспечивающих сжатие с потерями (MP3, AAC, WMA, Ogg Vorbis) flac, как и любой другой lossless кодек (ape, wma, lpac, la, m4a, wv, tta), не удаляет никакой информации из аудиопотока и подходит как для прослушивания музыки на высококачественной звуковоспроизводящей аппаратуре, так и для архивирования аудиоколлекции....</font><font color="yellow">Для прослушивания использую: Функцию встроенный плеер в FORK / Выбрал MX-PLAYER PRO!</font></div><div class="genre" style="margin: 0 0 0 5px; position: relative; border: 0px solid #EBEBEB; font-size: 16px;">  <b style="color: #CE470C; padding-right: 1px; font-weight: bold">Karnei4 </b>  <font color="BEBEBE">ТЕСТ Оцифровка с Пластинок!</font></div></div>]]></description>
+<playlist_url><![CDATA[l]]></playlist_url>
+</channel>
 <channel>
 <title><![CDATA[<font color="red">Выход из виджета</font>]]></title>
 <logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="https://Karnei4.github.io/s/png/exit.gif" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
-<playlist_url><![CDATA[exit]]></playlist_url>
+<playlist_url><![CDATA[EXIT]]></playlist_url>
 </channel>
 </items>
