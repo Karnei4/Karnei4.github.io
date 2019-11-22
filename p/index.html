@@ -1,111 +1,97 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="ru" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<title>OTTV.TK </title>
-<script src="./index_files/jquery.js.Без названия"></script>
-<script src="./index_files/adm.js.Без названия"></script>
-<script src="./index_files/jquery-ui.js.Без названия"></script>
-<script type="text/javascript" src="./index_files/jHtmlArea-0.8.js.Без названия"></script>
-<link rel="Stylesheet" type="text/css" href="./index_files/jquery-ui.css">
-<link rel="Stylesheet" type="text/css" href="./index_files/jHtmlArea.css">
-<style>
-a:link, a:visited {
-   color: #eeeeee;
-   text-decoration:underline;
-}
-a:hover {
-   color: #fa5961;
-   text-decoration:underline;
-}
-
-#menu,
-#menu ul {
-    list-style: none;
-}
-#menu {
-    float: left;
-	width: 100%;
-    padding: 0px;
-}
-#menu > li {
-    float: left;
-}
-#menu li a {
-display: block;
-    height: 2em; 
-    line-height: 2em;
-    padding: 0 1.5em;
-    text-decoration: none;
-}
-#menu ul {
-    position: absolute;
-    display: none;
-z-index: 999;
-}
-#menu li:hover ul {
-    display: block;
-	padding: 0px;
-}
-#menu {
-    font-family: Arial;
-    font-size: 12px;
-    background: #2f8be8;
-}
-#menu > li > a {
-    color: #fff;
-    font-weight: bold;
-}
-#menu > li:hover > a {
-    background: #2f8be8;
-    color: #000;
-}
- 
-/* Submenu
-------------------------------------------*/
-#menu ul {
-    background: #9dcdfd;
-}
-#menu ul li a {
-    color: #000;
-}
-#menu ul li:hover a {
-    background: #2f8be8;
-}
-.button {
-    width: auto;
-    height: 30px;
-    background: #e3dbdb;
-    padding: 5px;
-    text-align: center;
-    border-radius: 2px;
-    color: black;
-    font-weight: bold;
-	text-decoration: none;
-}
-</style>
-</head>
-<body style="width:100%;text-align:center;background-color:gray;">
-<div style="width:1000px;min-height:600px; margin: auto;background-color:white;padding:10px;">
-	<div>
-		<div style="float:left;"><img src="./index_files/logo.png" style="width:200px;"></div>
-		<div style="text-align:center;font-size:2em;">OTTV.TK </div>
-	</div>	
-	<div style="clear:both;"><hr></div>
-	<div id="site" style="min-height: 460px; background: url(&quot;http://fork.ottv.tk/include/templates/images/fon20.jpg&quot;); color: rgb(238, 238, 238);">
-		<div style="text-align:left;"><ul id="menu" style="background-color: rgb(0, 164, 0); color: rgb(255, 255, 128);"><li><a href="http://fork.ottv.tk/" style="color:#ffff80;"> OTTV.TK </a></li><li><a href="file:///C:/Users/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80/Pictures/Fork-portal/index.html#" style="color:#ffff80;"><img align="left" src="./index_files/menu.png" onerror="this.style.display=&#39;none&#39;" id="img_i" width="20" height="18" style="margin: 2px;"> Меню</a><ul id="sub1" style="background-color:;"><li><a href="http://fork.ottv.tk/?do=/plugin&amp;id=search"><img align="left" src="./index_files/search.png" onerror="this.style.display=&#39;none&#39;" id="img_i" width="20" height="18" style="margin: 2px;color:#ffff80;"> Поиск</a></li><li><a href="http://fork.ottv.tk/?do=/plugin&amp;id=userlink"><img align="left" src="./index_files/userlinks.png" onerror="this.style.display=&#39;none&#39;" id="img_i" width="20" height="18" style="margin: 2px;color:#ffff80;"> Пользовательские ссылки</a></li><li><a href="http://fork.ottv.tk/?do=/category&amp;id=4"><img align="left" src="file:///C:/Users/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80/Pictures/Fork-portal/index.html" onerror="this.style.display=&#39;none&#39;" id="img_i" width="20" height="18" style="margin: 2px; color: rgb(255, 255, 128); display: none;"> Каналы (2)</a></li></ul></li><li><a href="file:///C:/Users/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80/Pictures/Fork-portal/index.html#" style="color:#ffff80;"> Последнее</a><ul id="sub2" style="background-color:;"></ul></li><li><a href="file:///C:/Users/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80/Pictures/Fork-portal/index.html#" style="color:#ffff80;"> Популярное</a><ul id="sub3" style="background-color:;"></ul></li><li><a href="http://fork.ottv.tk/?do=/module&amp;id=auth&amp;act=login" style="color:#ffff80;"> Авторизация</a></li></ul><br clear="both"></div>
-		<hr>
-	
-		<div style="float:left;text-align: left; border-right: 1px solid gray;padding-right:5px;width:170px;"><img align="left" src="./index_files/search.png" onerror="this.style.display=&#39;none&#39;;" height="16" width="18" style="margin:-2px 2px;"><a href="http://fork.ottv.tk/?do=/plugin&amp;id=search">Поиск</a><br><img align="left" src="./index_files/userlinks.png" onerror="this.style.display=&#39;none&#39;;" height="16" width="18" style="margin:-2px 2px;"><a href="http://fork.ottv.tk/?do=/plugin&amp;id=userlink">Пользовательские ссылки</a><br></div>
-		<div id="contents" style="text-align: left;margin-left:180px;max-height:654px;overflow-y:auto;overflow-x:hidden;">Нет страниц или нет доступа к этому разделу сайта!<script>applyStyles({"cssid":{"menu":{"enabled":"1","backgroundColor":"#00a400","color":"#ffff80"},"content":{"before":"<center>\u0418\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u044f.<\/center><div style=\"position:absolute;   left:70%;top:80%;font-size:80%;\"><br>(C) http:\/\/fork.ottv.tk 2019<\/div>"},"site":{"background":"url(http:\/\/fork.ottv.tk\/include\/templates\/images\/fon20.jpg)","color":"#eeeeee"},"infoList":{"color":"#eeeeee"},"navigate":{"color":"#eeeeee"}},"channels":{"parent":{"default":{"background":"none","color":"#eeeeee"},"selected":{"background":"none  ","color":"#fa5961"}}}});</script></div>
-	</div>
-
-	
-	
-</div>	
-<div style="width:1000px;clear:both;margin: auto;background-color:white;padding:40px 10px;">
-		<hr>
-		<div style="float:left;">© OTTV.TK  2019</div>
-</div>
-
-
-</body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<background-image><![CDATA[https://karnei4.github.io/s/png/fon-info_optimized.jpg]]></background-image>
+<playlist_name><![CDATA[<font color="#00ccff">M3U -</font><font color="yellow">Karnei4 </font><font color="red">TV</font><font color="lime">LINKS</font>- BY - SERV]]></playlist_name>
+<playlist_logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></playlist_logo_30x30>
+<channel>  
+<title><![CDATA[<font color="red">Информация</font>]]></title> 
+<logo_30x30><![CDATA[https://i.gifer.com/IXNn.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+</channel>
+<channel>  
+<title><![CDATA[ПОИСК]]></title>
+<logo_30x30><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></icon>
+</channel>
+<channel>
+<title><![CDATA[spiderxml.com/top]]></title>
+<logo_30x30><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[http://www.eduportal44.ru/Manturovo/Licei1-Manturovo/SiteAssets/default/%D0%9B%D1%83%D0%BF%D0%B0.gif]]></icon>
+</channel> 
+<channel>
+<title><![CDATA[OTTV.TK]]></title>
+<logo_30x30><![CDATA[http://ottv.tk/public/media/logo-light.png]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[http://ottv.tk/public/media/logo-light.png]]></icon>
+</channel>  
+<channel>
+<title><![CDATA[Плейлист от <font color="lime">Karnei4</font>]]></title>
+<logo_30x30><![CDATA[https://karnei4.github.io/convert/index_files/belarus24.png]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+</channel> 
+<channel>  
+<title><![CDATA[ <font color="lime">IPTV</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></icon>
+</channel>  
+<channel>  
+<title><![CDATA[ <font color="lime">OTT-PLAYER</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></icon>
+</channel>
+<channel>  
+<title><![CDATA[<font color="#00ccff">НОВИНКИ ТЕСТ</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="#00ccff">СТРАНИЦА </font></h2><p><img src="https://karnei4.github.io/convert/VIDEOSALONVHS.png" width = "200"/><p><h2><font color="yellow">ПЕРЕХОД</font></h2><p><hr> НА №-XXX СТРАНИЦЫ В СПИСКЕ<p></h2><font color="yellow">В FORK-PLAYER жмем-->>> В конце страницы для перехода на слейдущую! в ott-player есть навигация -> ВПЕРЕД внизу страницы!</font><p> ]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+</channel>    
+<channel>  
+<title><![CDATA[ <font color="lime">ФИЛЬМЫ</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></icon>
+</channel>
+<channel>  
+<title><![CDATA[ <font color="lime">АВТОРСКИЕ ССЫЛКИ</font>]]></title>
+<logo_30x30><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+<icon><![CDATA[https://www.gifmania.ru/Animated-Gifs-Tekhnologiya/Animations-Computing/Images-Computer-Folders/Computer-Folders-89636.gif]]></icon>
+</channel> 
+<channel>
+<title><![CDATA[RADIO EBM - <font color="lime">Karnei4</font>]]></title>
+<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/390472958440767488/634081270170779669/1571184717.jpg]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+</channel>
+<channel>
+<title><![CDATA[Radio - <font color="lime">TopPlay</font>]]></title>
+<logo_30x30><![CDATA[https://img.radios.com.br/radio/lg/radio33279_1489689671.jpg]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Тест завершен!</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "200"/><p><h3><font color="red">Обращаем ваше внимание:</font></h1><p><h3></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: red; padding-right: 1px; font-weight: bold;">Условия соглашения:</b><font color="yellow"> Актуальную Бесплатную ссылку можно взять ВКантакте в группе! IPTV-Karnei4  не ретранслирует и не хранит у себя данный контент, а лишь предоставляет упорядоченные ссылки на него. IPTV-Karnei4  не принимает к себе никаких претензий, как экономических, правовых, морально-этических, связанных с данным контентом. <font color="red">Пользуясь IPTV-Karnei4 , Вы соглашаетесь с данными условиями.</font></font></h2><p><hr>Группа VK - Radio EBM IPTV-Karnei4: https://vk.com/radio.ebm.android]]></description>
+<playlist_url><![CDATA[]]></playlist_url>
+</channel>
+<channel>
+<title><![CDATA[МУЗЫКА <font color="lime">FLAC-ТЕСТ XML</font>]]></title>
+<logo_30x30><![CDATA[http://muzmo.ru/news/files/800/9fb70f3573cb80cfe7f66f4d5c7cac5d.jpg]]></logo_30x30>
+<description><![CDATA[<div class="film" style="float: left; margin: 0 0 0 5px; width: 100%; height: 380px;"><div class="title" style="margin: 0 0 0 5px; position: relative; border: 0px solid #EBEBEB; color: #CE490D; font-weight: bold; font-size: 20px;"><center>МУЗЫКА - ВЫСОКОГО КАЧЕСТВА FLAC </center></div><div class="poster"><img style="float:left; margin: 7px 7px 0px 0px; width: 150px; height: 220px;border: 2px #B10000 solid;" src="http://muzmo.ru/news/files/800/9fb70f3573cb80cfe7f66f4d5c7cac5d.jpg"></div><div class="about" style="font-size: 16px; padding: 0 15px 15px 0; position: relative;"><b style="color: #167519; padding-right: 1px; font-weight: bold;">Описание сборк:</b><font color="BEBEBE">FLAC (англ. Free Lossless Audio Codec) — популярный свободный кодек, предназначенный для сжатия аудиоданных без потерь. В отличие от аудио-кодеков, обеспечивающих сжатие с потерями (MP3, AAC, WMA, Ogg Vorbis) flac, как и любой другой lossless кодек (ape, wma, lpac, la, m4a, wv, tta), не удаляет никакой информации из аудиопотока и подходит как для прослушивания музыки на высококачественной звуковоспроизводящей аппаратуре, так и для архивирования аудиоколлекции....</font><font color="yellow">Для прослушивания использую: Функцию встроенный плеер в FORK / Выбрал MX-PLAYER PRO!</font></div><div class="genre" style="margin: 0 0 0 5px; position: relative; border: 0px solid #EBEBEB; font-size: 16px;">  <b style="color: #CE470C; padding-right: 1px; font-weight: bold">Karnei4 </b>  <font color="BEBEBE">ТЕСТ Оцифровка с Пластинок!</font></div></div>]]></description>
+<playlist_url><![CDATA[l]]></playlist_url>
+</channel>
+<channel>
+<title><![CDATA[<font color="red">Выход из виджета</font>]]></title>
+<logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="red">Выход из виджета</font></h2><p><img src="https://Karnei4.github.io/s/png/exit.gif" width = "100"/><p><h2><font color="red">Exit</font></h2><p><hr>Из виджета также можно выйти при двойном нажатии на кнопку 'Exit'.]]></description>
+<playlist_url><![CDATA[EXIT]]></playlist_url>
+</channel>
+</items>
