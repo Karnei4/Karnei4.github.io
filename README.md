@@ -20,8 +20,8 @@
 
 
  
-# Fork: https://karnei4.github.io/p/start.xml
-# Ott-Player: https://karnei4.github.io/p/start.xml#.XML
+# Fork: https://bit.do/karnei4
+# Ott-Player: https://bit.do/karnei4#.XML
 - **[319 обновляемых ссылок! Разных провайдеров IPTV](https://karnei4.github.io/translit/index.html)**
 
 
@@ -58,8 +58,8 @@
 Некоторые могут не работать на данный день! 
 Обновляются как написано на сайте раз в сутки! Листы немного отличаются набором каналов!
 
-- FORK: https://karnei4.github.io/p/tv.xml
-- OTT-PLAYER: https://karnei4.github.io/p/tv.xml#.XML 
+- FORK: https://bit.do/karnei4
+- OTT-PLAYER: https://bit.do/karnei4#.XML 
 - Группа ВКантакте Radio EBM: https://vk.com/radio.ebm.android
 - ПОДБОРКА РАДИОСТАНЦИЙ: https://dl.dropbox.com/s/f9pmi12ztcdrxbr/RadioEBM_Karnei4.m3u 
 
