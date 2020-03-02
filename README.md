@@ -39,7 +39,7 @@
 
 ## Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG
 
-<p align="center"><img src="http://oboi.cc/uploads/11_05_2013/view/201209/oboik.ru_39707.jpg" width="400"></p>
+<p align="center"><img src="https://www.iphones.ru/wp-content/uploads/2018/08/004_1.jpg" width="400"></p>
 
 
 - **[Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG](https://Karnei4.github.io/convert/index.html)**
