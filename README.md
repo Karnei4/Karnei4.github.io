@@ -28,7 +28,7 @@
 
 ##              Создать Плей лист Онлайн для IPTV
 
-<p align="center"><img src="https://i.ytimg.com/vi/2k4UivU1l9k/maxresdefault.jpg" width="400"></p>
+<p align="center"><img src="https://i.ytimg.com/vi/QfuwTOD4KJg/maxresdefault.jpg" width="400"></p>
 
 Конструировать плейлисты вручную довольно утомительное занятие, 
 особенно когда нужно создать один плейлист для разных устройств/программ. 
