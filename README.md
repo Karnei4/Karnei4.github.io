@@ -22,7 +22,7 @@
  
 # Fork: https://bit.do/karnei4
 # Ott-Player: https://bit.do/karnei4#.XML
-- **[319 обновляемых ссылок! Разных провайдеров IPTV](https://karnei4.github.io/translit/index.html)**
+- **[Наш DISCORD Чат IPTV-RU](https://discord.gg/E7xAqsK)**
 
 
 
@@ -45,7 +45,7 @@
 - **[Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG](https://Karnei4.github.io/convert/index.html)**
 - **[Онлайн транслитерация слов в латиницу](https://karnei4.github.io/translit/index.html)**
 
-- **[319 обновляемых ссылок! Разных провайдеров IPTV](https://karnei4.github.io/translit/index.html)**
+- **[DISCORD Чат IPTV-RU](https://discord.gg/E7xAqsK)**
 
 - **[Програмка для проверки m3u для-ANDROID](https://dl.dropbox.com/s/vd0aw54w1afwvp3/IPTV-%D0%A2%D0%B5%D1%81%D1%82-URL.ver.1.1.build.122%20%282%29.apk)**
 
@@ -60,7 +60,7 @@
 
 - FORK: https://bit.do/karnei4
 - OTT-PLAYER: https://bit.do/karnei4#.XML 
-- Группа ВКантакте Radio EBM: https://vk.com/radio.ebm.android
+- Группа ВКантакте Radio EBM: https://vk.com/club191937709
 - ПОДБОРКА РАДИОСТАНЦИЙ: https://dl.dropbox.com/s/f9pmi12ztcdrxbr/RadioEBM_Karnei4.m3u 
 
 #           Отличное URL Radio! На Android
