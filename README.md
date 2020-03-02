@@ -1,4 +1,4 @@
-# Karnei4.github.io IPTV 
+# https://vk.com/club191937709 IPTV 
 
 <p align="center"><img src="https://besplatka.ua/aws/54/55/21/14/predostavlyayu-uslugi-iptv-400-kanalov--kanaly--18-photo-ee41.jpg" width="400"></p>
 
