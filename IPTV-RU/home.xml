@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <services>
-
 	<service>
 		<url>device://</url>
 		<title>My Files</title>
@@ -11,8 +10,20 @@
 		<locale>all</locale>
 		<asset>true</asset>
 	</service>
-	
-	<!--<service>
+
+	<service>
+		<url>http://bit.do/ftp666</url>
+		<title>FTP Files</title>
+		<title lang="ru">FTP файлы</title>
+		<image>im_network.png</image>
+		<desc>Network drives</desc>
+		<desc lang="ru">Просмотр содержимого сетевых дисков</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>
+
+ 
+<!--<service>
 		<url>package://</url>
 		<title>Apps</title>
 		<title lang="ru">Приложения</title>
@@ -22,22 +33,129 @@
 		<locale>all</locale>
 		<asset>true</asset>
 	</service>-->
+<service>
+        <url>search:///mnt/</url>
+        <title>Playlists</title>
+        <title lang="ru">Плейлисты</title>
+        <title lang="ro">Liste de redare</title>
+        <title lang="mo">Liste de redare</title>
+        <image>im_search.png</image>
+        <desc>Search playlists on local disks</desc>
+        <desc lang="ru">Поиск плейлистов на локальных дисках</desc>
+        <desc lang="ro">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
+        <desc lang="mo">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
+        <locale>all</locale>
+        <asset>true</asset>
+    </service>
 
+     <!--<service>
+		<url>http://files.iconbit.com/IMC/vod/mxplayer.apk</url>
+		<title>MX_Payer</title>
+		<title lang="ru">MX_player</title>
+		<image>im_mxplayer.png</image>
+		<desc>Network drives</desc>
+		<desc lang="ru">Ссылка на скачивание MX_player</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>-->
+
+    <!--<service>
+		<url>https://www.google.ru/</url>
+		<title>Chome_ru</title>
+		<title lang="ru">Chome.ru</title>
+		<image>im_chrome.png</image>
+		<desc>Network drives</desc>
+		<desc lang="ru">Просмотр брузера Chome.ru</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>-->
+
+  <!--<service>
+		<url>https://www.opera.ru/</url>
+		<title>Opers_ru</title>
+		<title lang="ru">Opera.VPN</title>
+		<image>im_opera.png</image>
+		<desc>Network drives</desc>
+		<desc lang="ru">Просмотр брузера Opera_VPN.ru</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>-->
+
+ <!--<service>
+		<url>https://firefox.ru/</url>
+		<title>Firefox_ru</title>
+		<title lang="ru">Firefox.ru</title>
+		<image>im_firefox.png</image>
+		<desc>Network drives</desc>
+		<desc lang="ru">Просмотр брузера Firefox.ru</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>-->
+
+    <!--<service>
+		<url>https://yandex.ru/</url>
+		<title>Yandex_ru</title>
+		<title lang="ru">Yandex.ru</title>
+		<image>im_yandex.png</image>
+		<desc>Network drives</desc>
+		<desc lang="ru">Просмотр брузера Yandex.ru</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>-->
+
+   <!--<service>
+		<url>package://app_added/aForkPlayer.aForkPlayer</url>
+		<title>ForkPlayer</title>
+		<title lang="ru">ForkPlayer</title>
+		<image>http://smart.obovse.ru/img/fork_logo.png</image>
+		<desc>Network drives</desc>
+		<desc lang="ru">Просмотр брузера aForklayer</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>-->
+    
 	<service>
-		<url>search:///mnt/</url>
+		<url>http://ottv.tk/public/plst/Постоянный%20список.m3u#.XML</url>
 		<title>Playlists</title>
-		<title lang="ru">Плейлисты</title>
+		<title lang="ru">Пост. список</title>
 		<title lang="ro">Liste de redare</title>
 		<title lang="mo">Liste de redare</title>
-		<image>im_search.png</image>
+		<image>http://ottv.tk/media/logo-red.gif</image>
 		<desc>Search playlists on local disks</desc>
-		<desc lang="ru">Поиск плейлистов на локальных дисках</desc>
+		<desc lang="ru">Постоянный список с сайта http://ottv.tk/ / Наш сервер в DISCORD [IPTV-RU] https://discord.gg/E7xAqsK </desc>
 		<desc lang="ro">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
 		<desc lang="mo">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
 		<locale>all</locale>
 		<asset>true</asset>
 	</service>
-	
+	<service>
+		<url>http://ottv.tk/public/plst/Подборка1.m3u#.XML</url>
+		<title>Playlists</title>
+		<title lang="ru">Подборка №1</title>
+		<title lang="ro">Liste de redare</title>
+		<title lang="mo">Liste de redare</title>
+		<image>http://ottv.tk/public/media/logo-light.png</image>
+		<desc>Search playlists on local disks</desc>
+		<desc lang="ru">Подборка №1 с сайта http://ottv.tk/ / Наш сервер в DISCORD [IPTV-RU] https://discord.gg/E7xAqsK </desc>
+		<desc lang="ro">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
+		<desc lang="mo">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>
+	<service>
+		<url>https://dl.dropbox.com/s/mxfyz1cckawa4ud/300_obnovlyaemmykh_ssylok_IPTV.m3u</url>
+		<title>Playlists</title>
+		<title lang="ru">M3U</title>
+		<title lang="ro">Liste de redare</title>
+		<title lang="mo">Liste de redare</title>
+		<image>https://cdn.discordapp.com/attachments/679261972138688512/685137988203708464/video-playlist.png</image>
+		<desc>Search playlists on local disks</desc>
+		<desc lang="ru">M3U подборка / Наш сервер в DISCORD [IPTV-RU] https://discord.gg/E7xAqsK </desc>
+		<desc lang="ro">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
+		<desc lang="mo">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>	
 	<service>
 		<url>recently://</url>
 		<title>Recently viewed</title>
@@ -52,37 +170,76 @@
 		<locale>all</locale>
 		<asset>true</asset>
 	</service>
-	
-	<service>    <url>https://dl.dropbox.com/s/y73xgwsfr7piyzh/iptv_radio.xspf</url>
+	<service>    
+	    <url>https://dl.dropbox.com/s/y2d7erag79ptykw/iptv_radio.xspf</url>
 		<title>Karnei4 TV</title>
 		<image>im_2kom.png</image>
-		<desc>Просмотр Radio EBM [IPTV-Karnei4] https://vk.com/radio.ebm.android</desc>
+		<desc>Просмотр TV: Мы ВКантакте:Radio EBM [IPTV-Karnei4] https://vk.com/club191937709</desc>
 		<locale>ru-*</locale>
 		<asset>true</asset>
 	</service>
-	
-	<service>	<url>https://cdn.discordapp.com/attachments/625922285521469450/673272124324184093/Karnei4Film.IMC.zip</url>
-		<title>Karnei4 Фильм</title>	<image>https://karnei4.github.io/convert/VIDEOSALONVHS.png</image>
-		<desc>Просмотр Radio EBM [IPTV-Karnei4] https://vk.com/radio.ebm.android</desc>
+<service>    
+	    <url>https://dl.dropbox.com/s/7zher5miawhvgqb/iptv_radio.xspf</url>
+		<title>Radio-Mix</title>
+		<image>im_radio-mix.png</image>
+		<desc>Radio-mix : Мы ВКантакте:Radio EBM [IPTV-Karnei4] https://vk.com/club191937709</desc>
 		<locale>ru-*</locale>
 		<asset>true</asset>
 	</service>
-	
-	<service>	<url>https://cdn.discordapp.com/attachments/625922285521469450/673189298631344138/fanserialtv.IMC.zip</url>
-		<title>Fanserials (New)</title>	<image>https://static10.tgstat.ru/channels/_0/95/95b244e3848c26e70afa53901000be84.jpg</image>
-		<desc>Просмотр Radio EBM [IPTV-Karnei4] https://vk.com/radio.ebm.android</desc>
-		<locale>ru-*</locale>
-		<asset>true</asset>
-	</service>
-
 	<service>	
-<url>https://cdn.discordapp.com/attachments/390472958440767488/674932672027557918/youtube.IMC.zip</url>
-		<title>YouTube</title>	<image>https://cdn.discordapp.com/attachments/390472958440767488/674928430256488459/15809858472087915818602565785537.jpg</image>
-		<desc>Просмотр YouTube Мы ВКантакте: [IPTV-Karnei4] https://vk.com/radio.ebm.android</desc>
+	    <url>https://dl.dropbox.com/s/3nslj2jhsdac2g6/Karnei4Film.IMC.zip</url>
+		<title>Karnei4 Фильм</title>	
+		<image>https://cdn.discordapp.com/attachments/390472958440767488/684731334190825506/w512h5121371666936Film3.png</image>
+		<desc>Просмотр Фильмов:Наш сорвер в DISCORD [IPTV-RU] https://discord.gg/E7xAqsK</desc>
 		<locale>ru-*</locale>
 		<asset>true</asset>
 	</service>
-	
-</services>
-	
+	<service>	
+	    <url>https://dl.dropbox.com/s/dlaessbgkgn77v6/Karnei4_Film_FULL.IMC.zip</url>
+		<title>Karnei4 MEGA-FILM</title>	
+		<image>https://cdn.discordapp.com/attachments/390472958440767488/684729978721796114/Karnei4_Film_FULL.IMC.png</image>
+		<desc>Просмотр Фильмов:Наш сервер в DISCORD [IPTV-RU] https://discord.gg/E7xAqsK</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>
+	<service>	
+	    <url>https://dl.dropbox.com/s/0vlhij8n2pc6z4r/Karnei4_Filmografia.IMC.zip</url>
+		<title>Karnei4 Filmography</title>	
+		<image>https://cdn.discordapp.com/attachments/390472958440767488/684726729087909898/icon1.png</image>
+		<desc>Просмотр Фильмов:Наш сервер в DISCORD [IPTV-RU] https://discord.gg/E7xAqsK</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>
+	<service>	
+	    <url>https://dl.dropbox.com/s/aocmcnz51nddrpw/Karnei4_Mult.IMC.zip</url>
+		<title>Karnei4 Mult</title>	
+		<image>im_panda.png</image>
+		<desc>Просмотр Фильмов:Наш сервер в DISCORD [IPTV-RU] https://discord.gg/E7xAqsK</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>	
+	<service>	
+	    <url>https://dl.dropbox.com/s/6gln70vlqhou79u/fanserialtv.IMC.zip</url>
+		<title>Fanserials (New)</title>	
+		<image>https://static10.tgstat.ru/channels/_0/95/95b244e3848c26e70afa53901000be84.jpg</image>
+		<desc>Просмотр Fanserials: Наш сервер в DISCORD [IPTV-RU] https://discord.gg/E7xAqsK</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>
+	<service>	
+        <url>https://dl.dropbox.com/s/1a4miece6mf9nh4/Karnei4_YouTube.IMC.zip</url>
+		<title>YouTube TV</title>	
+		<image>https://cdn.discordapp.com/attachments/390472958440767488/674928430256488459/15809858472087915818602565785537.jpg</image>
+		<desc>Просмотр YouTube: Наш сервер в DISCORD [IPTV-RU] https://discord.gg/E7xAqsK</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>
+	<service>	
+	    <url>http://files.iconbit.com/IMC/ivi.IMC.zip</url>
+		<title>ivi</title>	
+        <image></image>
+		<desc>Просмотр ivi: Karnei4 GitHub [IPTV-Karnei4] https://karnei4.github.io/</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>
 </services>
