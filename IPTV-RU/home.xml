@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services>
+
+	<service>
+		<url>device://</url>
+		<title>My Files</title>
+		<title lang="ru">Мои файлы</title>
+		<image>im_filemanager.png</image>
+		<desc>Local and network drives</desc>
+		<desc lang="ru">Просмотр содержимого локальных и сетевых дисков</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>
+	
+	<!--<service>
+		<url>package://</url>
+		<title>Apps</title>
+		<title lang="ru">Приложения</title>
+		<image>im_apps.png</image>
+		<desc>Installed Android applications</desc>
+		<desc lang="ru">Установленные Android приложения</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>-->
+
+	<service>
+		<url>search:///mnt/</url>
+		<title>Playlists</title>
+		<title lang="ru">Плейлисты</title>
+		<title lang="ro">Liste de redare</title>
+		<title lang="mo">Liste de redare</title>
+		<image>im_search.png</image>
+		<desc>Search playlists on local disks</desc>
+		<desc lang="ru">Поиск плейлистов на локальных дисках</desc>
+		<desc lang="ro">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
+		<desc lang="mo">Vizualizează secțiunea de căutare a listelor de redare în meniul principal</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>
+	
+	<service>
+		<url>recently://</url>
+		<title>Recently viewed</title>
+		<title lang="ru">Недавно просматриваемые</title>
+		<title lang="ro">Vizualizate recent</title>
+		<title lang="mo">Vizualizate recent</title>
+		<image>im_recently.png</image>
+		<desc>Show last 100 of recently viewed</desc>
+		<desc lang="ru">Просмотр 100 последних недавно просматриваемых страниц с описанием</desc>
+		<desc lang="ro">Vezi ultimii 100 de pagini vizualizate recent</desc>
+		<desc lang="mo">Vezi ultimii 100 de pagini vizualizate recent</desc>
+		<locale>all</locale>
+		<asset>true</asset>
+	</service>
+	
+	<service>    <url>https://dl.dropbox.com/s/y73xgwsfr7piyzh/iptv_radio.xspf</url>
+		<title>Karnei4 TV</title>
+		<image>im_2kom.png</image>
+		<desc>Просмотр Radio EBM [IPTV-Karnei4] https://vk.com/radio.ebm.android</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>
+	
+	<service>	<url>https://cdn.discordapp.com/attachments/625922285521469450/673272124324184093/Karnei4Film.IMC.zip</url>
+		<title>Karnei4 Фильм</title>	<image>https://karnei4.github.io/convert/VIDEOSALONVHS.png</image>
+		<desc>Просмотр Radio EBM [IPTV-Karnei4] https://vk.com/radio.ebm.android</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>
+	
+	<service>	<url>https://cdn.discordapp.com/attachments/625922285521469450/673189298631344138/fanserialtv.IMC.zip</url>
+		<title>Fanserials (New)</title>	<image>https://static10.tgstat.ru/channels/_0/95/95b244e3848c26e70afa53901000be84.jpg</image>
+		<desc>Просмотр Radio EBM [IPTV-Karnei4] https://vk.com/radio.ebm.android</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>
+
+	<service>	
+<url>https://cdn.discordapp.com/attachments/390472958440767488/674932672027557918/youtube.IMC.zip</url>
+		<title>YouTube</title>	<image>https://cdn.discordapp.com/attachments/390472958440767488/674928430256488459/15809858472087915818602565785537.jpg</image>
+		<desc>Просмотр YouTube Мы ВКантакте: [IPTV-Karnei4] https://vk.com/radio.ebm.android</desc>
+		<locale>ru-*</locale>
+		<asset>true</asset>
+	</service>
+	
+</services>
+	
+</services>
