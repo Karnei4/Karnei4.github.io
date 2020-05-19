@@ -31,7 +31,7 @@
 # Ott-Player: https://bit.do/karnei4#.XML
 - **[t.me/Karnei4](https://t.me/Karnei4)**
 - **[Наш DISCORD Чат IPTV-RU](https://discord.gg/E7xAqsK)**
-- **[ВКантакте Radio EBM [IPTV-Karnei4](https://vk.com/club191937709)**
+- **[ВКантакте Radio EBM IPTV-Karnei4](https://vk.com/club191937709)**
 
 
 
@@ -166,4 +166,4 @@ Google Play: https://play.google.com/store/apps/details?id=de.battlestr1k3.radio
 
 
 
-2019г Karnei4 IPTV. Отдельная Благодарность Сергею Юшкевичу за Помощь в моих проектах! И всем кто мне помогал!
+2020г Karnei4 IPTV. Отдельная Благодарность Сергею Юшкевичу, Sky Life за Помощь в моих проектах! И всем кто мне помогал!
