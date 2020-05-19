@@ -29,7 +29,9 @@
  
 # Fork: https://bit.do/karnei4
 # Ott-Player: https://bit.do/karnei4#.XML
+- **[t.me/Karnei4](https://t.me/Karnei4)**
 - **[Наш DISCORD Чат IPTV-RU](https://discord.gg/E7xAqsK)**
+- **[ВКантакте Radio EBM [IPTV-Karnei4](https://vk.com/club191937709)**
 
 
 
