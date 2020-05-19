@@ -2,6 +2,13 @@
 
 <p align="center"><img src="https://besplatka.ua/aws/54/55/21/14/predostavlyayu-uslugi-iptv-400-kanalov--kanaly--18-photo-ee41.jpg" width="400"></p>
 
+
+## Коллекция полезных ссылок для IPTV (для ПК )
+
+- **[Полезные IPTV ссылки:](https://karnei4.github.io/IPTV-RU/index.html)**
+
+
+
 ## Смотреть IPTV для всех плееров
 
 #     =====ПЛЕЙЛИСТ===== 
