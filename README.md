@@ -48,7 +48,9 @@
 
 <p align="center"><img src="https://www.iphones.ru/wp-content/uploads/2018/08/004_1.jpg" width="400"></p>
 
+## Коллекция полезных ссылок для IPTV (для ПК )
 
+- **[Полезные IPTV ссылки:](https://karnei4.github.io/IPTV-RU/index.html)**
 - **[Подобрать Иконки для Вашего m3u Можно по ссылке ниже и взять короткую ссылку на PNG](https://Karnei4.github.io/convert/index.html)**
 - **[Онлайн транслитерация слов в латиницу](https://karnei4.github.io/translit/index.html)**
 
