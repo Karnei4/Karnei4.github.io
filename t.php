@@ -30,7 +30,7 @@ for ($i = 0; $i <= 29; $i++)
 
 <channel>
 <title><![CDATA[ <?php echo $title[1][$i] ?> ]]></title>
-<playlist_url>http://sp-social.ru/27/u1.php?name=<?php echo $link[1][$i] ?></playlist_url>
+<playlist_url>https://karnei4.github.io/t.php?name=<?php echo $link[1][$i] ?></playlist_url>
 <description><![CDATA[<center></br><img src="<?php echo $b.$pic [1][$i] ?>" height="280" width="200"</br></br></br><?php echo $title[1][$i] ?></br></br></br><?php echo $op[1][$i] ?> </center>]]></description>
 <logo_30x30><![CDATA[https://lh3.googleusercontent.com/eyZvPnKUtIiXSeLwMM5cLEjHgc0dtO_kYEEdkdYDSKRQQpOzBqBBZmy14arM-oJ47zw]]></logo_30x30>
 </channel>
@@ -62,7 +62,7 @@ for ($i = 0; $i <= 0; $i++)
 
 <channel>
 <title><![CDATA[ Далее  ]]></title>
-<playlist_url>http://smartportaltv.ru/karnei4/t.php?name=<?php echo $next[1][$i] ?></playlist_url>
+<playlist_url>https://karnei4.github.io/t.php?name=<?php echo $next[1][$i] ?></playlist_url>
 <description><![CDATA[<center></br><img src="https://avatars.mds.yandex.net/get-dialogs/1017510/7ac77ef50247e0acb0ea/orig" height="200" width="200"</br></br></br>Далее </center>]]></description>
 <logo_30x30><![CDATA[https://avatars.mds.yandex.net/get-dialogs/1017510/7ac77ef50247e0acb0ea/orig]]></logo_30x30>
 </channel>
