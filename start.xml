@@ -2,42 +2,42 @@
 <items>
 <channel>
 <title><![CDATA[Фильмы]]></title>
-<stream_url><![CDATA[https://dl.dropbox.com/s/w6yx1y2821fx1hk/Films.xml]]></stream_url>
+<playlist_url><![CDATA[https://dl.dropbox.com/s/w6yx1y2821fx1hk/Films.xml]]></playlist_url>
 <description><![CDATA[<center></br><img src="https://iconizer.net/files/Qure_for_Adobe_Creative_Suite/orig/Adobe-Media-Player_cs3.png" height="200" width="200"/></br></br></br>Фильмы категории</center>]]></description>
 <logo_30x30><![CDATA[https://cdn-images-1.medium.com/max/1200/1*NBqeQChxrAqbV-uAbQKFMQ.jpeg]]></logo_30x30>
 </channel>
 
 <channel>
 <title><![CDATA[Фильмы - сборка]]></title>
-<stream_url><![CDATA[https://dl.dropbox.com/s/ybxotm9kbn0alti/PlayList-Karnei4-FULL-M3U-21225.m3u]]></stream_url>
+<playlist_url><![CDATA[https://dl.dropbox.com/s/ybxotm9kbn0alti/PlayList-Karnei4-FULL-M3U-21225.m3u]]></playlist_url>
 <description><![CDATA[<center></br><img src="https://iconizer.net/files/Qure_for_Adobe_Creative_Suite/orig/Adobe-Media-Player_cs3.png" height="200" width="200"/></br></br></br>Фильмы сборка</center>]]></description>
 <logo_30x30><![CDATA[https://cdn-images-1.medium.com/max/1200/1*NBqeQChxrAqbV-uAbQKFMQ.jpeg]]></logo_30x30>
 </channel>
 
 <channel>
 <title><![CDATA[Сериалы]]></title>
-<stream_url><![CDATA[https://dl.dropbox.com/s/blw8ki5p7zjzqmv/Serials.xml]]></stream_url>
+<playlist_url><![CDATA[https://dl.dropbox.com/s/blw8ki5p7zjzqmv/Serials.xml]]></playlist_url>
 <description><![CDATA[<center></br><img src="https://iconizer.net/files/Qure_for_Adobe_Creative_Suite/orig/Adobe-Media-Player_cs3.png" height="200" width="200"/></br></br></br>Сериалы категории</center>]]></description>
 <logo_30x30><![CDATA[https://cdn-images-1.medium.com/max/1200/1*NBqeQChxrAqbV-uAbQKFMQ.jpeg]]></logo_30x30>
 </channel>
 
 <channel>
 <title><![CDATA[Мультфильмы]]></title>
-<stream_url><![CDATA[https://dl.dropbox.com/s/ay0zsqnu7ds7jnr/Mults.xml]]></stream_url>
+<playlist_url><![CDATA[https://dl.dropbox.com/s/ay0zsqnu7ds7jnr/Mults.xml]]></playlist_url>
 <description><![CDATA[<center></br><img src="https://iconizer.net/files/Qure_for_Adobe_Creative_Suite/orig/Adobe-Media-Player_cs3.png" height="200" width="200"/></br></br></br>Мультфильмы категории</center>]]></description>
 <logo_30x30><![CDATA[https://cdn-images-1.medium.com/max/1200/1*NBqeQChxrAqbV-uAbQKFMQ.jpeg]]></logo_30x30>
 </channel>
 
 <channel>
 <title><![CDATA[Музыка - Радио]]></title>
-<stream_url><![CDATA[https://dl.dropbox.com/s/ajv6enseb9pe3ba/kinobase.json]]></stream_url>
+<playlist_url><![CDATA[https://dl.dropbox.com/s/ajv6enseb9pe3ba/kinobase.json]]></playlist_url>
 <description><![CDATA[<center></br><img src="https://iconizer.net/files/Qure_for_Adobe_Creative_Suite/orig/Adobe-Media-Player_cs3.png" height="200" width="200"/></br></br></br>Музыка ZK.FM</center>]]></description>
 <logo_30x30><![CDATA[https://cdn-images-1.medium.com/max/1200/1*NBqeQChxrAqbV-uAbQKFMQ.jpeg]]></logo_30x30>
 </channel>
 
 <channel>
 <title><![CDATA[Выход из виджета EXIT]]></title>
-<stream_url><![CDATA[EXIT]]></stream_url>
+<playlist_url><![CDATA[EXIT]]></playlist_url>
 <description><![CDATA[<center></br><img src="https://Karnei4.github.io/s/png/exit.gif" height="200" width="200"/></br></br></br>EXIT</center>]]></description>
 <logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
 </channel>
