@@ -8,13 +8,6 @@
 </channel>
 
 <channel>
-<title><![CDATA[Фильмы - сборка]]></title>
-<playlist_url><![CDATA[https://dl.dropbox.com/s/ybxotm9kbn0alti/PlayList-Karnei4-FULL-M3U-21225.m3u]]></playlist_url>
-<description><![CDATA[<center></br><img src="https://iconizer.net/files/Qure_for_Adobe_Creative_Suite/orig/Adobe-Media-Player_cs3.png" height="200" width="200"/></br></br></br>Фильмы сборка</center>]]></description>
-<logo_30x30><![CDATA[https://cdn-images-1.medium.com/max/1200/1*NBqeQChxrAqbV-uAbQKFMQ.jpeg]]></logo_30x30>
-</channel>
-
-<channel>
 <title><![CDATA[Сериалы]]></title>
 <playlist_url><![CDATA[https://dl.dropbox.com/s/blw8ki5p7zjzqmv/Serials.xml]]></playlist_url>
 <description><![CDATA[<center></br><img src="https://iconizer.net/files/Qure_for_Adobe_Creative_Suite/orig/Adobe-Media-Player_cs3.png" height="200" width="200"/></br></br></br>Сериалы категории</center>]]></description>
@@ -36,10 +29,10 @@
 </channel>
 
 <channel>
-<title><![CDATA[Выход из виджета EXIT]]></title>
-<playlist_url><![CDATA[EXIT]]></playlist_url>
-<description><![CDATA[<center></br><img src="https://Karnei4.github.io/s/png/exit.gif" height="200" width="200"/></br></br></br>EXIT</center>]]></description>
-<logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
+<title><![CDATA[Музыка 80Х-90Х]]></title>
+<playlist_url><![CDATA[https://dl.dropbox.com/s/c4u2lpqfnei7kj3/PlayList-HITS-80-90X-Karnei4-M3U.m3u]]></playlist_url>
+<description><![CDATA[<center></br><img src="https://iconizer.net/files/Qure_for_Adobe_Creative_Suite/orig/Adobe-Media-Player_cs3.png" height="200" width="200"/></br></br></br>Фильмы сборка</center>]]></description>
+<logo_30x30><![CDATA[https://cdn-images-1.medium.com/max/1200/1*NBqeQChxrAqbV-uAbQKFMQ.jpeg]]></logo_30x30>
 </channel>
 
 </items>
