@@ -74,6 +74,10 @@ https://cdn.discordapp.com/attachments/716235283498008643/730903812130471947/onl
 https://cdn.discordapp.com/attachments/716235283498008643/723598938141097984/The-Cinema.IMC.zip
 #EXTINF:-1 tvg-logo="",EX-FS.NET
 https://cdn.discordapp.com/attachments/708000911158411285/726430683748237373/ex-fs.IMC.zip
+#EXTINF:-1 tvg-logo="",loveserial3
+https://cdn.discordapp.com/attachments/708000911158411285/735185647962292294/loveserial.IMC.zip
+#EXTINF:-1 tvg-logo="",JOYFilM.IMC.zip
+https://cdn.discordapp.com/attachments/708000911158411285/734858882458845295/JOYFilM.IMC.zip
 #EXTINF:-1 tvg-logo="",HDkino
 https://dl.dropbox.com/s/mulllz4ka3gn4jp/HDkino1.IMC.zip
 #EXTINF:-1 tvg-logo="",OctopuS
@@ -88,16 +92,13 @@ https://cdn.discordapp.com/attachments/685792252089597977/731607056250830948/zom
 https://cdn.discordapp.com/attachments/739384599171301407/739525638863716372/filmixNew.IMC.zip
 #EXTINF:-1 tvg-logo="",FilmUA.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/730798849895170180/FilmUA.IMC.zip
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bnsiwigioxgjgtd/icon.png",KINOPROFI
+#EXTINF:-1 tvg-logo="",KINOPROFI
 https://cdn.discordapp.com/attachments/739384599171301407/739546586308149298/Kinoprofi.IMC.zip
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bnsiwigioxgjgtd/icon.png",Kinoprofi
+#EXTINF:-1 tvg-logo="",Kinoprofi
 https://cdn.discordapp.com/attachments/739384599171301407/739546619883815103/Kinoprofi.IMC.zip
 #EXTINF:-1 tvg-logo="",Sesonvar.IMC.zip
-https://dl.dropbox.com/s/htorvesudqw3k38/Sesonvar.IMC.zip
-#EXTINF:-1 tvg-logo="",loveserial3
-https://cdn.discordapp.com/attachments/708000911158411285/735185647962292294/loveserial.IMC.zip
-#EXTINF:-1 tvg-logo="",JOYFilM.IMC.zip
-https://cdn.discordapp.com/attachments/708000911158411285/734858882458845295/JOYFilM.IMC.zip
+https://cdn.discordapp.com/attachments/739384599171301407/739548003282583753/Sesonvar.IMC.zip
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8916u34rqrbqoc5/icon.png",KINOKRAD
 https://dl.dropbox.com/s/v4x6ti5gwcx31w3/Kinokrad.IMC.zip
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8916u34rqrbqoc5/icon.png",Kinokrad
