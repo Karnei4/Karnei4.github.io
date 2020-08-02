@@ -13,7 +13,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EW)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",FTP
 https://dl.dropbox.com/s/9hxkoa914uiny4v/FTP.m3u
-#EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",NSERV.HOST 
+#EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",NSERV 
 https://dl.dropbox.com/s/m6ji3imc4a6d1uk/nserv.IMC.zip
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",PLUGINS
 https://dl.dropbox.com/s/56m5sqzda71pj2j/PLUGINS.m3u
@@ -38,9 +38,9 @@ https://cdn.discordapp.com/attachments/716235283498008643/738484600354897982/mul
 https://cdn.discordapp.com/attachments/716235283498008643/739164342108291122/multikgo.IMC.zip
 #EXTINF:-1 tvg-logo="",cinema-24.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/739164292028301352/cinema-24.IMC.zip
-
-
 #EXTINF:-1 tvg-logo="",2dok-film.IMC.zip
+https://cdn.discordapp.com/attachments/716235283498008643/739451759591948288/DokFilms.IMC.zip
+#EXTINF:-1 tvg-logo="",DokFilms.IMC.zip
 https://cdn.discordapp.com/attachments/708000911158411285/738485506395996171/2dok-film.IMC.zip
 #EXTINF:-1 tvg-logo="",Kino-Horror.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/737245770855481404/kino-horror.IMC.zip
