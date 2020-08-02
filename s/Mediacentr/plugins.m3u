@@ -3,6 +3,8 @@
 https://cdn.discordapp.com/attachments/739384599171301407/739415663205941268/Karnei4-IPTV.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417815202791424/icon.png",ПОИСК
 https://cdn.discordapp.com/attachments/739384599171301407/739477059495002212/nservNew.IMC.zip
+#EXTINF:-1 tvg-logo="",Spider TOP
+https://cdn.discordapp.com/attachments/708000911158411285/715293532348350530/spiderTOP.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739416566004711434/icon.png",ЧАТ
 https://cdn.discordapp.com/attachments/739384599171301407/739416998546505728/4at.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png",Karnei4 PORTAL
@@ -74,14 +76,8 @@ https://cdn.discordapp.com/attachments/739384599171301407/739511122453069924/nse
 https://cdn.discordapp.com/attachments/739384599171301407/739492498283692162/HDrezka.IMC.zip
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/zombie/zombie.jpg",Zombie Film
 https://cdn.discordapp.com/attachments/685792252089597977/731607056250830948/zombie.IMC.zip
-#EXTINF:-1 tvg-logo="",yapfiles.IMC.zip (тест)
-https://cdn.discordapp.com/attachments/708000911158411285/715293573154734210/yapfiles.IMC.zip
-#EXTINF:-1 tvg-logo="",spiderTOP.IMC.zip (тест)
-https://cdn.discordapp.com/attachments/708000911158411285/715293532348350530/spiderTOP.IMC.zip
-#EXTINF:-1 tvg-logo="",kinopoisk.IMC.zip (тест)
-https://cdn.discordapp.com/attachments/708000911158411285/715293487951773726/kinopoisk.IMC.zip
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gvjybfzw67hdpen/icon.png",FILMIX (New)
-https://dl.dropbox.com/s/l8p16aatg1ny995/filmixNew.IMC.zip
+https://cdn.discordapp.com/attachments/739384599171301407/739525638863716372/filmixNew.IMC.zip
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gw2jjc0hhj7cgjl/icon.png",Radio Browser
 https://dl.dropbox.com/s/3qnyipbmcabhj3t/radio-browser.IMC.zip
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bnsiwigioxgjgtd/icon.png",KINOPROFI
