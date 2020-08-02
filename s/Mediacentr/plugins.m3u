@@ -17,6 +17,8 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/ftp.m3u
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",NSERV 
 http://files.iconbit.com/IMC/nserv.IMC.zip
+#EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",Cooltv
+https://cdn.discordapp.com/attachments/716235283498008643/721090399560532049/COOLTV.IMC.zip
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",PLUGINS
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/folder-plugins.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",MUZ.IMC.zip
@@ -70,14 +72,8 @@ https://dl.dropbox.com/s/4so48avfkwgvtct/Octopus.IMC.zip
 https://cdn.discordapp.com/attachments/739384599171301407/739511122453069924/nserv-host.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417445135024180/icon.png",HDrezka
 https://cdn.discordapp.com/attachments/739384599171301407/739492498283692162/HDrezka.IMC.zip
-#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/nserv.png",nserv.host
-https://dl.dropbox.com/s/rxknq8bd0dpewcb/nserv-host.IMC.zip
-#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/movie60fps.png",60 FPS
-https://dl.dropbox.com/s/75u5wa8mh4hgy2h/nservNew.1.IMC.zip
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/zombie/zombie.jpg",Zombie Film
 https://cdn.discordapp.com/attachments/685792252089597977/731607056250830948/zombie.IMC.zip
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/mfw85cx4lmgo71u/unnamed.png",Cooltv
-https://cdn.discordapp.com/attachments/716235283498008643/721090399560532049/COOLTV.IMC.zip
 #EXTINF:-1 tvg-logo="",yapfiles.IMC.zip (тест)
 https://cdn.discordapp.com/attachments/708000911158411285/715293573154734210/yapfiles.IMC.zip
 #EXTINF:-1 tvg-logo="",spiderTOP.IMC.zip (тест)
