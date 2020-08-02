@@ -14,7 +14,7 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",FTP
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/ftp.m3u
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",NSERV 
-https://dl.dropbox.com/s/m6ji3imc4a6d1uk/nserv.IMC.zip
+http://files.iconbit.com/IMC/nserv.IMC.zip
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",PLUGINS
 https://dl.dropbox.com/s/56m5sqzda71pj2j/PLUGINS.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",MUZ.IMC.zip
