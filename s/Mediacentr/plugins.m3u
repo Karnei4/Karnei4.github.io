@@ -12,7 +12,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",IPTV-RU https://discord.gg/E7xAqsK
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EW)/index.m3u8
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",FTP
-https://dl.dropbox.com/s/9hxkoa914uiny4v/FTP.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/ftp.m3u
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",NSERV 
 https://dl.dropbox.com/s/m6ji3imc4a6d1uk/nserv.IMC.zip
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",PLUGINS
