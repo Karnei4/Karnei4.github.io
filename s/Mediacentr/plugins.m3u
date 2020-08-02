@@ -7,16 +7,15 @@ https://cdn.discordapp.com/attachments/739384599171301407/739477059495002212/nse
 https://cdn.discordapp.com/attachments/708000911158411285/715293532348350530/spiderTOP.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739416566004711434/icon.png",ЧАТ
 https://cdn.discordapp.com/attachments/739384599171301407/739416998546505728/4at.IMC.zip
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png",Karnei4 PORTAL
-https://cdn.discordapp.com/attachments/708000911158411285/730417142217834576/Karnei4-IPTV.IMC.zip
+
 #EXTINF:-1 tvg-logo="http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png",Сборка Karnei4
 https://ruvod.com/wp-content/uploads/2019/02/0CSsc2SA.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/706114419045695558/1_sleep_timer_turn_music_off_w176.png",RELAX
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",IPTV-RU https://discord.gg/E7xAqsK
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EW)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",FTP
-https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/ftp.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png",Karnei4 PORTAL
+https://cdn.discordapp.com/attachments/708000911158411285/730417142217834576/Karnei4-IPTV.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png",NSERV 
 http://files.iconbit.com/IMC/nserv.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png",CoolTV
@@ -25,6 +24,8 @@ https://cdn.discordapp.com/attachments/716235283498008643/721090399560532049/COO
 https://cdn.discordapp.com/attachments/716235283498008643/728970256646668348/kinoboom.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png",Smart Portal
 https://cdn.discordapp.com/attachments/716235283498008643/739509562255605771/Smart-PortalTV.IMC.zip
+#EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",FTP
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/ftp.m3u
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",PLUGINS
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/folder-plugins.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Музыка DJ
