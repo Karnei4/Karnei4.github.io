@@ -23,9 +23,10 @@ http://files.iconbit.com/IMC/nserv.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/721090399560532049/COOLTV.IMC.zip
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",PLUGINS
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/folder-plugins.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",MUZ.IMC.zip
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Музыка DJ
 https://cdn.discordapp.com/attachments/739384599171301407/739438521336725554/MUZ.IMC.zip
-
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",RADIO
+https://cdn.discordapp.com/attachments/739384599171301407/739527389796630659/radio-browser.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Music TV
 https://iptv-org.github.io/iptv/categories/music.m3u
 #EXTINF:-1 tvg-logo="",TV Провайдера
@@ -76,7 +77,7 @@ https://cdn.discordapp.com/attachments/739384599171301407/739511122453069924/nse
 https://cdn.discordapp.com/attachments/739384599171301407/739492498283692162/HDrezka.IMC.zip
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/zombie/zombie.jpg",Zombie Film
 https://cdn.discordapp.com/attachments/685792252089597977/731607056250830948/zombie.IMC.zip
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gvjybfzw67hdpen/icon.png",FILMIX (New)
+#EXTINF:-1 tvg-logo="",FILMIX
 https://cdn.discordapp.com/attachments/739384599171301407/739525638863716372/filmixNew.IMC.zip
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gw2jjc0hhj7cgjl/icon.png",Radio Browser
 https://dl.dropbox.com/s/3qnyipbmcabhj3t/radio-browser.IMC.zip
