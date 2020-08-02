@@ -54,14 +54,10 @@ https://cdn.discordapp.com/attachments/708000911158411285/737387746783526922/Kin
 https://cdn.discordapp.com/attachments/716235283498008643/736511009870577674/kinotazz.IMC.zip
 #EXTINF:-1 tvg-logo="",OXKiNO.IMC.zip
 https://cdn.discordapp.com/attachments/708000911158411285/736188760651333702/OXKiNO.IMC.zip
-#EXTINF:-1 tvg-logo="",newtv.su.IMC.zip
-https://cdn.discordapp.com/attachments/716235283498008643/730903379949125754/newtv.su.IMC.zip
 #EXTINF:-1 tvg-logo="",onlyxml.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/730903812130471947/onlyxml.IMC.zip
-#EXTINF:-1 tvg-logo="",mzona.IMC.zip
-https://cdn.discordapp.com/attachments/716235283498008643/730928133619974184/mzona.IMC.zip
-#EXTINF:-1 tvg-logo="",SmartPortalTV
-https://dl.dropbox.com/s/tqmz0zvck47njuv/Smart-PortalTV.IMC.zip
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png",SmartPortalTV
+https://cdn.discordapp.com/attachments/716235283498008643/739509562255605771/Smart-PortalTV.IMC.zip
 #EXTINF:0 tvg-logo="",The-Cinema
 https://cdn.discordapp.com/attachments/716235283498008643/723598938141097984/The-Cinema.IMC.zip
 #EXTINF:-1 tvg-logo="",EX-FS.NET
@@ -70,9 +66,9 @@ https://cdn.discordapp.com/attachments/708000911158411285/726430683748237373/ex-
 https://dl.dropbox.com/s/mulllz4ka3gn4jp/HDkino1.IMC.zip
 #EXTINF:-1 tvg-logo="",OctopuS
 https://dl.dropbox.com/s/4so48avfkwgvtct/Octopus.IMC.zip
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3mebk423du2lb56/icon.png",HDREZKA
-https://dl.dropbox.com/s/v0j6va3dsghl5ad/nserv-host.IMC.zip
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3mebk423du2lb56/icon.png",HDrezka
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417445135024180/icon.png",HDREZKA
+https://cdn.discordapp.com/attachments/739384599171301407/739511122453069924/nserv-host.IMC.zip
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417445135024180/icon.png",HDrezka
 https://cdn.discordapp.com/attachments/739384599171301407/739492498283692162/HDrezka.IMC.zip
 #EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/nserv.png",nserv.host
 https://dl.dropbox.com/s/rxknq8bd0dpewcb/nserv-host.IMC.zip
