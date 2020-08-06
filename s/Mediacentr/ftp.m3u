@@ -29,5 +29,7 @@ ftp://89.179.246.247/VIDEO/TaleSpin/
 ftp://95.82.248.32/MP3/
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/679612289938227332/719946578210848828/im_type_hdd.png",Music
 ftp://ftp.rasla.ru/Music/
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/679612289938227332/719946578210848828/im_type_hdd.png",Music
+ftp://wave:downloadcd@bizon.no-ip.biz/
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/679612289938227332/719946578210848828/im_type_hdd.png",lostclus.kiev.ua
 ftp://ftp.lostclus.kiev.ua/pub/
