@@ -48,12 +48,12 @@ https://iptv-org.github.io/iptv/categories/music.m3u
 https://cdn.discordapp.com/attachments/739384599171301407/739435339961073744/vintera_smart.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739442397964140664/icon.png",z1.fm
 https://cdn.discordapp.com/attachments/739385689283756052/739444796648849448/zk.fm.IMC.zip
-#EXTINF:-1 tvg-logo="",MEGA Film
-https://cdn.discordapp.com/attachments/739384599171301407/740173633426554970/Karnei4_Film_FULL.IMC.zip
 #EXTINF:-1 tvg-logo="",OTRIVA.net.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/739000418297839627/otriva.IMC.zip
 #EXTINF:-1 tvg-logo="",MirClipoV.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/739000227184377906/mirclipov.IMC.zip
+#EXTINF:-1 tvg-logo="",MegaPesni.IMC.zip
+https://cdn.discordapp.com/attachments/716235283498008643/741729463955619882/megapesni.IMC.zip
 #EXTINF:-1 tvg-logo="",Yandex.IMC.zip
 https://cdn.discordapp.com/attachments/739384599171301407/739423684699095110/Yandex.IMC.zip
 #EXTINF:-1 tvg-logo="",multfilmi.IMC.zip
