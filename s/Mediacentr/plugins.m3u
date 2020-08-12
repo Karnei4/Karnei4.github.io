@@ -42,6 +42,12 @@ https://cdn.discordapp.com/attachments/739384599171301407/739527389796630659/rad
 https://cdn.discordapp.com/attachments/739384599171301407/739529667178004610/espradio.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Radio TopPlay
 https://topplay.do.am/RadioTopPlay.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Music TV
+https://iptv-org.github.io/iptv/categories/music.m3u
+#EXTINF:-1 tvg-logo="",TV Провайдера
+https://cdn.discordapp.com/attachments/739384599171301407/739435339961073744/vintera_smart.IMC.zip
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739442397964140664/icon.png",z1.fm
+https://cdn.discordapp.com/attachments/739385689283756052/739444796648849448/zk.fm.IMC.zip
 #EXTINF:-1 tvg-logo="",megapesni
 https://cdn.discordapp.com/attachments/716235283498008643/741729463955619882/megapesni.IMC.zip
 #EXTINF:-1 tvg-logo="",mp3-music club
@@ -51,12 +57,6 @@ https://cdn.discordapp.com/attachments/716235283498008643/742715126423093318/Kni
 #EXTINF:-1 tvg-logo="",ofxhd
 https://cdn.discordapp.com/attachments/716235283498008643/743006020090986526/ofxhd.IMC.zip
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Music TV
-https://iptv-org.github.io/iptv/categories/music.m3u
-#EXTINF:-1 tvg-logo="",TV Провайдера
-https://cdn.discordapp.com/attachments/739384599171301407/739435339961073744/vintera_smart.IMC.zip
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739442397964140664/icon.png",z1.fm
-https://cdn.discordapp.com/attachments/739385689283756052/739444796648849448/zk.fm.IMC.zip
 #EXTINF:-1 tvg-logo="",OTRIVA.net.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/739000418297839627/otriva.IMC.zip
 #EXTINF:-1 tvg-logo="",MirClipoV.IMC.zip
