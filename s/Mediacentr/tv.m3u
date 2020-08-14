@@ -9,38 +9,42 @@ http://online.radiorecord.ru:8102/sd90_128#.mp3
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava-FREE
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUMULTZALHD.png", 01 - Все мульты
-https://5656.ga/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUFUN.png", 02 - Все сериалы
-https://5656.ga/ch2.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUFUN.png", 03 - Другие сериалы
-https://5656.ga/ch3.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUFANTASTICHD.png", 04 - X-Files
-https://5656.ga/ch4.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png", 05 - Полный метр
-https://5656.ga/ch5.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png", 06 - Полный метр
-https://5656.ga/ch6.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png", 07 - Полный метр
-https://5656.ga/ch7.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png", 08 - Полный метр
-https://5656.ga/ch8.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUMULTZALHD.png", 09 - Популярные мульты и сериалы вместе
-https://5656.ga/ch9.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCOMEDYHD.png", 10 - Друзья
-https://5656.ga/ch10.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUFUN.png", 11 - Еще сериалы
-https://5656.ga/ch11.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUFUN.png", 12 - И еще сериалы
-https://5656.ga/ch12.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png", 13 - Больше каналов с фильмами
-https://5656.ga/ch13.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png", 14 - Больше каналов с фильмами
-https://5656.ga/ch14.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUFUN.png", 15 - Непопулярные сериалы
-https://5656.ga/ch15.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUFUN.png", 16 - Непопулярные сериалы
-https://5656.ga/ch16.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUMULTZALHD.png",Американский папаша
+https://5656.ga//ch1.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCOMEDYHD.png",Бывает и хуже
+https://5656.ga//ch2.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCOMEDYHD.png",ТВ3 Альф
+https://5656.ga//ch3.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUFANTASTICHD.png",X-Files
+https://5656.ga//ch4.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png",Фильмы полный метр
+https://5656.ga//ch5.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png",Фильмы полный метр
+https://5656.ga//ch6.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png",Фильмы полный метр
+https://5656.ga//ch7.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png",Фильмы полный метр
+https://5656.ga//ch8.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUMULTZALHD.png",Симпсоны
+https://5656.ga//ch9.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCOMEDYHD.png",Друзья
+https://5656.ga//ch10.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUFILMYSTICHD.png",Американская история ужасов
+https://5656.ga//ch11.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUKINORATINGHD.png",Доктор Хаус
+https://5656.ga//ch12.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png",Фильмы полный метр
+https://5656.ga//ch13.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCINEMAHD.png",Фильмы полный метр
+https://5656.ga//ch14.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCOMEDYHD.png",Modern Family
+https://5656.ga//ch15.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUCOMEDYHD.png",How Not to Live Your Life
+https://5656.ga//ch16.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUKINORATINGHD.png",Сериал-Касл от Lostfilm.TV
+https://5656.ga//ch17.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/BCUVHSHD.png",Сериал-Клан Сопрано
+https://5656.ga//ch18.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",KINOKRAD
