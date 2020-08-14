@@ -8,8 +8,51 @@ http://online.radiorecord.ru:8102/sd90_128#.mp3
 
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava-FREE
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
-#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png",5656.ga
-https://5656.ga/ach1.m3u
+
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 01 - Все мульты
+https://5656.ga/ch1.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 02 - Все сериалы
+https://5656.ga/ch2.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 03 - Другие сериалы
+https://5656.ga/ch3.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 04 - X-Files
+https://5656.ga/ch4.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 05 - Полный метр
+https://5656.ga/ch5.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 06 - Полный метр
+https://5656.ga/ch6.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 07 - Полный метр
+https://5656.ga/ch7.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 08 - Полный метр
+https://5656.ga/ch8.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 09 - Популярные мульты и сериалы вместе
+https://5656.ga/ch9.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 10 - Друзья
+https://5656.ga/ch10.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 11 - Еще сериалы
+https://5656.ga/ch11.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 12 - И еще сериалы
+https://5656.ga/ch12.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 13 - Больше каналов с фильмами
+https://5656.ga/ch13.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 14 - Больше каналов с фильмами
+https://5656.ga/ch14.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 15 - Непопулярные сериалы
+https://5656.ga/ch15.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png", 16 - Непопулярные сериалы
+https://5656.ga/ch16.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",KINOKRAD
 https://dl.dropbox.com/s/swtz2t2ndmn2zlf/kinokrad.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Megogo VOD
@@ -99,6 +142,15 @@ https://dl.dropbox.com/s/2r1xg13n3i9u6nu/FS16.m3u
 https://dl.dropbox.com/s/opyvsqr92tcbyb1/FS17.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Fantasy-Movies.png",Фэнтези 
 https://dl.dropbox.com/s/9nl0o2o7x3qn2y4/FS18.m3u
+
+#--- Спорт:#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",
+#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",Яндекс спорт 1
+https://dl.dropbox.com/s/zprf67orom77pcf/Sport1.m3u
+#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",Яндекс спорт 2
+https://dl.dropbox.com/s/dr425o0d8pat78y/Sport2.m3u
+#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",Яндекс спорт 3
+https://dl.dropbox.com/s/z1jotim62l9lio7/Sport3.m3u
+
 #--- Музыка:#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (0-9-A-B)
 https://dl.dropbox.com/s/p0gj57qdnd0qwxu/Muz0.m3u
@@ -132,11 +184,77 @@ https://dl.dropbox.com/s/udtaywbcc2hvso8/Muz13.m3u
 https://dl.dropbox.com/s/ctwvtcd7bxno8jq/Muz14.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (Танцевальная)
 https://dl.dropbox.com/s/ppushi7mjguuc5t/Muz15.m3u
-#--- Спорт:#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",Яндекс спорт 1
-https://dl.dropbox.com/s/zprf67orom77pcf/Sport1.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",Яндекс спорт 2
-https://dl.dropbox.com/s/dr425o0d8pat78y/Sport2.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",Яндекс спорт 3
-https://dl.dropbox.com/s/z1jotim62l9lio7/Sport3.m3u
 
+
+#EXTINF:-1,Virgin Radio
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EW)/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Underground
+http://www.djing.com/tv/underground.m3u8?version=2
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",DJing Wild EDM HD
+http://www.djing.com/tv/session_wild-edm.m3u8?version=2
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Ibiza
+http://www.djing.com/tv/dancefloor.m3u8?version=2
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing DJS HD
+https://www.djing.com/tv/k-27838-05.m3u8?version=2 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Electro Rock HD
+http://www.djing.com/tv/session_electro-rock.m3u8?version=2 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Animation
+http://www.djing.com/tv/animation.m3u8?version=2 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Classic
+http://www.djing.com/tv/hits.m3u8?version=2  
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing French touch HD
+http://www.djing.com/tv/session_french-touch.m3u8?version=2 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",DJing Hedonist HD
+https://www.djing.com/tv/session_hedonist.m3u8?version=2  
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Karaoke HD
+http://www.djing.com/tv/karaoke.m3u8?version=2 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Summer Vibes HD
+http://www.djing.com/tv/session_summer-vibes.m3u8?version=2 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing TV
+http://www.djing.com/tv/live.m3u8?version=2 
+
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by 4K
+http://rtmp.one.by:1499
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by Россия HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Classic Rock
+http://ott-linear-channels.stingray.com/hls/mxplayer/101.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Rock Alternative  
+http://ott-linear-channels.stingray.com/hls/mxplayer/102.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Pop Adult        
+http://ott-linear-channels.stingray.com/hls/mxplayer/104.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Hit List    
+http://ott-linear-channels.stingray.com/hls/mxplayer/107.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Hot Country      
+http://ott-linear-channels.stingray.com/hls/mxplayer/108.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Flashback 70x
+http://ott-linear-channels.stingray.com/hls/mxplayer/115.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Remember The '80s 
+http://ott-linear-channels.stingray.com/hls/mxplayer/128.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Greatest Hits
+http://ott-linear-channels.stingray.com/hls/mxplayer/133.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Today's Latin Pop 
+http://ott-linear-channels.stingray.com/hls/mxplayer/190.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Karaoke     
+http://ott-linear-channels.stingray.com/hls/mxplayer/karaoke.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Karaoke 1920x1080
+https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Qello Concerts
+http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://pbs.twimg.com/profile_images/890551000368599040/K_3bTsYk_400x400.jpg",Rathergood Dance Classics
+https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODDANCECLASSICS-001/1/CLOUDIETV-RATHERGOODDANCECLASSICS-001.m3u8?profID=22&n=1&ctype=0&adsid=AXMQe6tis4iHKlSMYaYC&chname=CLOUDIETV-RATHERGOODDANCECLASSICS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=10.20.30.48%3A8081
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://pbs.twimg.com/profile_images/890551000368599040/K_3bTsYk_400x400.jpg",Rathergood Movie Music
+https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODMOVIES-001/1/CLOUDIETV-RATHERGOODMOVIES-001.m3u8?profID=6&n=1&ctype=0&adsid=AXMQWiTGCwsazTJe-NTi&chname=CLOUDIETV-RATHERGOODMOVIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=10.20.30.48%3A8081
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://pbs.twimg.com/profile_images/890551000368599040/K_3bTsYk_400x400.jpg",Rathergood Vintage
+https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-VINTAGEMUSICTV-001.m3u8?chname=CLOUDIETV-VINTAGEMUSICTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://pbs.twimg.com/profile_images/890551000368599040/K_3bTsYk_400x400.jpg",Rathergood 90's
+https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOOD90S-001.m3u8?chname=CLOUDIETV-RATHERGOOD90S-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://pbs.twimg.com/profile_images/890551000368599040/K_3bTsYk_400x400.jpg",Rathergood 00s
+https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODNOUGHTIES-001.m3u8?chname=CLOUDIETV-RATHERGOODNOUGHTIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
