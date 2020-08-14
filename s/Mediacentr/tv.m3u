@@ -6,14 +6,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.otzovik.com/objects/b/840000/833212.png",Супер Дискотека-90х
 http://online.radiorecord.ru:8102/sd90_128#.mp3
 
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava hls5
-http://zmpoxy.dedyn.io:2015/hls5_zmp_nd.m3u8
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava hls2
-http://zmpoxy.dedyn.io:2015/hls2_zmp_nd.m3u8
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava-FREE
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 #EXTINF:-1 tvg-logo="http://cdn.nserv.host/logo/catcast.png",5656.ga
-https://5656.ga/s.m3u
+https://5656.ga/ach1.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",KINOKRAD
 https://dl.dropbox.com/s/swtz2t2ndmn2zlf/kinokrad.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Megogo VOD
