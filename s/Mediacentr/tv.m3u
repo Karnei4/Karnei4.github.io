@@ -251,3 +251,7 @@ https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-VINTAGEMUSICTV-001.m3u8?chnam
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOOD90S-001.m3u8?chname=CLOUDIETV-RATHERGOOD90S-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://pbs.twimg.com/profile_images/890551000368599040/K_3bTsYk_400x400.jpg",Rathergood 00s
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODNOUGHTIES-001.m3u8?chname=CLOUDIETV-RATHERGOODNOUGHTIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=10.20.30.48%3A8081
+
+#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava Фильмы
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-playlist_FILMS_Kategoryi.m3u
+
