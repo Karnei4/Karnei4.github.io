@@ -47,7 +47,7 @@ https://5656.ga/ch18.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",KINOKRAD
-https://dl.dropbox.com/s/swtz2t2ndmn2zlf/kinokrad.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/kinokrad.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Megogo VOD
 https://cdn.discordapp.com/attachments/739385530558447639/739461860864032788/Megogo_VOD_1.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Фильмы (СССР)
