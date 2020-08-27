@@ -48,6 +48,14 @@ https://topplay.do.am/RadioTopPlay.m3u
 https://iptv-org.github.io/iptv/categories/music.m3u
 #EXTINF:-1 tvg-logo="",TV Провайдера
 https://cdn.discordapp.com/attachments/739384599171301407/739435339961073744/vintera_smart.IMC.zip
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/s/rzlychybunnhdbz/vintera.png",Vintera TV
+https://dl.dropbox.com/s/91ggi1gfrvi0lru/vintera_smart.IMC.zip
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/712328542284808273/recycle_bin_PNG59.png",Super Pomoyka
+https://91.92.66.82/trash/ttv-list/as.direct.m3u
+#EXTINF:-1 tvg-logo="",Glaz TV
+https://cdn.discordapp.com/attachments/716235283498008643/748427607825055805/glaz.IMC.zip
+#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",ЗАБАВА FREE
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739442397964140664/icon.png",z1.fm
 https://cdn.discordapp.com/attachments/739385689283756052/739444796648849448/zk.fm.IMC.zip
 #EXTINF:-1 tvg-logo="",Zaycev
@@ -242,16 +250,8 @@ https://cdn.discordapp.com/attachments/708000911158411285/711166624367116388/bob
 https://cdn.discordapp.com/attachments/680895323228733495/718437076693024769/2_5390900674852554512.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/680895323228733495/709083048368406578/logo_standarttv.png",Wifire TV - 2
 https://cdn.discordapp.com/attachments/678940378023329793/718503430288834690/2_5390900674852554763.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/712328542284808273/recycle_bin_PNG59.png",Super Pomoyka
-https://91.92.66.82/trash/ttv-list/as.direct.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u93mv7px00mkjub/youtube-free-music.jpg",Klips-Karnei4.m3u
-https://dl.dropbox.com/s/2pczlcjlqpmd52c/Klips-Karnei4.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/v3li5r27ty1vp8w/EBM.jpg",RadioEBM
-https://dl.dropbox.com/s/v9krd5lxv7skhtl/PlayList-Karnei4_Radio_EBM-M3U-10530.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gw2jjc0hhj7cgjl/icon.png",Radio 7777
-https://dl.dropbox.com/s/gsx5hkm5yl1cn2e/espradio.IMC.zip
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/s/rzlychybunnhdbz/vintera.png",Vintera TV
-https://dl.dropbox.com/s/91ggi1gfrvi0lru/vintera_smart.IMC.zip
+
+
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",oleg.cc.ua
 http://oleg.cc.ua/playlist_deooleg_tv_vip_muzykalnye_updated_yandextv_administrator_qazwsxed.wmw.m3u
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",smarttvapp.ru
@@ -340,8 +340,7 @@ https://dl.dropbox.com/s/uh66xgefanfucll/List%20of%20MP3%20files%20for%20Wimamp.
 https://cdn.discordapp.com/attachments/680857473854341130/687229154806071308/Karnei4-M3U-flac.m3u
 #EXTINF:-1 tvg-logo=https://dl.dropbox.com/s/29ebcc4ejm6unvo/flac.png","Vinil-Flac" @alexvolin
 https://dl.dropbox.com/s/hb6khev7l0j6ohv/Vinil_Flac.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pLFLyvn/00.png",Для души 2020💖
-https://dl.dropbox.com/s/a71tz9fjhzzu87l/youtube.m3u
+
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Enigma FlAC.m3u
 https://dl.dropbox.com/s/j0820pe9m9605ga/Enigma-album-flac-audio_no_save_Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",The Cranberries FlAC.m3u
