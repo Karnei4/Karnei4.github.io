@@ -56,6 +56,8 @@ https://91.92.66.82/trash/ttv-list/as.direct.m3u
 https://cdn.discordapp.com/attachments/716235283498008643/746721893750538310/5656.ga.IMC.zip
 #EXTINF:-1 tvg-logo="",Glaz TV
 https://cdn.discordapp.com/attachments/716235283498008643/748427607825055805/glaz.IMC.zip
+#EXTINF:-1 tvg-logo="",LimeHD
+https://cdn.discordapp.com/attachments/318459620618141696/748861004581961779/LimeHD.IMC.zip
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",ЗАБАВА FREE
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739442397964140664/icon.png",z1.fm
