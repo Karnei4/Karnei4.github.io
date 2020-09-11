@@ -80,11 +80,17 @@ https://cdn.discordapp.com/attachments/318459620618141696/752525374096932874/Dee
 https://cdn.discordapp.com/attachments/318459620618141696/752234335310184479/RSAmusic.IMC.zip
 #EXTINF:-1 tvg-logo="",pro100music
 https://cdn.discordapp.com/attachments/739790132932247655/752485413834195014/pro100music.IMC.zip
+#EXTINF:-1 tvg-logo="",Slow Rock
+https://cdn.discordapp.com/attachments/708000911158411285/754042526280712282/Slow_Rock.IMC.zip
 #EXTINF:-1 tvg-logo="",Radio Chanson
 https://cdn.discordapp.com/attachments/708000911158411285/752489295570534440/radiochanson.IMC.zip
+#EXTINF:-1 tvg-logo="",MELOMAN
+https://cdn.discordapp.com/attachments/708000911158411285/754042467002744972/MELOMAN.IMC.zip
 #EXTINF:-1 tvg-logo=https://dl.dropbox.com/s/29ebcc4ejm6unvo/flac.png","Vinil-Flac" @alexvolin
 https://dl.dropbox.com/s/hb6khev7l0j6ohv/Vinil_Flac.m3u
 
+#EXTINF:-1 tvg-logo="",Time to smile
+https://cdn.discordapp.com/attachments/708000911158411285/754042590923456542/Time_to_smile.IMC.zip
 #EXTINF:-1 tvg-logo="",FunTime
 https://cdn.discordapp.com/attachments/739384288256196653/753282879789727784/FunTime.IMC.zip
 #EXTINF:-1 tvg-logo="",Zёбра пушки
@@ -210,6 +216,10 @@ https://cdn.discordapp.com/attachments/739742290716786759/739742565917786132/Kar
 https://cdn.discordapp.com/attachments/739742290716786759/740501344380649523/Karnei4_Film_FULL.IMC.zip
 #EXTINF:-1 tvg-logo="",YouTube
 https://cdn.discordapp.com/attachments/739742290716786759/739742751242977300/Karnei4_YouTube.IMC.zip
+#EXTINF:-1 tvg-logo="",muz-tv
+https://cdn.discordapp.com/attachments/708000911158411285/754043647485542420/muz-tv.IMC.zip
+#EXTINF:-1 tvg-logo="",TNT
+https://cdn.discordapp.com/attachments/708000911158411285/754043428698062939/TNT.IMC.zip
 #EXTINF:-1 tvg-logo="",Игра престолов
 https://dl.dropbox.com/s/e0zphzk2lhyze52/GameOFF.IMC.zip
 #EXTINF:-1 tvg-logo="",Черное Зеркало
