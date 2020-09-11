@@ -6,6 +6,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.otzovik.com/objects/b/840000/833212.png",Супер Дискотека-90х
 http://online.radiorecord.ru:8102/sd90_128#.mp3
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava
+https://cdn.discordapp.com/attachments/680895323228733495/753969857028030554/playlist-Z-11.09.2020.m3u
+#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava
 #---https://cdn.discordapp.com/attachments/679261972138688512/744669259174772826/Playlist-Z.m3u
 https://cdn.discordapp.com/attachments/679261972138688512/748119742488772739/hls2_zmp_nd.m3u
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava
