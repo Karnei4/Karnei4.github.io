@@ -104,6 +104,8 @@ https://cdn.discordapp.com/attachments/716235283498008643/752984874729865226/HOR
 #EXTINF:-1 tvg-logo="",Модель для сборки
 https://cdn.discordapp.com/attachments/716235283498008643/753714646967517355/MDS.IMC.zip
 
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/756827933641015326/20f11010416a4add11356d5fb9e0ba4c.jpg",2Анекдоты
+http://cltv.club/servis/anek/&package=http://files.iconbit.com/IMC/nserv.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/756827933641015326/20f11010416a4add11356d5fb9e0ba4c.jpg",Анекдоты
 #self/url=http://cltv.club/servis/anek/&package=http://files.iconbit.com/IMC/nserv.IMC.zip
 #EXTINF:-1 tvg-logo="",Книги
