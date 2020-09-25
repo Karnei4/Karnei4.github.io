@@ -46,6 +46,8 @@ https://cdn.discordapp.com/attachments/739384599171301407/739529667178004610/esp
 https://topplay.do.am/RadioTopPlay.m3u
 #EXTINF:-1 tvg-logo="",Torrent
 https://cdn.discordapp.com/attachments/716235283498008643/759056879166423086/Torenttv.IMC.zip
+#EXTINF:-1 tvg-logo="",IPTV
+https://cdn.discordapp.com/attachments/716235283498008643/759062118867271701/iptv.IMC.zip
 #EXTINF:-1 tvg-logo="",TV Провайдера
 https://cdn.discordapp.com/attachments/739384599171301407/739435339961073744/vintera_smart.IMC.zip
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/rzlychybunnhdbz/vintera.png",Vintera TV
