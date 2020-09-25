@@ -44,8 +44,6 @@ https://cdn.discordapp.com/attachments/739384599171301407/739527389796630659/rad
 https://cdn.discordapp.com/attachments/739384599171301407/739529667178004610/espradio.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Radio TopPlay
 https://topplay.do.am/RadioTopPlay.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Music TV
-https://iptv-org.github.io/iptv/categories/music.m3u
 #EXTINF:-1 tvg-logo="",TV Провайдера
 https://cdn.discordapp.com/attachments/739384599171301407/739435339961073744/vintera_smart.IMC.zip
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/rzlychybunnhdbz/vintera.png",Vintera TV
@@ -119,11 +117,11 @@ https://cdn.discordapp.com/attachments/708000911158411285/749715803523383316/Baz
 #EXTINF:-1 tvg-logo="",GigaFilm
 https://cdn.discordapp.com/attachments/716235283498008643/758654999281664030/GigaFilm.IMC.zip
 #EXTINF:-1 tvg-logo="",KinoTeatr.kg
-https://cdn.discordapp.com/attachments/708000911158411285/758360247516659753/KinoTeatr.kg.IMC.zip
+https://cdn.discordapp.com/attachments/708000911158411285/758998049724170250/KinoTeatr.kg.IMC.zip
 #EXTINF:-1 tvg-logo="",DocTeatr.kg
-https://cdn.discordapp.com/attachments/708000911158411285/758360348293464114/DocTeatr.kg.IMC.zip
+https://cdn.discordapp.com/attachments/708000911158411285/758998011488895036/DocTeatr.kg.IMC.zip
 #EXTINF:-1 tvg-logo="",MultTeatr.kg
-https://cdn.discordapp.com/attachments/708000911158411285/758360290021867520/MultTeatr.kg.IMC.zip
+https://cdn.discordapp.com/attachments/708000911158411285/758997971873562624/MultTeatr.kg.IMC.zip
 
 #EXTINF:-1 tvg-logo="",MULTI-TORRENT
 https://cdn.discordapp.com/attachments/708000911158411285/758289632340213760/MULTI-TORRENT.IMC.zip
