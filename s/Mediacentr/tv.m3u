@@ -13,17 +13,17 @@ https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/708000911158411285/759103654237700156/launcher_foreground.png",RS MobileTV
 https://dl.dropbox.com/s/7ze2emdjros9lax/fork.xspf
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746850951050166333/Collection_orang.png",Collection_oran
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746850951050166333/Collection_orang.png",Collection orang
 http://77.93.29.195/lists/11.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851082436608020/Collection_dark_green.png",Collection_dark_green
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851082436608020/Collection_dark_green.png",Collection dark green
 http://77.93.29.195/lists/12.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851087646064651/Collection_gray.png",Collection_gray
-http://77.93.29.195/lists/13.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851094373859490/Collection_green.png",Collection_green
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851087646064651/Collection_gray.png",Collection gray
+http://77.93.29.195/lists/10.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851094373859490/Collection_green.png",Collection green
 http://77.93.29.195/lists/14.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851102305157120/Collection_light_green.png",light_green
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851102305157120/Collection_light_green.png",light green
 http://77.93.29.195/lists/15.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851109699846154/Collection_light_orang.png",light_orang
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851109699846154/Collection_light_orang.png",light orang
 http://77.93.29.195/lists/16.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/678941293518520331/744978929453891605/logo_IPnet.png",IPNetTV
 https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPNetTV.m3u
