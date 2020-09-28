@@ -15,55 +15,8 @@ https://dl.dropbox.com/s/7ze2emdjros9lax/fork.xspf
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746850951050166333/Collection_orang.png",Collection orang
 http://77.93.29.195/lists/11.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851082436608020/Collection_dark_green.png",Collection dark green
-http://77.93.29.195/lists/12.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851087646064651/Collection_gray.png",Collection gray
-http://77.93.29.195/lists/10.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851094373859490/Collection_green.png",Collection green
-http://77.93.29.195/lists/14.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851102305157120/Collection_light_green.png",light green
-http://77.93.29.195/lists/15.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851109699846154/Collection_light_orang.png",light orang
-http://77.93.29.195/lists/16.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/678941293518520331/744978929453891605/logo_IPnet.png",IPNetTV
 https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPNetTV.m3u
-
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818802046697502/BCUMULTZALHD.png", Американский папаша
-https://5656.ga/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818507140988989/BCUCOMEDYHD.png", Бывает и хуже
-https://5656.ga/ch2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818507140988989/BCUCOMEDYHD.png", ТВ3 Альф
-https://5656.ga/ch3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818506927210601/BCUFANTASTICHD.png", X-Files
-https://5656.ga/ch4.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818506587602944/BCUCINEMAHD.png", Фильмы полный метр
-https://5656.ga/ch5.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818506587602944/BCUCINEMAHD.png", Фильмы полный метр
-https://5656.ga/ch6.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818506587602944/BCUCINEMAHD.png", Фильмы полный метр
-https://5656.ga/ch7.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818506587602944/BCUCINEMAHD.png", Фильмы полный метр
-https://5656.ga/ch8.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818802046697502/BCUMULTZALHD.png", Симпсоны
-https://5656.ga/ch9.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818507140988989/BCUCOMEDYHD.png", Друзья
-https://5656.ga/ch10.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743819717848072192/BCUFILMYSTICHD.png", Американская история ужасов
-https://5656.ga/ch11.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818460378955786/BCUKINORATINGHD.png", Доктор Хаус
-https://5656.ga/ch12.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818506587602944/BCUCINEMAHD.png", Фильмы полный метр
-https://5656.ga/ch13.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818506587602944/BCUCINEMAHD.png", Фильмы полный метр
-https://5656.ga/ch14.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818507140988989/BCUCOMEDYHD.png", Modern Family
-https://5656.ga/ch15.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818507140988989/BCUCOMEDYHD.png", How Not to Live Your Life
-https://5656.ga/ch16.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818460378955786/BCUKINORATINGHD.png", Сериал-Касл от Lostfilm.TV
-https://5656.ga/ch17.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/743818412693913600/BCUVHSHD.png", Сериал-Клан Сопрано
-https://5656.ga/ch18.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",KINOKRAD
