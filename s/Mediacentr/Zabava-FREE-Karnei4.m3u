@@ -2168,30 +2168,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/variant.m3u8?version=2&offset
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1558607116461.png",AIVA -16ч
 https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/variant.m3u8?version=2&offset=-61200
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Underground
-http://www.djing.com/tv/underground.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",DJing Wild EDM HD
-http://www.djing.com/tv/session_wild-edm.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Ibiza
-http://www.djing.com/tv/dancefloor.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing DJS HD
-https://www.djing.com/tv/k-27838-05.m3u8?version=2 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Electro Rock HD
-http://www.djing.com/tv/session_electro-rock.m3u8?version=2 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Animation
-http://www.djing.com/tv/animation.m3u8?version=2 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Classic
-http://www.djing.com/tv/hits.m3u8?version=2  
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing French touch HD
-http://www.djing.com/tv/session_french-touch.m3u8?version=2 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",DJing Hedonist HD
-https://www.djing.com/tv/session_hedonist.m3u8?version=2  
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Karaoke HD
-http://www.djing.com/tv/karaoke.m3u8?version=2 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing Summer Vibes HD
-http://www.djing.com/tv/session_summer-vibes.m3u8?version=2 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://www.djing.com/images/logo.png",Djing TV
-http://www.djing.com/tv/live.m3u8?version=2 
 
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Classic Rock
