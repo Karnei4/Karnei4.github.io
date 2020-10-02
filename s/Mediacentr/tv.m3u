@@ -20,8 +20,8 @@ https://dl.dropbox.com/s/7ze2emdjros9lax/fork.xspf
 http://77.93.29.195/lists/11.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/678941293518520331/744978929453891605/logo_IPnet.png",IPNetTV
 https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPNetTV.m3u
-
-
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/belarus24.png",ZALA
+https://dl.dropbox.com/s/8s0sz0xd6gdkr5y/ZALA-Arxiv-BY.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",KINOKRAD
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/kinokrad.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Megogo VOD
