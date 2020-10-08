@@ -683,8 +683,7 @@ https://dl.dropbox.com/s/murq7v2j82gz6yx/PlayList-1595694362-M3U-162.m3u
 #EXTINF:-1,192.168.0.104:7171
 https://dl.dropbox.com/s/1f4w1ntl0tpi12p/playlist%20%28ZZZ%29.m3u
 #---
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
+#---<script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
@@ -694,6 +693,6 @@ https://dl.dropbox.com/s/1f4w1ntl0tpi12p/playlist%20%28ZZZ%29.m3u
         trackLinks:true,
         accurateTrackBounce:true
    });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/67356655" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+#---</script>
+#---<noscript><div><img src="https://mc.yandex.ru/watch/67356655" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
