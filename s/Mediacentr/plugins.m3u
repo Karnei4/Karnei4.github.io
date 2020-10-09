@@ -233,12 +233,8 @@ https://cdn.discordapp.com/attachments/678940378023329793/751354948234772520/Joy
 https://dl.dropbox.com/s/mulllz4ka3gn4jp/HDkino1.IMC.zip
 #EXTINF:-1 tvg-logo="",OctopuS
 https://dl.dropbox.com/s/4so48avfkwgvtct/Octopus.IMC.zip
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417445135024180/icon.png",HDREZKA
-https://cdn.discordapp.com/attachments/739384599171301407/739511122453069924/nserv-host.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417445135024180/icon.png",HDrezka
 https://cdn.discordapp.com/attachments/739384599171301407/739492498283692162/HDrezka.IMC.zip
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/zombie/zombie.jpg",Zombie Film
-https://cdn.discordapp.com/attachments/685792252089597977/731607056250830948/zombie.IMC.zip
 #EXTINF:-1 tvg-logo="",FILMIX
 https://cdn.discordapp.com/attachments/739384599171301407/739525638863716372/filmixNew.IMC.zip
 #EXTINF:-1 tvg-logo="",FilmUA.IMC.zip
@@ -342,8 +338,6 @@ https://dl.dropbox.com/s/sdtf8ztivt9ebty/Karnei4_Z-ProxyVOD.IMC.zip
 https://dl.dropbox.com/s/brmotbx89ipd95m/Z-playlist_FILMS_Kategoryi.m3u
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",ЗАБАВА IP:127.0.0.01:7171
 https://dl.dropbox.com/s/3zef7epufnhcanc/iptv_radio.xspf
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",ЗАБАВА FULL
-https://dl.dropbox.com/s/0zwvkz74e450eor/playlist%20%2836%29.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/708000911158411285/711283802311360592/icon.png",Plugin BOBFILM (New)
 https://cdn.discordapp.com/attachments/708000911158411285/711166624367116388/bobfilmNew.IMC.zip
 
@@ -353,14 +347,8 @@ http://oleg.cc.ua/playlist_deooleg_tv_vip_muzykalnye_updated_yandextv_administra
 https://smarttvapp.ru/app/iptvfull.m3u
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",webarmen.com
 https://webarmen.com/my/iptv/auto.nogrp.m3u
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",webarmen.m3u8
-http://nserv.host:5300/webarmen.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",webhalpme.ru
 http://webhalpme.ru/donwhm.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",vip-tv.xyz
-http://vip-tv.xyz/playlist/koala.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",ipusb.tk
-http://ipusb.tk/iptvusb.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",smarttvnews.ru 
 http://tinyurl.com//y5sndv67
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",p.denys.club
@@ -369,14 +357,10 @@ http://p.denys.club/b6/ip.m3u
 http://getsapp.ru/IPTV/Auto_IPTV.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",iptvm3u.ru
 https://iptvm3u.ru/list.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",Karnei4 BY
-https://dl.dropbox.com/s/hyqenposcag9f3h/iptv_radio.xspf
 #EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/720199838259740755/743113701577588836/photostudio_1592046374539_1.jpg",RO$TIK TV TEST
 https://dl.dropboxusercontent.com/s/bhz7633q036tw1p/RO$TIK_TV_TEST.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",rassvetpro.narod.ru
 http://rassvetpro.narod.ru/boyantvnoxxx.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1ntgq90gldfsscx/iptv_logo.png",TV
-https://dl.dropbox.com/s/1zfsxn2z5c8oeg9/IPTV_M3U_CAT.m3u
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1r7c4qhr5hrnari/LENFILM.PNG",Киностудия Ленфильм
@@ -535,34 +519,6 @@ http://46.161.65.30:1682/voskres/pr/fentezi.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Старые Фильмы
 http://av.kl.com.ua/1220+.m3u
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",PlayList-Karnei4-M3U-1763.m3u
-https://dl.dropbox.com/s/3jaul2v9tbynfnp/PlayList-Karnei4-M3U-1763.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Karnei4-M3U-KLIP.m3u
-https://dl.dropbox.com/s/sdu13gtuikba37b/CLIPS-Karnei4.m3u
-
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/683347906807595057.png",МУЗЫКАЛКА
-https://dl.dropbox.com/s/x644sp0agzar3ux/PlayList-1583692983-XSPF-100.xspf
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679032401191501931.png",radio01.m3u
-https://webmaster.pp.ua/u/radio01.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679032401191501931.png",radio02.m3u
-https://webmaster.pp.ua/u/radio02.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679032401191501931.png",radio1.m3u
-https://webmaster.pp.ua/u/radio1.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679032401191501931.png",top_radio_russian.m3u
-https://www.radio.pervii.com/top_radio_russian.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679032401191501931.png",potokovoe.ru/playlists/list.m3u
-http://potokovoe.ru/playlists/list.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679032401191501931.png",RadioEBM_Karnei4.m3u
-https://cdn.discordapp.com/attachments/679261972138688512/686322210255929524/RadioEBM_Karnei4.m3u
-
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/683347906807595057.png",МУЗЫКАЛКА
-https://dl.dropbox.com/s/x644sp0agzar3ux/PlayList-1583692983-XSPF-100.xspf
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",МУЗЫКА.m3u
-https://dl.dropbox.com/s/uh66xgefanfucll/List%20of%20MP3%20files%20for%20Wimamp.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",радио
-http://tinyurl.com/yxbkfklq
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",топ
-https://cdn.discordapp.com/attachments/680895323228733495/718163785163997204/2_5384528648487306971.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/680895323228733495/709083048368406578/logo_standarttv.png",OkTV.m3u
 http://192.168.0.104:12345/OkTV.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/718633835767660544/logo_voka.png",Voka.m3u
@@ -604,45 +560,17 @@ https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Qello Concerts
 http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
 
-#EXTINF:-1,Музыка Кино
-http://v2.catcast.me/content/37739/index.m3u8
-#EXTINF:-1,Музыка 1
-http://v2.catcast.me/content/37745/index.m3u8
-#EXTINF:-1,Музыка 2
-http://v2.catcast.me/content/37742/index.m3u8
-#EXTINF:-1,entermusictv
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",entermusictv
 http://v2.catcast.me/content/36007/index.m3u8
-#EXTINF:-1,Metal TV
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Metal TV
 http://v1.catcast.me/content/33816/index.m3u8
-#EXTINF:-1,Eurodance Hits 90
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Eurodance Hits 90
 http://v1.catcast.me/content/36987/index.m3u8
-#EXTINF:-1,RETRO 80
-http://v1.catcast.tv/content/37614/index.m3u8
 #EXTINF:-1,Porn HUB
 https://dl.dropbox.com/s/rv0b66um7xj4zc5/PornHUB.IMC.zip
 #EXTINF:-1,Porn HUB
 https://cdn.discordapp.com/attachments/716235283498008643/759500559110766602/Porn.IMC.zip
 #EXTINF:-1,TelecomTV BY
 http://help.telecom.by/_files/TelecomTV/TelecomTVpacket/TVPACKET3.m3u
-#EXTINF:-1,adult2.m3u
-http://docro.ru/wp-content/uploads/tv/adult2.m3u
-#EXTINF:-1,ACE Stream
-https://dl.dropbox.com/s/rn4g3tlvs11j2aa/ace.all.iproxy_2.m3u
-#EXTINF:-1,http://192.168.0.105:8080/123/playlist.m3u8
-https://dl.dropbox.com/s/8mmdpnpwht0cexr/playlistZZZZ.m3u
-#EXTINF:-1,127.0.0.1:7171
-https://dl.dropbox.com/s/upy47tw44ok4i9p/127.0.0.1-Z-playlist.m3u
-#EXTINF:-1,Lime.m3u
-https://cdn.discordapp.com/attachments/680895323228733495/734038762966745118/Lime.m3u
-#EXTINF:-1,OkTV.m3u
-https://cdn.discordapp.com/attachments/680895323228733495/734038763734433802/OkTV.m3u
-#EXTINF:-1,music
-https://dl.dropbox.com/s/qildnfqrpb7u5fg/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.m3u
-#EXTINF:-1,music
-https://dl.dropbox.com/s/8sffjmup6o0ahsb/PlayList-Karnei4-M3U-MUZ-SBORKA.m3u
-#EXTINF:-1,Karnei4_Film_FULL.IMC.zip
-https://dl.dropbox.com/s/murq7v2j82gz6yx/PlayList-1595694362-M3U-162.m3u
-#EXTINF:-1,192.168.0.104:7171
-https://dl.dropbox.com/s/1f4w1ntl0tpi12p/playlist%20%28ZZZ%29.m3u
 
 
