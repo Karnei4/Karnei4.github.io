@@ -45,10 +45,7 @@ https://cdn.discordapp.com/attachments/739384599171301407/739529667178004610/esp
 https://topplay.do.am/RadioTopPlay.m3u
 #EXTINF:-1 tvg-logo="",HD Rezka
 https://dl.dropbox.com/s/u2hdshxla5q39nk/HD-Rezka.IMC.zip
-#EXTINF:-1 tvg-logo="",Anwap
-https://cdn.discordapp.com/attachments/708000911158411285/764576529195204678/anwap.IMC.zip
-#EXTINF:-1 tvg-logo="",Filmive
-https://cdn.discordapp.com/attachments/708000911158411285/764576497251647518/Filmive.IMC.zip
+
 #EXTINF:-1 tvg-logo="",Film Place
 https://cdn.discordapp.com/attachments/708000911158411285/760585422920351826/Film_Place.IMC.zip
 #EXTINF:-1 tvg-logo="",Torrent
@@ -132,11 +129,11 @@ https://cdn.discordapp.com/attachments/708000911158411285/749715803523383316/Baz
 #---https://cdn.discordapp.com/attachments/716235283498008643/743100325879349358/Baza-Knig.IMC.zip
 
 #EXTINF:-1 tvg-logo="",Filmive
-https://cdn.discordapp.com/attachments/716235283498008643/760946667611881482/Filmive.IMC.zip
+https://cdn.discordapp.com/attachments/708000911158411285/764576497251647518/Filmive.IMC.zip
 #EXTINF:-1 tvg-logo="",KinoDevice
 https://cdn.discordapp.com/attachments/716235283498008643/760923462624870410/KinoDevice.IMC.zip
 #EXTINF:-1 tvg-logo="",3G/4G Kino
-https://cdn.discordapp.com/attachments/708000911158411285/759009847822909450/anwap.IMC.zip
+https://cdn.discordapp.com/attachments/708000911158411285/764576529195204678/anwap.IMC.zip
 #EXTINF:-1 tvg-logo="",GigaFilm
 https://cdn.discordapp.com/attachments/716235283498008643/758654999281664030/GigaFilm.IMC.zip
 #EXTINF:-1 tvg-logo="",KinoTeatr.kg
