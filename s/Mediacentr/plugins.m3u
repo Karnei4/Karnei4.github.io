@@ -47,8 +47,7 @@ https://topplay.do.am/RadioTopPlay.m3u
 https://dl.dropbox.com/s/u2hdshxla5q39nk/HD-Rezka.IMC.zip
 
 
-#EXTINF:-1 tvg-logo="",kinoprosmotr
-https://cdn.discordapp.com/attachments/716235283498008643/764820014071021598/kinoprosmotr.IMC.zip
+
 #EXTINF:-1 tvg-logo="",Film Place
 https://cdn.discordapp.com/attachments/708000911158411285/760585422920351826/Film_Place.IMC.zip
 #EXTINF:-1 tvg-logo="",Torrent
@@ -574,7 +573,7 @@ http://v1.catcast.me/content/36987/index.m3u8
 https://dl.dropbox.com/s/rv0b66um7xj4zc5/PornHUB.IMC.zip
 #EXTINF:-1,Porn HUB
 https://cdn.discordapp.com/attachments/716235283498008643/759500559110766602/Porn.IMC.zip
-#EXTINF:-1,TelecomTV BY
-http://help.telecom.by/_files/TelecomTV/TelecomTVpacket/TVPACKET3.m3u
+#EXTINF:-1 tvg-logo="",kinoprosmotr
+https://cdn.discordapp.com/attachments/716235283498008643/764820014071021598/kinoprosmotr.IMC.zip
 
 
