@@ -46,8 +46,12 @@ https://topplay.do.am/RadioTopPlay.m3u
 #EXTINF:-1 tvg-logo="",HD Rezka
 https://dl.dropbox.com/s/u2hdshxla5q39nk/HD-Rezka.IMC.zip
 
-
-
+#EXTINF:-1 tvg-logo="",Liveam.TV
+https://cdn.discordapp.com/attachments/716235283498008643/766312711625244682/Liveam.TV.IMC.zip
+#EXTINF:-1 tvg-logo="",KINOFERMA
+https://cdn.discordapp.com/attachments/716235283498008643/766311919031156766/KINOFERMA.IMC.zip
+#EXTINF:-1 tvg-logo="",FantasticFilm
+https://cdn.discordapp.com/attachments/716235283498008643/766311844369268827/FantasticFilm.IMC.zip
 #EXTINF:-1 tvg-logo="",Film Place
 https://cdn.discordapp.com/attachments/708000911158411285/760585422920351826/Film_Place.IMC.zip
 #EXTINF:-1 tvg-logo="",Torrent
