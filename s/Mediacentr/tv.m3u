@@ -35,8 +35,7 @@ https://cdn.discordapp.com/attachments/739384516803559458/766997599285673994/tv_
 https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPNetTV.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/belarus24.png",ZALA
 https://dl.dropbox.com/s/8s0sz0xd6gdkr5y/ZALA-Arxiv-BY.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",VOD
-http://api.iptvx.tv/ss/981ef33e/index.m3u
+
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",KINOKRAD
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/kinokrad.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Megogo VOD
@@ -213,3 +212,5 @@ http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/Z-playlist_FILMS_Kategoryi.m3u
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-playlist_sdvig-po-vremeni.m3u
+#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",VOD
+http://api.iptvx.tv/ss/981ef33e/index.m3u
