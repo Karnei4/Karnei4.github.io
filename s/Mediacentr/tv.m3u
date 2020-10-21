@@ -5,9 +5,9 @@ https://ruvod.com/wp-content/uploads/2019/02/0CSsc2SA.mp4
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.otzovik.com/objects/b/840000/833212.png",Супер Дискотека-90х
 http://online.radiorecord.ru:8102/sd90_128#.mp3
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava
+#---EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava
 #---https://cdn.discordapp.com/attachments/680895323228733495/760449553257594920/nFkHuNBLZZZZ.m3u
-https://dl.dropbox.com/s/nf7n05wumjaq6j2/nFkHuNBLZZZZ.m3u
+#---https://dl.dropbox.com/s/nf7n05wumjaq6j2/nFkHuNBLZZZZ.m3u
 
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava
 https://cdn.discordapp.com/attachments/739790132932247655/765286323899596820/Z-playlist-12.10.2020.m3u
@@ -20,11 +20,11 @@ https://cdn.discordapp.com/attachments/739384288256196653/763857909779398706/Zab
 https://dl.dropbox.com/s/7ze2emdjros9lax/fork.xspf
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851082436608020/Collection_dark_green.png",Collection dark green
 https://dl.dropbox.com/s/ls07o7xktpze1uj/mnogotv.club.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746850951050166333/Collection_orang.png",Collection orang
-https://cdn.discordapp.com/attachments/680895323228733495/763867701482356776/playlist_19.m3u
+#---EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746850951050166333/Collection_orang.png",Collection orang
+#---https://cdn.discordapp.com/attachments/680895323228733495/763867701482356776/playlist_19.m3u
 #---https://cdn.discordapp.com/attachments/757730877072605274/762611289847496714/11_2.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851094373859490/Collection_green.png",Collection green 
-https://cdn.discordapp.com/attachments/739384516803559458/765271511288119296/tv_channels_Rodton_1.m3u
+#---EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851094373859490/Collection_green.png",Collection green 
+#---https://cdn.discordapp.com/attachments/739384516803559458/765271511288119296/tv_channels_Rodton_1.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851109699846154/Collection_light_orang.png",Collection light orang
 https://cdn.discordapp.com/attachments/739384516803559458/765865183288492052/tv_channels_bulia_1.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851087646064651/Collection_gray.png",Collection gray
