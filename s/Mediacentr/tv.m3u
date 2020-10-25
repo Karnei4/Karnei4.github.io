@@ -10,8 +10,7 @@ http://online.radiorecord.ru:8102/sd90_128#.mp3
 #---https://dl.dropbox.com/s/nf7n05wumjaq6j2/nFkHuNBLZZZZ.m3u
 https://Karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy-127.0.0.1.m3u
 
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava
-https://karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy.m3u
+
 #---https://dl.dropbox.com/s/ubqpms6kvqquxu9/Z-playlist-22-10-2020.m3u
 #---https://cdn.discordapp.com/attachments/739790132932247655/765286323899596820/Z-playlist-12.10.2020.m3u
 #---https://cdn.discordapp.com/attachments/680895323228733495/753969857028030554/playlist-Z-11.09.2020.m3u
@@ -218,3 +217,5 @@ https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/Z-playlist_FI
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-playlist_sdvig-po-vremeni.m3u
 #EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",VOD
 http://api.iptvx.tv/ss/981ef33e/index.m3u
+#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava Karnei4
+https://karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy.m3u
