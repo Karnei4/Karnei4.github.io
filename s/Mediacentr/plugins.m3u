@@ -29,6 +29,8 @@ https://cdn.discordapp.com/attachments/716235283498008643/739509562255605771/Sma
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/ftp.m3u
 #EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",PLUGINS
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/folder-plugins.m3u
+#EXTINF:-1 tvg-logo="https://s1.iconbird.com/ico/0612/HydroPROv2/w512h5121339358929Folder.png",FILMS
+http://f0448337.xsph.ru/IPTV-RU/playlist_zproxy_Film.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Музыка DJ
 https://cdn.discordapp.com/attachments/716235283498008643/747647694205485127/muz.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Deep House 
