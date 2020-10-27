@@ -81,6 +81,9 @@ https://cdn.discordapp.com/attachments/716235283498008643/748427607825055805/gla
 https://cdn.discordapp.com/attachments/318459620618141696/748861004581961779/LimeHD.IMC.zip
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",ЗАБАВА FREE
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
+
+#EXTINF:-1 tvg-logo="",PlayClip
+https://cdn.discordapp.com/attachments/708000911158411285/770753190244778014/playclip.IMC.zip
 #EXTINF:-1 tvg-logo="",Karaoke
 https://cdn.discordapp.com/attachments/716235283498008643/769267022952661042/karaoke.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739442397964140664/icon.png",z1.fm
