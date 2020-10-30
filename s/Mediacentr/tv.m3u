@@ -10,7 +10,8 @@ https://cdn.discordapp.com/attachments/739385689283756052/770277114381336636/Z-n
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=62.112.9.5:8593&id=20",Zabava
 https://cdn.discordapp.com/attachments/739790132932247655/770748353574600745/playlist_no_save_1.m3u
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=185.231.71.165:2373&id=20",Zabava
-http://f0448337.xsph.ru/IPTV-RU/Z-Proxy-playlist_no_save_1.m3u
+#---http://f0448337.xsph.ru/IPTV-RU/Z-Proxy-playlist_no_save_1.m3u
+http://f0448337.xsph.ru/Astik/Z-TV-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=185.231.71.165:2373&id=20",Zabava VOD
 http://f0448337.xsph.ru/Astik/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=127.0.0.1:7171&id=20",Z proxy 127.0.0.1:7171
