@@ -220,11 +220,5 @@ https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Qello Concerts
 http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava Фильмы
-https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/Z-playlist_FILMS_Kategoryi.m3u
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava
-https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-playlist_sdvig-po-vremeni.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",VOD
-http://api.iptvx.tv/ss/981ef33e/index.m3u
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava Karnei4
 https://karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy.m3u
