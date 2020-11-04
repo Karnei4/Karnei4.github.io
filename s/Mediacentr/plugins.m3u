@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417815202791424/icon.png",ПОИСКОВИКИ
 https://cdn.discordapp.com/attachments/739385445930238053/773279568207413288/Karnei4-IPTV.IMC.zip
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417815202791424/icon.png",ПОИСК
-https://cdn.discordapp.com/attachments/739384599171301407/739477059495002212/nservNew.IMC.zip
-#EXTINF:-1 tvg-logo="",Spider
-https://cdn.discordapp.com/attachments/716235283498008643/757195522183397476/Spider.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739416566004711434/icon.png",ЧАТ
 https://cdn.discordapp.com/attachments/739384599171301407/739416998546505728/4at.IMC.zip
 
@@ -72,8 +68,6 @@ https://cdn.discordapp.com/attachments/716235283498008643/759062118867271701/ipt
 https://cdn.discordapp.com/attachments/739384599171301407/739435339961073744/vintera_smart.IMC.zip
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/rzlychybunnhdbz/vintera.png",Vintera TV
 https://dl.dropbox.com/s/91ggi1gfrvi0lru/vintera_smart.IMC.zip
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/712328542284808273/recycle_bin_PNG59.png",Super Pomoyka
-https://91.92.66.82/trash/ttv-list/as.direct.m3u
 #EXTINF:-1 tvg-logo="",REN-TV
 https://cdn.discordapp.com/attachments/716235283498008643/752506836791459880/REN-TV.IMC.zip
 #EXTINF:-1 tvg-logo="",5656.ga
@@ -152,7 +146,7 @@ https://cdn.discordapp.com/attachments/708000911158411285/749715803523383316/Baz
 #EXTINF:-1 tvg-logo="",Filmive
 https://cdn.discordapp.com/attachments/708000911158411285/764576497251647518/Filmive.IMC.zip
 #EXTINF:-1 tvg-logo="",KinoDevice
-https://cdn.discordapp.com/attachments/716235283498008643/760923462624870410/KinoDevice.IMC.zip
+https://dl.dropbox.com/s/excdzvcpo2ansbv/KinoDevice.IMC.zip
 #EXTINF:-1 tvg-logo="",3G/4G Kino
 https://cdn.discordapp.com/attachments/708000911158411285/764576529195204678/anwap.IMC.zip
 #EXTINF:-1 tvg-logo="",GigaFilm
@@ -164,6 +158,8 @@ https://cdn.discordapp.com/attachments/708000911158411285/758998011488895036/Doc
 #EXTINF:-1 tvg-logo="",MultTeatr.kg
 https://cdn.discordapp.com/attachments/708000911158411285/758997971873562624/MultTeatr.kg.IMC.zip
 
+#EXTINF:-1 tvg-logo="",Football Video
+https://cdn.discordapp.com/attachments/708000911158411285/773579668338507796/football-video.IMC.zip
 #EXTINF:-1 tvg-logo="",MULTI-TORRENT
 https://cdn.discordapp.com/attachments/708000911158411285/758289632340213760/MULTI-TORRENT.IMC.zip
 #EXTINF:-1 tvg-logo="",Torrentss
