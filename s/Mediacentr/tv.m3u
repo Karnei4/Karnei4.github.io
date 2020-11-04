@@ -7,10 +7,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://online.radiorecord.ru:8102/sd90_128#.mp3
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=45.132.107.73:7575&id=20",Zabava
 http://f0448337.xsph.ru/Astik123/Z-TV-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_3.m3u
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=62.112.9.5:8593&id=20",Zabava
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=45.132.107.73:7676&id=20",Zabava
 https://cdn.discordapp.com/attachments/739790132932247655/770748353574600745/playlist_no_save_1.m3u
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=185.231.71.165:2373&id=20",Zabava
-http://f0448337.xsph.ru/Astik123/Z-TV-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
+https://cdn.discordapp.com/attachments/739790132932247655/773493431182819328/playlist-iptvsmotri.ru.m3u
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=185.231.71.165:2373&id=20",Zabava VOD
 http://f0448337.xsph.ru/Astik123/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=127.0.0.1:7171&id=20",Z proxy 127.0.0.1:7171
