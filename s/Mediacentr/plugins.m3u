@@ -43,7 +43,12 @@ https://topplay.do.am/RadioTopPlay.m3u
 https://dl.dropbox.com/s/u2hdshxla5q39nk/HD-Rezka.IMC.zip
 #EXTINF:-1 tvg-logo="",Kinogo.by
 https://cdn.discordapp.com/attachments/739384599171301407/773812242151374878/KinogoBY.IMC.zip
-
+#EXTINF:-1 tvg-logo="",KINOPROFI
+https://cdn.discordapp.com/attachments/739384599171301407/773809535013355540/Kinoprofi.IMC.zip
+#EXTINF:-1 tvg-logo="",Kinoprofi
+https://cdn.discordapp.com/attachments/739384599171301407/739546619883815103/Kinoprofi.IMC.zip
+#EXTINF:-1 tvg-logo="",Sesonvar.IMC.zip
+https://cdn.discordapp.com/attachments/739384599171301407/773810646600777738/Sesonvar.IMC.zip
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/773176610734997528/Toy-Wars-Story-of-Heroes.png",Voenhronika
 https://cdn.discordapp.com/attachments/708000911158411285/773143296825360485/voenhronika.IMC.zip
@@ -260,12 +265,7 @@ https://cdn.discordapp.com/attachments/739384599171301407/739492498283692162/HDr
 https://cdn.discordapp.com/attachments/739384599171301407/739525638863716372/filmixNew.IMC.zip
 #EXTINF:-1 tvg-logo="",FilmUA.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/730798849895170180/FilmUA.IMC.zip
-#EXTINF:-1 tvg-logo="",KINOPROFI
-https://cdn.discordapp.com/attachments/739384599171301407/773809535013355540/Kinoprofi.IMC.zip
-#EXTINF:-1 tvg-logo="",Kinoprofi
-https://cdn.discordapp.com/attachments/739384599171301407/739546619883815103/Kinoprofi.IMC.zip
-#EXTINF:-1 tvg-logo="",Sesonvar.IMC.zip
-https://cdn.discordapp.com/attachments/739384599171301407/773810646600777738/Sesonvar.IMC.zip
+
 
 #EXTINF:-1 tvg-logo="",Onfilmz.IMC.zip
 https://cdn.discordapp.com/attachments/708000911158411285/740496593685315594/Onfilmz.IMC.zip
