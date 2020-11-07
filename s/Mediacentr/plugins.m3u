@@ -39,9 +39,11 @@ https://cdn.discordapp.com/attachments/739384599171301407/739527389796630659/rad
 https://cdn.discordapp.com/attachments/739384599171301407/739529667178004610/espradio.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Radio TopPlay
 https://topplay.do.am/RadioTopPlay.m3u
-
 #EXTINF:-1 tvg-logo="https://s.io.ua/img_vscr/0054/21/00542143_sn.jpg",HITS 80-90X
 https://dl.dropbox.com/s/c4u2lpqfnei7kj3/PlayList-HITS-80-90X-Karnei4-M3U.m3u
+
+#EXTINF:-1 tvg-logo="",Kino Mnogotv Club
+https://cdn.discordapp.com/attachments/739384599171301407/774638441954541568/KinoTeatr.kg.IMC.zip
 #EXTINF:-1 tvg-logo="",HD Rezka
 https://dl.dropbox.com/s/u2hdshxla5q39nk/HD-Rezka.IMC.zip
 #EXTINF:-1 tvg-logo="",Kinogo.by
