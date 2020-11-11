@@ -42,6 +42,8 @@ https://topplay.do.am/RadioTopPlay.m3u
 #EXTINF:-1 tvg-logo="https://s.io.ua/img_vscr/0054/21/00542143_sn.jpg",HITS 80-90X
 https://dl.dropbox.com/s/c4u2lpqfnei7kj3/PlayList-HITS-80-90X-Karnei4-M3U.m3u
 
+#EXTINF:-1 tvg-logo="",Zagonka
+https://cdn.discordapp.com/attachments/716235283498008643/776026613451849728/Zagonka.IMC.zip
 #EXTINF:-1 tvg-logo="",EraDoks
 https://cdn.discordapp.com/attachments/716235283498008643/775985989139169281/EraDoks.IMC.zip
 #EXTINF:-1 tvg-logo="",MNOGOTV
