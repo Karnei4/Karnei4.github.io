@@ -48,37 +48,37 @@ https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPN
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/belarus24.png",ZALA
 https://dl.dropbox.com/s/8s0sz0xd6gdkr5y/ZALA-Arxiv-BY.m3u
 
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",KINOKRAD
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",KINOKRAD
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/kinokrad.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Megogo VOD
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Megogo VOD
 https://cdn.discordapp.com/attachments/739385530558447639/739461860864032788/Megogo_VOD_1.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Фильмы (СССР)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (СССР)
 https://cdn.discordapp.com/attachments/739385530558447639/739423172981424218/sssr.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Фильмы (США)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (США)
 https://cdn.discordapp.com/attachments/739385530558447639/739459952699113502/ssha.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Фильмы (США - Франция)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (США - Франция)
 https://cdn.discordapp.com/attachments/739385530558447639/739459974702432257/ssha_francija.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Фильмы (Австралия)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (Австралия)
 https://cdn.discordapp.com/attachments/739385530558447639/739459494995689522/avstralija.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Фильмы (Великобритания)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (Великобритания)
 https://cdn.discordapp.com/attachments/739385530558447639/739460049180819516/velikobritanija.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Фильмы (Франция)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (Франция)
 https://cdn.discordapp.com/attachments/739385530558447639/739459662352744448/francija.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Фильмы (Франция - Бельгия)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (Франция - Бельгия)
 https://cdn.discordapp.com/attachments/739385530558447639/739459607445110814/belgija_francija.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Documentaries.png",Документальные Фильмы
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Documentaries.png",Документальные Фильмы
 https://cdn.discordapp.com/attachments/739385530558447639/739459628533940274/dokumentalnyj.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/movies-serials.png",Сериалы
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-serials.png",Сериалы
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/jandeks_serialy.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/movies-tv.png",КВН
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-tv.png",КВН
 https://cdn.discordapp.com/attachments/739385530558447639/739461208222203954/igra.m3u
 	   
-#--- Мультфильмы:#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Animated-Movies.png",
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Animated-Movies.png",Мультфильмы новинки 
+#--- Мультфильмы:#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",Мультфильмы новинки 
 http://f0448337.xsph.ru/playlist/M0.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Animated-Movies.png",Российские и Советские 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",Российские и Советские 
 http://f0448337.xsph.ru/playlist/M1.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Animated-Movies.png",Группы по жанрам 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",Группы по жанрам 
 http://f0448337.xsph.ru/playlist/M2.m3u
 #--- Мультсериалы:#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Мультсериалы новинки 
@@ -90,94 +90,94 @@ http://f0448337.xsph.ru/playlist/MS2.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Зарубежные мультсериалы 
 http://f0448337.xsph.ru/playlist/MS3.m3u
 #--- Фильмы:#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Новинки кино 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Новинки кино 
 http://f0448337.xsph.ru/playlist/F0.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Группы по странам 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Группы по странам 
 http://f0448337.xsph.ru/playlist/F1.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Группы по жанрам 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Группы по жанрам 
 http://f0448337.xsph.ru/playlist/F2.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Группы по годам 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Группы по годам 
 http://f0448337.xsph.ru/playlist/F3.m3u
 #--- Сериалы:#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Biography-Movies.png",Биографические сериалы 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Biography-Movies.png",Биографические сериалы 
 http://f0448337.xsph.ru/playlist/FS0.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Action-Movies.png",Боевики 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Action-Movies.png",Боевики 
 http://f0448337.xsph.ru/playlist/FS1.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/War-Movies.png",Военные сериалы 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/War-Movies.png",Военные сериалы 
 http://f0448337.xsph.ru/playlist/FS2.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Detective-Movies.png",Детективы 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Detective-Movies.png",Детективы 
 http://f0448337.xsph.ru/playlist/FS3.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Детские сериалы 
 http://f0448337.xsph.ru/playlist/FS4.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Documentaries.png",Документальные сериалы 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Documentaries.png",Документальные сериалы 
 http://f0448337.xsph.ru/playlist/FS5.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Drama-Movies.png",Драма 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Drama-Movies.png",Драма 
 http://f0448337.xsph.ru/playlist/FS6.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Historic-Movies.png",Исторические сериалы 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Historic-Movies.png",Исторические сериалы 
 http://f0448337.xsph.ru/playlist/FS7.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Comedy-Movies.png",Комедии 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Comedy-Movies.png",Комедии 
 http://f0448337.xsph.ru/playlist/FS8.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Crime-Movies.png",Криминал 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Crime-Movies.png",Криминал 
 http://f0448337.xsph.ru/playlist/FS9.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Romantic-Movies.png",Мелодрама 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Romantic-Movies.png",Мелодрама 
 http://f0448337.xsph.ru/playlist/FS10.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Random-Movies.png",Новинки 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Новинки 
 http://f0448337.xsph.ru/playlist/FS11.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Adventure-icon.png",Приключения 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Adventure-icon.png",Приключения 
 http://f0448337.xsph.ru/playlist/FS12.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/movies-serials.png",Российские сериалы 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-serials.png",Российские сериалы 
 http://f0448337.xsph.ru/playlist/FS13.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/movies-serials.png",Советские сериалы 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-serials.png",Советские сериалы 
 http://f0448337.xsph.ru/playlist/FS14.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Thriller-Movies.png",Триллеры 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Thriller-Movies.png",Триллеры 
 http://f0448337.xsph.ru/playlist/FS15.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Horror-Movies.png",Ужасы 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Horror-Movies.png",Ужасы 
 http://f0448337.xsph.ru/playlist/FS16.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sci-Fi-Movies.png",Фантастика 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sci-Fi-Movies.png",Фантастика 
 http://f0448337.xsph.ru/playlist/FS17.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Fantasy-Movies.png",Фэнтези 
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Fantasy-Movies.png",Фэнтези 
 http://f0448337.xsph.ru/playlist/FS18.m3u
 
-#--- Спорт:#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",Яндекс спорт 1
+#--- Спорт:#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",Яндекс спорт 1
 http://f0448337.xsph.ru/playlist/Sport1.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",Яндекс спорт 2
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",Яндекс спорт 2
 http://f0448337.xsph.ru/playlist/Sport2.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Sports-Movies.png",Яндекс спорт 3
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",Яндекс спорт 3
 http://f0448337.xsph.ru/playlist/Sport3.m3u
 
-#--- Музыка:#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (0-9-A-B)
+#--- Музыка:#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (0-9-A-B)
 http://f0448337.xsph.ru/playlist/Muz0.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (C-D-E)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (C-D-E)
 http://f0448337.xsph.ru/playlist/Muz1.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (F-G-H)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (F-G-H)
 http://f0448337.xsph.ru/playlist/Muz2.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (I-J-K)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (I-J-K)
 http://f0448337.xsph.ru/playlist/Muz3.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (L-M-N)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (L-M-N)
 http://f0448337.xsph.ru/playlist/muz4.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (O-P-Q)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (O-P-Q)
 http://f0448337.xsph.ru/playlist/Muz5.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (R-S-T)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (R-S-T)
 http://f0448337.xsph.ru/playlist/Muz6.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (U-V-W)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (U-V-W)
 http://f0448337.xsph.ru/playlist/Muz7.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (X-Y-Z)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (X-Y-Z)
 http://f0448337.xsph.ru/playlist/Muz8.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (А-Я)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (А-Я)
 http://f0448337.xsph.ru/playlist/Muz9.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (Жанры)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Жанры)
 http://f0448337.xsph.ru/playlist/Muz10.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (Духовная)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Духовная)
 http://f0448337.xsph.ru/playlist/Muz11.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (Иностранный рок)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Иностранный рок)
 http://f0448337.xsph.ru/playlist/Muz12.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (Иностранный рэп)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Иностранный рэп)
 http://f0448337.xsph.ru/playlist/Muz13.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (Латиноамериканская)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Латиноамериканская)
 http://f0448337.xsph.ru/playlist/Muz14.m3u
-#EXTINF:-1 tvg-logo="http://fork-portal.ru/assets/folder-icon/Musical-Movies.png",Яндекс музыка (Танцевальная)
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Танцевальная)
 http://f0448337.xsph.ru/playlist/Muz15.m3u
 
 
@@ -222,3 +222,4 @@ http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava Karnei4
 https://karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy.m3u
+
