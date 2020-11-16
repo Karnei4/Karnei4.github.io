@@ -1,0 +1,289 @@
+#EXTM3U
+#PLAYLIST:M3U-Karnei4
+#ICON:https://vgif.ru/gifs/154/vgif-ru-24627.gif
+#BACKGROUND-IMAGE:https://Karnei4.github.io/s/png/fon-info_optimized.jpg
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Робототехника. Что такое робототехника? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfUk9CT1RTXzFfd2lua190cmFpbGVyL2ZhNmJmYTg1L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Робототехника. Чем занимаются инженеры-электроники? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfUk9CT1RTXzdfd2lua190cmFpbGVyLzQ3NDczYjAzL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Робототехника. Чем занимаются инженеры-программисты? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfUk9CT1RTXzZfd2lua190cmFpbGVyLzFjZDRhNDQwL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Робототехника. Чем занимаются инженеры-мехатроники? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfUk9CT1RTXzhfd2lua190cmFpbGVyL2U2MjU3MTkxL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Робототехника. Роботы в промышленности медицине быту 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfUk9CT1RTXzNfd2lua190cmFpbGVyLzFmYmZhNzBiL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Робототехника. Робот на коленке 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfUk9CT1RTXzJfd2lua190cmFpbGVyLzBhODBlYmRlL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Робототехника. Робот Вера 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfUk9CT1RTXzRfd2lua190cmFpbGVyL2U4ODRhYTZiL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Трансформация этики: как меняется социальная норма 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfZXRpa2Ffd2lua190cmFpbGVyL2ExMTk1OTM0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Семь веков самураев: краткий курс японской истории 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfaXN0b3JpeWFfeWFwb25paV93aW5rX3RyYWlsZXIvNWFjNGJjOGMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Самые удивительные научные открытия 2018 года 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfb3RrcnV0aXlhXzIwMThfd2lua190cmFpbGVyLzFiYzFmOWQxL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Про школьную травлю 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfdHJhdmx5YV93aW5rX3RyYWlsZXIvNTY3MTI4MmIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. По взмаху палочки: великие дирижёры ХХ века 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfZGlyaWdlcl93aW5rX3RyYWlsZXIvYmUyNTQ3NDEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Пикассо в шаговой доступности: все о коллекции европейской живописи в Пушкинском музее 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfcHVzaGtpbnNraXlfd2lua190cmFpbGVyLzI3MDExNTJmL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Новая мифология: почему нас поглощают миры Толкина Лавкрафта и Роулинг 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfZmFudGFzdGlrYV93aW5rX3RyYWlsZXIvN2Y2NDg4MjIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Не просто вещи: дизайн мебели с XVIII века до наших дней 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfbWViZWxfd2lua190cmFpbGVyL2Y2Nzk5MDI0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Как устроен православный храм: когда архитектура и живопись рассказывают истории 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfaHJhbV93aW5rX3RyYWlsZXIvN2ViZDNiMjcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Как установить границы для ребенка 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfZ3JhbmljYV93aW5rX3RyYWlsZXIvYzMwNzZkMDcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Как русские и французы пережили войну 1812 года 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTgxMl93aW5rX3RyYWlsZXIvNTcxNDQ0NGUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Как перечитать русскую классику (и даже получить удовольствие) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfcnVzX2tsYXNzaWthX3dpbmtfdHJhaWxlci9iYWUxYmI4OC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Гарри Поттер как современный герой 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfZ2Fycnlfd2lua190cmFpbGVyL2EyNmFmYTgyL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Полезные лекции для детей и родителей. Воспитание с видом на будущее 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfdm9zcGl0YW5pZV93aW5rX3RyYWlsZXIvYTBlMjVmZGIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Лайфхаки для успешной сдачи экзаменов. Основные даты ЕГЭ и поступления 2020 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfZGF0YV9lZ2Vfd2lua190cmFpbGVyLzcwMTFkMWE1L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Лайфхаки для успешной сдачи экзаменов. ОГЭ. Что нужно знать чтобы сдать ОГЭ? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfb2dlX3dpbmtfdHJhaWxlci81ZDg2NDY5NC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Лайфхаки для успешной сдачи экзаменов. Как побороть стресс перед экзаменом? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfc3RyZXNzX3dpbmtfdHJhaWxlci8yMTE4YmZiNi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Лайфхаки для успешной сдачи экзаменов. ЕГЭ. Что нужно знать чтобы сдать ЕГЭ? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfZWdlX3dpbmtfdHJhaWxlci84NTkyMGEzNy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Лайфхаки для успешной сдачи экзаменов. 10 ошибок при подготовке к экзаменам 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTBlcnJvcl93aW5rX3RyYWlsZXIvYWYyYTgwNGIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Что такое Интернет вещей 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MDFfd2lua190cmFpbGVyLzE2YzY1YTAwL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Что было до интернета вещей 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MDNfd2lua190cmFpbGVyLzExMWYwOGJiL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Собираем систему 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MDdfd2lua190cmFpbGVyLzVhYWE1MzcwL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Какие специалисты нужны 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MTBfd2lua190cmFpbGVyLzlkMDgxYzVkL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Как собирают данные 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MDRfd2lua190cmFpbGVyL2I1YTVlMGY2L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Как передают данные 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MDZfd2lua190cmFpbGVyL2E2ZTFmNGVkL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Как обрабатываются данные 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MDhfd2lua190cmFpbGVyLzY0ZGMxMjc4L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Как выбирают датчики 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MDVfd2lua190cmFpbGVyLzg3MzMzMjQyL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Интернет вещей: потребительский vs индустриальный 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MDJfd2lua190cmFpbGVyL2VlOGZkNTA0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Интернет вещей. Безопасность в интернете вещей 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfSU9UX3MwMV92MDlfd2lua190cmFpbGVyLzcxYzA1YWMxL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Блокчейн. Что такое блокчейн 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfQkNfczAyX3YxX3dpbmtfdHJhaWxlci82ZjYzMGI2Ny92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Блокчейн. Чем защищен блокчейн 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfQkNfczAyX3YyX3dpbmtfdHJhaWxlci83YzczZjExMC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Блокчейн. Форк в блокчейне 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfQkNfczAyX3Y0X3dpbmtfdHJhaWxlci9lMGU4NGFiYS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Блокчейн. Типы сетей блокчейна 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfQkNfczAyX3YzXzFfd2lua190cmFpbGVyLzlmYzRiNzM1L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Блокчейн. Роли в блокчейне и хэш 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfQkNfczAyX3YzXzJfd2lua190cmFpbGVyL2E4NWNlYjkzL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Блокчейн. Пять принципов блокчейна 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfQkNfczAyX3Y1X3dpbmtfdHJhaWxlci8yNjI1N2ZjNS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Блокчейн. Ключи и цифровая подпись 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfQkNfczAyX3YzXzNfd2lua190cmFpbGVyLzZhN2MxYTI1L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Блокчейн. Глупые вопросы про блокчейн 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfQkNfczAyX3Y2XzFfd2lua190cmFpbGVyL2Q1Nzg4ZmI3L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Блокчейн. Алгоритмы консенсуса 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfQkNfczAyX3YzXzRfd2lua190cmFpbGVyLzJiYTY2ZGM4L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Азбука здоровья. Четыре основы здоровья 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfOV9hel9jaGV0eXJlX29zbm92eV96ZG9yb3ZheV9lcDAyX3dpbmtfdHJhaWxlci82NjA0NzIwNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Азбука здоровья. Технологии сбора хранения оценки и анализа параметров здоровья 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfOV9hel90ZWNobm9sb2dpYV9zYm9yYV9raHJhbmVuaWFfb3RzZW5raV9wYXJhbWV0cm92X3pkb3JvdnlhX2VwMTBfd2lua190cmFpbGVyLzZjMjQxOTAxL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Азбука здоровья. Почему важно быть здоровым? Здоровье как ресурс для будущей жизни 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfOV9hel9wb2NoZW11X3Zhemhub19ieXRfemRvcm92eW1fZXAwMV93aW5rX3RyYWlsZXIvYmI3NDlkMzUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Азбука здоровья. Нормы необходимой физической активности 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfOV9hel9kdmlnYXRlbG5heWFfYWt0aXZub3N0X2VwMDZfd2lua190cmFpbGVyLzJiOWY2MTkwL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Азбука здоровья. Калорийность пищи: Чай с молоком кофе американо или капучино? Бутерброд или каша? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfOV9hel9rYWxvcmlpbm9zdF9waXNoaV9lcDA0X3dpbmtfdHJhaWxlci9lMzUxMTJkNi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Азбука здоровья. Как и чем измерить объём двигательной активности 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfOV9hel9rYWtfaV9jaGVtX2l6bWVyaXRfb2JpZW1fZHZpZ2F0ZWxub3lfYWt0aXZub3N0aV9lcDA3X3dpbmtfdHJhaWxlci8xOGQ3ZTQ5OS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Азбука здоровья. Как и с помощью каких технологий мы можем организовать Центр здоровья у себя дома 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfOV9hel9rYWtfaV9zX3BvbW9zaHV5X2tha2lraF90ZWtobm9sb2dpeV9lcDA4X3dpbmtfdHJhaWxlci9mZjc1MzM0MS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Азбука здоровья. Белки жиры и углеводы 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfOV9hel9iZWxraV96aGlyeV91Z2xldm9keV9lcDAzX3dpbmtfdHJhaWxlci8yZDM0OTQxNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: Азбука здоровья. Баланс калорий 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfOV9hel9iYWxhbnNfa2Fsb3JpaV9lcDA1X3dpbmtfdHJhaWxlci8wZmM0ZDE3Mi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Что делает VR особенным: 5 преимуществ технологии? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfM18xX3dpbmtfdHJhaWxlci81NmIzNDVkNS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Трекеры и контроллеры 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfNF8yX3dpbmtfdHJhaWxlci9jOWU0MjgyOC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Степени свободы 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfM18yX3dpbmtfdHJhaWxlci83M2NlNzQwZS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Советы и факты для тех кто хочет работать в VR 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfOF8xX3dpbmtfdHJhaWxlci9jNGNjNjFmMS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Сколько ресурсов нужно для запуск VR-проекта? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfN193aW5rX3RyYWlsZXIvY2JmMzRkOTEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Почему все говорят про VR 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfMV93aW5rX3RyYWlsZXIvZDRiM2YwNzUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Популярные шлемы VR и как они работают 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfNF8xX3dpbmtfdHJhaWxlci83NTYwNGUzNS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Как создаются VR-приложения? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfNV8xOF8wM193aW5rX3RyYWlsZXIvMzFkNTE2ODcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Как оживает VR мир? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfNl93aW5rX3RyYWlsZXIvM2NiNmM5Y2MvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Как мы погружаемся в VR 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfMl93aW5rX3RyYWlsZXIvMThkMzE5ODAvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2020: VR Виртуальная реальность. Как выбрать идею для VR-проекта? 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfUlRfVlJfOF8yX3dpbmtfdHJhaWxlci83YzQyN2YzYi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2019: Красивый голос. Сезон 1. Серия 6 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9LcmFzaXZpeV9nb2xvc19zMDFfMDYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2019: Красивый голос. Сезон 1. Серия 5 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9LcmFzaXZpeV9nb2xvc19zMDFfMDUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2019: Красивый голос. Сезон 1. Серия 4 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9LcmFzaXZpeV9nb2xvc19zMDFfMDQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2019: Красивый голос. Сезон 1. Серия 3 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9LcmFzaXZpeV9nb2xvc19zMDFfMDMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2019: Красивый голос. Сезон 1. Серия 2 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9LcmFzaXZpeV9nb2xvc19zMDFfMDIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2019: Красивый голос. Сезон 1. Серия 1 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9LcmFzaXZpeV9nb2xvc19zMDFfMDEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2017: Территория успеха 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19UZXJyaXRvcml5YV9Vc3BlaGFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2017: Ночные дежурства 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19Ob2NobnllX0RlanVyc3R2YV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2017: Небесный тапёр 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19OZWJlc255X3RhcGVyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2017: Летяево: город самолетов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19MZXRpYWV2b19Hb3JvZF9TYW1vbGV0b3ZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2016: Мост 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9NT1NUX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2016: Два имени одного города 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9EdmFfaW1lbmlfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2016: Веники еловые-2 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9WZW5pa2lfRWxvdmllLTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2015: Моя тайная страна 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9Nb3lfdGFpbmFpeV9zdHJhbmFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2015: Гимн Великому городу 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9HaW1uX3ZlbGlrb211X2dvcm9kdV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2015: Вне 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9WbmVfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2015: Веники еловые 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9WZW5pa2lfRWxvdmllLTFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2014: Цурцула 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9Uc3V0c3VsYV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2014: Цена победы (2014) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9DZW5hX1BvYmVkeV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2014: Сирин 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9TaXJpbl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2014: Рабочая неделя. Воскресенье выходной 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9SYWJvY2hheWFfbmVkZWx5YV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2014: Пассажиропоток 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9QYXNzYWppcm9wb3Rva19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2014: Камчатка — лекарство от ненависти 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9LYW1jaGF0a2EtbGVrYXJzdHZvX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2013: Чародей 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19DSEFST0RFWV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2013: Русский сон 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19SdXNzaWtpeV9zb25fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2012: Простите я чувствую 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9Qcm9zdGl0ZV95YV9jaHV2c3R2dXVfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2011: Лёгкие люди 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMV9MZWdraWVfbHVkaV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2009: Император который знал свою судьбу 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOV9JbXBlcmF0b3JfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2008: Русские в еврейской школе 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOF9SdXNza2llX3ZfZXZyZWlza29pX3Noa29sZV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Лицей",2008: Пастораль 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOF9QYXN0b3JhbF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8

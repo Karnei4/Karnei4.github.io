@@ -1,0 +1,1135 @@
+#EXTM3U
+#PLAYLIST:M3U-Karnei4
+#ICON:https://vgif.ru/gifs/154/vgif-ru-24627.gif
+#BACKGROUND-IMAGE:https://Karnei4.github.io/s/png/fon-info_optimized.jpg
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2020: Последняя пуля HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAyMF9Qb3NsZWRueWF5YV9wdWx5YV9fcTB3Ml9hcjZlNl94TUJwczNCdW84Y19maWxtLzYwYzk0YzMzL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2020: Последняя пуля
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAyMF9Qb3NsZWRueWF5YV9wdWx5YV9fcTB3Ml9hcjJlMl94Qkc5c240R2lkNV9maWxtL2Y0ODIzOWM1L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Храбрецы HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9IcmFicmVjeV9fbWhhcmRzdWJfMjIwMTIwX2ZpbG0vODdiZTlhZDMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Храбрецы HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9IcmFicmVjeV9fcTB3MF9hY2huNl9taGFyZHN1Yl94Sko4aE9qT3VOYl9maWxtL2IxMGU5M2Q0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Храбрецы
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9IcmFicmVjeV9fcTB3MF9hY2huMl9taGFyZHN1Yl94aGx0bklRYmtURF9maWxtLzk5MGNhODhmL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Форсаж: Хоббс и Шоу HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Gb3JzYXpoX2hvYmJzX2lfc2hvdV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Форсаж: Хоббс и Шоу
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Gb3JzYXpoX2hvYmJzX2lfc2hvdV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Последний бросок HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Qb3NsZWRuaXlfYnJvc29rX19xMHcyX2FyNmU2X3hsUWp0enFZdWZJX2ZpbG0vZGUyMGYxMDgvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Последний бросок
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Qb3NsZWRuaXlfYnJvc29rX19xMHcyX2FyMmUyX3hqMGZVUzYyNW50X2ZpbG0vZjQ5YzNkNDUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Первая любовь HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9QZXJ2YXlhX2x5dWJvdl9fcTB3Ml94RFZlMmkxdmNKbV9maWxtLzVhMGViMTBkL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Первая любовь
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9QZXJ2YXlhX2x5dWJvdl9fcTB3Ml94OWFlVmxrUXM2bl9maWxtL2VkMDYxZGJmL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Невиновен HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9OZXZpbm92ZW5fX3EwdzJfeFZaQlhFcm1oMW5fZmlsbS84OWQ1NGI5OS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Невиновен
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9OZXZpbm92ZW5fX3EwdzJfeGRQdHdUOFk3ZUJfZmlsbS82MGFkYmVjYi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Мстители: Финал
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Nc3RpdGVsaV9maW5hbF96enpfYm9udXNfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Крест: Восстание злодеев HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9LcmVzdF92b3NzdGFuaWVfemxvZGVldl9fcTB3MF9hcjZlNl9zcl94Q3NsOUhvc0pwaF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Крест: Восстание злодеев
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9LcmVzdF92b3NzdGFuaWVfemxvZGVldl9fcTB3MF9hcjJlMl9zcl94bHhGc291dUdYQ19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Кокаиновый барон HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Lb2thaW5vdnl5X2Jhcm9uX19xMHcyX3g1a0RYNTdkVzVzX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Кокаиновый барон
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Lb2thaW5vdnl5X2Jhcm9uX19xMHcyX3hNdnNjMjd5dWZhX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Звериная ярость HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9admVyaW5heWFfeWFyb3N0X19xMHcyX2FyNmU2X3NyX3hLWDlEQTBaaUk2X2ZpbG0vODVmYWMzMGUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Звериная ярость
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9admVyaW5heWFfeWFyb3N0X19xMHcyX2FyMmUyX3NyX3hEbFFNUDFDelVZX2ZpbG0vMTYzYTBiNmMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Дикая лига HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9EaWtheWFfbGlnYV9fcTB3Ml94NDloN0MxRjhua19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Дикая лига
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9EaWtheWFfbGlnYV9fcTB3Ml94UFR5djBtNXFhWl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Годзилла 2: Король монстров HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Hb2R6aWxsYV8yX2tvcm9sX21vbnN0cm92X19xMHcwX2FyNmU2X3NyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Безбашенная пуля HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9CZXpiYXNoZW5uYXlhX3B1bHlhX19xMHcxX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Безбашенная пуля
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9CZXpiYXNoZW5uYXlhX3B1bHlhX19xMHcxX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Балканский рубеж HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9CYWxrYW5za2l5X3J1YmV6aF9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Али рули! HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9BbGlfcnVsaV9fcTB3MF9hcjZlNl9zcl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Али рули!
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9BbGlfcnVsaV9fcTB3MF9hcjJlMl9zcl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Адская кухня HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9BZHNrYXlhX2t1aG55YV9fcTB3MF9hcjZlNl9zcl94ZmFhellCTlNGY19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2019: Адская кухня
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9BZHNrYXlhX2t1aG55YV9fcTB3MF9hcjJlMl9zcl94Q3Z3OG9EcE5ySF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Человек-муравей и Оса HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9DaGVsb3Zla19tdXJhdmV5X2lfb3NhX3p6el9ib251c19fcTB3Ml9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Хан Соло: Звёздные Войны. Истории HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9IYW5fc29sb196dmV6ZG55ZV92b3lueV9pc3RvcmlpX3p6el9ib251c19fcTB3Ml9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Суперфлай HD Тест 5.1
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaDI2NC9VSERfMTMxMzM4Q19SVVMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Суперфлай HD Тест 5.1
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvVUhEXzEzMTMzN0NfUlVTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Суперфлай HD Тест 5.1
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvVUhEXzEzMTMzOENfUlVTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Суперфлай HD Тест 5.1
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaDI2NC9VSERfMTMxMzM3Q19SVVMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Суперфлай HD Тест 5.1
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9TdXBlcmZsYXlfX3EwdzFfdGVzdF81MV9hYzZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Суперфлай HD Тест 5.1
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19BX3N0dWRpb191bGV0YXl1X19xMHcwX2thcmFva2VfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Робин Гуд: Начало HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9Sb2Jpbl9ndWRfbmFjaGFsb19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Робин Гуд: Начало
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9Sb2Jpbl9ndWRfbmFjaGFsb19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Репка
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvbXAzL3JlcGthLnRzL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Последнее испытание HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9Qb3NsZWRuZWVfaXNweXRhbmllX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Последнее испытание
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9Qb3NsZWRuZWVfaXNweXRhbmllX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Несчастный случай
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9OZXNjaGFzdG55eV9zbHVjaGF5X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Нация Убийц HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9OYWNpeWFfdWJpeWNfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Нация Убийц
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9OYWNpeWFfdWJpeWNfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Мстители: Война бесконечности HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9Nc3RpdGVsaV92b3luYV9iZXNrb25lY2hub3N0aV96enpfYm9udXNfX3EwdzBfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Мстители: Война бесконечности
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9Nc3RpdGVsaV92b3luYV9iZXNrb25lY2hub3N0aV96enpfYm9udXNfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Морской Пехотинец 6: Ближний Бой HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9Nb3Jza295X3BlaG90aW5lY182X2JsaXpobml5X2JveV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Морской Пехотинец 6: Ближний Бой
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9Nb3Jza295X3BlaG90aW5lY182X2JsaXpobml5X2JveV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Караоке Тест 1
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19BZXJvc21pdGhfZHJlYW1fb25fX3EwdzBfa2FyYW9rZV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Игрушки для взрослых 4K
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvNGtfMjAxOF9pZ3J1c2hraV9kbHlhX3Z6cm9zbHloX2ZpbG0vYzAzNDM5ZmMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Золото Флинна HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9ab2xvdG9fZmxpbm5hX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Золото Флинна
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9ab2xvdG9fZmxpbm5hX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Безумный куш HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9CZXp1bW55eV9rdXNoX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Безумный куш
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9CZXp1bW55eV9rdXNoX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2018: Аквамен HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9Ba3ZhbWVuX19xMHcwX2FyNmU2X3NyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Шанхайский перевозчик
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19TaGFuaGF5c2tpeV9wZXJldm96Y2hpa19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Чудо-женщина
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19DaHVkb196aGVuc2hpbmFfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Спасатели Малибу HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19TcGFzYXRlbGlfbWFsaWJ1X19xMHcwX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Спасатели Малибу
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19TcGFzYXRlbGlfbWFsaWJ1X19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Снайпер: Идеальное убийство
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19TbmF5cGVyX2lkZWFsbm9lX3ViaXlzdHZvX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Сделано в Америке HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19TZGVsYW5vX3ZfYW1lcmlrZV9fcTB3MV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Сделано в Америке
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19TZGVsYW5vX3ZfYW1lcmlrZV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Прикончи их всех
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Qcmlrb25jaGlfaWhfdnNlaF9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Огненная буря
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19PZ25lbm5heWFfYnVyeWFfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Обет молчания
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19PYmV0X21vbGNoYW5peWFfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Наемник
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19OYWVtbmlrX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Меч короля Артура HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19NZWNoX2tvcm9seWFfYXJ0dXJhX19xMHcwX2FyNmU2X3NyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Меч короля Артура
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19NZWNoX2tvcm9seWFfYXJ0dXJhX19xMHcwX2FyMmUyX3NyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Малыш на драйве HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19NYWx5c2hfbmFfZHJheXZlX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Малыш на драйве
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19NYWx5c2hfbmFfZHJheXZlX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Максимальный удар HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19NYWtzaW1hbG55eV91ZGFyX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Максимальный удар
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19NYWtzaW1hbG55eV91ZGFyX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Лига справедливости
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19MaWdhX3NwcmF2ZWRsaXZvc3RpX19xMHcwX2FyMmUyX3NyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Крест. Часть вторая: Двойной обман
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19LcmVzdF8yX2R2b3lub3lfb2JtYW5fX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Звёздные войны: Последние джедаи
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19admV6ZG55ZV92b3lueV9wb3NsZWRuaWVfZHpoZWRhaV96enpfYm9udXNfX3EwdzJfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Доспехи Бога: в поисках сокровищ
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Eb3NwZWhpX2JvZ2Ffdl9wb2lza2FoX3Nva3JvdmlzaF9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Джон Уик 2 HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19Eemhvbl91aWtfMl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Джон Уик 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Eemhvbl91aWtfMl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Время псов
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19WcmVteWFfcHNvdl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Взрывная блондинка
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19WenJ5dm5heWFfYmxvbmRpbmthX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Ветреная река HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19WZXRyZW5heWFfcmVrYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Ветреная река
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19WZXRyZW5heWFfcmVrYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Бои без правил HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19Cb2lfYmV6X3ByYXZpbF9fcTB3Ml9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Безбашенные HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19CZXpiYXNoZW5ueWVfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Безбашенные
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19CZXpiYXNoZW5ueWVfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Арена (2017) HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19BcmVuYV9fcTB3Ml9hcjZlNl94ekNFc1ZuZENZb19maWxtL2RkYzk4N2IyL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2017: Арена (2017)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19BcmVuYV9fcTB3Ml9hcjJlMl94YnhPMTE1ZDRZcl9maWxtL2QxM2QyMDE1L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Черепашки-ниндзя 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9DaGVyZXBhc2hraV9uaW5kenlhXzJfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Ценный груз
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9DZW5ueXlfZ3J1el9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Спарта
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9TcGFydGFfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Разборка в Маниле HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9SYXpib3JrYV92X21hbmlsZV9fcTB3MF9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Разборка в Маниле
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9SYXpib3JrYV92X21hbmlsZV9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Перестрелка HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9QZXJlc3RyZWxrYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Перестрелка
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9QZXJlc3RyZWxrYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Падение Лондона HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9QYWRlbmllX2xvbmRvbmFfX3EwdzJfbTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Падение Лондона
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9QYWRlbmllX2xvbmRvbmFfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Охранник (2016)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9PaHJhbm5pa19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Отпетые напарники
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9PdHBldHllX25hcGFybmlraV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Морской пехотинец 5: Поле боя
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Nb3Jza295X3BlaG90aW5lY181X3BvbGVfYm95YV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Миссия в Майами
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9NaXNzaXlhX3ZfbWF5YW1pX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Механик: Воскрешение HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9NZWhhbmlrX3Zvc2tyZXNoZW5pZV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Механик: Воскрешение
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9NZWhhbmlrX3Zvc2tyZXNoZW5pZV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Кровный отец HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9Lcm92bnl5X290ZWNfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Кровный отец
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9Lcm92bnl5X290ZWNfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Изгой-один: Звёздные войны. Истории HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9JemdveV9vZGluX3p2ZXpkbnllX3ZveW55X2lzdG9yaWlfenp6X2JvbnVzX19xMHcwX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Изгой-один: Звёздные войны. Истории
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9JemdveV9vZGluX3p2ZXpkbnllX3ZveW55X2lzdG9yaWlfenp6X2JvbnVzX19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Джейсон Борн HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9EemhleXNvbl9ib3JuX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Джейсон Борн
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9EemhleXNvbl9ib3JuX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Великолепная семерка
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9WZWxpa29sZXBuYXlhX3NlbWVya2FfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: В долине насилия
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9WX2RvbGluZV9uYXNpbGl5YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Брюс Ли: Рождение Дракона HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9Ccnl1c19saV9yb3poZGVuaWVfZHJha29uYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Брюс Ли: Рождение Дракона
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9Ccnl1c19saV9yb3poZGVuaWVfZHJha29uYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2016: Автобан
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9BdnRvYmFuX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Эверест HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9FdmVyZXN0X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Рюдзо и семеро бойцов
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9SeXVkem9faV9zZW1lcm9fYm95Y292X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Разлом Сан-Андреас HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9SYXpsb21fc2FuX2FuZHJlYXNfX3EwdzJfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Разлом Сан-Андреас
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9SYXpsb21fc2FuX2FuZHJlYXNfX3EwdzJfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Перевозчик: Наследие
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9QZXJldm96Y2hpa19uYXNsZWRpZV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Ночной беглец HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9Ob2Nobm95X2JlZ2xlY19fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Ночной беглец
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9Ob2Nobm95X2JlZ2xlY19fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Неуловимые: Последний герой
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9OZXVsb3ZpbXllX3Bvc2xlZG5peV9nZXJveV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: На линии огня (2015) HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9OYV9saW5paV9vZ255YV9fcTB3Ml94amVub3hSTzdUYV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: На линии огня (2015)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9OYV9saW5paV9vZ255YV9fcTB3Ml94NnpwUEZjVXlDQl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: На гребне волны (2015)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9OYV9ncmVibmVfdm9sbnlfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Миссия невыполнима: Племя изгоев HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9NaXNzaXlhX25ldnlwb2xuaW1hX3BsZW15YV9pemdvZXZfX3EwdzBfYXI2ZTZfc3JfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Миссия невыполнима: Племя изгоев
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9NaXNzaXlhX25ldnlwb2xuaW1hX3BsZW15YV9pemdvZXZfX3EwdzBfYXIyZTJfc3JfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Левша HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9MZXZzaGFfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Левша
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9MZXZzaGFfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Иерей-сан. Исповедь самурая HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9JZXJleV9zYW5faXNwb3ZlZF9zYW11cmF5YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Иерей-сан. Исповедь самурая
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9JZXJleV9zYW5faXNwb3ZlZF9zYW11cmF5YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Звёздные войны: Пробуждение силы
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9admV6ZG55ZV92b3lueV9wcm9idXpoZGVuaWVfc2lseV9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Восхождение Юпитер HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9Wb3Nob3poZGVuaWVfeXVwaXRlcl9fcTB3MF9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: В сердце моря HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9WX3NlcmRjZV9tb3J5YV9fcTB3MF9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Антиганг HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9BbnRpZ2FuZ19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2015: Антиганг
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9BbnRpZ2FuZ19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Эверли HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9FdmVybGlfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Шальная карта
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9TaGFsbmF5YV9rYXJ0YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Шальная карта
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9TaGFsbmF5YV9rYXJ0YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Французский транзит
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9GcmFuY3V6c2tpeV90cmFueml0X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Трансформеры: Эпоха истребления HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9UcmFuc2Zvcm1lcnlfZXBvaGFfaXN0cmVibGVuaXlhX19xMHcwX2FyNmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Спасение
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9TcGFzZW5pZV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Снайпер HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9TbmF5cGVyX19xMHcwX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Снайпер
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9TbmF5cGVyX19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Рейд 2 HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9SZXlkXzJfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Рейд 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9SZXlkXzJfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Ограбление по-американски
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9PZ3JhYmxlbmllX3BvX2FtZXJpa2Fuc2tpX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Неудержимые 3 HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9OZXVkZXJ6aGlteWVfM19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Неудержимые 3
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9OZXVkZXJ6aGlteWVfM19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Кольт 45
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9Lb2x0XzQ1X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Кайт
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9LYXl0X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Город грехов 2: Женщина ради которой стоит убивать HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9Hb3JvZF9ncmVob3ZfMl96aGVuc2hpbmFfcmFkaV9rb3Rvcm95X3N0b2l0X3ViaXZhdF9fcTB3MV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Город грехов 2: Женщина ради которой стоит убивать
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9Hb3JvZF9ncmVob3ZfMl96aGVuc2hpbmFfcmFkaV9rb3Rvcm95X3N0b2l0X3ViaXZhdF9fcTB3MF9tbW9ub19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Гнев
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9HbmV2X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Враг: закон и беспорядок
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9WcmFnX3pha29uX2lfYmVzcG9yeWFkb2tfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Need for Speed: Жажда скорости HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9OZWVkX2Zvcl9zcGVlZF96aGF6aGRhX3Nrb3Jvc3RpX19xMHcwX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: Need for Speed: Жажда скорости
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9OZWVkX2Zvcl9zcGVlZF96aGF6aGRhX3Nrb3Jvc3RpX19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: 3 дня на убийство HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF8zX2RueWFfbmFfdWJpeXN0dm9fX3EwdzJfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2014: 3 дня на убийство
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF8zX2RueWFfbmFfdWJpeXN0dm9fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Эвакуация
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19FdmFrdWFjaXlhX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Штурм белого дома HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19TaHR1cm1fYmVsb2dvX2RvbWFfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Уцелевший
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19VY2VsZXZzaGl5X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Тор 2: Царство тьмы
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Ub3JfMl9jYXJzdHZvX3RteV9fcTB3MF9hcjJlMl9zcl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Сталинград HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19TdGFsaW5ncmFkX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Сталинград
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19TdGFsaW5ncmFkX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Совместная поездка HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19Tb3ZtZXN0bmF5YV9wb2V6ZGthX19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Совместная поездка
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Tb3ZtZXN0bmF5YV9wb2V6ZGthX19xMHcyX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Саботаж
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9TYWJvdGF6aF9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: РЭД 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19SZWRfMl9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Последний рубеж HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19Qb3NsZWRuaXlfcnViZXpoX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Последний рубеж
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Qb3NsZWRuaXlfcnViZXpoX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: План побега
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19QbGFuX3BvYmVnYV9fcTB3Ml9kMTkwODMwMTgwNV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: План побега
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19QbGFuX3BvYmVnYV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Падение Олимпа HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19QYWRlbmllX29saW1wYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Падение Олимпа
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19QYWRlbmllX29saW1wYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Молодая кровь
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Nb2xvZGF5YV9rcm92X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Мизерере
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19NaXplcmVyZV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Мертвец из Тумстоуна
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19NZXJ0dmVjX3ZfdHVtYnN0b3VuZV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Мёбиус
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19NZWJpdXNfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Мастер тай-цзи
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19NYXN0ZXJfdGF5X2N6aV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Кровью и потом: Анаболики HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19Lcm92eXVfaV9wb3RvbV9hbmFib2xpa2lfX3EwdzJfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Кровью и потом: Анаболики
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Lcm92eXVfaV9wb3RvbV9hbmFib2xpa2lfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Кровавая месть HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19Lcm92YXZheWFfbWVzdF9fcTB3MV9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Кровавая месть
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Lcm92YXZheWFfbWVzdF9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Железный человек 3
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19aaGVsZXpueXlfY2hlbG92ZWtfM19fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Драконы Нью-Йорка HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19EcmFrb255X255dV95b3JrYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Драконы Нью-Йорка
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19EcmFrb255X255dV95b3JrYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Два ствола
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19EdmFfc3R2b2xhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: Восьмерка
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Wb3NtZXJrYV9fcTF3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2013: 22 минуты HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF8yMl9taW51dHlfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Я Алекс Кросс
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9ZYV9hbGVrc19rcm9zc19fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Эмпайр Стэйт
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9FbXBheXJfc3RleXRfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Человек с железными кулаками
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9DaGVsb3Zla19zX3poZWxlem55bWlfa3VsYWthbWlfX3ExdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Цифровая радиостанция
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9DaWZyb3ZheWFfcmFkaW9zdGFuY2l5YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Темная правда
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9UZW1uYXlhX3ByYXZkYV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Стукач
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9TdHVrYWNoX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Паркер
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9QYXJrZXJfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Очень опасная штучка
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9PY2hlbl9vcGFzbmF5YV9zaHR1Y2hrYV9fcTB3MF9tbG9nb19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Особо опасны
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9Pc29ib19vcGFzbnlfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Ограбление казино
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9PZ3JhYmxlbmllX2themlub19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Неудержимый
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9OZXVkZXJ6aGlteXlfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Неудержимые 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9OZXVkZXJ6aGlteWVfMl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Нарковойна
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9OYXJrb3ZveW5hX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Медальон (2012)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9NZWRhbG9uX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Контрабанда
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9Lb250cmFiYW5kYV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Кодовое имя: «Джеронимо»
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9Lb2Rvdm9lX2lteWFfZHpoZXJvbmltb19fcTB3MV9hcjJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Код доступа «Кейптаун»
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9Lb2RfZG9zdHVwYV9rZXlwdGF1bl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Защитник
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9aYXNoaXRuaWtfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Заложница 2 HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9aYWxvemhuaWNhXzJfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Заложница 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9aYWxvemhuaWNhXzJfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Заложница 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9aYWxvemhuaXRjYV8yX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Добро пожаловать в капкан HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9Eb2Jyb19wb3poYWxvdmF0X3Zfa2Fwa2FuX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Джон Картер HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9Eemhvbl9rYXJ0ZXJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Джон Картер
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9Eemhvbl9rYXJ0ZXJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Гринго
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9HcmluZ29fX3EwdzJfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Виолет и Дейзи
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9WaW9sZXRfaV9kZXl6aV9fcTF3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Бэйтаун вне закона
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9CZXl0YXVuX3ZuZV96YWtvbmFfX3EydzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Боксер (2012)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9Cb2tzZXJfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2012: Ангел-хранитель
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9BbmdlbF9ocmFuaXRlbF9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Трансформеры 3: Тёмная сторона Луны
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9UcmFuc2Zvcm1lcnlfM190ZW1uYXlhX3N0b3JvbmFfbHVueV9fcTF3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Срочная доставка (2011)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9Tcm9jaG5heWFfZG9zdGF2a2FfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Средь бела дня
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9TcmVkX2JlbGFfZG55YV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Сенна
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9TZW5uYV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Рейд
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9SZXlkX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Первый мститель HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMV9QZXJ2eXlfbXN0aXRlbF9fcTB3MF9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Нокаут
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9Ob2thdXRfX3ExdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Неприкасаемые
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9OZXByaWthc2FlbXlqZV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Мушкетеры
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9NdXNoa2V0ZXJ5X19xMHcyX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Коломбиана
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9Lb2xvbWJpYW5hX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Голодный кролик атакует
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9Hb2xvZG55aV9rcm9saWtfYXRha3VldF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Бой с тенью 3D: Последний раунд
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9Cb3lfc190ZW55dV8zX3Bvc2xlZG5peV9yYXVuZF9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Бой с тенью 3D: Последний раунд
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9Cb2pfc190ZW5qdV8zX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2011: Бабло
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9CYWJsb19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Три метра над уровнем неба
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9UcmlfbWV0cmFfbmFkX3Vyb3ZuZW1fbmViYV9fcTB3Ml9zcl94NllMRHducGptaV9maWxtLzVmODliZmRkL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Солт
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9Tb2x0X19xMHcyX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: РЭД
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9SZWRfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Пирамммида
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9QaXJhbW1taWRhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Обитель зла 4: Жизнь после смерти HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9PYml0ZWxfemxhXzRfemhpem5fcG9zbGVfc21lcnRpX19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Обитель зла 4: Жизнь после смерти
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9PYml0ZWxfemxhXzRfemhpem5fcG9zbGVfc21lcnRpX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Неудержимые HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9OZXVkZXJ6aGlteWVfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Не брать живым
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9OZV9icmF0X3poaXZ5bV9fcTF3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Механик
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9NZWhhbmlrX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Мачете HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9NYWNoZXRlX19xMHcwX2FyMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Мачете
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9NYWNoZXRlX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Команда «А»
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9Lb21hbmRhX2FfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Двойной КОПец
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9Edm95bm95X2tvcGVjX19xMHcyX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2010: Вторжение: Битва за рай
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9WdG9yemhlbmllX2JpdHZhX3phX3JheV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Шерлок Холмс
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9TaGVybG9rX2hvbG1zX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Уличный боец 2009
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9VbGljaG55eV9ib2VjX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Тринадцатый район: Ультиматум
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV8xM19yYWlvbl9VbHRpbWF0dW1fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Опасные пассажиры поезда 123
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19vcGFzbnllX3Bhc3NhamlyeV9wb2V6ZGFfMTIzX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Опасные пассажиры поезда 123
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9PcGFzbnllX3Bhc3NhemhpcnlfcG9lemRhXzEyM19fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Ниндзя-убийца
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9OaW5kenlhX3ViaXljYV9fcTB3Ml9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Инкассатор HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOV9Jbmthc3NhdG9yX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Из Парижа с любовью
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOV9Jel9wYXJpemhhX3NfbHl1Ym92eXVfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Из Парижа с любовью
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9Jel9wYXJpemFfc19sdWJvdmp1X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Дикая штучка
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9EaWtheWFfc2h0dWNoa2FfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Бой без правил
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9Cb3lfYmV6X3ByYXZpbF9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Бесславные ублюдки
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9CZXNzbGF2bnllX3VibHl1ZGtpX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Адреналин: Высокое напряжение
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9BZHJlbmFsaW5fdnlzb2tvZV9uYXByeWF6aGVuaWVfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2009: Адреналин: Высокое напряжение
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9BZHJlbmFsaW5fMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Точка обстрела
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Ub2Noa2Ffb2JzdHJlbGFfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Совокупность лжи
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Tb3Zva3Vwbm9zdF9semhpX2ZpeF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Рэмбо 4
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19SZW1ib180X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Рок-н-рольщик (В переводе Гоблина)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOF9Sb2tfbl9yb2xzaGlrX19xMHcyX2FyNmU2X21nb2JsaW5fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Рок-н-рольщик
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Sb2tfbl9yb2xzaGlrX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Проблеск гениальности
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Qcm9ibGVza19nZW5pYWxub3N0aV9fcTF3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Опасный Бангкок
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9PcGFzbnl5X2Jhbmdrb2tfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Никогда не сдавайся
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9OaWtvZ2RhX25lX3NkYXZheXN5YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Монтана
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Nb250YW5hX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Каратель: Территория войны
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9LYXJhdGVsX3RlcnJpdG9yaXlhX3ZveW55X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Индиана Джонс и Королевство хрустального черепа
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9JbmRpYW5hX2R6aG9uc19pX2tvcm9sZXZzdHZvX2hydXN0YWxub2dvX2NoZXJlcGFfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Вызов
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9WeXpvdl9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Бронсон HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOF9Ccm9uc29uX19xMHcxX2FyMmUyX2QxOTA1MjcxOTU4X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Бронсон
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Ccm9uc29uX19xMHcxX2FyMmUyX2QxOTA2MDYxODQ0X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2008: Бронсон
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Ccm9uc29uX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2007: Час пик 3
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19DaGFzX3Bpa18zX19xMXcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2007: Кремень
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19LcmVtZW5fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2007: Королевство
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19Lb3JvbGV2c3R2b19fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2007: Козырные тузы
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNl9Lb3p5cm55ZV90dXp5X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2007: Залечь на дно в Брюгге
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19aYWxlY2hfbmFfZG5vX3ZfYnJ5dWdnZV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2007: Бой с тенью 2: Реванш
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19Cb3lfc190ZW55dV8yX3JldmFuc2hfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2006: Полиция Майами: Отдел нравов
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNl9Qb2xpY2l5YV9tYXlhbWlfb3RkZWxfbnJhdm92X19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2006: Миссия: невыполнима 3
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNl9NaXNzaXlhX25ldnlwb2xuaW1hXzNfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2006: Бумер. Фильм второй
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNl9CdW1lcl9maWxtX3Z0b3JveV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2006: Альфа Дог
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9BbGZhX2RvZ19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Тристан и Изольда HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwNV9UcmlzdGFuX2lfaXpvbGRhX19xMHcwX2FyMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Тристан и Изольда
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9UcmlzdGFuX2lfaXpvbGRhX19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Сволочи
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNl9Tdm9sb2NoaV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Легенда Зорро HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwNV9sZWdlbmRhX3pvcnJvX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Легенда Зорро
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9MZWdlbmRhX3pvcnJvX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Заложник
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9aYWxvemhuaWtfX3EwdzJfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Другой мир 2: Эволюция HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwNV9EcnVnb3lfbWlyXzJfZXZvbHl1Y2l5YV9fcTB3Ml9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Дилер 3 HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwNV9EaWxlcl8zX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Дилер 3
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9EaWxlcl8zX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2005: Бой с тенью
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9Cb3lfc190ZW55dV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: Широко шагая
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9TaGlyb2tvX3NoYWdheWFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: Широко шагая
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9TaGlyb2tvX3NoYWdheWFfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: Спартанец HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwNF9TcGFydGFuZWNfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: Спартанец
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9TcGFydGFuZWNfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: Соучастник
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9Tb3VjaGFzdG5pa19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: Разборки в стиле Кунг-фу
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9SYXpib3JraV92X3N0aWxlX2t1bmdfZnVfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: Разборки в стиле Кунг-фу
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9SYXpib3JraV92X3N0aWxlX2t1bmdfZnVfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: Король Артур
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9Lb3JvbF9hcnR1cl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: Багровые реки 2: Ангелы апокалипсиса
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9CYWdyb3Z5ZV9yZWtpXzJfYW5nZWx5X2Fwb2thbGlwc2lzYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2004: 13-й район
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF8xM19yYXlvbl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2003: Плохие парни 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19QbG9oaWVfcGFybmlfMl9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2003: Загнанный
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19aYWduYW5ueXlfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2003: Другой мир HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwM19EcnVnb3lfbWlyX19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2003: Другой мир
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19EcnVnb3lfbWlyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2003: Бумер
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19CdW1lcl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2003: База «Клейтон»
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19CYXphX2tsZXl0b25fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2003: S.W.A.T.: Спецназ города ангелов HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwM19TX3dfYV90X3NwZWNuYXpfZ29yb2RhX2FuZ2Vsb3ZfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2003: S.W.A.T.: Спецназ города ангелов
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19Td2F0X3NwZWNuYXpfZ29yb2RhX2FuZ2Vsb3ZfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2002: У любви нет цены
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMl9VX0l5dWJ2aV9uZXRfdHNlbnlfczAxXzAxX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2002: Три икса
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMl9UcmlfaWtzYV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2002: Рекрут
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMl9SZWtydXRfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2002: Война
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMl9Wb3luYV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2001: Черный ястреб
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9DaGVybnl5X3lhc3RyZWJfX3EwdzJfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2001: Час пик 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9DaGFzX3Bpa18yX19xMXcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2001: Форсаж
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9Gb3JzYXpoX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2001: Тренировочный день
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9UcmVuaXJvdm9jaG55eV9kZW5fX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2001: Сестры
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9TZXN0cnlfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2001: Лара Крофт: Расхитительница гробниц
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9MYXJhX2tyb2Z0X3Jhc2hpdGl0ZWxuaWNhX2dyb2JuaWNfTkVXX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2001: История рыцаря
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9Jc3Rvcml5YV9yeWNhcnlhX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2001: Враг у ворот
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9WcmFnX3Vfdm9yb3RfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2000: Универсальный агент
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9Vbml2ZXJzYWxueXlfYWdlbnRfX3ExczFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2000: Случайный шпион
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9TbHVjaGF5bnl5X3NocGlvbl9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2000: Ромео должен умереть
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9Sb21lb19kb2x6aGVuX3VtZXJldF9fcTF3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2000: Патриот
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9QYXRyaW90X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2000: Миссия: невыполнима 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9NaXNzaXlhX25ldnlwb2xuaW1hXzJfTkVXX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2000: Крадущийся тигр затаившийся дракон
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwMF9rcmFkdXNoaXlzeV90aWdyX3phdGFpdnNoaXlzeV9kcmFjb25fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2000: Крадущийся тигр затаившийся дракон
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9LcmFkdXNoaXlzeWFfdGlncl96YXRhaXZzaGl5c3lhX2RyYWtvbl9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2000: Брат-2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9CcmF0XzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",2000: Большой куш
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9Cb2xzaG95X2t1c2hfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1999: 13-й воин HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5OV8xM195X3ZvaW5fX3EwdzBfYXIyZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1999: 13-й воин
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OV8xM195X3ZvaW5fX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1998: Час пик
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OF9DaGFzX3Bpa19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1998: Спасти рядового Райана
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OF9TcGFzdGlfcnlhZG92b2dvX3JheWFuYV9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1998: Маска Зорро HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5OF9tYXNrYV96b3Jyb19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1998: Маска Зорро
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OF9NYXNrYV96b3Jyb19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1997: Шакал
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5N19TaGFrYWxfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1997: Скорость 2: Контроль над круизом
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5N19Ta29yb3N0XzJfa29udHJvbF9uYWRfa3J1aXpvbV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1997: Миротворец
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5N19NaXJvdHZvcmVjX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1997: Брат
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5N19CcmF0X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1997: Без лица
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OV9CZXpfbGljYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1997: Анаконда HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5N19BbmFrb25kYV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1997: Абсолютная власть
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5N19BYnNvbHl1dG5heWFfdmxhc3RfX3EwdzJfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1996: Скорость 2: Контроль над круизом
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5N19Ta29yb3N0XzJfa29udHJvbF9uYWRfa3J1aXpvbV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1996: Миссия: невыполнима
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5Nl9NaXNzaXlhX25ldnlwb2xuaW1hX05FV19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1996: Камера
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5Nl9LYW1lcmFfX3EydzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1995: Отчаянный
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NV9PdGNoYXlhbm55eV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1995: Отчаянный
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NV9PdGNoYXlhbm55eV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1995: Крепкий орешек 3: Возмездие
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NV9LcmVwa2l5X29yZXNoZWtfM192b3ptZXpkaWVfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1994: Прямая и явная угроза
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NF9QcnlhbWF5YV9pX3lhdm5heWFfdWdyb3phX19xMHcyX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1994: Полицейский из Беверли-Хиллз 3
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5NF9Qb2xpY2V5c2tpeV9pel9iZXZlcmxpX2hpbGx6XzNfX3EwdzBfYXI2ZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1994: Погоня
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NF9Qb2dvbnlhX19xMXMwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1993: Дракон: История Брюса Ли
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5M19EcmFrb25faXN0b3JpeWFfYnJ5dXNhX2xpX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1992: Телохранитель (1992)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5Ml9UZWxvaHJhbml0ZWxfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1992: Смертельное оружие 3
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5Ml9TbWVydGVsbm9lX29ydXpoaWVfM19fcTB3MF9hcjJlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1991: Последний бойскаут
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5MV9Qb3NsZWRuaXlfYm95c2thdXRfX3EwdzJfYXI2ZTZfeGhkakdjOFdOSk1fZmlsbS9mZjI2ZWExYS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1991: На гребне волны (1991)
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5MV9OYV9ncmVibmVfdm9sbnlfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1990: Крестный отец 3
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5MF9LcmVzdG55eV9vdGVjXzNfTkVXX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1990: Другие 48 часов HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5MF9EcnVnaWVfNDhfY2hhc292X19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1990: Другие 48 часов
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5MF9EcnVnaWVfNDhfY2hhc292X19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1990: Дик Трэйси
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5MF9EaWtfdHJleXNpX19xMHcxX2FyMmU2X3hIdkd4ZmlScnBiX2ZpbG0vZGE3NjM4NGUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1989: К-9: Собачья работа
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4OV9LXzlfc29iYWNoeWFfcmFib3RhX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1989: Индиана Джонс и последний крестовый поход
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4OV9JbmRpYW5hX2R6aG9uc19pX3Bvc2xlZG5peV9rcmVzdG92eXlfcG9ob2RfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1988: Успеть до полуночи
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4OF9Vc3BldF9kb19wb2x1bm9jaGlfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1987: Полицейский из Беверли-Хиллз 2 HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk4N19Qb2xpY2V5c2tpeV9pel9iZXZlcmxpX2hpbGx6XzJfX3EwdzBfYXI2ZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1987: Полицейский из Беверли-Хиллз 2
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4N19Qb2xpY2V5c2tpeV9pel9iZXZlcmxpX2hpbGx6XzJfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1985: Рыжая Соня
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4NV9SeXpoYXlhX3NvbnlhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1984: Индиана Джонс и Храм судьбы
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4NF9JbmRpYW5hX2R6aG9uc19pX2hyYW1fc3VkYnlfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1982: 48 часов HD
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk4Ml80OF9jaGFzb3ZfX3EwdzBfYXI2ZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1982: 48 часов
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4Ml80OF9jaGFzb3ZfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Боевики",1981: Индиана Джонс: В поисках утраченного ковчега
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4MV9JbmRpYW5hX2R6aG9uc192X3BvaXNrYWhfdXRyYWNoZW5ub2dvX2tvdmNoZWdhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8

@@ -1,0 +1,1165 @@
+#EXTM3U
+#PLAYLIST:M3U-Karnei4
+#ICON:https://vgif.ru/gifs/154/vgif-ru-24627.gif
+#BACKGROUND-IMAGE:https://Karnei4.github.io/s/png/fon-info_optimized.jpg
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Шазам! 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9TaGF6YW1fX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Чего хотят мужчины (2019) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9DaGVnb19ob3R5YXRfbXV6aGNoaW55X19xMHcwX2FyMmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Чего хотят мужчины (2019) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9DaGVnb19ob3R5YXRfbXV6aGNoaW55X19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Хеллбой HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9IZWxsYm95X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Хеллбой HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9IZWxsYm95X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Хеллбой 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9IZWxsYm95X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Сверх(НЕ)естественное HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9TdmVyaG5lZXN0ZXN0dmVubm9lX19xMHcyX2FyNmU2X3NyX3hqWmd6bEZBZVZ3X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Сверх(НЕ)естественное 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9TdmVyaG5lZXN0ZXN0dmVubm9lX19xMHcyX2FyMmUyX3NyX3htUFJndXZSaW10X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Рождённый стать королём HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Sb3poZGVubnl5X3N0YXRfa29yb2xlbV9fcTB3MF9hcjZlNl9zcl9kMTkwNjA0MTM0NV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Рождённый стать королём HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Sb3poZGVubnl5X3N0YXRfa29yb2xlbV9fcTB3MF9hcjZlNl9zcl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Рождённый стать королём 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Sb3poZGVubnl5X3N0YXRfa29yb2xlbV9fcTB3MF9hcjJlMl9zcl9kMTkwNjA0MTM0NV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Рождённый стать королём 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Sb3poZGVubnl5X3N0YXRfa29yb2xlbV9fcTB3MF9hcjJlMl9zcl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Пробуждающая совесть 2: Дар змеи HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Qcm9idXpoZGF5dXNoYXlhX3NvdmVzdF8yX2Rhcl96bWVpX19xMHcyX3hBVGhhMjlUcHl4X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Пробуждающая совесть 2: Дар змеи 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Qcm9idXpoZGF5dXNoYXlhX3NvdmVzdF8yX2Rhcl96bWVpX19xMHcyX3hhekVic1pDUURHX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Поменяться местами (2019) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Qb21lbnlhdHN5YV9tZXN0YW1pX19xMHcyX3hDNlhPNFY0dkxGX2ZpbG0vNjk3MDEyMjcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Поменяться местами (2019) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Qb21lbnlhdHN5YV9tZXN0YW1pX19xMHcyX3hEckh3QzZKaXBCX2ZpbG0vOWI0ZDFkM2QvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Отверженные (2019) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9PdHZlcnpoZW5ueWVfX3EwdzJfeHkwQ3hXMFRnazdfZmlsbS9iMDliMjQ3MC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Отверженные (2019) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9PdHZlcnpoZW5ueWVfX3EwdzJfeExPQXhKWEpqNDZfZmlsbS9jNjc4NTg1ZS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Оно 2 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Pbm9fMl9fcTB3MF9hcjJlMl9zcl94V0JhdVdXcEJlVl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Мёртвые не умирают HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9NZXJ0dnllX25lX3VtaXJheXV0X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Мёртвые не умирают 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9NZXJ0dnllX25lX3VtaXJheXV0X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Мелкая HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9NZWxrYXlhX19xMHcxX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Мелкая 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9NZWxrYXlhX19xMHcxX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Малефисента: Владычица тьмы HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9NYWxlZmlzZW50YV92bGFkeWNoaWNhX3RteV96enpfYm9udXNfX3EwdzBfYXI2ZTZfeEZQYk1GZ1VrN2VfZmlsbS9hMTc3ZDAxMC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Малефисента: Владычица тьмы 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9NYWxlZmlzZW50YV92bGFkeWNoaWNhX3RteV96enpfYm9udXNfX3EwdzBfYXIyZTJfeGhEUGt2ZDlLQ0lfZmlsbS82ODk0MzkzYi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Кошки (2019) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Lb3Noa2lfX3EwdzJfeEtBVDhyMlRwTGNfZmlsbS8xZWM3MWFjMi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Кошки (2019) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Lb3Noa2lfX3EwdzJfeFp0aGg3MFNPbFlfZmlsbS81NmYyMTEzMC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Доктор Сон HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Eb2t0b3Jfc29uX19xMHcwX2FyNmU2X3NyX3hjTG1FdkpwZ0dPX2ZpbG0vMTFjZGNkYmYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Доктор Сон 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Eb2t0b3Jfc29uX19xMHcwX2FyMmUyX3NyX3gxeUJWSDhYalNGX2ZpbG0vODE2NTNlOTgvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Джуманджи: Новый уровень HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9Eemh1bWFuZHpoaV9ub3Z5eV91cm92ZW5fX3EwdzBfeFVUVU1BOG9LUEtfZmlsbS8yNzQzMjljMy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Джуманджи: Новый уровень 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9Eemh1bWFuZHpoaV9ub3Z5eV91cm92ZW5fX3EwdzBfeDlET0ZJa1R5bWlfZmlsbS85MmJjZTI2Mi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Дамбо (2019) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9EYW1ib19fcTB3MV9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Дамбо (2019) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9EYW1ib19fcTB3MV9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Вайолет Эвергарден: Вечность и призрак пера HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9WYXlvbGV0X2V2ZXJnYXJkZW5fdmVjaG5vc3RfaV9wcml6cmFrX3BlcmFfX3EwdzJfc3JfeHpTY3BJVGpVVXlfZmlsbS80OWM5NTkzNS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Вайолет Эвергарден: Вечность и призрак пера 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9WYXlvbGV0X2V2ZXJnYXJkZW5fdmVjaG5vc3RfaV9wcml6cmFrX3BlcmFfX3EwdzJfc3JfeEYyanBQN3dJQjRfZmlsbS9jNGU2NTA4Ni92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Yesterday HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOV9ZZXN0ZXJkYXlfX3EwdzJfeG1CNG1mU3NGUXJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2019: Yesterday 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOV9ZZXN0ZXJkYXlfX3EwdzJfeDY0S3NEQkVMS0ZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Чумовая пятница (2018) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9DaHVtb3ZheWFfcHlhdG5pY2FfX3EwdzBfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Чумовая пятница (2018) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9DaHVtb3ZheWFfcHlhdG5pY2FfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Человек который убил Дон Кихота HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9DaGVsb3Zla19rb3Rvcnl5X3ViaWxfZG9uX2tpaG90YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Человек который убил Дон Кихота 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9DaGVsb3Zla19rb3Rvcnl5X3ViaWxfZG9uX2tpaG90YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Чего хотят мужчины HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9DaGVnb19ob3R5YXRfbXV6aGNoaW55X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Чего хотят мужчины 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9DaGVnb19ob3R5YXRfbXV6aGNoaW55X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Чародейка HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9DaGFyb2RleWthX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Чародейка 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9DaGFyb2RleWthX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Фантастические твари: Преступления Грин-де-Вальда HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9GYW50YXN0aWNoZXNraWVfdHZhcmlfcHJlc3R1cGxlbml5YV9ncmluX2RlX3ZhbGRhX19xMHcwX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Фантастические твари: Преступления Грин-де-Вальда 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9GYW50YXN0aWNoZXNraWVfdHZhcmlfcHJlc3R1cGxlbml5YV9ncmluX2RlX3ZhbGRhX19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Ужастики 2: Беспокойный Хэллоуин HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9Vemhhc3Rpa2lfMl9iZXNwb2tveW55eV9oZWxsb3Vpbl9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Ужастики 2: Беспокойный Хэллоуин 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9Vemhhc3Rpa2lfMl9iZXNwb2tveW55eV9oZWxsb3Vpbl9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Удивительный мир Марвена HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9VZGl2aXRlbG55eV9taXJfbWFydmVuYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Удивительный мир Марвена 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9VZGl2aXRlbG55eV9taXJfbWFydmVuYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Статус: Обновлен HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9TdGF0dXNfb2Jub3ZsZW5fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Статус: Обновлен 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9TdGF0dXNfb2Jub3ZsZW5fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Сага о чудовище. Сумерки HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9TYWdhX29fY2h1ZG92aXNoZV9zdW1lcmtpX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Сага о чудовище. Сумерки 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9TYWdhX29fY2h1ZG92aXNoZV9zdW1lcmtpX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Русалка. Озеро мертвых HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9SdXNhbGthX296ZXJvX21lcnR2eWhfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Русалка. Озеро мертвых 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9SdXNhbGthX296ZXJvX21lcnR2eWhfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Рассказы Русалочки HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9SYXNza2F6eV9ydXNhbG9jaGtpX19xMHcyX3h3aG1xTFpJWTJEX2ZpbG0vM2EzMjMxZDAvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Рассказы Русалочки 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9SYXNza2F6eV9ydXNhbG9jaGtpX19xMHcyX3hmRTZnY21MYnR3X2ZpbG0vYTdjYTY0YTUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Привидение (2018) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9Qcml2aWRlbmllX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Привидение (2018) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9Qcml2aWRlbmllX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: На границе миров HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9OYV9ncmFuaWNlX21pcm92X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: На границе миров 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9OYV9ncmFuaWNlX21pcm92X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Между мирами HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9NZXpoZHVfbWlyYW1pX19xMHcxX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Между мирами 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9NZXpoZHVfbWlyYW1pX19xMHcxX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Исцеляющая HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9Jc2NlbHlheXVzaGF5YV9fcTB3Ml94V0ZNelRKUHN5c19maWxtLzYyZTM0ODA2L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Исцеляющая 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9Jc2NlbHlheXVzaGF5YV9fcTB3Ml94U1BvTjFvUXNITl9maWxtL2I5NDZlMjhjL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: За гранью реальности HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9aYV9ncmFueXVfcmVhbG5vc3RpX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: За гранью реальности 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9aYV9ncmFueXVfcmVhbG5vc3RpX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Дэдпул 2. Огромная необрезанная версия 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9EZWRwdWxfMl9vZ3JvbW5heWFfbmVvYnJlemFubmF5YV92ZXJzaXlhX19xMHcwX2FyMmUyX3NyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Доминика HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9Eb21pbmlrYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Доминика 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9Eb21pbmlrYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Время монстров HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9WcmVteWFfbW9uc3Ryb3ZfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Время монстров 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9WcmVteWFfbW9uc3Ryb3ZfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Винчестер. Дом который построили призраки HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9WaW5jaGVzdGVyX2RvbV9rb3Rvcnl5X3Bvc3Ryb2lsaV9wcml6cmFraV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2018: Винчестер. Дом который построили призраки 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9WaW5jaGVzdGVyX2RvbV9rb3Rvcnl5X3Bvc3Ryb2lsaV9wcml6cmFraV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Я сражаюсь с великанами 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19ZYV9zcmF6aGF5dXNfc192ZWxpa2FuYW1pX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Эспен в королевстве троллей HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19Fc3Blbl92X2tvcm9sZXZzdHZlX3Ryb2xsZXlfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Эспен в королевстве троллей 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Fc3Blbl92X2tvcm9sZXZzdHZlX3Ryb2xsZXlfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Хижина 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19IaXpoaW5hX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Тим Талер или Проданный смех HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19UaW1fdGFsZXJfaWxpX3Byb2Rhbm55eV9zbWVoX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Тим Талер или Проданный смех 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19UaW1fdGFsZXJfaWxpX3Byb2Rhbm55eV9zbWVoX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Собачья жизнь HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19Tb2JhY2h5YV96aGl6bl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Скиф HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19Ta2lmX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Скиф 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Ta2lmX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Сердце дракона: Битва за огненное сердце HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19TZXJkY2VfZHJha29uYV9iaXR2YV96YV9vZ25lbm5vZV9zZXJkY2VfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Сердце дракона: Битва за огненное сердце 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19TZXJkY2VfZHJha29uYV9iaXR2YV96YV9vZ25lbm5vZV9zZXJkY2VfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Приключения Паддингтона 2 4K 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvNGtfMjAxN19wcmlrbHVjaGVuaXlhX3BhZGRpbmd0b25hXzJfZmlsbS8yNGQxNjIyOC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Последний богатырь 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Qb3NsZWRuaXlfYm9nYXR5cl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Мэнди HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxOF9NZW5kaV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Мэнди 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxOF9NZW5kaV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Мумия (2017) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19NdW1peWFfX3EwdzBfbWRlbm9pc2VfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Мумия (2017) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19NdW1peWFfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: История призрака (2017) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19Jc3Rvcml5YV9wcml6cmFrYV9fcTB3M19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: История призрака (2017) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Jc3Rvcml5YV9wcml6cmFrYV9fcTBzMF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Затмение (2017) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19aYXRtZW5pZV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Затмение (2017) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19aYXRtZW5pZV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Заклинание HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19aYWtsaW5hbmllX19xMHcyX2QxOTA5MDIxOTQzX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Заклинание HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19aYWtsaW5hbmllX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Заклинание 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19aYWtsaW5hbmllX19xMHcyX2QxOTA5MDIxOTQzX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Заклинание 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19aYWtsaW5hbmllX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Джуманджи: Зов джунглей HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN19Eemh1bWFuZHpoaV96b3ZfZHpodW5nbGV5X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Джуманджи: Зов джунглей 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Eemh1bWFuZHpoaV96b3ZfZHpodW5nbGV5X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: Аномалия 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN19Bbm9tYWxpeWFfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: 24 часа на жизнь HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxN18yNF9jaGFzYV9uYV96aGl6bl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2017: 24 часа на жизнь 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxN18yNF9jaGFzYV9uYV96aGl6bl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Человек – швейцарский нож HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9DaGVsb3Zla19zaHZleWNhcnNraXlfbm96aF9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Человек – швейцарский нож 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9DaGVsb3Zla19zaHZleWNhcnNraXlfbm96aF9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Тарзан. Легенда HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9UYXJ6YW5fbGVnZW5kYV9fcTB3MF9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Тарзан. Легенда 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9UYXJ6YW5fbGVnZW5kYV9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Таймлесс 3: Изумрудная книга HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9UYXltbGVzc19penVtcnVkbmF5YV9rbmlnYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Таймлесс 3: Изумрудная книга 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9UYXltbGVzc19penVtcnVkbmF5YV9rbmlnYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Сомния HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9Tb21uaXlhX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Сомния 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9Tb21uaXlhX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: По млечному пути 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9Qb19tbGVjaG5vbXVfcHV0aV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Песнь дьявола HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9QZXNuX2R5YXZvbGFfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Песнь дьявола 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9QZXNuX2R5YXZvbGFfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Ночные стражи HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9Ob2NobnllX3N0cmF6aGlfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Ночные стражи 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9Ob2NobnllX3N0cmF6aGlfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Другой мир: Войны крови HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9EcnVnb3lfbWlyX3ZveW55X2tyb3ZpX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Другой мир: Войны крови 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9EcnVnb3lfbWlyX3ZveW55X2tyb3ZpX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Дед Мороз. Битва Магов HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9EZWRfbW9yb3pfYml0dmFfbWFnb3ZfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Дед Мороз. Битва Магов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9EZWRfbW9yb3pfYml0dmFfbWFnb3ZfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Голос монстра HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9Hb2xvc19tb25zdHJhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Голос монстра 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9Hb2xvc19tb25zdHJhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Вурдалаки HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9WdXJkYWxha2lfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Вурдалаки 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9WdXJkYWxha2lfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Великая стена HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9WZWxpa2F5YV9zdGVuYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Великая стена 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9WZWxpa2F5YV9zdGVuYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Варкрафт HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9WYXJrcmFmdF9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Варкрафт 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9WYXJrcmFmdF9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Боги Египта 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9Cb2dpX2VnaXB0YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Белоснежка и охотник 2 HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9CZWxvc25lemhrYV9pX29ob3RuaWtfMl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Белоснежка и охотник 2 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9CZWxvc25lemhrYV9pX29ob3RuaWtfMl9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: БайБайМэн HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9CYXliYXltZW5fX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Алиса в Зазеркалье HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNl9BbGlzYV92X3phemVya2FsZV9fcTB3MF9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2016: Алиса в Зазеркалье 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNl9BbGlzYV92X3phemVya2FsZV9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Ужастики HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9Vemhhc3Rpa2lfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Ужастики 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9Vemhhc3Rpa2lfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Страшные сказки 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9TdHJhc2hueWVfc2themtpX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Северный полюс: Открыт на Рождество HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9TZXZlcm55eV9wb2x5dXNfb3Rrcnl0aWVfa19yb3poZGVzdHZ1X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Северный полюс: Открыт на Рождество 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9TZXZlcm55eV9wb2x5dXNfb3Rrcnl0aWVfa19yb3poZGVzdHZ1X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Пэн: Путешествие в Нетландию HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9QZW5fcHV0ZXNoZXN0dmllX3ZfbmV0bGFuZGl5dV9fcTB3MF9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Пэн: Путешествие в Нетландию 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9QZW5fcHV0ZXNoZXN0dmllX3ZfbmV0bGFuZGl5dV9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Пробуждающая совесть HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9Qcm9idXpoZGF5dXNoYXlhX3NvdmVzdF9fcTB3Ml94ZHdFdmlwOGtGdV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Пробуждающая совесть 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9Qcm9idXpoZGF5dXNoYXlhX3NvdmVzdF9fcTB3Ml94NnpjeHBhM3BXbl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Последний охотник на ведьм 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9Qb3NsZWRuaXlfb2hvdG5pa19uYV92ZWRtX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Он - дракон ТЕСТ 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9Pbl9kcmFrb25fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Он - дракон HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9Pbl9kcmFrb25fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Наследники (Disney) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9OYXNsZWRuaWtpX19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Кровавая леди Батори 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9Lcm92YXZheWFfbGVkaV9iYXRvcmlfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Крампус HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9LcmFtcHVzX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Крампус 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9LcmFtcHVzX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Багровый пик HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9CYWdyb3Z5eV9waWtfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Багровый пик 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9CYWdyb3Z5eV9waWtfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Атака титанов. Фильм первый: Жестокий мир HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNV9BdGFrYV90aXRhbm92X2ZpbG1fcGVydnl5X3poZXN0b2tpeV9taXJfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2015: Атака титанов. Фильм первый: Жестокий мир 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNV9BdGFrYV90aXRhbm92X2ZpbG1fcGVydnl5X3poZXN0b2tpeV9taXJfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Чем дальше в лес… 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9DaGVtX2RhbHNoZV92X2xlc19fcTB3MF9hcjZlNl94Q0tHbGU0aGdBVl9maWxtLzVhOGQ5MjhlL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Хоббит: Битва пяти воинств HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9Ib2JiaXRfYml0dmFfcHlhdGlfdm9pbnN0dl9fcTB3MF9tZW5naHNfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Хоббит: Битва пяти воинств (расширенная версия) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9Ib2JiaXRfYml0dmFfcHlhdGlfdm9pbnN0dl9leHRfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Хоббит: Битва пяти воинств (расширенная версия) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9Ib2JiaXRfYml0dmFfcHlhdGlfdm9pbnN0dl9leHRfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Хоббит: Битва пяти воинств 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9Ib2JiaXRfYml0dmFfcHlhdGlfdm9pbnN0dl9fcTB3MF9tZW5naHNfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Тайна четырех принцесс 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9UYXluYV9jaGV0eXJlaF9wcmluY2Vzc19fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Таймлесс 2: Сапфировая книга 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9UYXltbGVzc18yX3NhcGZpcm92YXlhX2tuaWdhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Седьмой сын 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9TZWRtb3lfc3luX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Северополюс HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9TZXZlcm9wb2x5dXNfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Северополюс 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9TZXZlcm9wb2x5dXNfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Сапожник 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9TYXBvemhuaWtfX3ExdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Ной (2014) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9Ob3lfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Любовь сквозь время 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9MeXVib3Zfc2t2b3pfdnJlbXlhX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Красавица и чудовище (2014) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9LcmFzYXZpY2FfaV9jaHVkb3Zpc2hlX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Красавица и чудовище (2014) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9LcmFzYXZpY2FfaV9jaHVkb3Zpc2hlX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Дракула (2014) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9EcmFrdWxhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Дракула (2014) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9EcmFrdWxhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Геракл 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9HZXJha2xfX3EwdzBfbWJvbnVzX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Вий HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19WaXlfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Вий 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19WaXlfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Академия вампиров HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxNF9Ba2FkZW1peWFfdmFtcGlyb3ZfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2014: Академия вампиров 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxNF9Ba2FkZW1peWFfdmFtcGlyb3ZfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Я Франкенштейн HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19ZYV9mcmFua2Vuc2h0ZXluX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Я Франкенштейн 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19ZYV9mcmFua2Vuc2h0ZXluX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Хоббит: Пустошь Смауга HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19Ib2JiaXRfcHVzdG9zaF9zbWF1Z2FfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Хоббит: Пустошь Смауга (расширенная версия) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19Ib2JiaXRfcHVzdG9zaF9zbWF1Z2FfZXh0X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Хоббит: Пустошь Смауга (расширенная версия) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Ib2JiaXRfcHVzdG9zaF9zbWF1Z2FfZXh0X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Хоббит: Пустошь Смауга 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Ib2JiaXRfcHVzdG9zaF9zbWF1Z2FfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Тёмный мир: Равновесие 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19UZW1ueXlfbWlyX3Jhdm5vdmVzaWVfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Таймлесс. Рубиновая книга 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19UYXltbGVzc19ydWJpbm92YXlhX2tuaWdhX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Прекрасные создания 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19QcmVrcmFzbnllX3NvemRhbml5YV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Перси Джексон и Море чудовищ 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19QZXJzaV9kemhla3Nvbl9pX21vcmVfY2h1ZG92aXNoX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Орудия смерти: Город костей HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19PcnVkaXlhX3NtZXJ0aV9nb3JvZF9rb3N0ZXlfX3EwdzBfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Орудия смерти: Город костей 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19PcnVkaXlhX3NtZXJ0aV9nb3JvZF9rb3N0ZXlfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Невероятная жизнь Уолтера Митти HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19OZXZlcm95YXRuYXlhX3poaXpuX3VvbHRlcmFfbWl0dGlfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Невероятная жизнь Уолтера Митти 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19OZXZlcm95YXRuYXlhX3poaXpuX3VvbHRlcmFfbWl0dGlfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Мама (2013) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19NYW1hX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Дом с паранормальными явлениями 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19Eb21fc19wYXJhbm9ybWFsbnltaV95YXZsZW5peWFtaV9fcTB3MV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Джек – покоритель великанов HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM19Eemhla19wb2tvcml0ZWxfdmVsaWthbm92X19xMXcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Джек – покоритель великанов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Eemhla19wb2tvcml0ZWxfdmVsaWthbm92X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: Бойфренд из будущего 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM19Cb3lmcmVuZF9pel9idWR1c2hlZ29fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: 47 ронинов HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxM180N19yb25pbm92X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2013: 47 ронинов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxM180N19yb25pbm92X19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Хоббит: Нежданное путешествие HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9Ib2JiaXRfbmV6aGRhbm5vZV9wdXRlc2hlc3R2aWVfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Хоббит: Нежданное путешествие 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9Ib2JiaXRfbmV6aGRhbm5vZV9wdXRlc2hlc3R2aWVfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Третий лишний 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9UcmV0aXlfbGlzaG5peV9fbmV3X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Сумерки. Сага. Рассвет. Часть 2 HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9TdW1lcmtpX3NhZ2FfcmFzc3ZldF9jaGFzdF8yX19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Рыцари королевства Крутизны 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9SeWNhcmlfa29yb2xldnN0dmFfa3J1dGl6bnlfX3EwdzJfYXIyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Руби Спаркс 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9SdWJpX3NwYXJrc19fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Путешествие к Рождественской звезде 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9QdXRlc2hlc3R2aWVfa19yb3poZGVzdHZlbnNrb3lfenZlemRlX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Путешествие 2: таинственный остров 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9QdXRlc2hlc3R2aWVfMl90YWluc3R2ZW5ueXlfb3N0cm92X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Президент Линкольн: Охотник на вампиров 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9QcmV6aWRlbnRfbGlua29sbl9vaG90bmlrX25hX3ZhbXBpcm92X19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Мрачные тени HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9NcmFjaG55ZV90ZW5pXzIwMTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Мрачные тени 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9NcmFjaG55ZV90ZW5pX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Жизнь Пи HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9aaGl6bl9waV9fcTB3MV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Жизнь Пи 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9aaGl6bl9waV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Другой мир: Пробуждение 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9EcnVnb3lfbWlyXzRfcHJvYnV6aGRlbmllX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Джунгли зовут! В поисках Марсупилами HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9Eemh1bmdsaV96b3Z1dF9WX3BvaXNrYWtoX01hcnN1cGlsYW1pX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Гнев титанов HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9HbmV2X3RpdGFub3ZfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Гнев титанов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9HbmV2X3RpdGFub3ZfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Белоснежка: Месть гномов HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9CZWxvc25lemhrYV9pX21lc3RfZ25vbW92X19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Белоснежка: Месть гномов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9CZWxvc25lemhrYV9tZXN0X2dub21vdl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Белоснежка и охотник HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMl9CZWxvc25lemhrYV9pX29ob3RuaWtfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Белоснежка и охотник 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9CZWxvc25lemhrYV9pX29ob3RuaWtfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2012: Cirque du Soleil: Сказочный мир 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMl9DaXJxdWVfZHVfc29sZWlsX3NrYXpvY2hueXlfbWlyX19fcTF3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Хранитель времени HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMV9IcmFuaXRlbF92cmVtZW5pX19xMXcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Хранитель времени 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9IcmFuaXRlbF92cmVtZW5pX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Сумерки. Сага. Рассвет. Часть 1 HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMV9TdW1lcmtpX3NhZ2FfcmFzc3ZldF9jaGFzdF8xX19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Сумерки. Сага. Рассвет. Часть 1 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9TdW1lcmtpX3NhZ2FfcmFzc3ZldF9jaGFzdF8xX19xMHcyX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Страшно красив HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMV9TdHJhc2hub19rcmFzaXZfX3EwdzJfYXIyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Пираты Карибского моря: На странных берегах HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMV9QaXJhdHlfa2FyaWJza29nb19tb3J5YV9uYV9zdHJhbm55aF9iZXJlZ2FoX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Красная шапочка (2011) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9LcmFzbmF5YV9zaGFwb2Noa2FfX3EwdzJfYXIyZTIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Запрещенный прием 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9aYXByZXNoZW5ueXlfcHJpZW1fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Гарри Поттер и Дары смерти: Часть 2 HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMV9HYXJyaV9wb3R0ZXJfaV9kYXJ5X3NtZXJ0aV9jaGFzdF8yX19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Война богов: Бессмертные HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMV9Wb3luYV9ib2dvdl9iZXNzbWVydG55ZV9fcTB3MV9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: Война богов: Бессмертные 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9Wb3luYV9ib2dvdl9iZXNzbWVydG55ZV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2011: 12 Рождественских желаний 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMV8xMl9yb3poZGVzdHZlbnNraWhfemhlbGFuaXlfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Человек-волк 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9DaGVsb3Zla192b2xrX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Хроники Нарнии: Покоритель Зари 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9Icm9uaWtpX25hcm5paV9wb2tvcml0ZWxfemFyaV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Ученик чародея 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9VY2hlbmlrX2NoYXJvZGV5YV9fcTF3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Суперменеджер или Мотыга судьбы 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9TdXBlcm1lbmVkemhlcl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Сумерки. Сага. Затмение HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9TdW1lcmtpX3NhZ2FfemF0bWVuaWVfX3EwdzJfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Скотт Пилигрим против всех HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9Ta290dF9waWxpZ3JpbV9wcm90aXZfdnNlaF9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Скотт Пилигрим против всех 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9Ta290dF9waWxpZ3JpbV9wcm90aXZfdnNlaF9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Путешествия Гулливера 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9QdXRlc2hlc3R2aXlhX2d1bGxpdmVyYV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Принц Персии: Пески времени 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9QcmluY19wZXJzaWlfcGVza2lfdnJlbWVuaV9fcTF3Ml9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Повелитель стихий 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9Qb3ZlbGl0ZWxfc3RpaGl5X19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Охотники на троллей 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9PaG90bmlraV9uYV90cm9sbGV5X19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Не бойся темноты HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9OZV9ib3lzeWFfdGVtbm90eV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Легион 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9MZWdpb25fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Кошки против собак: Месть Китти Галор 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9Lb3Noa2lfcHJvdGl2X3NvYmFrX21lc3Rfa2l0dGlfZ2Fsb3JfX3EwdzBfYXIyZTJfeGpFeHlBYjdCSzVfZmlsbS9kMmNjZjUzNi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Зубная фея 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9adWJuYXlhX2ZleWFfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Древо жизни 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9EcmV2b196aGl6bmlfX3EwdzFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Гарри Поттер и Дары смерти: Часть 1 HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9HYXJyaV9wb3R0ZXJfaV9kYXJ5X3NtZXJ0aV9jaGFzdF8xX19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Гарри Поттер и Дары смерти: Часть 1 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9HYXJyaV9wb3R0ZXJfaV9kYXJ5X3NtZXJ0aV9jaGFzdF8xX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Время ведьм HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAxMF9WcmVteWFfdmVkbV9fcTB3MF9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Время ведьм 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMV9WcmVteWFfdmVkbV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2010: Алиса в стране чудес (2010) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAxMF9BbGlzYV92X3N0cmFuZV9jaHVkZXNfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2009: Сумерки. Сага. Новолуние HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOV9TdW1lcmtpX3NhZ2Ffbm92b2x1bmllX19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2009: Сумерки. Сага. Новолуние 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9TdW1lcmtpX3NhZ2Ffbm92b2x1bmllX19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2009: Соломон Кейн HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOV9Tb2xvbW9uX2tleW5fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2009: Соломон Кейн 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9Tb2xvbW9uX2tleW5fX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2009: История одного вампира 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9Jc3Rvcml5YV9vZG5vZ29fdmFtcGlyYV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2009: Затерянный мир 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9aYXRlcnlhbm55eV9taXJfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2009: Гарри Поттер и Принц-полукровка 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOV9HYXJyaV9wb3R0ZXJfaV9wcmluY19wb2x1a3JvdmthX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Чернильное сердце 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9DaGVybmlsbm9lX3NlcmRjZV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Хроники Нарнии: Принц Каспиан 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Icm9uaWtpX25hcm5paV9wcmluY19rYXNwaWFuX19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Хроники Нарнии: Принц Каспиан 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Icm9uaWtpX25hcm5paV9wcmluY19rYXNwaWFuX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Хеллбой II: Золотая армия 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9IZWxsYm95XzJfem9sb3RheWFfYXJtaXlhX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Улыбка Бога или Чисто одесская история 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOF9VbHlia2FfYm9nYV9pbGlfY2hpc3RvX29kZXNza2F5YV9pc3Rvcml5YV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Путешествие к центру Земли 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9QdXRlc2hlc3R2aWVfa19jZW50cnVfemVtbGlfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Остров Ним 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOF9Pc3Ryb3ZfbmltX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Особо опасен 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9Pc29ib19vcGFzZW5fX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Огонь и лед: Хроники драконов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9PZ29uX2lfbGVkX2hyb25pa2lfZHJha29ub3ZfX3ExczBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Мумия: Гробница Императора Драконов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9NdW1peWFfZ3JvYm5pY2FfaW1wZXJhdG9yYV9kcmFrb25vdl9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Другой мир: Восстание ликанов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwOF9EcnVnb3lfbWlyX3Zvc3N0YW5pZV9saWthbm92X19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Другой мир: Восстание ликанов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOF9kcnVnb3lfbWlyX3Zvc3N0YW5pZV9saWthbm92X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2008: Город Эмбер: Побег 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwOF9Hb3JvZF9lbWJlcl9wb2JlZ19fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Хэллоуин 2007 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19IZWxsb3Vpbl8yMDA3X19xMXcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Призрачный гонщик 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19Qcml6cmFjaG55eV9nb25zaGlrX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Пираты Карибского моря: На краю Света HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwN19QaXJhdHlfa2FyaWJza29nb19tb3J5YV9uYV9rcmF5dV9zdmV0YV9fcTB3Ml9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Пираты Карибского моря: На краю Света 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19QaXJhdHlfa2FyaWJza29nb19tb3J5YV9uYV9rcmF5dV9zdmV0YV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Невидимый 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19OZXZpZGlteXlfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Золотой компас 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19ab2xvdG95X2tvbXBhc19fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Звездная пыль 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19admV6ZG5heWFfcHlsX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Гарри Поттер и орден Феникса 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19HYXJyaV9wb3R0ZXJfaV9vcmRlbl9mZW5pa3NhX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Восход тьмы 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19Wb3Nob2RfdG15X19xMXcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2007: Беовульф 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwN19CZW92dWxmX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2006: Лорд Вор 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNl9Mb3JkX3Zvcl9fcTFzMF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2006: Во имя короля: История осады подземелья 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNl9Wb19pbXlhX2tvcm9seWFfaXN0b3JpeWFfb3NhZHlfcG9kemVtZWx5YV9fcTJzMF9kMTkwNzAyMTU0OF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2006: Во имя короля: История осады подземелья 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNl9Wb19pbXlhX2tvcm9seWFfaXN0b3JpeWFfb3NhZHlfcG9kemVtZWx5YV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2005: Эрагон 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNl9FcmFnb25fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2005: Хроники Нарнии: Лев колдунья и волшебный шкаф 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9Icm9uaWtpX25hcm5paV9sZXZfa29sZHVueWFfaV92b2xzaGVibnl5X3Noa2FmX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2005: Хроники Нарнии: Лев колдунья и волшебный шкаф 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9Icm9uaWtpX25hcm5paV9sZXZfa29sZHVueWFfaV92b2xzaGVibnl5X3Noa2FmX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2005: Труп невесты 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9UcnVwX25ldmVzdHlfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2005: Моя ужасная няня 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9Nb3lhX3V6aGFzbmF5YV9ueWFueWFfX3EwdzJfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2005: Кинг Конг 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9LaW5nX2tvbmdfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2005: Дневной дозор 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9EbmV2bm95X2Rvem9yX19xMncwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2005: Гарри Поттер и кубок огня 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9HYXJyaV9wb3R0ZXJfaV9rdWJva19vZ255YV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2005: Братья Гримм 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNV9CcmF0eWFfZ3JpbW1fX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2004: Хеллбой: Герой из пекла 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9IZWxsYm95X2dlcm95X2l6X3Bla2xhX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2004: Ночной дозор 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9Ob2Nobm95X2Rvem9yX19xMncwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2004: Константин: Повелитель тьмы 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9Lb25zdGFudGluX3BvdmVsaXRlbF90bXlfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2004: Заколдованная Элла 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwNF9aYWtvbGRvdmFubmF5YV9lbGxhX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2004: Гарри Поттер и узник Азкабана 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9HYXJyaV9wb3R0ZXJfaV91em5pa19hemthYmFuYV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2004: Ван Хельсинг 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9WYW5faGVsc2luZ19fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2004: Блэйд 3: Троица 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9CbGV5ZF8zX3Ryb2ljYV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2004: Блуберри 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwNF9CbHViZXJyaV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Чумовая пятница HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwM19DaHVtb3ZheWFfcHlhdG5pY2FfX3EwdzBfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Чумовая пятница 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19DaHVtb3ZheWFfcHlhdG5pY2FfX3ExdzFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Питер Пэн (2003) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwM19waXRlcl9wZW5fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Питер Пэн (2003) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19QaXRlcl9wZW5fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Пираты Карибского моря: Проклятие черной жемчужины HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwM19QaXJhdHlfa2FyaWJza29nb19tb3J5YV9wcm9rbHlhdGllX2NoZXJub3lfemhlbWNodXpoaW55X19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Пираты Карибского моря: Проклятие черной жемчужины 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19QaXJhdHlfa2FyaWJza29nb19tb3J5YV9wcm9rbHlhdGllX2NoZXJub3lfemhlbWNodXpoaW5pX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Пираты Карибского моря: Проклятие черной жемчужины 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19QaXJhdHlfa2FyaWJza29nb19tb3J5YV9wcm9rbHlhdGllX2NoZXJub3lfemhlbWNodXpoaW5pX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Лара Крофт: Расхитительница гробниц 2 – Колыбель жизни 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19MYXJhX2tyb2Z0X3Jhc2hpdGl0ZWxuaWNhX2dyb2JuaWNfMl9rb2x5YmVsX3poaXpuaV9fcTB3Ml9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Крупная рыба HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwM19rcnVwbmF5YV9yYmFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Крупная рыба 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19LcnVwbmF5YV9yeWJhX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Властелин колец. Возвращение короля HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwM19WbGFzdGVsaW5fa29sZWNfdm96dnJhc2hlbmllX2tvcm9seWFfX3EwdzJfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2003: Властелин колец. Возвращение короля 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwM19WbGFzdGVsaW5fa29sZWNfdm96dnJhc2hlbmllX2tvcm9seWFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2002: Цыпочка HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwMl9DeXBvY2hrYV9fcTB3MF9hcjZlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2002: Царь скорпионов 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMl9DYXJfc2tvcnBpb25vdl9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2002: Медвежий поцелуй 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMl9NZWR2ZXpoaXlfcG9jZWx1eV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2002: Гарри Поттер и тайная комната 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMl9HYXJyaV9wb3R0ZXJfaV90YXluYXlhX2tvbW5hdGFfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2002: Властелин колец. Две крепости HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwMl9WbGFzdGVsaW5fa29sZWNfZHZlX2tyZXBvc3RpX19xMHcyX2FyNmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2002: Властелин колец. Две крепости 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMl9WbGFzdGVsaW5fa29sZWNfZHZlX2tyZXBvc3RpX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2002: Блэйд 2 (в переводе Гоблина) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwMl9ibGVpZF8yX2dvYmxpbl9maWxtL2RmZGQ3ZWMwL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2002: Блэйд 2 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMl9CbGV5ZF8yX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2001: Чёрный рыцарь 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwMV9DaGVybnl5X3J5Y2FyX19xMHcwX2FyMmUyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2001: Обратно на Землю HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwMV9PYnJhdG5vX25hX3plbWx5dV9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2001: Обратно на Землю 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9PYnJhdG5vX25hX3plbWx5dV9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2001: Мумия возвращается 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9NdW1peWFfdm96dnJhc2hhZXRzeWFfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2001: Кошки против собак 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwMV9Lb3Noa2lfcHJvdGl2X3NvYmFrX19xMHcwX2FyNmU2X3hqRWlka0g1bUR5X2ZpbG0vYThhMGNmMmQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2001: Кейт и Лео 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9LZXl0X2lfbGVvX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2001: Гарри Поттер и философский камень 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9HYXJyaV9wb3R0ZXJfaV9maWxvc29mc2tpeV9rYW1lbl9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2001: Властелин колец. Братство кольца HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMjAwMV9WbGFzdGVsaW5fa29sZWNfYnJhdHN0dm9fa29sY2FfX3EwdzJfYXI2ZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2001: Властелин колец. Братство кольца 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMV9WbGFzdGVsaW5fa29sZWNfYnJhdHN0dm9fa29sY2FfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2000: Что скрывает ложь (2000) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9DaHRvX3Nrcnl2YWV0X2xvemhfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2000: Ослепленный желаниями 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9Pc2xlcGxlbm55eV96aGVsYW5peWFtaV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2000: Женщина сверху 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9aaGVuc2hpbmFfc3Zlcmh1X19xMXcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",2000: Гринч – похититель Рождества 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMjAwMF9HcmluY2hfcG9oaXRpdGVsX3JvemhkZXN0dmFfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1999: Сонная лощина 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OV9Tb25uYXlhX2xvc2hpbmFfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1999: Мумия 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OV9NdW1peWFfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1998: Практическая магия 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5OF9QcmFrdGljaGVza2F5YV9tYWdpeWFfX3EwdzJfYXI2ZTZfeG1yTUNnb0pFcWZfZmlsbS9kMTliMmJiZS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1998: Плезантвиль 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OF9QbGV6YW50dmlsX19xMXMwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1998: Могучий Джо Янг HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5OF9Nb2d1Y2hpeV9kemhvX3lhbmdfX3EwdzFfYXIyZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1998: Куда приводят мечты 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OF9LdWRhX3ByaXZvZHlhdF9tZWNodHlfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1998: Знакомьтесь Джо Блэк 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OF9abmFrb210ZXNfZHpob19ibGVrX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1998: Бэйб: Поросенок в городе 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OF9CZXliX3Bvcm9zZW5va192X2dvcm9kZV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1998: Блэйд (в переводе Гоблина) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5OF9ibGVpZF9nb2JsaW5fZmlsbS8wYmE5OWY5NC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1998: Блэйд 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5OF9CbGV5ZF9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1997: С феями шутки плохи 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5N19TX2ZleWFtaV9zaHV0a2lfcGxvaGlfX3EwczFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1997: И в бедности и в богатстве 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5N19JX3ZfYmVkbm9zdGlfaV92X2JvZ2F0c3R2ZV9fcTF3Ml9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1997: Должники 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5N19Eb2x6aG5pa2lfX3ExdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1997: Воришки 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5N19Wb3Jpc2hraV9fcTB3MF9hcjJfeHQ3TDdMcWdkalhfZmlsbS8wNTU4MDM0NC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1996: Страшилы 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5Nl9TdHJhc2hpbHlfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1996: Сердце дракона 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5Nl9TZXJkY2VfZHJha29uYV9fcTB3Ml9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1995: Смертельная битва 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NV9TbWVydGVsbmF5YV9iaXR2YV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1995: Лепрекон 3: Приключения в Лас-Вегасе 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5NV9MZXByZWtvbl8zX3ByaWtseXVjaGVuaXlhX3ZfbGFzX3ZlZ2FzZV9fcTB3MF9hcjJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1995: Каспер 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NV9LYXNwZXJfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1995: Джуманджи HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5NV9kanVtYW5kamlfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1995: Джуманджи 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NV9Eemh1bWFuZHpoaV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1994: Флинтстоуны 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NF9GbGludHN0b3VueV9fZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1994: Тень 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5NF9UZW5fX3EwdzFfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1994: Санта Клаус HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5NF9TYW50YV9rbGF1c19fcTB3MV9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1994: Лепрекон 2: Одна свадьба и много похорон 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5NF9MZXByZWtvbl8yX29kbmFfc3ZhZGJhX2lfbW5vZ29fcG9ob3Jvbl9fcTB3MF9hcjJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1994: Интервью с вампиром 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5NF9JbnRlcnZ5dV9zX3ZhbXBpcm9tX19maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1993: Фокус-покус HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5M19Gb2t1c19wb2t1c19fcTB3MV9hcjJlNl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1993: Фокус-покус 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5M19Gb2t1c19wb2t1c19fcTF3MV9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1993: Сердце и души 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5M19TZXJkY2VfaV9kdXNoaV9fcTJ3Ml9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1993: Лепрекон 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5M19MZXByZWtvbl9fcTB3MF9hcjJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1993: День Сурка 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5M19EZW5fc3Vya2FfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1991: Король-полярный медведь 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk5MV9Lb3JvbF9wb2x5YXJueXlfbWVkdmVkX19xMHcwX2FyMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1991: Вредный Фред 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5MV9WcmVkbnl5X2ZyZWRfX3EwdzJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1990: Эдвард руки-ножницы 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk5MF9FZHZhcmRfcnVraV9ub3pobmljeV9fcTB3MF9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1989: Поле мечты (Поле чудес) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk4OV9Qb2xlX21lY2h0eV9fcTB3MF9hcjJfeFBnenVybzI2dHpfZmlsbS9hYjhkYjViZC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1988: Новая рождественская сказка HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk4OF9Ob3ZheWFfcm96aGRlc3R2ZW5za2F5YV9za2F6a2FfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1988: Новая рождественская сказка 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4OF9Ob3ZheWFfcm96aGRlc3R2ZW5za2F5YV9za2F6a2FfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1988: Виллоу HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk4OF9WaWxsb3VfX3EwdzBfYXIyZTZfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1988: Виллоу 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4OF9WaWxsb3VfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1988: Битлджюс 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk4OF9CaXRsZHpoeXVzX19xMHcwX2FyMmU2X2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1987: Иствикские ведьмы 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4N19Jc3R2aWtza2llX3ZlZG15X19xMHcyX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1987: Гарри и Хендерсоны 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4N19HYXJyaV9pX2hlbmRlcnNvbnlfX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1986: Золотой ребенок HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk4Nl9ab2xvdG95X3JlYmVub2tfX3EwdzBfYXI2ZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1986: Золотой ребенок 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4Nl9ab2xvdG95X3JlYmVub2tfX3EwdzBfYXIyZTJfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1984: Гремлины 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk4NF9HcmVtbGlueV9fcTB3MF9hcjJlMl9maWxtL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1982: Конан-варвар (1982) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk4Ml9Lb25hbl92YXJ2YXJfX3EwdzBfZmlsbS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1956: Старик Хоттабыч 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk1Nl9TdGFyaWtfaG90dGFieWNoX19xMHcwX2ZpbG0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1947: Золушка (1947) HD 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvaGRfMTk0N19ab2x1c2hrYV9fcTB3M19hcjJfeERRYk5uMVZmdWVfZmlsbS84MGZkN2E3Yy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png" group-title="Фэнтези ",1947: Золушка (1947) 
+#EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer 
+http://127.0.0.1:7171/rmtv/aHR0cDovL3phYmF2YS1odHZvZC5jZG4ubmdlbml4Lm5ldC9obHMvc2RfMTk0N19ab2x1c2hrYV9fcTBzMF94WmFRdVlnMWRUNl9maWxtLzVhMTg4YzAzL3ZhcmlhbnQubTN1OA==/playlist.m3u8
