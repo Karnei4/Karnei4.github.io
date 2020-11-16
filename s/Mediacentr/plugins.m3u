@@ -514,58 +514,6 @@ https://cdn.discordapp.com/attachments/704287377161453588/704348085710487622/Fil
 http://freeportal.info/dwn/Films.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Байки из склепа
 https://cdn.discordapp.com/attachments/679261972138688512/718555834405224498/1_7_.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Свежие
-http://46.161.65.30:1682/voskres/pr/last.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",3D фильмы
-http://46.161.65.30:1682/voskres/pr/3d.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",60fps фильмы
-http://46.161.65.30:1682/voskres/pr/60fps.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Биография
-http://46.161.65.30:1682/voskres/pr/biograf.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Боевики
-http://46.161.65.30:1682/voskres/pr/boeviki.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Вестерны
-http://46.161.65.30:1682/voskres/pr/vestern.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Военные
-http://46.161.65.30:1682/voskres/pr/voenniy.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Детективы
-http://46.161.65.30:1682/voskres/pr/detektiv.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Документальные
-http://46.161.65.30:1682/voskres/pr/dokument.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Драмы
-http://46.161.65.30:1682/voskres/pr/dramy.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Исторические
-http://46.161.65.30:1682/voskres/pr/istoriya.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Комедии
-http://46.161.65.30:1682/voskres/pr/komedii.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Криминальные
-http://46.161.65.30:1682/voskres/pr/kriminal.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Мелодрамы
-http://46.161.65.30:1682/voskres/pr/melodrama.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Мистические
-http://46.161.65.30:1682/voskres/pr/mistic.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Мультфильмы
-http://46.161.65.30:1682/voskres/pr/mult.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Мюзиклы
-http://46.161.65.30:1682/voskres/pr/muzikl.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Приключения
-http://46.161.65.30:1682/voskres/pr/prikluch.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Семейные
-http://46.161.65.30:1682/voskres/pr/semeynie.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Cериалы
-http://46.161.65.30:1682/voskres/pr/serial.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Спортивные
-http://46.161.65.30:1682/voskres/pr/sport.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Триллеры
-http://46.161.65.30:1682/voskres/pr/triller.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Ужасы
-http://46.161.65.30:1682/voskres/pr/ujasy.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Фантастика
-http://46.161.65.30:1682/voskres/pr/fantast.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Фэнтези
-http://46.161.65.30:1682/voskres/pr/fentezi.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Старые Фильмы
-http://av.kl.com.ua/1220+.m3u
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/680895323228733495/709083048368406578/logo_standarttv.png",OkTV.m3u
 http://192.168.0.104:12345/OkTV.m3u
@@ -618,7 +566,6 @@ http://v1.catcast.me/content/36987/index.m3u8
 https://dl.dropbox.com/s/rv0b66um7xj4zc5/PornHUB.IMC.zip
 #EXTINF:-1,Porn HUB
 https://cdn.discordapp.com/attachments/716235283498008643/759500559110766602/Porn.IMC.zip
-#EXTINF:-1 tvg-logo="",kinoprosmotr
-https://cdn.discordapp.com/attachments/716235283498008643/764820014071021598/kinoprosmotr.IMC.zip
+
 
 
