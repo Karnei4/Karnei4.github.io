@@ -42,6 +42,8 @@ https://topplay.do.am/RadioTopPlay.m3u
 #EXTINF:-1 tvg-logo="https://s.io.ua/img_vscr/0054/21/00542143_sn.jpg",HITS 80-90X
 https://dl.dropbox.com/s/c4u2lpqfnei7kj3/PlayList-HITS-80-90X-Karnei4-M3U.m3u
 
+#EXTINF:-1 tvg-logo="",HDZO.TV
+https://cdn.discordapp.com/attachments/708000911158411285/777966572886032404/HDZO.TV.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",RT-TV VOD Proxy 127.0.0.1:7171
 https://karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
 #EXTINF:-1 tvg-logo="",HDTRON
