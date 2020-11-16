@@ -2,68 +2,71 @@
 #PLAYLIST:M3U-Karnei4
 #ICON:https://vgif.ru/gifs/154/vgif-ru-24627.gif
 #BACKGROUND-IMAGE:https://Karnei4.github.io/s/png/fon-info_optimized.jpg
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",RT-TV
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Z-TV-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png",Фильмотека
-http://f0448337.xsph.ru/Astik123/Filmoteka.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Filmoteka.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574810248871936/Sci-Fi-Movies.png",Фантастика
-http://f0448337.xsph.ru/Astik123/Sci-Fi-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Sci-Fi-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574244160307320/Fantasy-Movies.png",Фентези
-http://f0448337.xsph.ru/Astik123/Fentasy.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Fentasy.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574332223914074/Historic-Movies.png",Историческое
-http://f0448337.xsph.ru/Astik123/Historic-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Historic-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573501118382160/Action-Movies.png",Боевики
-http://f0448337.xsph.ru/Astik123/Action-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Action-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574355536117782/Horror-Movies.png",Ужасы
-http://f0448337.xsph.ru/Astik123/Horror-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Horror-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574866020401152/Thriller-Movies.png",Триллер
-http://f0448337.xsph.ru/Astik123/Thriller-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Thriller-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png",На реальных событиях
-http://f0448337.xsph.ru/Astik123/Na-Realnych-Sobitiach.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Na-Realnych-Sobitiach.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574795447304313/Romantic-Movies.png",Романтичное
-http://f0448337.xsph.ru/Astik123/Romantic-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Romantic-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573854023057479/Comedy-Movies.png",Комедия
-http://f0448337.xsph.ru/Astik123/Comedy-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Comedy-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574101638119434/Documentaries.png",Документальное
-http://f0448337.xsph.ru/Astik123/Documentaries.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Documentaries.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574185243049994/Drama-Movies.png",Драма
-http://f0448337.xsph.ru/Astik123/Drama-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Drama-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png",3D
-http://f0448337.xsph.ru/Astik123/3D.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/3D.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574553947537430/movies-serials.png",Сериалы
-http://f0448337.xsph.ru/Astik123/movies-serials.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/movies-serials.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574624214843522/perevod-movies.png",Дубляж
-http://f0448337.xsph.ru/Astik123/perevod-movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/perevod-movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png",СССР
-http://f0448337.xsph.ru/Astik123/VIDEOSALON-VHS-USSR.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/VIDEOSALON-VHS-USSR.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574224879353926/Family-Movies.png",Семейные
-http://f0448337.xsph.ru/Astik123/Family-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Family-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Детский Клуб
-http://f0448337.xsph.ru/Astik123/Family-klub-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Family-klub-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573662620319775/Animated-Movies.png",Мультфильмы
-http://f0448337.xsph.ru/Astik123/Animated-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Animated-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Мультсериалы
-http://f0448337.xsph.ru/Astik123/Animated-serial.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Animated-serial.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574778762100826/rating.png",Vip-Play
-http://f0448337.xsph.ru/Astik123/Vip-Play-imbd.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Vip-Play-imbd.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574778762100826/rating.png",Kino-man
-http://f0448337.xsph.ru/Astik123/kino-man.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/kino-man.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574778762100826/rating.png",More.tv
-http://f0448337.xsph.ru/Astik123/More.tv.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/More.tv.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574778762100826/rating.png",AMEDIATEKA
-http://f0448337.xsph.ru/Astik123/AMEDIATEKA.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/AMEDIATEKA.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png",Shot-TV
-http://f0448337.xsph.ru/Astik123/Shot-TV-Random-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Shot-TV-Random-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574595546644500/Musical-Movies.png",Концерты
-http://f0448337.xsph.ru/Astik123/Musical-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Musical-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574845879615619/Sports-Movies.png",UFC Sports
-http://f0448337.xsph.ru/Astik123/UFC-Sports-Movies.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/UFC-Sports-Movies.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574570188013730/movies-tv.png",English Club
-http://f0448337.xsph.ru/Astik123/English-Club.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/English-Club.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574570188013730/movies-tv.png",Женский мир
-http://f0448337.xsph.ru/Astik123/Girl-mir-tv.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Girl-mir-tv.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574570188013730/movies-tv.png",Лицей
-http://f0448337.xsph.ru/Astik123/Licey-movies-tv.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Licey-movies-tv.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png",18+
-http://f0448337.xsph.ru/Astik123/18-plus.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/18-plus.m3u
+
 
 
 
