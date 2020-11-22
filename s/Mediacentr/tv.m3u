@@ -22,29 +22,10 @@ https://Karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy-127.0.0.1
 #---https://cdn.discordapp.com/attachments/680895323228733495/753969857028030554/playlist-Z-11.09.2020.m3u
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava-FREE
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava FREE
-https://cdn.discordapp.com/attachments/739384288256196653/763857909779398706/Zabava.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",Karnei4 VOD
 http://f0448337.xsph.ru/Astik123/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851082436608020/Collection_dark_green.png",Collection dark green
-https://dl.dropbox.com/s/ls07o7xktpze1uj/mnogotv.club.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746850951050166333/Collection_orang.png",Collection orang
-https://cdn.discordapp.com/attachments/757730877072605274/773820282912636958/tv_channels_Bogdan113.m3u
-#---https://cdn.discordapp.com/attachments/680895323228733495/763867701482356776/playlist_19.m3u
-#---https://cdn.discordapp.com/attachments/757730877072605274/762611289847496714/11_2.m3u
-#---EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851094373859490/Collection_green.png",Collection green 
-#---https://cdn.discordapp.com/attachments/739384516803559458/765271511288119296/tv_channels_Rodton_1.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851109699846154/Collection_light_orang.png",Collection light orang
-#---https://cdn.discordapp.com/attachments/757730877072605274/773908553567174666/playlist.m3u
-https://cdn.discordapp.com/attachments/739384516803559458/765865183288492052/tv_channels_bulia_1.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851087646064651/Collection_gray.png",Collection gray
-https://cdn.discordapp.com/attachments/679261972138688512/779443847683112970/Mfe.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/746851102305157120/Collection_light_green.png",Collection light green
-https://cdn.discordapp.com/attachments/739384516803559458/766997599285673994/tv_channels_olegusanet_1.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/678941293518520331/744978929453891605/logo_IPnet.png",IPNetTV
 https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPNetTV.m3u
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/belarus24.png",ZALA
-https://dl.dropbox.com/s/8s0sz0xd6gdkr5y/ZALA-Arxiv-BY.m3u
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",KINOKRAD
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/kinokrad.m3u
