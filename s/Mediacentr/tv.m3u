@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png",обновлен 14.08.2020г Сборка M3U-Karnei4
+#EXTINF:-1 tvg-logo="http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png",обновлен 22.11.2020г Сборка M3U-Karnei4
 https://ruvod.com/wp-content/uploads/2019/02/0CSsc2SA.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",IPTV-RU https://discord.gg/E7xAqsK
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -11,10 +11,6 @@ https://karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Moves-Catigories-IPTV-RU_Disc
 http://f0448337.xsph.ru/Astik123/Z-TV-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_3.m3u
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=45.132.107.73:7676&id=20",Zabava
 https://cdn.discordapp.com/attachments/739790132932247655/770748353574600745/playlist_no_save_1.m3u
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=185.231.71.165:2373&id=20",Zabava
-https://cdn.discordapp.com/attachments/739790132932247655/773493431182819328/playlist-iptvsmotri.ru.m3u
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=87.99.87.203:2020&id=20",TestTV
-https://cdn.discordapp.com/attachments/739790132932247655/773503587984080906/playlist-SKAN.m3u
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=127.0.0.1:7171&id=20",Z proxy 127.0.0.1:7171
 #---https://cdn.discordapp.com/attachments/680895323228733495/760449553257594920/nFkHuNBLZZZZ.m3u
 #---https://dl.dropbox.com/s/nf7n05wumjaq6j2/nFkHuNBLZZZZ.m3u
