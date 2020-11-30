@@ -534,9 +534,9 @@ http://freeportal.info/dwn/Films.m3u
 https://cdn.discordapp.com/attachments/679261972138688512/718555834405224498/1_7_.m3u
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/680895323228733495/709083048368406578/logo_standarttv.png",OkTV.m3u
-http://192.168.0.104:12345/OkTV.m3u
+http://192.168.0.102:12345/OkTV.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/718633835767660544/logo_voka.png",Voka.m3u
-http://192.168.0.104:12345/Voka.m3u
+http://192.168.0.102:12345/Voka.m3u
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by
 http://rtmp.one.by:1200
