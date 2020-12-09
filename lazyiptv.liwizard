@@ -19,6 +19,16 @@
       <group>Karnei4, TV, Zabava</group>
     </playlist>
 
+
+    <playlist>
+      <date>09.12.2020</date>
+      <name>Clip.TV</name>
+      <url>https://cdn.discordapp.com/attachments/739384288256196653/786290789428756510/clip.tv.m3u</url>
+      <comment>Clip.TV</comment>
+      <update_hours>24</update_hours>
+      <group>Karnei4, TV, New</group>
+    </playlist>
+
     <playlist>
       <date>09.12.2020</date>
       <name>IPNetTV</name>
