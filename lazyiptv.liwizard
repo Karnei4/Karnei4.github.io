@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 1.135, 09.12.2020</version>
+    <version>версия 3.135, 09.12.2020</version>
     <name>Karnei4-LazyIPTV Wizard</name>
-    <comment>Файл импорта плейлистов/Сборка от Karnei4/IPTV-RU Чат https://discord.gg/E7xAqsK</comment>
+    <comment>Файл импорта плейлистов/Сборка от Karnei4 / IPTV-RU Чат https://discord.gg/E7xAqsK</comment>
     <android_url>https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv</android_url>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
   </info>
@@ -16,7 +16,7 @@
       <url>https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u</url>
       <comment>Karnei4 IPTV BY / Zabava FREE со сдвигом по времени каналов от -1 часа до -16 часов</comment>
       <update_hours>24</update_hours>
-      <group>BY, Karnei4, TV, New</group>
+      <group>Karnei4, TV, Zabava</group>
     </playlist>
 
     <playlist>
@@ -25,7 +25,7 @@
       <url>https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPNetTV.m3u</url>
       <comment>IPNetTV</comment>
       <update_hours>24</update_hours>
-      <group>RU, Karnei4, TV, New</group>
+      <group>UA, Karnei4, TV, New</group>
     </playlist>
 
     <playlist>
@@ -52,7 +52,7 @@
       <url>http://xml.vintera.tv/samsung/internettv.xml?lang=rus</url>
       <comment>vintera.tv</comment>
       <update_hours>24</update_hours>
-      <group>RU, Karnei4, TV, New</group>
+      <group>RU, vintera, TV, New</group>
     </playlist>
 
 
@@ -62,16 +62,16 @@
       <url>http://xml.vintera.tv/android_v_1219/provtv.xml?lang=rus</url>
       <comment>vintera.tv</comment>
       <update_hours>24</update_hours>
-      <group>RU, Karnei4, TV, New</group>
+      <group>RU, vintera, TV, New</group>
     </playlist>
 
     <playlist>
       <date>09.12.2020</date>
       <name>RT-TV TV Proxy</name>
       <url>https://Karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy-127.0.0.1.m3u</url>
-      <comment>RT-TV VOD Proxy 127.0.0.1:7171</comment>
+      <comment>Для просмотра надо ZMP Proxy с IP:127.0.0.1:7171</comment>
       <update_hours>24</update_hours>
-      <group>RU, Karnei4, TV, New</group>
+      <group>RU, Karnei4, TV, Zabava</group>
     </playlist>
    
     <playlist>
