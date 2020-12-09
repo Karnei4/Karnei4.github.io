@@ -3,7 +3,7 @@
   <info>
     <version>версия 3.135, 09.12.2020</version>
     <name>Karnei4-LazyIPTV Wizard</name>
-    <comment>Файл импорта плейлистов/Сборка от Karnei4 / IPTV-RU Чат https://discord.gg/E7xAqsK</comment>
+    <comment>Файл импорта плейлистов | Сборка от Karnei4 | IPTV-RU Чат https://discord.gg/E7xAqsK</comment>
     <android_url>https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv</android_url>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
   </info>
@@ -14,7 +14,7 @@
       <date>09.12.2020</date>
       <name>Zabava FREE Karnei4</name>
       <url>https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u</url>
-      <comment>Karnei4 IPTV BY / Zabava FREE со сдвигом по времени каналов от -1 часа до -16 часов</comment>
+      <comment>Karnei4 IPTV BY | Zabava FREE со сдвигом по времени каналов от -1 часа до -16 часов</comment>
       <update_hours>24</update_hours>
       <group>Karnei4, TV, Zabava</group>
     </playlist>
@@ -60,7 +60,7 @@
       <date>09.12.2020</date>
       <name>TV Провайдера</name>
       <url>http://xml.vintera.tv/android_v_1219/provtv.xml?lang=rus</url>
-      <comment>vintera.tv</comment>
+      <comment>Поиск TV каналов Провайдера от vintera.tv | Может не найти каналы или смотреть надо сторонним плеером!</comment>
       <update_hours>24</update_hours>
       <group>RU, vintera, TV, New</group>
     </playlist>
@@ -69,7 +69,7 @@
       <date>09.12.2020</date>
       <name>RT-TV TV Proxy</name>
       <url>https://Karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy-127.0.0.1.m3u</url>
-      <comment>Для просмотра надо ZMP Proxy с IP:127.0.0.1:7171</comment>
+      <comment>Для просмотра надо ZMP Proxy с IP | 127.0.0.1:7171</comment>
       <update_hours>24</update_hours>
       <group>RU, Karnei4, TV, Zabava</group>
     </playlist>
