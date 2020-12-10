@@ -83,6 +83,15 @@
       <update_hours>24</update_hours>
       <group>RU, Karnei4, TV, Zabava</group>
     </playlist>
+
+    <playlist>
+      <date>09.12.2020</date>
+      <name>RT-TV TV Proxy</name>
+      <url>https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-playlist_FILMS_Kategoryi-127.0.0.1-7171.m3u</url>
+      <comment>Для просмотра надо ZMP Proxy с IP | 127.0.0.1:7171</comment>
+      <update_hours>24</update_hours>
+      <group> FILMS, RU, Karnei4, TV, Zabava</group>
+    </playlist>
    
     <playlist>
       <date>09.12.2020</date>
@@ -105,7 +114,7 @@
     <playlist>
       <date>09.12.2020</date>
       <name>webarmen.com</name>
-      <url>https://dl.dropbox.com/s/dm9dcg56do7lpok/PlayList-Karnei4-FULL-M3U-21225.m3u</url>
+      <url>https://webarmen.com/my/iptv/auto.nogrp.m3u</url>
       <comment>webarmen.com</comment>
       <update_hours>24</update_hours>
       <group>RU, Karnei4, TV, New</group>
