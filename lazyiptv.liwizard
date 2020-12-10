@@ -324,65 +324,9 @@
   <epgs>
   
     <epg>
-      <date>05.09.2017</date>
-      <name>[RU] Programtv.ru</name>
-      <url>http://programtv.ru/xmltv.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~10Mb, 3 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
-    </epg>
-
-    <epg>
-      <date>07.09.2017</date>
-      <name>[RU][UA] EPG for Edem</name>
-      <url>http://epg.it999.ru/edem.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~20Mb, 6 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
-    </epg>
-
-    <epg>
-      <date>01.02.2017</date>
-      <name>[RU][UA] K210.org</name>
-      <url>http://tv.k210.org/xmltv.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~20Mb, 7 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
-    </epg>
-
-    <epg>
-      <date>05.04.2016</date>
-      <name>[RU][UA] Teleguide</name>
-      <url>http://www.teleguide.info/download/new3/xmltv.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~35Mb, 7 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
-    </epg>
-
-    <epg>
-      <date>16.06.2018</date>
-      <name>New EPG</name>
-      <url>http://bit.ly/newEPG</url>
-      <comment>Country: ExUSSR+World, Lang: RU,WORLD Size: ~70Mb, 9 days/ Содержит описания передач.</comment>
-      <group>exUSSR, World</group>
-    </epg>
-    
-    <epg>
-      <date>20.06.2019</date>
-      <name>Ott Epg</name>
-      <url>https://ottepg.ru/ottepg.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU</comment>
-      <group>exUSSR</group>
-    </epg>
-	
-    <epg>
       <date>10.12.2020</date>
       <name>Teleguide</name>
       <url>http://www.teleguide.info/download/new3/xmltv.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU</comment>
-      <group>exUSSR</group>
-    </epg> 
-    
-    <epg>
-      <date>10.12.2020</date>
-      <name>Ott Epg</name>
-      <url>https://ottepg.ru/ottepg.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU</comment>
       <group>exUSSR</group>
     </epg>
@@ -455,6 +399,54 @@
       <date>10.12.2020</date>
       <name>viplime.fun</name>
       <url>http://epg.viplime.fun/full.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg>  
+  
+    <epg>
+      <date>05.09.2017</date>
+      <name>[RU] Programtv.ru</name>
+      <url>http://programtv.ru/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU, Size: ~10Mb, 3 days. Содержит описания передач.</comment>
+      <group>exUSSR</group>
+    </epg>
+
+    <epg>
+      <date>07.09.2017</date>
+      <name>[RU][UA] EPG for Edem</name>
+      <url>http://epg.it999.ru/edem.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU, Size: ~20Mb, 6 days. Содержит описания передач.</comment>
+      <group>exUSSR</group>
+    </epg>
+
+    <epg>
+      <date>01.02.2017</date>
+      <name>[RU][UA] K210.org</name>
+      <url>http://tv.k210.org/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU, Size: ~20Mb, 7 days. Содержит описания передач.</comment>
+      <group>exUSSR</group>
+    </epg>
+
+    <epg>
+      <date>05.04.2016</date>
+      <name>[RU][UA] Teleguide</name>
+      <url>http://www.teleguide.info/download/new3/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU, Size: ~35Mb, 7 days. Содержит описания передач.</comment>
+      <group>exUSSR</group>
+    </epg>
+
+    <epg>
+      <date>16.06.2018</date>
+      <name>New EPG</name>
+      <url>http://bit.ly/newEPG</url>
+      <comment>Country: ExUSSR+World, Lang: RU,WORLD Size: ~70Mb, 9 days/ Содержит описания передач.</comment>
+      <group>exUSSR, World</group>
+    </epg>
+    
+    <epg>
+      <date>20.06.2019</date>
+      <name>Ott Epg</name>
+      <url>https://ottepg.ru/ottepg.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU</comment>
       <group>exUSSR</group>
     </epg>
