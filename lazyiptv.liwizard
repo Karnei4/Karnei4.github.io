@@ -187,7 +187,7 @@
       <date>11.04.2020</date>
       <name>Свежие</name>
       <url>http://46.161.65.30:1682/voskres/pr/last.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -196,7 +196,7 @@
       <date>11.04.2020</date>
       <name>3D фильмы</name>
       <url>http://46.161.65.30:1682/voskres/pr/3d.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -205,7 +205,7 @@
       <date>11.04.2020</date>
       <name>60fps фильмы</name>
       <url>http://46.161.65.30:1682/voskres/pr/60fps.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -214,7 +214,7 @@
       <date>11.04.2020</date>
       <name>Биография</name>
       <url>http://46.161.65.30:1682/voskres/pr/biograf.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -223,7 +223,7 @@
       <date>11.04.2020</date>
       <name>Боевики</name>
       <url>http://46.161.65.30:1682/voskres/pr/boeviki.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -232,7 +232,7 @@
       <date>11.04.2020</date>
       <name>Вестерны</name>
       <url>http://46.161.65.30:1682/voskres/pr/vestern.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -241,7 +241,7 @@
       <date>11.04.2020</date>
       <name>Военные</name>
       <url>http://46.161.65.30:1682/voskres/pr/voenniy.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -250,7 +250,7 @@
       <date>11.04.2020</date>
       <name>Детективы</name>
       <url>http://46.161.65.30:1682/voskres/pr/detektiv.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -259,7 +259,7 @@
       <date>11.04.2020</date>
       <name>Документальные</name>
       <url>http://46.161.65.30:1682/voskres/pr/dokument.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -268,7 +268,7 @@
       <date>11.04.2020</date>
       <name>Драмы</name>
       <url>http://46.161.65.30:1682/voskres/pr/dramy.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -277,7 +277,7 @@
       <date>11.04.2020</date>
       <name>Исторические</name>
       <url>http://46.161.65.30:1682/voskres/pr/istoriya.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -286,7 +286,7 @@
       <date>11.04.2020</date>
       <name>Комедии</name>
       <url>http://46.161.65.30:1682/voskres/pr/komedii.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -295,7 +295,7 @@
       <date>11.04.2020</date>
       <name>Криминальные</name>
       <url>http://46.161.65.30:1682/voskres/pr/kriminal.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -304,7 +304,7 @@
       <date>11.04.2020</date>
       <name>Мелодрамы</name>
       <url>http://46.161.65.30:1682/voskres/pr/melodrama.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -313,7 +313,7 @@
       <date>11.04.2020</date>
       <name>Мистические</name>
       <url>http://46.161.65.30:1682/voskres/pr/mistic.m3u</url>
-      <comment>Karnei4</comment>
+      <comment>voskres</comment>
       <update_hours>24</update_hours>
       <group>RU, FILMS, New</group>
     </playlist>
@@ -328,22 +328,6 @@
       <name>[RU] Programtv.ru</name>
       <url>http://programtv.ru/xmltv.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU, Size: ~10Mb, 3 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
-    </epg>
-
-    <epg>
-      <date>03.09.2016</date>
-      <name>[RU] Epg.in.ua</name>
-      <url>http://epg.in.ua/epg/tvprogram_ua_ru.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~35Mb, 5 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
-    </epg>
-    
-    <epg>
-      <date>13.10.2017</date>
-      <name>[RU] Torrent-tv.ru</name>
-      <url>http://api.torrent-tv.ru/ttv.xmltv.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~25Mb, 10 days. Содержит описания передач.</comment>
       <group>exUSSR</group>
     </epg>
 
@@ -364,14 +348,6 @@
     </epg>
 
     <epg>
-      <date>09.06.2016</date>
-      <name>[RU][UA] Iptvcm.link</name>
-      <url>http://iptvcm.link/epg/epg.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~25Mb, 5 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
-    </epg>
-
-    <epg>
       <date>05.04.2016</date>
       <name>[RU][UA] Teleguide</name>
       <url>http://www.teleguide.info/download/new3/xmltv.xml.gz</url>
@@ -380,28 +356,12 @@
     </epg>
 
     <epg>
-      <date>01.05.2018</date>
-      <name>Kinokrug</name>
-      <url>http://www.kinokrug.com/tv-programm/tv-kinokrug-xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU</comment>
-      <group>exUSSR</group>
-    </epg>    
-    
-    <epg>
       <date>16.06.2018</date>
       <name>New EPG</name>
       <url>http://bit.ly/newEPG</url>
       <comment>Country: ExUSSR+World, Lang: RU,WORLD Size: ~70Mb, 9 days/ Содержит описания передач.</comment>
       <group>exUSSR, World</group>
-    </epg>   
-
-    <epg>
-      <date>01.05.2018</date>
-      <name>Epg-Sat</name>
-      <url>http://www.epg-sat.de/epg/xmltv-ru.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU</comment>
-      <group>exUSSR</group>
-    </epg> 
+    </epg>
     
     <epg>
       <date>20.06.2019</date>
@@ -409,7 +369,95 @@
       <url>https://ottepg.ru/ottepg.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU</comment>
       <group>exUSSR</group>
+    </epg>
+	
+    <epg>
+      <date>10.12.2020</date>
+      <name>Teleguide</name>
+      <url>http://www.teleguide.info/download/new3/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
     </epg> 
     
+    <epg>
+      <date>10.12.2020</date>
+      <name>Ott Epg</name>
+      <url>https://ottepg.ru/ottepg.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg>
+	
+    <epg>
+      <date>10.12.2020</date>
+      <name>Edem (не офф.)</name>
+      <url>http://epg.it999.ru/edem.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg> 
+    
+    <epg>
+      <date>10.12.2020</date>
+      <name>Cbilling tv</name>
+      <url>http://epg.iptvx.tv/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg>
+	
+    <epg>
+      <date>10.12.2020</date>
+      <name>Programtv</name>
+      <url>http://programtv.ru/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg> 
+    
+    <epg>
+      <date>10.12.2020</date>
+      <name>Triolan</name>
+      <url>http://triolan.tv/App_Files/jtv.zip</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg>
+	
+    <epg>
+      <date>10.12.2020</date>
+      <name>1ottnet</name>
+      <url>https://ottepg.my1.ru/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg> 
+    
+    <epg>
+      <date>10.12.2020</date>
+      <name>Sharavoz</name>
+      <url>http://iptv-content.webhop.net/epg.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg>
+	
+    <epg>
+      <date>10.12.2020</date>
+      <name>myott.tv</name>
+      <url>http://myott.tv/api/epg.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg> 
+	
+    <epg>
+      <date>10.12.2020</date>
+      <name>antifriz.tv</name>
+      <url>https://antifriz.tv/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg>                            
+	
+    <epg>
+      <date>10.12.2020</date>
+      <name>viplime.fun</name>
+      <url>http://epg.viplime.fun/full.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU</comment>
+      <group>exUSSR</group>
+    </epg>
+
   </epgs>
 </wizard>
