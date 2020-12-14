@@ -31,6 +31,8 @@ https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPN
 https://cdn.discordapp.com/attachments/739384288256196653/787675702882730004/playlist_20.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",ott-club.com.ru
 https://cdn.discordapp.com/attachments/685792252089597977/788034370954854430/playlist_22.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",ott-club.com.ru
+http://151.80.101.90/playlist/GDPL1NB4G4/m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",KINOKRAD
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/kinokrad.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Megogo VOD
