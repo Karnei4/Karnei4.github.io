@@ -358,102 +358,39 @@ https://cdn.discordapp.com/attachments/765144965793710090/781848224641581086/mul
 https://cdn.discordapp.com/attachments/765144965793710090/781847918159200256/Kung-fu-panda.IMC.zip
 #EXTINF:-1 tvg-logo="",TOM & JERRY
 https://cdn.discordapp.com/attachments/765144965793710090/781848074254549012/Tom-Jerry.IMC.zip
-
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",ЗАБАВА FREE
-https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/709061576652750869/711260896735002664/icon.png",Plugin VOD IP:127.0.0.01:7171
-https://dl.dropbox.com/s/sdtf8ztivt9ebty/Karnei4_Z-ProxyVOD.IMC.zip
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/709061576652750869/711260896735002664/icon.png", VOD IP:127.0.0.01:7171
-https://dl.dropbox.com/s/brmotbx89ipd95m/Z-playlist_FILMS_Kategoryi.m3u
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",ЗАБАВА IP:127.0.0.01:7171
-https://dl.dropbox.com/s/3zef7epufnhcanc/iptv_radio.xspf
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/708000911158411285/711283802311360592/icon.png",Plugin BOBFILM (New)
 https://cdn.discordapp.com/attachments/708000911158411285/711166624367116388/bobfilmNew.IMC.zip
 
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",oleg.cc.ua
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",oleg.cc.ua
 http://oleg.cc.ua/playlist_deooleg_tv_vip_muzykalnye_updated_yandextv_administrator_qazwsxed.wmw.m3u
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",smarttvapp.ru
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",smarttvapp.ru
 https://smarttvapp.ru/app/iptvfull.m3u
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",webarmen.com
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",webarmen.com
 https://webarmen.com/my/iptv/auto.nogrp.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",webhalpme.ru
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",webhalpme.ru
 http://webhalpme.ru/donwhm.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",smarttvnews.ru 
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",smarttvnews.ru 
 http://tinyurl.com//y5sndv67
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",p.denys.club
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",p.denys.club
 http://p.denys.club/b6/ip.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",getsapp.ru
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",getsapp.ru
 http://getsapp.ru/IPTV/Auto_IPTV.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",iptvm3u.ru
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",iptvm3u.ru
 https://iptvm3u.ru/list.m3u
 #EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/720199838259740755/743113701577588836/photostudio_1592046374539_1.jpg",RO$TIK TV TEST
 https://dl.dropboxusercontent.com/s/bhz7633q036tw1p/RO$TIK_TV_TEST.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3gfpvra4jfotlpe/Refresh.png",rassvetpro.narod.ru
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",rassvetpro.narod.ru
 http://rassvetpro.narod.ru/boyantvnoxxx.m3u
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/1r7c4qhr5hrnari/LENFILM.PNG",Киностудия Ленфильм
-https://dl.dropbox.com/s/inn0s1k6jczfbb1/youtube-LenFilm.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/dxvk3pqqsvwfvyx/Mosfilm.PNG",Киностудия Мосфильм
-https://dl.dropbox.com/s/ig444w49e9l96hj/Mosfilm.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/iocvvv564gagc5h/Odessa.PNG",Одесская Киностудия
-https://dl.dropbox.com/s/6ihp53cakil47q7/Odessa.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qwm1o2yd2ousn59/Belarusfilm.PNG",Киностудия Беларусьфильм
-https://dl.dropbox.com/s/6ap1z1rrm5zfywd/Belarusfilm.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/l17rx886rv3jywz/Gorkogo.PNG",Киностудия им. Горького
-https://dl.dropbox.com/s/drnq2usrymt9eo6/Gorkogo.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/20p92ojnznsjdd1/sverdlovskaya.PNG",Свердловская Киностудия
-https://dl.dropbox.com/s/limaeui76o5kcyz/sverdlovskaya.m3u
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/M9y6v12Ovzs/default.jpg",USSR Дубляж
-https://dl.dropbox.com/s/v25963hr432hgyg/USSR-Dublajz.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ssu5rpmzit0pf9b/maxresdefault.jpg",Mad Work Day (Истории)
-https://dl.dropbox.com/s/nr0h583di74zwhn/Mad-Work-Day.m3u
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/cJtGQ4coSWY/default.jpg",Zёбра (Пушки)
-https://dl.dropbox.com/s/x3d4mna9kz7ektf/Zebra.m3u
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/FDQGHD0qRiQ/default.jpg",Военная Тайна 
-https://dl.dropbox.com/s/ofgcbmftbahgjth/VoennayaTayna.m3u
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/8dQ_1izu2B0/default.jpg",Загадки Человечества
-https://dl.dropbox.com/s/u6ldoowod6l0f7l/Zagadki-4elove4estva.m3u
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/ONVE89XlQ5E/default.jpg",Самые Шокирующие Гипотезы
-https://dl.dropbox.com/s/4y0pr9kjlk0ohja/Gipotezi.m3u
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/O6Nu_hYlOkM/default.jpg",Тайны Чапман
-https://dl.dropbox.com/s/nn9oi3h3ejk9g6n/4apman.m3u
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/iKMJYQlnvaE/default.jpg",Засекреченные списки
-https://dl.dropbox.com/s/xcqyprv5685r4ud/SpecProekt.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wswn7zgcvi54ayj/Skazki.PNG",Сказки
-https://dl.dropbox.com/s/qzpuyggqnwbf81a/Skazki.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8j1eyb67d2sfry9/Multfilm.PNG",Союзмультфильм
-https://dl.dropbox.com/s/7g38zfl2yxvmt7z/Multfilm.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4l6kfxdl0z5xbsq/sol.jpg",Соль
-https://dl.dropbox.com/s/010x45kuzddaof9/Sol.m3u
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/nashetv.png",Воздух НАШЕ.TV
-https://dl.dropbox.com/s/mpn3dem27mfag8g/Vozdyh.m3u
-#EXTINF:-1 tvg-logo="",RUS_Rock
-https://dl.dropbox.com/s/fx6z0eezi08673f/YouTube-RUS_Rock.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z8hz4m2hgw0nk7m/youtuber_logo.png",Dok_Kriminal.m3u
-https://dl.dropbox.com/s/g5s18hkqd3yb3ff/Dok_Kriminal.m3u
-#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/2a/ac/8e/72/imagen-studiya-kvartal-95-0big.jpg",Фильмы и Сериалы Студии Квартал 95
-https://dl.dropbox.com/s/lbp7hglngmuzknk/svati.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z8hz4m2hgw0nk7m/youtuber_logo.png",Ютубер.m3u
-https://dl.dropbox.com/s/m1vtfzrvyte0mig/%D0%AE%D1%82%D1%83%D0%B1%D0%B5%D1%80.m3u
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u93mv7px00mkjub/youtube-free-music.jpg",МУЗЫКА (BSplayer)
-https://dl.dropbox.com/s/pq96ggll2id73uk/Sbornik-Karnei4.m3u
-#EXTINF:-1 tvg-logo="",МУЗЫКА mp3
-https://dl.dropbox.com/s/m36k08b6f9jw96f/Karnei4_MP3.IMC.zip
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio33279_1489689671.jpg",Radio TopPlay
-https://topplay.do.am/RadioTopPlay.m3u
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",МУЗЫКА.m3u
-https://dl.dropbox.com/s/uh66xgefanfucll/List%20of%20MP3%20files%20for%20Wimamp.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",МУЗЫКА FlAC.m3u
 https://cdn.discordapp.com/attachments/680857473854341130/687229154806071308/Karnei4-M3U-flac.m3u
 
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Enigma FlAC.m3u
-https://dl.dropbox.com/s/j0820pe9m9605ga/Enigma-album-flac-audio_no_save_Karnei4.m3u
+https://cdn.discordapp.com/attachments/739384599171301407/788791017289416714/Enigma-album-flac-audio_no_save_Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",The Cranberries FlAC.m3u
-https://dl.dropbox.com/s/jwywk734566jgbq/The-Cranberries-album-flac-audio_no_save_Karnei4.m3u
+https://cdn.discordapp.com/attachments/739384599171301407/788791078149029909/The-Cranberries-album-flac-audio_no_save_Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Depeche mode 1990 Violator FlAC.m3u
-https://dl.dropbox.com/s/9vcaiexnw1rdrrt/Depeche_mode_1990_Violator.m3u
+https://cdn.discordapp.com/attachments/739384599171301407/788791014302154772/Depeche_mode_1990_Violator.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Accept-album FlAC.m3u
 https://cdn.discordapp.com/attachments/680857473854341130/696659021213728818/Accept-album-flac-audio_no_save_Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Deftones-album FlAC.m3u
@@ -479,12 +416,10 @@ https://cdn.discordapp.com/attachments/680857473854341130/696659271726923856/Pin
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Rammstein-album FlAC.m3u
 https://cdn.discordapp.com/attachments/680857473854341130/696659288927633428/Rammstein-album-flac-audio_no_save_Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Scorpions-album FlAC.m3u
-https://dl.dropbox.com/s/ge381qm7qwzb7h8/Scorpions-album-flac-audio_no_save_Karnei4.m3u
+https://cdn.discordapp.com/attachments/739384599171301407/788791075807559680/Scorpions-album-flac-audio_no_save_Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",The-Prodigy-album FlAC.m3u
 https://cdn.discordapp.com/attachments/680857473854341130/696659331466395698/The-Prodigy-album-flac-audio_no_save_Karnei4.m3u
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Фильмы
-https://dl.dropbox.com/s/vgy538gj0pgo73m/KINO-M3U-Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Фильмы
 https://cdn.discordapp.com/attachments/678941221925683220/694213326942633985/FILMS-Karnei4-playlist_5.9.13.233.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Films_1.m3u
@@ -496,10 +431,6 @@ http://freeportal.info/dwn/Films.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/emojis/679029822747574283.png",Байки из склепа
 https://cdn.discordapp.com/attachments/679261972138688512/718555834405224498/1_7_.m3u
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/680895323228733495/709083048368406578/logo_standarttv.png",OkTV.m3u
-http://192.168.0.102:12345/OkTV.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/718633835767660544/logo_voka.png",Voka.m3u
-http://192.168.0.102:12345/Voka.m3u
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by
 http://rtmp.one.by:1200
@@ -512,37 +443,32 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by Россия HD
 http://rtmp.one.by:2300
 
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Classic Rock
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Classic Rock
 http://ott-linear-channels.stingray.com/hls/mxplayer/101.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Rock Alternative  
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Rock Alternative  
 http://ott-linear-channels.stingray.com/hls/mxplayer/102.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Pop Adult        
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Pop Adult        
 http://ott-linear-channels.stingray.com/hls/mxplayer/104.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Hit List    
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Hit List    
 http://ott-linear-channels.stingray.com/hls/mxplayer/107.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Hot Country      
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Hot Country      
 http://ott-linear-channels.stingray.com/hls/mxplayer/108.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Flashback 70x
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Flashback 70x
 http://ott-linear-channels.stingray.com/hls/mxplayer/115.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Remember The '80s 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Remember The '80s 
 http://ott-linear-channels.stingray.com/hls/mxplayer/128.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Greatest Hits
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Greatest Hits
 http://ott-linear-channels.stingray.com/hls/mxplayer/133.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Today's Latin Pop 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Today's Latin Pop 
 http://ott-linear-channels.stingray.com/hls/mxplayer/190.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Karaoke     
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Karaoke     
 http://ott-linear-channels.stingray.com/hls/mxplayer/karaoke.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Karaoke 1920x1080
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Karaoke 1920x1080
 https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8 
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Qello Concerts
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Qello Concerts
 http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
 
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",entermusictv
-http://v2.catcast.me/content/36007/index.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Metal TV
-http://v1.catcast.me/content/33816/index.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Eurodance Hits 90
-http://v1.catcast.me/content/36987/index.m3u8
+
 #EXTINF:-1,Xporno
 https://cdn.discordapp.com/attachments/708000911158411285/781971434032857159/Xporno.IMC.zip
 #EXTINF:-1,Porn HUB
