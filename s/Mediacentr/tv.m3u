@@ -186,29 +186,29 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by Россия HD
 http://rtmp.one.by:2300
 
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Classic Rock
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Classic Rock
 http://ott-linear-channels.stingray.com/hls/mxplayer/101.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Rock Alternative  
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Rock Alternative  
 http://ott-linear-channels.stingray.com/hls/mxplayer/102.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Pop Adult        
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Pop Adult        
 http://ott-linear-channels.stingray.com/hls/mxplayer/104.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Hit List    
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Hit List    
 http://ott-linear-channels.stingray.com/hls/mxplayer/107.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Hot Country      
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Hot Country      
 http://ott-linear-channels.stingray.com/hls/mxplayer/108.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Flashback 70x
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Flashback 70x
 http://ott-linear-channels.stingray.com/hls/mxplayer/115.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Remember The '80s 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Remember The '80s 
 http://ott-linear-channels.stingray.com/hls/mxplayer/128.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Greatest Hits
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Greatest Hits
 http://ott-linear-channels.stingray.com/hls/mxplayer/133.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Today's Latin Pop 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Today's Latin Pop 
 http://ott-linear-channels.stingray.com/hls/mxplayer/190.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Karaoke     
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Karaoke     
 http://ott-linear-channels.stingray.com/hls/mxplayer/karaoke.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Karaoke 1920x1080
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Karaoke 1920x1080
 https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8 
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dl.dropbox.com/s/e0u272c979dmypb/stingray.png",Qello Concerts
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Qello Concerts
 http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava Karnei4
