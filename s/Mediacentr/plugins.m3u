@@ -6,8 +6,6 @@ https://cdn.discordapp.com/attachments/739384599171301407/739416998546505728/4at
 
 #EXTINF:-1 tvg-logo="",Импорт избранного
 https://cdn.discordapp.com/attachments/716235283498008643/780838594327347210/favex.IMC.zip
-#EXTINF:-1 tvg-logo="",Сборка Karnei4
-https://cdn.discordapp.com/attachments/716235283498008643/752098058933764168/EBM_nation.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/706114419045695558/1_sleep_timer_turn_music_off_w176.png",RELAX
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",IPTV-RU https://discord.gg/E7xAqsK
@@ -30,7 +28,7 @@ https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Музыка DJ
 https://cdn.discordapp.com/attachments/716235283498008643/747647694205485127/muz.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Deep House 
-https://dl.dropbox.com/s/30247j9rsmwc7mg/Muzica.m3u
+https://cdn.discordapp.com/attachments/739394193365139457/788743629517750272/Muzica.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Музыка MP3
 https://cdn.discordapp.com/attachments/739742290716786759/739764796525903962/Karnei4_MP3.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Музыка MP3 v.2
@@ -53,7 +51,8 @@ https://cdn.discordapp.com/attachments/716235283498008643/784106232129912852/FIL
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/714824963974234214/781608626183602197/iso.png",Pineforest.info
 https://cdn.discordapp.com/attachments/685792252089597977/781603952608935936/pineforest.IMC.zip
 #EXTINF:-1 tvg-logo="",KinoGo
-https://dl.dropbox.com/s/g1rf5s1y57s6h4w/KinoGo.IMC.zip
+https://cdn.discordapp.com/attachments/739394193365139457/788743949421379644/KinogoBY.IMC.zip
+#---https://dl.dropbox.com/s/g1rf5s1y57s6h4w/KinoGo.IMC.zip
 #EXTINF:-1 tvg-logo="",HDZO.TV
 https://cdn.discordapp.com/attachments/708000911158411285/777966572886032404/HDZO.TV.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",RT-TV VOD Proxy 127.0.0.1:7171
