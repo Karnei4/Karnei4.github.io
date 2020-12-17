@@ -41,8 +41,11 @@ https://cdn.discordapp.com/attachments/739384599171301407/739527389796630659/rad
 https://cdn.discordapp.com/attachments/739384599171301407/739529667178004610/espradio.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Radio TopPlay
 https://topplay.do.am/RadioTopPlay.m3u
+
 #EXTINF:-1 tvg-logo="",Playlist IPTV
 https://cdn.discordapp.com/attachments/739384288256196653/789156675247931452/playlist.tv.IMC.zip
+#EXTINF:-1 tvg-logo="",Playlist IPTV
+https://cdn.discordapp.com/attachments/708000911158411285/789176077863616593/2list.tv.IMC.zip
 #EXTINF:-1 tvg-logo="",Kinoteatr.kg
 https://cdn.discordapp.com/attachments/716235283498008643/788468668077703168/Kinoteatr.kg.IMC.zip
 
