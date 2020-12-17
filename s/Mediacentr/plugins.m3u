@@ -44,6 +44,8 @@ https://topplay.do.am/RadioTopPlay.m3u
 #EXTINF:-1 tvg-logo="",Kinoteatr.kg
 https://cdn.discordapp.com/attachments/716235283498008643/788468668077703168/Kinoteatr.kg.IMC.zip
 
+#EXTINF:-1,Epizod.Life
+https://cdn.discordapp.com/attachments/685792252089597977/789034579813990400/EPIZOD.life.IMC.zip
 #EXTINF:-1,Kinoprosmotr
 http://files.iconbit.com/IMC/kinoprosmotr.IMC.zip 
 #EXTINF:-1 tvg-logo="",FILMOZAVR
