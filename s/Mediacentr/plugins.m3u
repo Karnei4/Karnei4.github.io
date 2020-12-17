@@ -44,11 +44,16 @@ https://topplay.do.am/RadioTopPlay.m3u
 
 #EXTINF:-1 tvg-logo="",Playlist IPTV
 https://cdn.discordapp.com/attachments/739384288256196653/789156675247931452/playlist.tv.IMC.zip
-#EXTINF:-1 tvg-logo="",Playlist IPTV
-https://cdn.discordapp.com/attachments/708000911158411285/789176077863616593/2list.tv.IMC.zip
+#EXTINF:-1 tvg-logo="",Zala BY
+https://cdn.discordapp.com/attachments/739384288256196653/789182909995155456/2list.tv.IMC.zip
+#---https://cdn.discordapp.com/attachments/708000911158411285/789176077863616593/2list.tv.IMC.zip
 #EXTINF:-1 tvg-logo="",Kinoteatr.kg
 https://cdn.discordapp.com/attachments/716235283498008643/788468668077703168/Kinoteatr.kg.IMC.zip
 
+#EXTINF:-1,Kinosimka
+https://dl.dropbox.com/s/vm55be6iz409rck/Kinosimka.IMC.zip
+#EXTINF:-1,DostFilms
+https://dl.dropbox.com/s/zaqbxr2h0j5h6mm/DostFilms.IMC.zip
 #EXTINF:-1,Epizod.Life
 https://cdn.discordapp.com/attachments/685792252089597977/789034579813990400/EPIZOD.life.IMC.zip
 #EXTINF:-1,Kinoprosmotr
