@@ -114,6 +114,8 @@ https://cdn.discordapp.com/attachments/716235283498008643/766311919031156766/KIN
 https://cdn.discordapp.com/attachments/708000911158411285/789933845494628392/fantastic.IMC.zip
 #EXTINF:-1 tvg-logo="",Film Place
 https://cdn.discordapp.com/attachments/708000911158411285/760585422920351826/Film_Place.IMC.zip
+#EXTINF:-1 tvg-logo="",TorrNetflix
+https://cdn.discordapp.com/attachments/716235283498008643/790483619977625630/TorrNetflix.IMC.zip
 #EXTINF:-1 tvg-logo="",TorrentBAY
 https://cdn.discordapp.com/attachments/716235283498008643/790237080407244821/TorrentBAY.IMC.zip
 #EXTINF:-1 tvg-logo="",PDAFilms
@@ -492,6 +494,8 @@ https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
 http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
 
 
+#EXTINF:-1,XXX
+https://cdn.discordapp.com/attachments/716235283498008643/790492765565878312/xxx.IMC.zip
 #EXTINF:-1,Xporno
 https://cdn.discordapp.com/attachments/708000911158411285/781971434032857159/Xporno.IMC.zip
 #EXTINF:-1,Porn HUB
