@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} !^$
+RewriteCond %{HTTP_USER_AGENT} !IMC [NC]
+RewriteRule plugins.m3u$ - [F]
