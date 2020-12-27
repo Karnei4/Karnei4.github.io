@@ -1,0 +1,13 @@
+#EXTM3U cache=500 deinterlace=1 aspect-ratio=16:9 audio-track=ru m3uautoload=1
+#EXTINF:-1 group-title="Мультфильмы новинки",Большое путешествие (Россия¸ США)
+https://strm.yandex.ru/vh-ott-converted/ott-content/475675787-491a51e349713c7c94265bad2085484f/master_quality.m3u8
+#EXTINF:-1 group-title="Мультфильмы новинки",Вне Трассы (Франция)
+https://strm.yandex.ru/vh-ott-converted/ott-content/529843920-4e4218df28ec3f76a8639c4c189d7cc9/master.m3u8
+#EXTINF:-1 group-title="Мультфильмы новинки",Дети моря (Япония)
+https://strm.yandex.ru/vh-ott-converted/ott-content/547657155-4d8afbe5ae11cb75877db4a80097d425/master.m3u8
+#EXTINF:-1 group-title="Мультфильмы новинки",Маугли дикой планеты (Франция)
+https://strm.yandex.ru/vh-ott-converted/ott-content/483824034-4278317da5bbb7a2a3eff712bd9e263d/master_quality.m3u8
+#EXTINF:-1 group-title="Мультфильмы новинки",Принцесса Эмми (Германия¸ Бельгия¸ Великобритания)
+https://strm.yandex.ru/vh-ott-converted/ott-content/492135703-4aefe9f34b01d8a29874a11f3c87bcc9/master_quality.m3u8
+#EXTINF:-1 group-title="Мультфильмы новинки",Урфин Джюс возвращается (Россия)
+https://strm.yandex.ru/vh-ott-converted/ott-content/577073943-4be35e2343b1f5db8d2c01040f7dea0d/master.m3u8
