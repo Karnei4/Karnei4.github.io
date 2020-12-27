@@ -15,11 +15,11 @@ https://Karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy-127.0.0.1
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnytr.tv
 #---http://nasharu.tv/iptv/S6F1BA0906/m3u8/
-m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/Playlist-vnytrenniy.m3u
+m3u+http://f0448337.xsph.ru/PLUGIN/Playlist-vnytrenniy.m3u
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnech.tv
 #---http://myott.top/playlist/36WPD8YMFS/m3u
-m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/Playlist-vnechka.m3u
+m3u+http://f0448337.xsph.ru/PLUGIN/Playlist-vnechka.m3u
 
 #---https://dl.dropbox.com/s/ubqpms6kvqquxu9/Z-playlist-22-10-2020.m3u
 #---https://cdn.discordapp.com/attachments/739790132932247655/765286323899596820/Z-playlist-12.10.2020.m3u
@@ -28,6 +28,8 @@ m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediace
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",Karnei4 VOD
 http://f0448337.xsph.ru/Astik123/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/678941293518520331/744978929453891605/logo_IPnet.png",IPNetTV
+https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPNetTV.m3u
 
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",myott.top
@@ -59,110 +61,110 @@ https://cdn.discordapp.com/attachments/739385530558447639/739461208222203954/igr
 	   
 #--- Мультфильмы:#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",Мультфильмы новинки 
-http://f0448337.xsph.ru/playlist/M0.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/M0.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",Российские и Советские 
-http://f0448337.xsph.ru/playlist/M1.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/M1.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",Группы по жанрам 
-http://f0448337.xsph.ru/playlist/M2.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/M2.m3u
 #--- Мультсериалы:#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Мультсериалы новинки 
-http://f0448337.xsph.ru/playlist/MS0.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/MS0.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Российские мультсериалы 
-http://f0448337.xsph.ru/playlist/MS1.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/MS1.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Советские мультсериалы 
-http://f0448337.xsph.ru/playlist/MS2.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/MS2.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Зарубежные мультсериалы 
-http://f0448337.xsph.ru/playlist/MS3.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/MS3.m3u
 #--- Фильмы:#EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Новинки кино 
-http://f0448337.xsph.ru/playlist/F0.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/F0.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Группы по странам 
-http://f0448337.xsph.ru/playlist/F1.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/F1.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Группы по жанрам 
-http://f0448337.xsph.ru/playlist/F2.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/F2.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Группы по годам 
-http://f0448337.xsph.ru/playlist/F3.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/F3.m3u
 #--- Сериалы:#EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Biography-Movies.png",Биографические сериалы 
-http://f0448337.xsph.ru/playlist/FS0.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS0.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Action-Movies.png",Боевики 
-http://f0448337.xsph.ru/playlist/FS1.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS1.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/War-Movies.png",Военные сериалы 
-http://f0448337.xsph.ru/playlist/FS2.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS2.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Detective-Movies.png",Детективы 
-http://f0448337.xsph.ru/playlist/FS3.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS3.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Детские сериалы 
-http://f0448337.xsph.ru/playlist/FS4.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS4.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Documentaries.png",Документальные сериалы 
-http://f0448337.xsph.ru/playlist/FS5.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS5.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Drama-Movies.png",Драма 
-http://f0448337.xsph.ru/playlist/FS6.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS6.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Historic-Movies.png",Исторические сериалы 
-http://f0448337.xsph.ru/playlist/FS7.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS7.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Comedy-Movies.png",Комедии 
-http://f0448337.xsph.ru/playlist/FS8.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS8.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Crime-Movies.png",Криминал 
-http://f0448337.xsph.ru/playlist/FS9.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS9.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Romantic-Movies.png",Мелодрама 
-http://f0448337.xsph.ru/playlist/FS10.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS10.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Новинки 
-http://f0448337.xsph.ru/playlist/FS11.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS11.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Adventure-icon.png",Приключения 
-http://f0448337.xsph.ru/playlist/FS12.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS12.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-serials.png",Российские сериалы 
-http://f0448337.xsph.ru/playlist/FS13.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS13.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-serials.png",Советские сериалы 
-http://f0448337.xsph.ru/playlist/FS14.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS14.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Thriller-Movies.png",Триллеры 
-http://f0448337.xsph.ru/playlist/FS15.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS15.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Horror-Movies.png",Ужасы 
-http://f0448337.xsph.ru/playlist/FS16.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS16.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sci-Fi-Movies.png",Фантастика 
-http://f0448337.xsph.ru/playlist/FS17.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS17.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Fantasy-Movies.png",Фэнтези 
-http://f0448337.xsph.ru/playlist/FS18.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/FS18.m3u
 
 #--- Спорт:#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",Яндекс спорт 1
-http://f0448337.xsph.ru/playlist/Sport1.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Sport1.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",Яндекс спорт 2
-http://f0448337.xsph.ru/playlist/Sport2.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Sport2.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",Яндекс спорт 3
-http://f0448337.xsph.ru/playlist/Sport3.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Sport3.m3u
 
 #--- Музыка:#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (0-9-A-B)
-http://f0448337.xsph.ru/playlist/Muz0.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz0.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (C-D-E)
-http://f0448337.xsph.ru/playlist/Muz1.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz1.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (F-G-H)
-http://f0448337.xsph.ru/playlist/Muz2.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz2.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (I-J-K)
-http://f0448337.xsph.ru/playlist/Muz3.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz3.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (L-M-N)
-http://f0448337.xsph.ru/playlist/muz4.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/muz4.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (O-P-Q)
-http://f0448337.xsph.ru/playlist/Muz5.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz5.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (R-S-T)
-http://f0448337.xsph.ru/playlist/Muz6.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz6.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (U-V-W)
-http://f0448337.xsph.ru/playlist/Muz7.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz7.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (X-Y-Z)
-http://f0448337.xsph.ru/playlist/Muz8.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz8.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (А-Я)
-http://f0448337.xsph.ru/playlist/Muz9.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz9.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Жанры)
-http://f0448337.xsph.ru/playlist/Muz10.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz10.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Духовная)
-http://f0448337.xsph.ru/playlist/Muz11.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz11.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Иностранный рок)
-http://f0448337.xsph.ru/playlist/Muz12.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz12.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Иностранный рэп)
-http://f0448337.xsph.ru/playlist/Muz13.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz13.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Латиноамериканская)
-http://f0448337.xsph.ru/playlist/Muz14.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz14.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Танцевальная)
-http://f0448337.xsph.ru/playlist/Muz15.m3u
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/m3u/Muz15.m3u
 
 
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://karnei4.github.io/convert/BCUVHSHD.png",Virgin Radio
