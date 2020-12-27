@@ -1,0 +1,243 @@
+#EXTM3U m3uautoload=0
+#EXTINF:-1 tvg-logo="http://s1.iconbird.com/ico/2013/10/471/w256h2561383075027Filetypem3uicon.png",обновлен 22.11.2020г Сборка M3U-Karnei4
+https://ruvod.com/wp-content/uploads/2019/02/0CSsc2SA.mp4
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",IPTV-RU https://discord.gg/E7xAqsK
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.otzovik.com/objects/b/840000/833212.png",Супер Дискотека-90х
+http://online.radiorecord.ru:8102/sd90_128#.mp3
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",RT-TV VOD Proxy 127.0.0.1:7171
+https://karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
+
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=127.0.0.1:7171&id=20",Z proxy 127.0.0.1:7171
+#---https://cdn.discordapp.com/attachments/680895323228733495/760449553257594920/nFkHuNBLZZZZ.m3u
+#---https://dl.dropbox.com/s/nf7n05wumjaq6j2/nFkHuNBLZZZZ.m3u
+https://Karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy-127.0.0.1.m3u
+
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnytr.tv
+#---http://nasharu.tv/iptv/S6F1BA0906/m3u8/
+m3u+http://f0448337.xsph.ru/PLUGIN/Playlist-vnytrenniy.m3u
+
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnech.tv
+#---http://myott.top/playlist/36WPD8YMFS/m3u
+m3u+http://f0448337.xsph.ru/PLUGIN/Playlist-vnechka.m3u
+
+#---https://dl.dropbox.com/s/ubqpms6kvqquxu9/Z-playlist-22-10-2020.m3u
+#---https://cdn.discordapp.com/attachments/739790132932247655/765286323899596820/Z-playlist-12.10.2020.m3u
+#---https://cdn.discordapp.com/attachments/680895323228733495/753969857028030554/playlist-Z-11.09.2020.m3u
+#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava-FREE
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",Karnei4 VOD
+http://f0448337.xsph.ru/Astik123/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/678941293518520331/744978929453891605/logo_IPnet.png",IPNetTV
+https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPNetTV.m3u
+
+
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",myott.top
+m3u+http://myott.top/playlist/WR62LMZYHG/m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",KINOKRAD
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/kinokrad.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Megogo VOD
+https://cdn.discordapp.com/attachments/739385530558447639/739461860864032788/Megogo_VOD_1.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (СССР)
+https://cdn.discordapp.com/attachments/739385530558447639/739423172981424218/sssr.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (США)
+https://cdn.discordapp.com/attachments/739385530558447639/739459952699113502/ssha.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (США - Франция)
+https://cdn.discordapp.com/attachments/739385530558447639/739459974702432257/ssha_francija.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (Австралия)
+https://cdn.discordapp.com/attachments/739385530558447639/739459494995689522/avstralija.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (Великобритания)
+https://cdn.discordapp.com/attachments/739385530558447639/739460049180819516/velikobritanija.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (Франция)
+https://cdn.discordapp.com/attachments/739385530558447639/739459662352744448/francija.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Фильмы (Франция - Бельгия)
+https://cdn.discordapp.com/attachments/739385530558447639/739459607445110814/belgija_francija.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Documentaries.png",Документальные Фильмы
+https://cdn.discordapp.com/attachments/739385530558447639/739459628533940274/dokumentalnyj.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-serials.png",Сериалы
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/jandeks_serialy.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-tv.png",КВН
+https://cdn.discordapp.com/attachments/739385530558447639/739461208222203954/igra.m3u
+	   
+#--- Мультфильмы:#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",Мультфильмы новинки 
+http://f0448337.xsph.ru/playlist/M0.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",Российские и Советские 
+http://f0448337.xsph.ru/playlist/M1.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Animated-Movies.png",Группы по жанрам 
+http://f0448337.xsph.ru/playlist/M2.m3u
+#--- Мультсериалы:#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Мультсериалы новинки 
+http://f0448337.xsph.ru/playlist/MS0.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Российские мультсериалы 
+http://f0448337.xsph.ru/playlist/MS1.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Советские мультсериалы 
+http://f0448337.xsph.ru/playlist/MS2.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Зарубежные мультсериалы 
+http://f0448337.xsph.ru/playlist/MS3.m3u
+#--- Фильмы:#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Новинки кино 
+http://f0448337.xsph.ru/playlist/F0.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Группы по странам 
+http://f0448337.xsph.ru/playlist/F1.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Группы по жанрам 
+http://f0448337.xsph.ru/playlist/F2.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Группы по годам 
+http://f0448337.xsph.ru/playlist/F3.m3u
+#--- Сериалы:#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Biography-Movies.png",Биографические сериалы 
+http://f0448337.xsph.ru/playlist/FS0.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Action-Movies.png",Боевики 
+http://f0448337.xsph.ru/playlist/FS1.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/War-Movies.png",Военные сериалы 
+http://f0448337.xsph.ru/playlist/FS2.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Detective-Movies.png",Детективы 
+http://f0448337.xsph.ru/playlist/FS3.m3u
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png",Детские сериалы 
+http://f0448337.xsph.ru/playlist/FS4.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Documentaries.png",Документальные сериалы 
+http://f0448337.xsph.ru/playlist/FS5.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Drama-Movies.png",Драма 
+http://f0448337.xsph.ru/playlist/FS6.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Historic-Movies.png",Исторические сериалы 
+http://f0448337.xsph.ru/playlist/FS7.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Comedy-Movies.png",Комедии 
+http://f0448337.xsph.ru/playlist/FS8.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Crime-Movies.png",Криминал 
+http://f0448337.xsph.ru/playlist/FS9.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Romantic-Movies.png",Мелодрама 
+http://f0448337.xsph.ru/playlist/FS10.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Новинки 
+http://f0448337.xsph.ru/playlist/FS11.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Adventure-icon.png",Приключения 
+http://f0448337.xsph.ru/playlist/FS12.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-serials.png",Российские сериалы 
+http://f0448337.xsph.ru/playlist/FS13.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/movies-serials.png",Советские сериалы 
+http://f0448337.xsph.ru/playlist/FS14.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Thriller-Movies.png",Триллеры 
+http://f0448337.xsph.ru/playlist/FS15.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Horror-Movies.png",Ужасы 
+http://f0448337.xsph.ru/playlist/FS16.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sci-Fi-Movies.png",Фантастика 
+http://f0448337.xsph.ru/playlist/FS17.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Fantasy-Movies.png",Фэнтези 
+http://f0448337.xsph.ru/playlist/FS18.m3u
+
+#--- Спорт:#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",Яндекс спорт 1
+http://f0448337.xsph.ru/playlist/Sport1.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",Яндекс спорт 2
+http://f0448337.xsph.ru/playlist/Sport2.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Sports-Movies.png",Яндекс спорт 3
+http://f0448337.xsph.ru/playlist/Sport3.m3u
+
+#--- Музыка:#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (0-9-A-B)
+http://f0448337.xsph.ru/playlist/Muz0.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (C-D-E)
+http://f0448337.xsph.ru/playlist/Muz1.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (F-G-H)
+http://f0448337.xsph.ru/playlist/Muz2.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (I-J-K)
+http://f0448337.xsph.ru/playlist/Muz3.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (L-M-N)
+http://f0448337.xsph.ru/playlist/muz4.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (O-P-Q)
+http://f0448337.xsph.ru/playlist/Muz5.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (R-S-T)
+http://f0448337.xsph.ru/playlist/Muz6.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (U-V-W)
+http://f0448337.xsph.ru/playlist/Muz7.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (X-Y-Z)
+http://f0448337.xsph.ru/playlist/Muz8.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (А-Я)
+http://f0448337.xsph.ru/playlist/Muz9.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Жанры)
+http://f0448337.xsph.ru/playlist/Muz10.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Духовная)
+http://f0448337.xsph.ru/playlist/Muz11.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Иностранный рок)
+http://f0448337.xsph.ru/playlist/Muz12.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Иностранный рэп)
+http://f0448337.xsph.ru/playlist/Muz13.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Латиноамериканская)
+http://f0448337.xsph.ru/playlist/Muz14.m3u
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Musical-Movies.png",Яндекс музыка (Танцевальная)
+http://f0448337.xsph.ru/playlist/Muz15.m3u
+
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://karnei4.github.io/convert/BCUVHSHD.png",Virgin Radio
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EW)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by 4K
+http://rtmp.one.by:1499
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/1muz.png",One.by Россия HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Classic Rock
+http://ott-linear-channels.stingray.com/hls/mxplayer/101.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Rock Alternative  
+http://ott-linear-channels.stingray.com/hls/mxplayer/102.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Pop Adult        
+http://ott-linear-channels.stingray.com/hls/mxplayer/104.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Hit List    
+http://ott-linear-channels.stingray.com/hls/mxplayer/107.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Hot Country      
+http://ott-linear-channels.stingray.com/hls/mxplayer/108.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Flashback 70x
+http://ott-linear-channels.stingray.com/hls/mxplayer/115.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Remember The '80s 
+http://ott-linear-channels.stingray.com/hls/mxplayer/128.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Greatest Hits
+http://ott-linear-channels.stingray.com/hls/mxplayer/133.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Today's Latin Pop 
+http://ott-linear-channels.stingray.com/hls/mxplayer/190.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Karaoke     
+http://ott-linear-channels.stingray.com/hls/mxplayer/karaoke.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Karaoke 1920x1080
+https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8 
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/788791972215128115/stingray.png",Qello Concerts
+http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=222.236.226.110:7171&id=20",ЗАБАВА  TV (593 канала)
+m3u+http://222.236.226.110:7171/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=68.168.222.210:7171&id=20",ЗАБАВА  TV (593 канала)
+m3u+http://68.168.222.210:7171/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=193.34.79.137:7171&id=20",ЗАБАВА  TV (593 канала)
+m3u+http://193.34.79.137:7171/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=222.236.226.110:7373&id=20",(NEW)ЗАБАВА  TV (630 канала)
+m3u+http://222.236.226.110:7373/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=68.168.222.210:7373&id=20",(NEW)ЗАБАВА  TV (630 канала)
+m3u+http://68.168.222.210:7373/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=193.34.79.137:7373&id=20",(NEW)ЗАБАВА  TV (630 канала)
+m3u+http://193.34.79.137:7373/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",ЗАБАВА  Films
+m3u+http://222.236.226.110:7272/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",ЗАБАВА  Films
+m3u+http://68.168.222.210:7272/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=222.236.226.110:7474&id=20",Zabava без эротики (596 канала)
+m3u+http://222.236.226.110:7474/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=68.168.222.210:7474&id=20",Zabava без эротики (596 канала)
+m3u+http://68.168.222.210:7474/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=193.34.79.137:7474&id=20",Zabava без эротики (596 канала)
+m3u+http://193.34.79.137:7474/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=222.236.226.110:7575&id=20",Zabava с эротикой (595 канала)
+m3u+http://222.236.226.110:7575/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=68.168.222.210:7575&id=20",Zabava с эротикой (595 канала)
+m3u+http://68.168.222.210:7575/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=193.34.79.137:7575&id=20",Zabava с эротикой (595 канала)
+m3u+http://193.34.79.137:7575/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava Karnei4
+https://karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy.m3u
+
