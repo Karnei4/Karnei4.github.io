@@ -28,12 +28,7 @@ m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediace
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",Karnei4 VOD
 http://f0448337.xsph.ru/Astik123/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/678941293518520331/744978929453891605/logo_IPnet.png",IPNetTV
-https://cdn.discordapp.com/attachments/680895323228733495/744976873695477910/IPNetTV.m3u
 
-
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",myott.top
-m3u+http://myott.top/playlist/WR62LMZYHG/m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",KINOKRAD
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/kinokrad.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",Megogo VOD
