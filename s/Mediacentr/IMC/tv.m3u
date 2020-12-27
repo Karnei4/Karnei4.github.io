@@ -15,11 +15,11 @@ https://Karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy-127.0.0.1
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnytr.tv
 #---http://nasharu.tv/iptv/S6F1BA0906/m3u8/
-m3u+http://f0448337.xsph.ru/PLUGIN/Playlist-vnytrenniy.m3u
+m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/Playlist-vnytrenniy.m3u
 
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnech.tv
 #---http://myott.top/playlist/36WPD8YMFS/m3u
-m3u+http://f0448337.xsph.ru/PLUGIN/Playlist-vnechka.m3u
+m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/Playlist-vnechka.m3u
 
 #---https://dl.dropbox.com/s/ubqpms6kvqquxu9/Z-playlist-22-10-2020.m3u
 #---https://cdn.discordapp.com/attachments/739790132932247655/765286323899596820/Z-playlist-12.10.2020.m3u
