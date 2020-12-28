@@ -52,7 +52,7 @@ https://cdn.discordapp.com/attachments/739384288256196653/789182909995155456/2li
 #---https://cdn.discordapp.com/attachments/708000911158411285/789176077863616593/2list.tv.IMC.zip
 
 
-#EXTINF:-1 tvg-logo="",musica
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Musica
 http://www.m3u.cl/playlist/musica.m3u
 #EXTINF:-1 tvg-logo="",ipTv-format
 https://cdn.discordapp.com/attachments/708000911158411285/793193632805945344/ipTv-format.IMC.zip
