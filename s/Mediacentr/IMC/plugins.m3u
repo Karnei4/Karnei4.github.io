@@ -52,6 +52,10 @@ https://cdn.discordapp.com/attachments/739384288256196653/789182909995155456/2li
 #---https://cdn.discordapp.com/attachments/708000911158411285/789176077863616593/2list.tv.IMC.zip
 
 
+#EXTINF:-1 tvg-logo="",musica
+http://www.m3u.cl/playlist/musica.m3u
+#EXTINF:-1 tvg-logo="",ipTv-format
+https://cdn.discordapp.com/attachments/708000911158411285/793193632805945344/ipTv-format.IMC.zip
 #EXTINF:-1 tvg-logo="",Films1080
 https://dl.dropbox.com/s/jdyhjmds8dus0xw/Films1080.IMC.zip
 #EXTINF:-1 tvg-logo="",Kinoteatr.kg
