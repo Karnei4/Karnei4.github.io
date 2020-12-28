@@ -7,7 +7,7 @@
 <title><![CDATA[ПОИСКОВИКИ]]></title>
 <logo_30x30><![CDATA[http://s1.iconbird.com/ico/0512/Pleasant/file1337784276.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="http://www.sgau.ru/files/pages/9846/1413802750general_pages_20_October_2014_i9846_texnicheskii_sboi_v_seti_int.jpg" width = "400"/><p><h1><font color="yellow">СБОРНИК ПОИСКОВИКОВ:</font></h1><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Новая группа ВК старую заблокировали! t.me/Karnei4              https://vk.com/club191937709]]></description>
-<playlist_url><![CDATA[http://f0448337.xsph.ru/?do=/fml&id=55-poiskoviki]]></playlist_url>
+<playlist_url><![CDATA[https://mediacenter.fun/?do=/fml&id=5-poiskoviki&box_mac= ]]></playlist_url>
 <icon><![CDATA[http://s1.iconbird.com/ico/0512/Pleasant/file1337784276.png]]></icon>
 </channel>
 <channel>
@@ -35,7 +35,7 @@
 <title><![CDATA[<font color="yellow">Mediacentr</font><font color="lime"> «Karnei4»</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU:</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Новая группа ВК старую заблокировали! t.me/Karnei4              https://vk.com/club191937709]]></description>
-<playlist_url><![CDATA[http://f0448337.xsph.ru/]]></playlist_url>
+<playlist_url><![CDATA[https://mediacenter.fun/]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[<font color="red">Zabava-FREE-Karnei4</font>]]></title>
@@ -48,7 +48,69 @@
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/739471076798496819/Lime-HD-TV.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/s/png/fon-info2.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Новая группа ВК старую заблокировали! t.me/Karnei4              https://vk.com/club191937709]]></description>
 <playlist_url><![CDATA[http://nserv.host:5300/limehdtv]]></playlist_url>
-</channel> 
+</channel>
+     <title><![CDATA[Глобальный Поиск]]></title>
+    <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></logo_30x30>
+    <search_on><![CDATA[search_on]]></search_on>
+    <playlist_url><![CDATA[http://spiderxml.com/search/?search= ]]></playlist_url>
+    <imgsrc><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></imgsrc>
+  </channel>
+  <channel>
+    <title><![CDATA[Поиск в Spider XML]]></title>
+    <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></logo_30x30>
+    <search_on><![CDATA[search_on]]></search_on>
+    <playlist_url><![CDATA[http://spiderxml.com/search/?onlyxml=1&search= ]]></playlist_url>
+    <imgsrc><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></imgsrc>
+  </channel>
+  <channel>
+    <title><![CDATA[Топ Spider]]></title>
+    <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></logo_30x30>
+    <description><![CDATA[Топ Spider<br>URL: http://spiderxml.com/<br>]]></description>
+    <playlist_url><![CDATA[http://spiderxml.com/top?web=&w_lang=ru&appid=android-device&box_client=&box_mac=]]></playlist_url>
+    <infolink><![CDATA[http://spiderxml.com/]]></infolink>
+    <imgsrc><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></imgsrc>
+  </channel>
+  <channel>
+    <title><![CDATA[http://nserv.host:5300/search]]></title>
+    <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></logo_30x30>
+    <search_on><![CDATA[search_on]]></search_on>
+    <playlist_url><![CDATA[http://nserv.host:5300/search]]></playlist_url>
+    <imgsrc><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></imgsrc>
+  </channel>
+  <channel>
+    <title><![CDATA[SpiderHUB]]></title>
+    <imgsrc><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></imgsrc>
+    <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></logo_30x30>
+    <playlist_url><![CDATA[http://nserv.host:5300/spiderhub]]></playlist_url>
+  </channel>
+  <channel>
+    <title><![CDATA[Новинки кино]]></title>
+    <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></logo_30x30>
+    <playlist_url><![CDATA[http://nserv.host:5300/spiderhub/list?type=movie&year=2020]]></playlist_url>
+    <imgsrc><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></imgsrc>
+  </channel>
+  <channel>
+    <title><![CDATA[Поиск Фильма]]></title>
+    <imgsrc><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></imgsrc>
+    <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></logo_30x30>
+    <playlist_url><![CDATA[http://nserv.host:5300/search?type=series]]></playlist_url>
+    <search_on><![CDATA[search_on]]></search_on>
+  </channel>
+  <channel>
+    <title><![CDATA[animeweb]]></title>
+    <imgsrc><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></imgsrc>
+    <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></logo_30x30>
+    <playlist_url><![CDATA[http://nserv.host:5300/search?type=animeweb]]></playlist_url>
+    <search_on><![CDATA[search_on]]></search_on>
+  </channel>
+  <channel>
+    <title><![CDATA[Поиск OTTV.TK]]></title>
+    <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></logo_30x30>
+    <description><![CDATA[Поиск в ottv.tk по названию польз. ссылок <br> (можно вводить часть названия плейлиста)<br>URL: http://fork.ottv.tk/<br>]]></description>
+    <search_on><![CDATA[search_on]]></search_on>
+    <playlist_url><![CDATA[http://fork.ottv.tk/?do=/plugin&id=search&search= ]]></playlist_url>
+    <imgsrc><![CDATA[https://cdn.discordapp.com/attachments/739394193365139457/793017785177079808/search.png]]></imgsrc>
+  </channel>
 <channel>
 <title><![CDATA[<font color="red">Выход из виджета EXIT</font>]]></title>
 <logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
