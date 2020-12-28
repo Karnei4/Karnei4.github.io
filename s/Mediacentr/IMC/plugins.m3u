@@ -1,6 +1,7 @@
 #EXTM3U m3uautoload=0
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417815202791424/icon.png",ПОИСКОВИКИ
-https://cdn.discordapp.com/attachments/739385445930238053/773279568207413288/Karnei4-IPTV.IMC.zip
+https://cdn.discordapp.com/attachments/739385689283756052/793086701353959434/plugin.xspf
+#---https://cdn.discordapp.com/attachments/739385445930238053/773279568207413288/Karnei4-IPTV.IMC.zip
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739416566004711434/icon.png",ЧАТ
 https://cdn.discordapp.com/attachments/739384599171301407/790001867388092416/4at.IMC.zip
 
