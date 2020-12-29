@@ -1,766 +1,766 @@
 #EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Первый канал HD
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/131.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/131.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Россия HD
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/137.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/137.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ HD
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/134.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/134.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",НТВ Мир
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/223.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/223.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",5 канал (Россия)
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/103.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/103.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ HD
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/135.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/135.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС HD
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/138.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/138.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",СТС Love
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/183.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/183.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",РЕН ТВ
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/132.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/132.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Мир HD
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/77.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/77.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Мир Premium HD
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/66.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/66.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ОТР
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/61.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/61.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Звезда
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/140.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/140.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Перец International
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/121.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/121.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ3 Россия
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/136.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/136.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Пятница
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/181.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/181.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",RTVi
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/91.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/91.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Супер
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/269.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/269.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Домашний
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/227.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/227.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Культура
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/229.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/229.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",РТР Планета
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/224.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/224.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",8 канал
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/299.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/299.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Время
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/237.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/237.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Ностальгия
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/94.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/94.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Ю
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/230.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/230.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",2х2
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/187.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/187.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",World Fashion Channel
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/119.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/119.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТНТ4
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/106.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/106.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",КВН ТВ
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/222.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/222.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Сарафан
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/81.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/81.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",Вопросы и ответы
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/76.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/76.m3u8
 #EXTINF:-1 group-title="Общие",Первый канал (+2)
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/99.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/99.m3u8
 #EXTINF:-1 group-title="Общие",НТВ (+2)
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/98.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/98.m3u8
 #EXTINF:-1 group-title="Общие",ТНТ(+2)
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/97.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/97.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1(+2)
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/96.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/96.m3u8
 #EXTINF:-1 group-title="Общие",Первый канал HD(+4)
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/233.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/233.m3u8
 #EXTINF:-1 group-title="Общие" tvg-rec="7" timeshift="7",ТВ Центр
 #EXTGRP:Общие
-http://151.80.101.90/stream/36WPD8YMFS/190.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/190.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Украина HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/167.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/167.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ICTV HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/158.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/158.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Новый канал HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/157.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/157.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",СТБ HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/156.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/156.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Интер
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/174.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/174.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",1+1 HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/172.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/172.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",2+2
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/173.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/173.m3u8
 #EXTINF:-1 group-title="Зарубежные",К1
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/270.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/270.m3u8
 #EXTINF:-1 group-title="Зарубежные",К2
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/324.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/324.m3u8
 #EXTINF:-1 group-title="Зарубежные",НТН
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/326.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/326.m3u8
 #EXTINF:-1 group-title="Зарубежные",Zoom
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/327.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/327.m3u8
 #EXTINF:-1 group-title="Зарубежные",Квартал ТВ
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/321.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/321.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ОЦЕ HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/329.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/329.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ТЕТ
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/338.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/338.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ПлюсПлюс
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/339.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/339.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Бiгудi
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/340.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/340.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Уніан
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/341.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/341.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Iндиго HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/343.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/343.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",НЛО HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/344.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/344.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 9 HD (Израиль)
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/20.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/20.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 11 (Израиль)
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/293.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/293.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 12 (Израиль)
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/294.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/294.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Channel 13 (Израиль)
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/295.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/295.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ОНТ HD Беларусь
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/21.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/21.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",БелРос
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/63.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/63.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 1 HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/22.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/22.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",РТР Беларусь HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/23.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/23.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 2 HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/24.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/24.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Беларусь 3 HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/25.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/25.m3u8
 #EXTINF:-1 group-title="Зарубежные",Хабар
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/73.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/73.m3u8
 #EXTINF:-1 group-title="Зарубежные",Qazaqstan
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/71.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/71.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",КТК
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/26.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/26.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",7 канал (Казахстан)
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/27.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/27.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Астана ТВ
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/28.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/28.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Armenia TV
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/175.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/175.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Shant HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/37.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/37.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",ATV HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/36.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/36.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Armenia 1 TV
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/38.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/38.m3u8
 #EXTINF:-1 group-title="Зарубежные",Kentron HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/39.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/39.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LNK
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/30.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/30.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",BTV
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/35.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/35.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",TV3 LV
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/32.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/32.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",TV3 LT
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/29.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/29.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LRT
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/31.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/31.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",LTV1
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/34.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/34.m3u8
 #EXTINF:-1 group-title="Зарубежные",Jurnal TV HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/277.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/277.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Prime1 HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/335.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/335.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",Молдова 1 HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/336.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/336.m3u8
 #EXTINF:-1 group-title="Зарубежные" tvg-rec="7" timeshift="7",РТР Молдова HD
 #EXTGRP:Зарубежные
-http://151.80.101.90/stream/36WPD8YMFS/337.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/337.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Россия HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/177.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/177.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Science HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/146.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/146.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DTX HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/145.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/145.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Discovery Showcase HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/316.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/316.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",History Европа HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/113.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/113.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",H2 HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/65.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/65.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Investigation Discovery HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/205.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/205.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",TLC Россия HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/168.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/168.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",ЭВРИКА HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/212.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/212.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DocuBox
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/90.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/90.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",National Geographic HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/116.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/116.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Наука 2.0
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/125.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/125.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",24Техно
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/209.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/209.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Оружие
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/203.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/203.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Nat Geo Wild HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/149.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/149.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Animal Planet HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/114.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/114.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",В мире животных HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/241.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/241.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",RTД
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/197.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/197.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Мама
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/79.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/79.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Доктор
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/80.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/80.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Da Vinci
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/238.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/238.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Explore
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/239.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/239.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat Nature/History HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/240.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/240.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Viasat History
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/101.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/101.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",История
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/228.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/228.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",365 дней ТВ
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/70.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/70.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Моя планета
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/124.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/124.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Russian Travel Guide HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/164.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/164.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Приключения HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/198.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/198.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel channel HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/231.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/231.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Travel+Adventure HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/206.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/206.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Fine Living HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/273.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/273.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охота и рыбалка
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/155.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/155.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Охотник и рыболов HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/194.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/194.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Диалоги о рыбалке
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/264.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/264.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Охота HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/274.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/274.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Дикая Рыбалка HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/275.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/275.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Outdoor channel
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/211.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/211.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая природа HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/225.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/225.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Живая планета
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/83.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/83.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Кухня ТВ
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/179.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/179.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Еда Премиум HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/216.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/216.m3u8
 #EXTINF:-1 group-title="Познавательные",Food Network HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/298.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/298.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто24
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/78.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/78.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Авто Плюс
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/186.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/186.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",Морской
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/141.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/141.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",HDL HD
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/161.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/161.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",CBS Reality
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/314.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/314.m3u8
 #EXTINF:-1 group-title="Познавательные",Мега
 #EXTGRP:Познавательные
-http://151.80.101.90/stream/36WPD8YMFS/325.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/325.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопремьера HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/160.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/160.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Остросюжетное HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/214.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/214.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Премиальное HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/215.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/215.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/217.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/217.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наш Кинороман HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/213.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/213.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинокомедия
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/265.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/265.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносемья
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/170.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/170.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киносвидание
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/171.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/171.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинохит
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/126.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/126.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киномикс HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/133.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/133.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Наше новое кино
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/128.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/128.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Родное кино
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/242.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/242.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Индийское кино
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/104.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/104.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 East HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/110.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/110.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Action East HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/100.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/100.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",TV1000 Русское кино
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/123.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/123.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Premiere HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/202.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/202.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Megahit HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/200.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/200.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Comedy HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/201.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/201.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Serial HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/311.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/311.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Комедийное HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/74.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/74.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Premium HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/151.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/151.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia 1 HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/117.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/117.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Amedia Hit HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/162.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/162.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский роман
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/266.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/266.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский иллюзион
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/122.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/122.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский детектив
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/204.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/204.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русский бестселлер
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/208.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/208.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Русская комедия
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/68.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/68.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox Россия HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/182.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/182.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Fox Life Россия HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/129.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/129.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Turbo
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/263.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/263.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Channel HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/69.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/69.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Sony Sci-Fi
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/180.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/180.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",КиноТВ HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/221.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/221.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Кинопоказ HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/64.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/64.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Cinema
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/62.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/62.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НСТ
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/207.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/207.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Страшное HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/226.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/226.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ТВ XXI
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/152.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/152.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Paramount Comedy HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/196.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/196.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Paramount Сhannel HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/219.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/219.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мужское кино HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/107.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/107.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/236.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/236.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Дом Кино Премиум HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/108.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/108.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Hollywood HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/268.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/268.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",НТВ Сериал
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/301.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/301.m3u8
 #EXTINF:-1 group-title="Кино",Spike
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/304.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/304.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox Baltic
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/307.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/307.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox Arthouse
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/308.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/308.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Zee TV
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/309.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/309.m3u8
 #EXTINF:-1 group-title="Кино",Star Cinema HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/310.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/310.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Шокирующее HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/75.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/75.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Киноужас HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/278.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/278.m3u8
 #EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Победа HD
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/312.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/312.m3u8
 #EXTINF:-1 group-title="Кино",Enter-фильм
 #EXTGRP:Кино
-http://151.80.101.90/stream/36WPD8YMFS/322.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/322.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/176.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/176.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 2 HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/192.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/192.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport Gold HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/286.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/286.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Футбол 3 HD Украина
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/297.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/297.m3u8
 #EXTINF:-1 group-title="Спорт",Qazsport
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/72.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/72.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport Россия
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/102.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/102.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Extreme Sports
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/148.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/148.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 1 HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/234.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/234.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 2 HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/235.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/235.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Матч! Боец
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/112.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/112.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Бокс ТВ
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/154.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/154.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",КХЛ ТВ
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/166.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/166.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",КХЛ HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/178.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/178.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Русский экстрим HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/285.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/285.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Моторспорт ТВ
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/300.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/300.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",UFC ТВ HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/279.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/279.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",X Sport HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/332.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/332.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport HD
 #EXTGRP:Спорт
-http://151.80.101.90/stream/36WPD8YMFS/333.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/333.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Уникум
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/195.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/195.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon HD
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/127.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/127.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал Disney
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/118.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/118.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Карусель
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/120.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/120.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",TiJi Россия
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/111.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/111.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт HD
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/232.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/232.m3u8
 #EXTINF:-1 group-title="Детские",Мульт и музыка
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/82.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/82.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",JimJam
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/150.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/150.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoon network
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/144.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/144.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nick Jr
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/220.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/220.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",В гостях у сказки
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/93.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/93.m3u8
 #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал О!
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/60.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/60.m3u8
 #EXTINF:-1 group-title="Детские",Gulli Girl
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/305.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/305.m3u8
 #EXTINF:-1 group-title="Детские",Ani
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/306.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/306.m3u8
 #EXTINF:-1 group-title="Детские",Пиксель
 #EXTGRP:Детские
-http://151.80.101.90/stream/36WPD8YMFS/323.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/323.m3u8
 #EXTINF:-1 group-title="Музыкальные",Stingray iConcerts HD
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/267.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/267.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М1 HD
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/218.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/218.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М2 HD
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/330.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/330.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Deluxe HD
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/92.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/92.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Classic
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/272.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/272.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/318.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/318.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Hits
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/319.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/319.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Руский Хит
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/320.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/320.m3u8
 #EXTINF:-1 group-title="Музыкальные",Europa Plus TV
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/184.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/184.m3u8
 #EXTINF:-1 group-title="Музыкальные",MTV Dance
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/147.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/147.m3u8
 #EXTINF:-1 group-title="Музыкальные",MTV Россия
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/89.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/89.m3u8
 #EXTINF:-1 group-title="Музыкальные",MTV Rocks
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/88.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/88.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Первого
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/153.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/153.m3u8
 #EXTINF:-1 group-title="Музыкальные",VH1 Europe
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/165.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/165.m3u8
 #EXTINF:-1 group-title="Музыкальные",VH1 Classic
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/87.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/87.m3u8
 #EXTINF:-1 group-title="Музыкальные",Муз-ТВ
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/86.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/86.m3u8
 #EXTINF:-1 group-title="Музыкальные",RU.TV
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/109.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/109.m3u8
 #EXTINF:-1 group-title="Музыкальные",Mezzo Live HD
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/276.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/276.m3u8
 #EXTINF:-1 group-title="Музыкальные",Шансон ТВ
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/95.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/95.m3u8
 #EXTINF:-1 group-title="Музыкальные",Ля-минор ТВ
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/303.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/303.m3u8
 #EXTINF:-1 group-title="Музыкальные",THT MUSIC
 #EXTGRP:Музыкальные
-http://151.80.101.90/stream/36WPD8YMFS/317.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/317.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",РБК ТВ
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/105.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/105.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Россия 24
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/139.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/139.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",EuroNews
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/189.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/189.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",BBC World News Europe
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/85.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/85.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",CNN
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/84.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/84.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Москва-24
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/67.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/67.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",112 Украина HD
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/271.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/271.m3u8
 #EXTINF:-1 group-title="Новостные",Shant News
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/302.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/302.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Дождь HD
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/210.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/210.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Настоящее время
 #EXTGRP:Новостные
-http://151.80.101.90/stream/36WPD8YMFS/331.m3u8
+http://151.80.101.90/stream/S9EHGX3TJ3/331.m3u8
