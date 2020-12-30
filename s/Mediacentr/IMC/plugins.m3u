@@ -145,8 +145,7 @@ https://cdn.discordapp.com/attachments/716235283498008643/746721893750538310/565
 https://cdn.discordapp.com/attachments/716235283498008643/748427607825055805/glaz.IMC.zip
 #EXTINF:-1 tvg-logo="",LimeHD
 https://cdn.discordapp.com/attachments/318459620618141696/748861004581961779/LimeHD.IMC.zip
-#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",ЗАБАВА FREE
-https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
+
 
 #EXTINF:-1 tvg-logo="",PlayClip
 https://cdn.discordapp.com/attachments/708000911158411285/770753190244778014/playclip.IMC.zip
@@ -380,30 +379,69 @@ https://cdn.discordapp.com/attachments/765144965793710090/781847918159200256/Kun
 https://cdn.discordapp.com/attachments/765144965793710090/781848074254549012/Tom-Jerry.IMC.zip
 
 
+#EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",ЗАБАВА FREE
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",kinokrad
+https://cdn.discordapp.com/attachments/679261972138688512/741781756100739093/kinokrad.m3u
 #EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",oleg.cc.ua
 http://oleg.cc.ua/playlist_deooleg_tv_vip_muzykalnye_updated_yandextv_administrator_qazwsxed.wmw.m3u
 #EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",smarttvapp.ru
 https://smarttvapp.ru/app/iptvfull.m3u
-#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",webarmen.com
-https://webarmen.com/my/iptv/auto.nogrp.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",webhalpme.ru
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Webarmen
+https://webarmen.com/my/iptv/auto.all.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Webarmen Q
+https://webarmen.com/my/iptv/auto.nogrp.q.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",webhalpme.ru
 http://webhalpme.ru/donwhm.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",smarttvnews.ru 
-http://tinyurl.com//y5sndv67
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",p.denys.club
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",smarttvnews.ru 
+m3u+http://tinyurl.com//y5sndv67
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Smarttvnews
+https://smarttvnews.ru/apps/Channels.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",p.denys.club
 http://p.denys.club/b6/ip.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",getsapp.ru
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",getsapp.ru
 http://getsapp.ru/IPTV/Auto_IPTV.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",iptvm3u.ru
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",IPTV Forever
 https://iptvm3u.ru/list.m3u
-#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/720199838259740755/743113701577588836/photostudio_1592046374539_1.jpg",RO$TIK TV TEST
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",RO$TIK TV TEST
 https://dl.dropboxusercontent.com/s/bhz7633q036tw1p/RO$TIK_TV_TEST.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",rassvetpro.narod.ru
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",rassvetpro.narod.ru
 http://rassvetpro.narod.ru/boyantvnoxxx.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Korol
+https://korol.do.am/tv.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",STADION
+http://dl.dropbox.com/s/mvgo3uwr72nrcta/STADION.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Cinema HD
+https://webmaster.pp.ua/u/cinema-HD.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Denys club
+http://p.denys.club/b6/ip.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Dmitry-tv
+http://dmitry-tv.my1.ru/iptv/Playlist.auto.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Tvbox
+https://www.tvbox.one/iptv/playlist.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",IPTV M3U HD
+https://iptvm3u.ru/hdlist.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",IPTV M3U LIST
+https://iptvm3u.ru/list.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",ONE IPTV
+http://iptvm3u.ru/onelist.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Greatcrabs
+http://iptv-2020.do.am/Free.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Bluecrabs
+http://bluecrabstv.do.am/rutv.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",Docro
+http://tv6.docro.ru/wp-content/uploads/tv/all-free.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",IPTV Russia
+https://iptv-russia.ru/list/2020-12.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",IPTV Russia Music
+https://iptv-russia.ru/list/music.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",IPTV Russia Cinema
+https://iptv-russia.ru/list/cinematic.m3u
+#EXTINF:0 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",musica
+http://www.m3u.cl/playlist/musica.m3u
+
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",МУЗЫКА FlAC.m3u
 https://cdn.discordapp.com/attachments/680857473854341130/687229154806071308/Karnei4-M3U-flac.m3u
-
-
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",Enigma FlAC.m3u
 https://cdn.discordapp.com/attachments/739384599171301407/788791017289416714/Enigma-album-flac-audio_no_save_Karnei4.m3u
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/s/png/vinil_optimized.png",The Cranberries FlAC.m3u
