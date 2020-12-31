@@ -1,190 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 <background-image><![CDATA[https://karnei4.github.io/s/png/fon-info_optimized.jpg]]></background-image>
-<playlist_name><![CDATA[<font color="#00ccff">Сборка -</font><font color="yellow"> Karnei4 </font><font color="lime">IPTV-RU  </font><font color="lime">Discord: </font>https://discord.gg/E7xAqsK]]></playlist_name>
+<playlist_name><![CDATA[<font color="#00ccff">Сборка -</font><font color="yellow"> Karnei4 </font><font color="yellow">IPTV-RU  </font><font color="yellow">Discord: </font>https://discord.gg/E7xAqsK]]></playlist_name>
 <playlist_logo_30x30><![CDATA[https://vgif.ru/gifs/154/vgif-ru-24627.gif]]></playlist_logo_30x30>
 <channel>
-<title><![CDATA[<font color="lime">Фильмотека</font>]]></title>
+<title><![CDATA[<font color="yellow">Фильмотека</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Filmoteka.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Фантастика</font>]]></title>
+<title><![CDATA[<font color="yellow">Фантастика</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574810248871936/Sci-Fi-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Sci-Fi-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Фентези</font>]]></title>
+<title><![CDATA[<font color="yellow">Фентези</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574244160307320/Fantasy-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Fentasy.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Историческое</font>]]></title>
+<title><![CDATA[<font color="yellow">Историческое</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574332223914074/Historic-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Historic-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Боевики</font>]]></title>
+<title><![CDATA[<font color="yellow">Боевики</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731573501118382160/Action-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Action-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Ужасы</font>]]></title>
+<title><![CDATA[<font color="yellow">Ужасы</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574355536117782/Horror-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Horror-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Триллер</font>]]></title>
+<title><![CDATA[<font color="yellow">Триллер</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574866020401152/Thriller-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Thriller-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">На реальных событиях</font>]]></title>
+<title><![CDATA[<font color="yellow">На реальных событиях</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Na-Realnych-Sobitiach.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Романтичное</font>]]></title>
+<title><![CDATA[<font color="yellow">Романтичное</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574795447304313/Romantic-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Romantic-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Комедия</font>]]></title>
+<title><![CDATA[<font color="yellow">Комедия</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731573854023057479/Comedy-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Comedy-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Документальное</font>]]></title>
+<title><![CDATA[<font color="yellow">Документальное</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574101638119434/Documentaries.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Documentaries.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Драма</font>]]></title>
+<title><![CDATA[<font color="yellow">Драма</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574185243049994/Drama-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Drama-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">3D</font>]]></title>
+<title><![CDATA[<font color="yellow">3D</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/3D.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Сериалы</font>]]></title>
+<title><![CDATA[<font color="yellow">Сериалы</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574553947537430/movies-serials.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/movies-serials.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Дубляж</font>]]></title>
+<title><![CDATA[<font color="yellow">Дубляж</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574624214843522/perevod-movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/perevod-movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">СССР</font>]]></title>
+<title><![CDATA[<font color="yellow">СССР</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/VIDEOSALON-VHS-USSR.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Семейные</font>]]></title>
+<title><![CDATA[<font color="yellow">Семейные</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574224879353926/Family-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Family-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Детский Клуб</font>]]></title>
+<title><![CDATA[<font color="yellow">Детский Клуб</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Family-klub-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Мультфильмы</font>]]></title>
+<title><![CDATA[<font color="yellow">Мультфильмы</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731573662620319775/Animated-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Animated-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Мультсериалы</font>]]></title>
+<title><![CDATA[<font color="yellow">Мультсериалы</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731573597759471636/Animated.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Animated-serial.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Vip-Play</font>]]></title>
+<title><![CDATA[<font color="yellow">Vip-Play</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574778762100826/rating.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Vip-Play-imbd.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Kino-man</font>]]></title>
+<title><![CDATA[<font color="yellow">Kino-man</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574778762100826/rating.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/kino-man.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">More.tv</font>]]></title>
+<title><![CDATA[<font color="yellow">More.tv</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574778762100826/rating.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/More.tv.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">AMEDIATEKA</font>]]></title>
+<title><![CDATA[<font color="yellow">AMEDIATEKA</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574778762100826/rating.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/AMEDIATEKA.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Shot-TV</font>]]></title>
+<title><![CDATA[<font color="yellow">Shot-TV</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Shot-TV-Random-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Концерты</font>]]></title>
+<title><![CDATA[<font color="yellow">Концерты</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574595546644500/Musical-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Musical-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">UFC Sports</font>]]></title>
+<title><![CDATA[<font color="yellow">UFC Sports</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574845879615619/Sports-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/UFC-Sports-Movies.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">English Club</font>]]></title>
+<title><![CDATA[<font color="yellow">English Club</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574570188013730/movies-tv.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/English-Club.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Женский мир</font>]]></title>
+<title><![CDATA[<font color="yellow">Женский мир</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574570188013730/movies-tv.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Girl-mir-tv.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">Лицей</font>]]></title>
+<title><![CDATA[<font color="yellow">Лицей</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574570188013730/movies-tv.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/Licey-movies-tv.m3u]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[<font color="lime">18+</font>]]></title>
+<title><![CDATA[<font color="yellow">18+</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/731573283446587445/731574732935135312/Random-Movies.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Z-Proxy-m3u/18-plus.m3u]]></playlist_url>
