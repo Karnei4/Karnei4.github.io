@@ -51,6 +51,8 @@ https://topplay.do.am/RadioTopPlay.m3u
 https://cdn.discordapp.com/attachments/739384288256196653/789182909995155456/2list.tv.IMC.zip
 #---https://cdn.discordapp.com/attachments/708000911158411285/789176077863616593/2list.tv.IMC.zip
 
+#EXTINF:-1 tvg-logo="",Клипы
+https://cdn.discordapp.com/attachments/708000911158411285/794494411312070677/youix.IMC.zip
 #EXTINF:-1 tvg-logo="",HD-Film
 https://cdn.discordapp.com/attachments/708000911158411285/794196932868177940/HD-Film.IMC.zip
 #EXTINF:-1 tvg-logo="",IPTV
