@@ -13,13 +13,13 @@ https://karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Moves-Catigories-IPTV-RU_Disc
 #---https://dl.dropbox.com/s/nf7n05wumjaq6j2/nFkHuNBLZZZZ.m3u
 https://Karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy-127.0.0.1.m3u
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnytr.tv
+#---EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnytr.tv
 #---http://nasharu.tv/iptv/S6F1BA0906/m3u8/
-m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/Playlist-vnytrenniy.m3u
+#---m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/Playlist-vnytrenniy.m3u
 
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnech.tv
+#---EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnech.tv
 #---http://myott.top/playlist/36WPD8YMFS/m3u
-m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/Playlist-vnechka.m3u
+#---m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/Playlist-vnechka.m3u
 
 #---https://dl.dropbox.com/s/ubqpms6kvqquxu9/Z-playlist-22-10-2020.m3u
 #---https://cdn.discordapp.com/attachments/739790132932247655/765286323899596820/Z-playlist-12.10.2020.m3u
@@ -202,36 +202,6 @@ https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
 http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=222.236.226.110:7171&id=20",ЗАБАВА  TV (593 канала)
-m3u+http://222.236.226.110:7171/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=68.168.222.210:7171&id=20",ЗАБАВА  TV (593 канала)
-m3u+http://68.168.222.210:7171/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=193.34.79.137:7171&id=20",ЗАБАВА  TV (593 канала)
-m3u+http://193.34.79.137:7171/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=222.236.226.110:7373&id=20",(NEW)ЗАБАВА  TV (630 канала)
-m3u+http://222.236.226.110:7373/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=68.168.222.210:7373&id=20",(NEW)ЗАБАВА  TV (630 канала)
-m3u+http://68.168.222.210:7373/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=193.34.79.137:7373&id=20",(NEW)ЗАБАВА  TV (630 канала)
-m3u+http://193.34.79.137:7373/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",ЗАБАВА  Films
-m3u+http://222.236.226.110:7272/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",ЗАБАВА  Films
-m3u+http://68.168.222.210:7272/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=222.236.226.110:7474&id=20",Zabava без эротики (596 канала)
-m3u+http://222.236.226.110:7474/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=68.168.222.210:7474&id=20",Zabava без эротики (596 канала)
-m3u+http://68.168.222.210:7474/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=193.34.79.137:7474&id=20",Zabava без эротики (596 канала)
-m3u+http://193.34.79.137:7474/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=222.236.226.110:7575&id=20",Zabava с эротикой (595 канала)
-m3u+http://222.236.226.110:7575/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=68.168.222.210:7575&id=20",Zabava с эротикой (595 канала)
-m3u+http://68.168.222.210:7575/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=193.34.79.137:7575&id=20",Zabava с эротикой (595 канала)
-m3u+http://193.34.79.137:7575/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava Karnei4
 https://karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy.m3u
