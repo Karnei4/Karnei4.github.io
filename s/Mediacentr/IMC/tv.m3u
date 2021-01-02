@@ -14,9 +14,9 @@ https://karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Moves-Catigories-IPTV-RU_Disc
 https://Karnei4.github.io/s/Mediacentr/Z-playlist-12.10.2020-dom-proxy-127.0.0.1.m3u
 
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=45.137.155.62:9573&id=20",RT-TV
-https://cdn.discordapp.com/attachments/739790132932247655/795059842649030676/playlist_2.m3u8
+m3u+https://cdn.discordapp.com/attachments/739790132932247655/795059842649030676/playlist_2.m3u8
 #EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=45.132.107.73:42356&id=20",RT-TV
-https://cdn.discordapp.com/attachments/739790132932247655/795060382757683246/playlist_2.m3u8
+m3u+https://cdn.discordapp.com/attachments/739790132932247655/795060382757683246/playlist_2.m3u8
 #---EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",vnytr.tv
 #---http://nasharu.tv/iptv/S6F1BA0906/m3u8/
 #---m3u+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/IMC/Playlist-vnytrenniy.m3u
