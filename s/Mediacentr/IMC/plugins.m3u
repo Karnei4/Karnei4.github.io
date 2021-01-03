@@ -51,6 +51,8 @@ https://topplay.do.am/RadioTopPlay.m3u
 https://cdn.discordapp.com/attachments/739384288256196653/789182909995155456/2list.tv.IMC.zip
 #---https://cdn.discordapp.com/attachments/708000911158411285/789176077863616593/2list.tv.IMC.zip
 
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/772197090511945778/795410472643067924/icon.png",Kinoprofi
+https://cdn.discordapp.com/attachments/772197090511945778/795409599988891688/Kinobase.xspf
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417445135024180/icon.png",HDrezka
 https://cdn.discordapp.com/attachments/756150968873254982/795268216494489610/HDrezka.xspf
 #EXTINF:-1 tvg-logo="",TOPCINEMA.TV
@@ -93,8 +95,6 @@ https://karnei4.github.io/s/Mediacentr/Z-Proxy-m3u/Moves-Catigories-IPTV-RU_Disc
 https://cdn.discordapp.com/attachments/716235283498008643/775985989139169281/EraDoks.IMC.zip
 #EXTINF:-1 tvg-logo="",HD Rezka
 https://cdn.discordapp.com/attachments/739384599171301407/780154076649750538/HD-Rezka.IMC.zip
-#EXTINF:-1 tvg-logo="",KINOPROFI
-https://cdn.discordapp.com/attachments/739384599171301407/773809535013355540/Kinoprofi.IMC.zip
 #EXTINF:-1 tvg-logo="",Kinoprofi
 https://cdn.discordapp.com/attachments/739384599171301407/739546619883815103/Kinoprofi.IMC.zip
 #EXTINF:-1 tvg-logo="",Sesonvar.IMC.zip
