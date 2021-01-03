@@ -51,6 +51,8 @@ https://topplay.do.am/RadioTopPlay.m3u
 https://cdn.discordapp.com/attachments/739384288256196653/789182909995155456/2list.tv.IMC.zip
 #---https://cdn.discordapp.com/attachments/708000911158411285/789176077863616593/2list.tv.IMC.zip
 
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417445135024180/icon.png",HDrezka
+https://cdn.discordapp.com/attachments/772197090511945778/795266511531016192/HDrezka.xspf
 #EXTINF:-1 tvg-logo="",Клипы
 https://cdn.discordapp.com/attachments/708000911158411285/794494411312070677/youix.IMC.zip
 #EXTINF:-1 tvg-logo="",HD-Film
@@ -297,8 +299,7 @@ https://cdn.discordapp.com/attachments/739384599171301407/788769261497614366/HDk
 #EXTINF:-1 tvg-logo="",OctopuS
 https://cdn.discordapp.com/attachments/739384599171301407/788769485426655302/Octopus.IMC.zip
 #---https://dl.dropbox.com/s/4so48avfkwgvtct/Octopus.IMC.zip
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739394193365139457/739417445135024180/icon.png",HDrezka
-https://cdn.discordapp.com/attachments/739384599171301407/739492498283692162/HDrezka.IMC.zip
+
 
 #EXTINF:-1 tvg-logo="",FilmUA.IMC.zip
 https://cdn.discordapp.com/attachments/716235283498008643/730798849895170180/FilmUA.IMC.zip
