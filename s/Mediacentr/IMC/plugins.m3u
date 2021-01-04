@@ -45,7 +45,7 @@ https://cdn.discordapp.com/attachments/739384599171301407/739529667178004610/esp
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/739436784303210537/Folder-Music-icon.png",Radio TopPlay
 https://topplay.do.am/RadioTopPlay.m3u
 
-#---EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",TV (Test)
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/731573283446587445/788790056303329370/Refresh.png",TV (Test)
 https://cdn.discordapp.com/attachments/679261972138688512/795561767237451804/tricolor_tv_onlayn.m3u
 #---EXTINF:-1 tvg-logo="",Playlist IPTV
 #---https://cdn.discordapp.com/attachments/739384288256196653/789156675247931452/playlist.tv.IMC.zip
