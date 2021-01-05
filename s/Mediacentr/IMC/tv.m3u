@@ -30,8 +30,8 @@ m3u+https://cdn.discordapp.com/attachments/739790132932247655/795060382757683246
 #---https://cdn.discordapp.com/attachments/680895323228733495/753969857028030554/playlist-Z-11.09.2020.m3u
 #EXTINF:-1 tvg-logo="https://static.alpha-ag.ru/uploads/icons/com.rostelecom.zabava_gp.png",Zabava-FREE
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",Karnei4 VOD
-http://f0448337.xsph.ru/Astik123/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
+#---EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png",Karnei4 VOD
+#---http://f0448337.xsph.ru/Astik123/Moves-Catigories-IPTV-RU_Discord_Created-Playlist-Karnei4_no_save_1.m3u
 
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Random-Movies.png",VOD
 https://mediacenter.fun/playlist/VOD-More.TV.m3u
