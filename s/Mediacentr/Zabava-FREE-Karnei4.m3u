@@ -3567,3 +3567,21 @@ http://194.116.150.47:1935/vxtv/live_360p/chunklist_w543388767.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vv3rLY/visit-x-tv-720.png",Visit-X TV HD 720
 #EXTGRP:Для взрослых
 http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K02F5WY/ast1.png",AST TV 1
+#EXTGRP:Для взрослых
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVXXRDz/ast2.png",AST TV 2
+#EXTGRP:Для взрослых
+https://www.ast.tv/stream/2/cellular.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0MWwBqS/ast1-720.png",AST TV 1 HD 720
+#EXTGRP:Для взрослых
+https://www.ast.tv/stream/1/high.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6tCY7ph/ast2-720.png",AST TV 2 HD 720
+#EXTGRP:Для взрослых
+https://www.ast.tv/stream/2/high.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCxhXtd/ast1-1080.png",AST TV 1 HD
+#EXTGRP:Для взрослых
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6t6k93/ast2-1080.png",AST TV 2 HD
+#EXTGRP:Для взрослых
+https://www.ast.tv/stream/2/ultra.m3u8
