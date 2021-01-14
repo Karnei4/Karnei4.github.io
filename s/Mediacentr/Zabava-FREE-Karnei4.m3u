@@ -694,6 +694,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offse
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/russia_k.png",Россия К -16ч
 #EXTGRP:Центральные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 tvg-logo="http://immo.date/logo/gags-network.png",Gags Network HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/variant.m3u8
+#EXTINF:-1 tvg-logo="http://immo.date/logo/zal-suda.png",Зал суда HD
+#EXTGRP:Развлекательные
+#EXTVLCOPT:http-user-agent=Lavf/58.29.100
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png",2x2
 #EXTGRP:Развлекательные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
