@@ -38,10 +38,10 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/Films-FREE-Karnei4.m3u]]></playlist_url>
 </channel> 
 <channel>
-<title><![CDATA[<font color="yellow">VOD-Zabava</font><font color="lime"> «Karnei4»</font>]]></title>
-<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739384599171301407/774563023343321098/Wink.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/zmp.xml]]></playlist_url>
+<title><![CDATA[<font color="yellow">mediacenter.fun</font><font color="lime"> «Karnei4»</font>]]></title>
+<logo_30x30><![CDATA[https://mediacenter.fun/uploads/icons/logo.png]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://mediacenter.fun/uploads/icons/logo.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Для просмотра нужен запущенный ZMP Proxy Server с IP: 127.0.0.1:7171 На вашем устройстве!]]></description>
+<playlist_url><![CDATA[https://mediacenter.fun/]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[<font color="yellow">Zabava-FREE</font><font color="lime"> «Karnei4»</font>]]></title>
