@@ -42,13 +42,7 @@
 <logo_30x30><![CDATA[https://mediacenter.fun/uploads/icons/logo.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://mediacenter.fun/uploads/icons/logo.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>]]></description>
 <playlist_url><![CDATA[https://mediacenter.fun/]]></playlist_url>
-</channel>
-<channel>
-<title><![CDATA[<font color="yellow">Фильмы</font><font color="lime"> «Karnei4»</font>]]></title>
-<logo_30x30><![CDATA[https://karnei4.github.io/PNG/Random-Movies.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://karnei4.github.io/PNG/Random-Movies.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Новая группа ВК старую заблокировали! t.me/Karnei4              https://vk.com/club191937709]]></description>
-<playlist_url><![CDATA[https://mediacenter.fun/m3uxmlplaylists/hdru.net.m3u]]></playlist_url>
-</channel>  
+</channel> 
 <channel>
 <title><![CDATA[<font color="red">Выход из виджета EXIT</font>]]></title>
 <logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
