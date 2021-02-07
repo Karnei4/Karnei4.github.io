@@ -47,7 +47,7 @@
 <title><![CDATA[<font color="yellow">ottv.tk</font>]]></title>
 <logo_30x30><![CDATA[http://ottv.tk/public/media/logo-light.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="http://ottv.tk/public/media/logo-light.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>]]></description>
-<playlist_url><![CDATA[http://ottv.tk/public/plst/plstfb/playlist.php?ss#XML]]></playlist_url>
+<playlist_url><![CDATA[http://ottv.tk/public/plst/plstfb/playlist.php?ott#XML]]></playlist_url>
 </channel> 
 <title><![CDATA[<font color="red">Выход из виджета EXIT</font>]]></title>
 <logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
