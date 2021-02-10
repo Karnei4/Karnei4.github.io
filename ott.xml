@@ -18,6 +18,12 @@
 <icon><![CDATA[http://nserv.host/logo/nserv.png]]></icon>
 </channel>
 <channel>
+<title><![CDATA[<font color="yellow">vPlay</font>]]></title>
+<logo_30x30><![CDATA[http://cdn.vplay.one/fork/logo.png]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="http://cdn.vplay.one/fork/logo.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>]]></description>
+<playlist_url><![CDATA[https://mediacenter.fun/?do=/fml&id=63-vplay]]></playlist_url>
+</channel>  
+<channel>
 <title><![CDATA[Cool.TV]]></title>
 <logo_30x30><![CDATA[https://s1.iconbird.com/ico/2014/1/584/w512h5121389898698TV.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png" width = "500"/><p><h1><font color="yellow">Discord ЧАТ IPTV-RU:</font></h1><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>Created by Karnei4: https://vk.com/club191937709]]></description>
@@ -42,12 +48,6 @@
 <logo_30x30><![CDATA[https://mediacenter.fun/uploads/icons/logo.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://mediacenter.fun/uploads/icons/logo.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>]]></description>
 <playlist_url><![CDATA[https://mediacenter.fun/]]></playlist_url>
-</channel>
-<channel>
-<title><![CDATA[<font color="yellow">vPlay</font>]]></title>
-<logo_30x30><![CDATA[http://cdn.vplay.one/fork/logo.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="http://cdn.vplay.one/fork/logo.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/E7xAqsK</font></h2><p><hr>]]></description>
-<playlist_url><![CDATA[http://ott.vplay.one/#.XML]]></playlist_url>
 </channel>
 <channel> 
 <title><![CDATA[<font color="red">Выход из виджета EXIT</font>]]></title>
