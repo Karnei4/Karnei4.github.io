@@ -1,8 +1,0 @@
-<div style="clear:both;width:800px;margin-top:15px;background-image:{B-IMG};"> 
-	<img src="{ICON}" style="float:left;width:60; height:40px;" /> {TITLE}
-	<div style="float:right;"> Автор: {AUTHOR} {EDIT}</div> 
-	<div style="padding-top:7px;font-size:85%;">{CATEGORY} <div style="float:right;">Дата: {DATE}</div></div>
-	<br>{DESCRIPTION}
-	<div style="padding-top:10px;">{CONTENT}</div>
-	<div style="padding-top:7px;font-size:85%;">Просмотров: {VIEW}</div>
-</div>
