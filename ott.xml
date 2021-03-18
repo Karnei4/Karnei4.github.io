@@ -38,10 +38,10 @@
 <icon><![CDATA[https://pbs.twimg.com/profile_images/865986461698543616/yFrsIulg.jpg]]></icon>
 </channel>
 <channel>
-<title><![CDATA[<font color="white">MINI</font><font color="red">MAX</font>]]></title>
-<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739385445930238053/815940864362545222/photo_2021-03-01_15-37-27.jpg]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739385445930238053/815940864362545222/photo_2021-03-01_15-37-27.jpg" width = "500"/><p><h2><font color="white">MINI</font><font color="red">MAX</font></h2><p><h2><font color="yellow"> ИНСТРУКЦИИ ДЛЯ ПОДКЛЮЧЕНИЯ ПОРТАЛА</font></h2><p><hr>Можно получить в Telegram                  https://t.me/minimax_portal]]></description>
-<playlist_url><![CDATA[http://minimax-tv.ru/start.xml#.XML]]></playlist_url>
+<title><![CDATA[<font color="yellow">mediacenter.fun</font><font color="lime"> «Karnei4»</font>]]></title>
+<logo_30x30><![CDATA[https://mediacenter.fun/uploads/icons/logo.png]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://mediacenter.fun/uploads/icons/logo.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/WhAZMkXeX6</font></h2><p><hr>]]></description>
+<playlist_url><![CDATA[https://mediacenter.fun/]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[<font color="yellow">Сборка фильмов</font><font color="lime"> «Karnei4»</font>]]></title>
@@ -49,18 +49,24 @@
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739394193365139457/739485188647551056/Portal.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/WhAZMkXeX6</font></h2><p><hr>Новая группа ВК старую заблокировали! t.me/Karnei4              https://vk.com/club191937709]]></description>
 <playlist_url><![CDATA[https://mediacenter.fun/1/Karnei4.php]]></playlist_url>
 </channel>
- <channel>
-<title><![CDATA[<font color="yellow">Сборка фильмов</font><font color="lime"> «Kinoprofi»</font>]]></title>
+<channel>
+<title><![CDATA[<font color="yellow">Сборка фильмов</font><font color="red"> «Kinoprofi»</font>]]></title>
 <logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/821433902077968423/822089328489922580/Kinobase.png]]></logo_30x30>
 <description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/821433902077968423/822089328489922580/Kinobase.pngg" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/WhAZMkXeX6</font></h2><p><hr>Новая группа ВК старую заблокировали! t.me/Karnei4              https://vk.com/club191937709]]></description>
 <playlist_url><![CDATA[https://mediacenter.fun/1/Kinoprofi.php]]></playlist_url>
-</channel> 
-<channel>
-<title><![CDATA[<font color="yellow">mediacenter.fun</font><font color="lime"> «Karnei4»</font>]]></title>
-<logo_30x30><![CDATA[https://mediacenter.fun/uploads/icons/logo.png]]></logo_30x30>
-<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://mediacenter.fun/uploads/icons/logo.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/WhAZMkXeX6</font></h2><p><hr>]]></description>
-<playlist_url><![CDATA[https://mediacenter.fun/]]></playlist_url>
 </channel>
+<channel>
+<title><![CDATA[<font color="yellow">Сборка фильмов</font><font color="red"> «Megogo»</font>]]></title>
+<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/822101742987640862/822102165471756288/8.png]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/822101742987640862/822102165471756288/8.png" width = "500"/><p><h2><font color="yellow">Discord ЧАТ IPTV-RU</font></h2><p><h2><font color="yellow"> https://discord.gg/WhAZMkXeX6</font></h2><p><hr>Новая группа ВК старую заблокировали! t.me/Karnei4              https://vk.com/club191937709]]></description>
+<playlist_url><![CDATA[https://mediacenter.fun/1/Megogo.php]]></playlist_url>
+</channel>
+<channel>
+<title><![CDATA[<font color="white">MINI</font><font color="red">MAX</font>]]></title>
+<logo_30x30><![CDATA[https://cdn.discordapp.com/attachments/739385445930238053/815940864362545222/photo_2021-03-01_15-37-27.jpg]]></logo_30x30>
+<description><![CDATA[<center><p><h2><font color="blue">Информация:</font></h2><p><img src="https://cdn.discordapp.com/attachments/739385445930238053/815940864362545222/photo_2021-03-01_15-37-27.jpg" width = "500"/><p><h2><font color="white">MINI</font><font color="red">MAX</font></h2><p><h2><font color="yellow"> ИНСТРУКЦИИ ДЛЯ ПОДКЛЮЧЕНИЯ ПОРТАЛА</font></h2><p><hr>Можно получить в Telegram                  https://t.me/minimax_portal]]></description>
+<playlist_url><![CDATA[http://minimax-tv.ru/start.xml#.XML]]></playlist_url>
+ </channel> 
 <channel> 
 <title><![CDATA[<font color="red">Выход из виджета EXIT</font>]]></title>
 <logo_30x30><![CDATA[https://Karnei4.github.io/s/png/exit.gif]]></logo_30x30>
