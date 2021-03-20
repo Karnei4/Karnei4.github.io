@@ -1,9 +1,7 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/706114419045695558/1_sleep_timer_turn_music_off_w176.png",RELAX
-#EXTGRP:Центральные
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",IPTV-RU https://discord.gg/E7xAqsK
-#EXTGRP:Центральные
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",https://discord.gg/RBy3TKzKAR
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rentv",РЕН ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
@@ -20,55 +18,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные" tvg-id="rentv-pl7",РЕН ТВ (+7)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8
-
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -1ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -2ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -3ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -4ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -5ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-18000
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -6ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -7ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-25200
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -8ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -9ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-32400
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -10ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -11ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-39600
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -12ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-43200
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -13ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-46800
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -14ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-50400
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -15ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-57600
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://iptvx.one/icn/rentv.png",РЕН ТВ -16ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-61200
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="2na2",2x2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8
@@ -81,54 +30,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные" tvg-id="2na2-pl7",2x2 (+7)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -1ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -2ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -3ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -4ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -5ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-18000
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -6ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -7ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-25200
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -8ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -9ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-32400
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -10ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -11ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-39600
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -12ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-43200
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -13ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-46800
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -14ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-50400
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -15ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-57600
-#EXTINF:-1 group-title="Развлекательные"  tvg-logo="http://epg.it999.ru/img/323.png",2x2 -16ч
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-61200
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="pervy",Первый канал
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8
