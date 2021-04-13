@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/706114419045695558/1_sleep_timer_turn_music_off_w176.png",RELAX
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",https://discord.gg/RBy3TKzKAR
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOYUMORFM/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные" tvg-id="rentv",РЕН ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/bw2000000/variant.m3u8
