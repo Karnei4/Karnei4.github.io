@@ -313,7 +313,30 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/bw2000000/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыкальные" tvg-id="9volna",9 Волна
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_CHERKS_9VOLNA-CHRK/variant.m3u8
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"  group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324755241.png" tvg-name="comedy-radio",Comedy Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOCOMEDY/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"  group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324511441.png" tvg-name="no_epg_music",Relax FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIORELAXFM/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"  group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324309638.png" tvg-name="avtoradio",Авторадио
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOAUTORADIO/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"  group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1605520530316.png" tvg-name="no_epg_music",Радио Disney
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODISNEY/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"  group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324622005.png" tvg-name="no_epg_music",Детское радио
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODETSKOE/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"  group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324278374.png" tvg-name="radio-energy",Радио Energy
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOENERGY/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"  group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324339855.png" tvg-name="radio-romantika",Радио Romantika
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOROMANTIKA/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"  group-title="Радио" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1601324382563.png" tvg-name="yumor-fm",Юмор FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOYUMORFM/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские" tvg-id="disney",Канал Disney
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8
