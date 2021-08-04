@@ -1981,6 +1981,27 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Video-kaseta.png" group-title="Клипы",Ritsa HD
 https://live.prd.dlive.tv/hls/live/fila007.m3u8
 
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2021/6/24/s03d6f32a7abctc21r56v.jpg",Rammstein: Живое выступление на Madison Square Garden 2015 Германия Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/40242-rammstein-zhivoe-vystuplenie-na-madison-square-garden-2015.html&q=[1080p%20Ultra]
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2021/6/24/uccb50aa22930yu22e78q.jpg",Rammstein: Живое выступление в Берлине 1999 Германия Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/40243-rammstein-zhivoe-vystuplenie-v-berline-1999.html&q=[1080p]
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2021/6/24/o864f36695b20bz30p87u.jpg",Rammstein: Париж 2016 Великобритания Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/40241-rammstein-parizh-2016.html&q=[1080p%20Ultra]
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2016/4/8/mdbc836915a5ebv14b53h.jpg",Rammstein in Amerika 2015 Германия Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/12719-rammstein-in-amerika-2015.html&q=[1080p%20Ultra]
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2021/6/23/q1caa26e3f342dm12k85k.jpg",Lindemann: Live in Moscow 2021 Германия Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/40216-lindemann-live-in-moscow-2021.html&q=[1080p%20Ultra]
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2016/11/3/lc5e028ae3a3dan65a23y.jpg",The Doors: Концерт в Hollywood Bowl (1968) 2012 США Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/21770-the-doors-koncert-v-hollywood-bowl-1968-2012.html&q=[1080p%20Ultra]
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2020/12/26/r9e6fda93639egn80a28v.jpg",Muse: Simulation Theory 2020 Великобритания Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/35476-muse-simulation-theory-2020.html&q=[1080p]
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2021/7/5/y6bbcfee8cd04oh70z47u.jpg",Спасибо за нелётную погоду 1981 СССР Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/40543-spasibo-za-neletnuyu-pogodu-1981.html&q=[1080p]
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2021/7/20/rf1dc5f480e84zd83o70h.jpg",Леонид Агутин. Cosmo Life 2020 Россия Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/40829-leonid-agutin-cosmo-life-2020.html&q=[1080p%20Ultra]
+#EXTINF:-1 group-title="Концерт" tvg-logo="https://static.hdrezka.ac/i/2021/7/22/o81e416eaf475fv78a12q.jpg",Emicida: AmarElo - Живой концерт в Сан-Паулу 2020 Бразилия Концерт
+http://rezka.auratv.fun/rezka.php?link=https://rezka.ag/films/concert/40862-emicida-amarelo-zhivoy-koncert-v-san-paulu-2020.html&q=[1080p%20Ultra]
+
 #EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}"group-title="Эфирные HD BY" tvg-logo="https://i.ibb.co/fHBdSTx/01-Belarus-1.png",Беларусь 1
 https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}"group-title="Эфирные HD BY" tvg-logo="https://i.ibb.co/CWvdq9v/22-ONT-1.png",ОНТ
