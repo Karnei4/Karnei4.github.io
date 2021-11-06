@@ -40,7 +40,7 @@ World Music - Японская Традиционная Музыка,http://101.
 Детская - Колыбельная,http://101.ru/api/channel/getServers/95/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/5e24d8c939c787f1827f0f7b2e7daa35.png
 Джаз / Блюз - Blues,http://101.ru/api/channel/getServers/76/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/19f8a3674cc8f519f0e4b91917be5fe1.png
 Джаз / Блюз - Funk & Soul,http://101.ru/api/channel/getServers/84/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/abf82daba30460b4edaf8cad2d7a8027.png
-Джаз / Блюз - Jazz,http://101.ru/api/channel/getServers/85/channel/AAC/64,128/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/ce0e79af697d4ddda29fef6504b481fb.png
+Джаз / Блюз - Jazz,http://101.ru/api/channel/getServers/85/channel/AAC/128/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/ce0e79af697d4ddda29fef6504b481fb.png
 Джаз / Блюз - Smooth Jazz,http://101.ru/api/channel/getServers/31/channel/MP3/128/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/22e97e8c6220a6ca49dcdba429cc083f.png
 Джаз / Блюз - Swing,http://101.ru/api/channel/getServers/90/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/cf8e4ac6666ec321e54a63fe8f30fee3.png
 Золотая Коллекция - ABBA,http://101.ru/api/channel/getServers/104/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/296e04f171392830df1ac1c183ea817f.png
@@ -100,7 +100,7 @@ World Music - Японская Традиционная Музыка,http://101.
 Каналы Relax FM - Relax Latino,http://101.ru/api/channel/getServers/265/channel/MP3/128/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/1ed4872abc7c3250d7e40b9595b7a90c.jpg
 Каналы Relax FM - Relax Life,http://101.ru/api/channel/getServers/267/channel/MP3/128/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/5ae02ff3d98d0b3b5ec4b09f45a0ae90.jpg
 Каналы Relax FM - Relax Nature,http://101.ru/api/channel/getServers/263/channel/MP3/128/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/d590ba1b92a5b397b31761124fa04999.jpg
-Каналы Relax FM - Relax-Christmas,http://101.ru/api/channel/getServers/258/channel/MP3/192,256/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/dd29a927a2bccf84e25fe121076a5e74.png
+Каналы Relax FM - Relax-Christmas,http://101.ru/api/channel/getServers/258/channel/MP3/256/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/dd29a927a2bccf84e25fe121076a5e74.png
 Каналы Детского Радио - Кавер Дети,http://101.ru/api/channel/getServers/396/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/b24a6c3ba8aa647d627f161dec00d9c2.jpg
 Каналы Детского Радио - Кавер Дети,http://101.ru/api/channel/getServers/401/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/50b016f1229bc66e12769c54590c3b58.jpg
 Каналы Детского Радио - Киномульт,http://101.ru/api/channel/getServers/326/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/f447c5664ccf27191cec4be7321d122f.png
