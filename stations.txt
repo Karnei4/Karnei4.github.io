@@ -1,6 +1,5 @@
 ####Stations####
 Наше радио,http://nashe1.hostingradio.ru:80/nashe-128.mp3,https://lh3.googleusercontent.com/6LPBelhzf2xQiFMUwOE8DLjTSc151SJDZjOvwDq2bswRhtY4Z_ymLCU2znSBmg0oFPY
-Наше радио UK,http://cast.radiogroup.com.ua:8000/nashe,http://radioclub.ua/thumb/og_image_600x315_station/properies/2017/2d/30/59bfcc0f0a93d_1_nashe.png
 Модель для сборки,http://mds-station.com:8000/mds,http://i48.fastpic.ru/big/2013/0413/d8/e06eedc7b2b017312c15d9fe7b543dd8.jpeg
 Comedy radio,http://ic7.101.ru:8000/v11_1,https://online-radio24.ru/wp-content/uploads/2018/08/6789890009.png
 MUZоляция - Завтрак в постель,http://101.ru/api/channel/getServers/342/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/e43008ab243c9ed35a6bac783764d5cd.jpg
@@ -100,7 +99,6 @@ World Music - Японская Традиционная Музыка,http://101.
 Каналы Relax FM - Relax Latino,http://101.ru/api/channel/getServers/265/channel/MP3/128/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/1ed4872abc7c3250d7e40b9595b7a90c.jpg
 Каналы Relax FM - Relax Life,http://101.ru/api/channel/getServers/267/channel/MP3/128/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/5ae02ff3d98d0b3b5ec4b09f45a0ae90.jpg
 Каналы Relax FM - Relax Nature,http://101.ru/api/channel/getServers/263/channel/MP3/128/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/d590ba1b92a5b397b31761124fa04999.jpg
-Каналы Relax FM - Relax-Christmas,http://101.ru/api/channel/getServers/258/channel/MP3/256/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/dd29a927a2bccf84e25fe121076a5e74.png
 Каналы Детского Радио - Кавер Дети,http://101.ru/api/channel/getServers/396/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/b24a6c3ba8aa647d627f161dec00d9c2.jpg
 Каналы Детского Радио - Кавер Дети,http://101.ru/api/channel/getServers/401/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/50b016f1229bc66e12769c54590c3b58.jpg
 Каналы Детского Радио - Киномульт,http://101.ru/api/channel/getServers/326/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/f447c5664ccf27191cec4be7321d122f.png
@@ -115,7 +113,6 @@ World Music - Японская Традиционная Музыка,http://101.
 Каналы Детского Радио - Танцевальная музыка,http://101.ru/api/channel/getServers/331/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/99b6aeb0a3069956eedf823674a39784.png
 Каналы Детского Радио - Улётное лето,http://101.ru/api/channel/getServers/394/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/0fd7d202580d0b9e78a2d97bdb67a55b.jpg
 Каналы Детского Радио - Хиты Детского радио,http://101.ru/api/channel/getServers/402/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/163a82c61bb0fd194e370001c803c081.jpg
-Каналы Детского Радио - Хиты Детского радио,http://101.ru/api/channel/getServers/397/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/23ed96b2478f62442e0b59b566216c65.jpg
 Классика - NeoClassical,http://101.ru/api/channel/getServers/275/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/a8c52167c8b0e65ed2c417f1834e9066.png
 Классика - Pop Classical Music,http://101.ru/api/channel/getServers/97/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/15d65ab2eeb995c0c7ae49e98cf7f5b8.png
 Классика - Классическая Музыка,http://101.ru/api/channel/getServers/98/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/a8a530894e5dfadb31b092ccd9a12903.png
@@ -149,7 +146,7 @@ World Music - Японская Традиционная Музыка,http://101.
 Поп - В тренде,http://101.ru/api/channel/getServers/390/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/dd9a698e7c8fc949827590a8e504de14.jpg
 Поп - Голос,http://101.ru/api/channel/getServers/198/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/f885b2a999deef442a59dbc019af5716.png
 Поп - Голос Дети,http://101.ru/api/channel/getServers/287/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/88f304e0c406f76d0ccce5b6ee8a8b63.png
-Поп - День знаний,http://101.ru/api/channel/getServers/309/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/4b5f76f198d32f9c22f1bd97680e8954.png
+Поп - День знаний,http://101.ru/api/channel/getServers/309/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/design/images/dynamic/default-dynamic.png
 Поп - Евровидение,http://101.ru/api/channel/getServers/147/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/d9853bfef59376ca66bd32d7dc0cc3da.png
 Поп - Музыка Авторадио,http://101.ru/api/channel/getServers/2/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/aeadf7da60e471e5c4ca4d7d2343b50e.png
 Поп - Музыка из сериалов,http://101.ru/api/channel/getServers/308/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/f7a04fe489d161c4497179a966bc2f92.jpg
@@ -160,26 +157,12 @@ World Music - Японская Традиционная Музыка,http://101.
 Поп - Прикосновение,http://101.ru/api/channel/getServers/196/channel/MP3/128/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/926b1c0d73f913e363838a364aa6a5b2.png
 Поп - Россия Топ 50,http://101.ru/api/channel/getServers/34/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/17fb1439a83af064d7a5db4c0a43722f.png
 Поп - Фабрика Звезд,http://101.ru/api/channel/getServers/48/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/6e04fc32b539405194103a2df9829590.png
-Радио - Comedy Radio,http://101.ru/api/channel/getServers/202/channel/MP3/64,256/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/188d6b22e9e60d316c59ae4fbe9d7f52.jpg
-Радио - Crocus City Hall,http://101.ru/api/channel/getServers/213/channel/MP3/128/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/0bc9c6eb4fcc2faba4fede1951d93ca8.jpg
-Радио - Like FM,http://101.ru/api/channel/getServers/219/channel/MP3/64,256/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/7d197a7705c13f1d01e6e4887ea676ba.jpg
-Радио - Megapolis,http://101.ru/api/channel/getServers/180/channel/AAC/48/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/ecfbc2064206fbcf6d4ee6704faeab49.jpg
-Радио - Nostalgie Махачкала,http://101.ru/api/channel/getServers/398/channel/MP3/128/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/9c3600829a4c7bb075ae2e8ba02e54bc.png
-Радио - Relax FM,http://101.ru/api/channel/getServers/200/channel/MP3/64,256/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/e3e86586ef01984c0e531c42e709c45c.jpg
-Радио - Авторадио,http://101.ru/api/channel/getServers/100/channel/MP3/64,256/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/8dae6d431d09fe5322a29da5fd2d6033.jpg
-Радио - Детское Радио,http://101.ru/api/channel/getServers/199/channel/MP3/64,256/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/7a89392c7697677e618424fb235e07c1.jpg
-Радио - Комсомольская Правда,http://101.ru/api/channel/getServers/194/channel/MP3/128/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/5064f0f55451d64fd853af5c27d3079b.jpg
-Радио - Маруся ФМ,http://101.ru/api/channel/getServers/301/channel/AAC/64/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/34644589c17a098e6b75edf8b2aed95c.jpg
-Радио - Первое Музыкальное,http://101.ru/api/channel/getServers/204/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/948348606ae627669c6d5b08246f7555.jpg
-Радио - Радио ENERGY,http://101.ru/api/channel/getServers/99/channel/MP3/64,256/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/443b3fa9170ff5d167144849965aa90f.jpg
-Радио - Радио Romantika,http://101.ru/api/channel/getServers/101/channel/MP3/64,256/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/9798eb19b46f8cea0abb39e6bb32f9c6.jpg
-Радио - Радио ВЕРА,http://101.ru/api/channel/getServers/207/channel/MP3/128/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/973df9e63668888d973bdd4b507f4141.jpg
-Радио - Радио День,http://101.ru/api/channel/getServers/303/channel/MP3/256/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/67f2099771696062f04a0797135598e4.jpg
-Радио - Радио Зенит,http://101.ru/api/channel/getServers/269/channel/MP3/256/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/03bd078084772d59a68fd913f44e50dd.jpg
-Радио - Радио Родных Дорог,http://101.ru/api/channel/getServers/307/channel/AAC/96/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/e9e5439ab49d0bd802fb63d89613664b.jpg
-Радио - Радиола,http://101.ru/api/channel/getServers/209/channel/MP3/128/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/c92a02f1b8d7197cef5f8894d024a06e.jpg
-Радио - ТНТ Music Radio,http://101.ru/api/channel/getServers/274/channel/MP3/128/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/17de8bd3457e33a0c87c8dadef654f93.jpg
-Радио - Юмор FM,http://101.ru/api/channel/getServers/102/channel/MP3/64,256/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/6498369ba2a6cb33f280b2d418446a2e.jpg
+Радио - Crocus City Hall,http://101.ru/api/channel/getServers/213/channel/MP3/128/dataFormat/mobile,https://cdn2.101.ru/design/images/dynamic/default-dynamic.png
+Радио - Megapolis,http://101.ru/api/channel/getServers/180/channel/AAC/48/dataFormat/mobile,https://cdn2.101.ru/design/images/dynamic/default-dynamic.png
+Радио - Nostalgie Махачкала,http://101.ru/api/channel/getServers/398/channel/MP3/128/dataFormat/mobile,https://cdn2.101.ru/design/images/dynamic/default-dynamic.png
+Радио - Маруся ФМ,http://101.ru/api/channel/getServers/301/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/design/images/dynamic/default-dynamic.png
+Радио - Радио День,http://101.ru/api/channel/getServers/303/channel/MP3/256/dataFormat/mobile,https://cdn2.101.ru/design/images/dynamic/default-dynamic.png
+Радио - Радио Зенит,http://101.ru/api/channel/getServers/269/channel/MP3/256/dataFormat/mobile,https://cdn2.101.ru/design/images/dynamic/default-dynamic.png
 Радио по настроению - Агрессивное,http://101.ru/api/channel/getServers/388/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/f374ced57f4f0e9a1dc136063e26473b.png
 Радио по настроению - Бодрое,http://101.ru/api/channel/getServers/387/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/c70c99fae946453d996fbef696dd8a9a.png
 Радио по настроению - Веселое,http://101.ru/api/channel/getServers/389/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/c50ec42cf1af3283c210130aa3897839.png
@@ -251,7 +234,7 @@ World Music - Японская Традиционная Музыка,http://101.
 Танцевальная - Radio First,http://101.ru/api/channel/getServers/242/channel/MP3/128/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/abea4e8f0fe44e141886cc7319309c71.png
 Танцевальная - Russian Dance,http://101.ru/api/channel/getServers/17/channel/MP3/128/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/75b6d43448a6712ddb18c9e948e4824f.png
 Танцевальная - Zumba,http://101.ru/api/channel/getServers/259/channel/MP3/128/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/b7848a4129631dc66242011a8ce8114c.png
-Танцевальная - Дискотека 80-х,http://101.ru/api/channel/getServers/1/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/6232bb3f6e045f9a82277323db7777c5.png
+Танцевальная - Дискотека 80-х,http://101.ru/api/channel/getServers/1/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/design/images/dynamic/default-dynamic.png
 Танцевальная - Дискотека 90-х,http://101.ru/api/channel/getServers/74/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/44e1880b5899c865fea4f41798297c91.png
 Танцевальная - Дискотека СССР,http://101.ru/api/channel/getServers/144/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/c34932ae363a2b1386c0136d403a2274.png
 Танцевальная - Лето Non-Stop,http://101.ru/api/channel/getServers/150/channel/MP3/128/dataFormat/mobile,https://cdn1.101.ru/vardata/modules/channel/image/4893fa285d47a206bf128596c9534907.png
