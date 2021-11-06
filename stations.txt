@@ -111,7 +111,6 @@ World Music - Японская Традиционная Музыка,http://101.
 Каналы Детского Радио - Рок Дети,http://101.ru/api/channel/getServers/403/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/488928b5baead5773c1e253a2ac46187.png
 Каналы Детского Радио - Танцевальная музыка,http://101.ru/api/channel/getServers/400/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/39b1389fbc4fbc31210aef2cc6f0853b.png
 Каналы Детского Радио - Танцевальная музыка,http://101.ru/api/channel/getServers/331/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/99b6aeb0a3069956eedf823674a39784.png
-Каналы Детского Радио - Улётное лето,http://101.ru/api/channel/getServers/394/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/0fd7d202580d0b9e78a2d97bdb67a55b.jpg
 Каналы Детского Радио - Хиты Детского радио,http://101.ru/api/channel/getServers/402/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/163a82c61bb0fd194e370001c803c081.jpg
 Классика - NeoClassical,http://101.ru/api/channel/getServers/275/channel/AAC/64/dataFormat/mobile,https://cdn2.101.ru/vardata/modules/channel/image/a8c52167c8b0e65ed2c417f1834e9066.png
 Классика - Pop Classical Music,http://101.ru/api/channel/getServers/97/channel/AAC/64/dataFormat/mobile,https://cdn0.101.ru/vardata/modules/channel/image/15d65ab2eeb995c0c7ae49e98cf7f5b8.png
