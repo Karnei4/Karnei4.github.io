@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz,http://epg.it999.ru/epg.xml.gz" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
+#EXTM3U url-tvg="https://gabbarit.page.link/epg" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/706114419045695558/1_sleep_timer_turn_music_off_w176.png",RELAX
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",https://discord.gg/RBy3TKzKAR
