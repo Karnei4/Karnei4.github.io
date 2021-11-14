@@ -1415,11 +1415,11 @@ https://hls.kinoprofi.vip/hls/Stragi.Galaktiki.2.2017.P.HDRip/playlist.m3u8
 #EXTGRP:Сборка от Karnei4
 https://bk2-hls.kinoprofi.vip/hls/gazonokosilschik-1992.hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Video-kaseta.png" group-title="Клипы",MAFI2A MUSIC HD
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/821433902077968423/823253517003128862/vinil_optimized.png" group-title="Клипы",MAFI2A MUSIC HD
 https://live.prd.dlive.tv/hls/live/tv12-gudauta.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Video-kaseta.png" group-title="Клипы",Viva Russia HD
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/821433902077968423/823253517003128862/vinil_optimized.png" group-title="Клипы",Viva Russia HD
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/PNG/Video-kaseta.png" group-title="Клипы",Ritsa HD
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/821433902077968423/823253517003128862/vinil_optimized.png" group-title="Клипы",Ritsa HD
 https://live.prd.dlive.tv/hls/live/fila007.m3u8
 
 
