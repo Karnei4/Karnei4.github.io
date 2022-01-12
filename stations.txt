@@ -2,84 +2,84 @@
 Наше радио,http://nashe1.hostingradio.ru:80/nashe-128.mp3,https://lh3.googleusercontent.com/6LPBelhzf2xQiFMUwOE8DLjTSc151SJDZjOvwDq2bswRhtY4Z_ymLCU2znSBmg0oFPY
 Модель для сборки,http://mds-station.com:8000/mds,http://i48.fastpic.ru/big/2013/0413/d8/e06eedc7b2b017312c15d9fe7b543dd8.jpeg
 Comedy radio,http://ic7.101.ru:8000/v11_1,https://online-radio24.ru/wp-content/uploads/2018/08/6789890009.png
-2-step,http://recordsrc.hostingradio.ru:9010/2step_320,http://rr.lampa.pp.ua/upload/stations_images/2step_image600_white_fill.png
-60's Dance,http://recordsrc.hostingradio.ru:9010/cadillac_320,http://rr.lampa.pp.ua/upload/stations_images/cadillac_image600_white_fill.png
-70's Dance,http://recordsrc.hostingradio.ru:9010/1970_320,http://rr.lampa.pp.ua/upload/stations_images/1970_image600_white_fill.png
-Ambient,http://recordsrc.hostingradio.ru:9010/ambient_320,http://rr.lampa.pp.ua/upload/stations_images/ambient_image600_white_fill.png
-Bass House,http://recordsrc.hostingradio.ru:9010/jackin_320,http://rr.lampa.pp.ua/upload/stations_images/jackin_image600_white_fill.png
-Big Hits,http://recordsrc.hostingradio.ru:9010/bighits_320,http://rr.lampa.pp.ua/upload/stations_images/bighits_image600_white_fill.png
-Black Rap,http://recordsrc.hostingradio.ru:9010/yo_320,http://rr.lampa.pp.ua/upload/stations_images/yo_image600_white_fill.png
-Breaks,http://recordsrc.hostingradio.ru:9010/brks_320,http://rr.lampa.pp.ua/upload/stations_images/brks_image600_white_fill.png
-Chill House,http://recordsrc.hostingradio.ru:9010/chillhouse_320,http://rr.lampa.pp.ua/upload/stations_images/chillhouse_image600_white_fill.png
-Chill-Out,http://recordsrc.hostingradio.ru:9010/chil_320,http://rr.lampa.pp.ua/upload/stations_images/chil_image600_white_fill.png
-Christmas,http://recordsrc.hostingradio.ru:9010/christmas_320,http://rr.lampa.pp.ua/upload/stations_images/christmas-radio_image600_white_fill.png
-Christmas Chill,http://recordsrc.hostingradio.ru:9010/christmaschill_320,http://rr.lampa.pp.ua/upload/stations_images/christmas-chill_image600_white_fill.png
-Christmas Party,http://recordsrc.hostingradio.ru:9010/party_320,http://rr.lampa.pp.ua/upload/stations_images/party-24-7_image600_white_fill.png
-Complextro,http://recordsrc.hostingradio.ru:9010/complextro_320,http://rr.lampa.pp.ua/upload/stations_images/complextro_image600_white_fill.png
-Dancecore,http://recordsrc.hostingradio.ru:9010/dc_320,http://rr.lampa.pp.ua/upload/stations_images/dc_image600_white_fill.png
-Darkside,http://recordsrc.hostingradio.ru:9010/darkside_320,http://rr.lampa.pp.ua/upload/stations_images/darkside_image600_white_fill.png
-Deep,http://recordsrc.hostingradio.ru:9010/deep_320,http://rr.lampa.pp.ua/upload/stations_images/deep_image600_white_fill.png
-Disco/Funk,http://recordsrc.hostingradio.ru:9010/discofunk_320,http://rr.lampa.pp.ua/upload/stations_images/discofunk_image600_white_fill.png
-D'n'B Classics,http://recordsrc.hostingradio.ru:9010/drumhits_320,http://rr.lampa.pp.ua/upload/stations_images/drumhits_image600_white_fill.png
-Dream Dance,http://recordsrc.hostingradio.ru:9010/dream_320,http://rr.lampa.pp.ua/upload/stations_images/dream_image600_white_fill.png
-Dream Pop,http://recordsrc.hostingradio.ru:9010/dreampop_320,http://rr.lampa.pp.ua/upload/stations_images/dream-pop_image600_white_fill.png
-Dubstep,http://recordsrc.hostingradio.ru:9010/dub_320,http://rr.lampa.pp.ua/upload/stations_images/dub_image600_white_fill.png
-EDM,http://recordsrc.hostingradio.ru:9010/club_320,http://rr.lampa.pp.ua/upload/stations_images/club_image600_white_fill.png
-EDM Classics,http://recordsrc.hostingradio.ru:9010/edmhits_320,http://rr.lampa.pp.ua/upload/stations_images/edmhits_image600_white_fill.png
-Electro,http://recordsrc.hostingradio.ru:9010/elect_320,http://rr.lampa.pp.ua/upload/stations_images/elect_image600_white_fill.png
-Eurodance,http://recordsrc.hostingradio.ru:9010/eurodance_320,http://rr.lampa.pp.ua/upload/stations_images/eurodance_image600_white_fill.png
-Future Bass,http://recordsrc.hostingradio.ru:9010/fbass_320,http://rr.lampa.pp.ua/upload/stations_images/fbass_image600_white_fill.png
-Future House,http://recordsrc.hostingradio.ru:9010/fut_320,http://rr.lampa.pp.ua/upload/stations_images/fut_image600_white_fill.png
-GOA/PSY,http://recordsrc.hostingradio.ru:9010/goa_320,http://rr.lampa.pp.ua/upload/stations_images/goa_image600_white_fill.png
-Groove/Tribal,http://recordsrc.hostingradio.ru:9010/groovetribal_320,http://rr.lampa.pp.ua/upload/stations_images/groovetribal_image600_white_fill.png
-Hard Bass,http://recordsrc.hostingradio.ru:9010/hbass_320,http://rr.lampa.pp.ua/upload/stations_images/hbass_image600_white_fill.png
-Hardstyle,http://recordsrc.hostingradio.ru:9010/teo_320,http://rr.lampa.pp.ua/upload/stations_images/teo_image600_white_fill.png
-House Classics,http://recordsrc.hostingradio.ru:9010/houseclss_320,http://rr.lampa.pp.ua/upload/stations_images/houseclss_image600_white_fill.png
-House Hits,http://recordsrc.hostingradio.ru:9010/househits_320,http://rr.lampa.pp.ua/upload/stations_images/househits_image600_white_fill.png
-Hypnotic,http://recordsrc.hostingradio.ru:9010/hypno_320,http://rr.lampa.pp.ua/upload/stations_images/hypno_image600_white_fill.png
-Innocence,http://recordsrc.hostingradio.ru:9010/ibiza_320,http://rr.lampa.pp.ua/upload/stations_images/ibiza_image600_white_fill.png
-Jungle,http://recordsrc.hostingradio.ru:9010/jungle_320,http://rr.lampa.pp.ua/upload/stations_images/jungle_image600_white_fill.png
-Liquid Funk,http://recordsrc.hostingradio.ru:9010/liquidfunk_320,http://rr.lampa.pp.ua/upload/stations_images/liquidfunk_image600_white_fill.png
-Lo-Fi,http://recordsrc.hostingradio.ru:9010/lofi_320,http://rr.lampa.pp.ua/upload/stations_images/lofi_image600_white_fill.png
-Megamix,http://recordsrc.hostingradio.ru:9010/mix_320,http://rr.lampa.pp.ua/upload/stations_images/mix_image600_white_fill.png
-Midtempo,http://recordsrc.hostingradio.ru:9010/mt_320,http://rr.lampa.pp.ua/upload/stations_images/mt_image600_white_fill.png
-Minimal/Tech,http://recordsrc.hostingradio.ru:9010/mini_320,http://rr.lampa.pp.ua/upload/stations_images/mini_image600_white_fill.png
-Moombahton,http://recordsrc.hostingradio.ru:9010/mmbt_320,http://rr.lampa.pp.ua/upload/stations_images/mmbt_image600_white_fill.png
-Neurofunk,http://recordsrc.hostingradio.ru:9010/neurofunk_320,http://rr.lampa.pp.ua/upload/stations_images/neurofunk_image600_white_fill.png
-Old School,http://recordsrc.hostingradio.ru:9010/pump_320,http://rr.lampa.pp.ua/upload/stations_images/pump_image600_white_fill.png
-Organic,http://recordsrc.hostingradio.ru:9010/organic_320,http://rr.lampa.pp.ua/upload/stations_images/organic_image600_white_fill.png
-Pirate Station,http://recordsrc.hostingradio.ru:9010/ps_320,http://rr.lampa.pp.ua/upload/stations_images/ps_image600_white_fill.png
-Progressive,http://recordsrc.hostingradio.ru:9010/progr_320,http://rr.lampa.pp.ua/upload/stations_images/progr_image600_white_fill.png
-Rap Classics,http://recordsrc.hostingradio.ru:9010/rapclassics_320,http://rr.lampa.pp.ua/upload/stations_images/rapclassics_image600_white_fill.png
-Rap Hits,http://recordsrc.hostingradio.ru:9010/rap_320,http://rr.lampa.pp.ua/upload/stations_images/rap_image600_white_fill.png
-Rave FM,http://recordsrc.hostingradio.ru:9010/rave_320,http://rr.lampa.pp.ua/upload/stations_images/rave_image600_white_fill.png
-Record,http://recordsrc.hostingradio.ru:9010/rr_main,http://rr.lampa.pp.ua/upload/stations_images/record_image600_white_fill.png
-Record 80-х,http://recordsrc.hostingradio.ru:9010/1980_320,http://rr.lampa.pp.ua/upload/stations_images/1980_image600_white_fill.png
-Record Gold,http://recordsrc.hostingradio.ru:9010/gold_320,http://rr.lampa.pp.ua/upload/stations_images/gold_image600_white_fill.png
-Remix,http://recordsrc.hostingradio.ru:9010/rmx_320,http://rr.lampa.pp.ua/upload/stations_images/rmx_image600_white_fill.png
-Rock,http://recordsrc.hostingradio.ru:9010/rock_320,http://rr.lampa.pp.ua/upload/stations_images/rock_image600_white_fill.png
-Russian Gold,http://recordsrc.hostingradio.ru:9010/russiangold_320,http://rr.lampa.pp.ua/upload/stations_images/russiangold_image600_white_fill.png
-Russian Hits,http://recordsrc.hostingradio.ru:9010/russianhits_320,http://rr.lampa.pp.ua/upload/stations_images/russianhits_image600_white_fill.png
-Russian Mix,http://recordsrc.hostingradio.ru:9010/rus_320,http://rr.lampa.pp.ua/upload/stations_images/rus_image600_white_fill.png
-Summer Dance,http://recordsrc.hostingradio.ru:9010/summerparty_320,http://rr.lampa.pp.ua/upload/stations_images/summer-dance_image600_white_fill.png
-Synthwave,http://recordsrc.hostingradio.ru:9010/synth_320,http://rr.lampa.pp.ua/upload/stations_images/synth_image600_white_fill.png
-Tech House,http://recordsrc.hostingradio.ru:9010/techouse_320,http://rr.lampa.pp.ua/upload/stations_images/techouse_image600_white_fill.png
-Techno,http://recordsrc.hostingradio.ru:9010/techno_320,http://rr.lampa.pp.ua/upload/stations_images/techno_image600_white_fill.png
-Technopop,http://recordsrc.hostingradio.ru:9010/technopop_320,http://rr.lampa.pp.ua/upload/stations_images/technopop_image600_white_fill.png
-Tecktonik,http://recordsrc.hostingradio.ru:9010/tecktonik_320,http://rr.lampa.pp.ua/upload/stations_images/tecktonik_image600_white_fill.png
-Trance Classics,http://recordsrc.hostingradio.ru:9010/trancehits_320,http://rr.lampa.pp.ua/upload/stations_images/trancehits_image600_white_fill.png
-Trancehouse,http://recordsrc.hostingradio.ru:9010/trancehouse_320,http://rr.lampa.pp.ua/upload/stations_images/trancehouse_image600_white_fill.png
-Trancemission,http://recordsrc.hostingradio.ru:9010/tm_320,http://rr.lampa.pp.ua/upload/stations_images/tm_image600_white_fill.png
-Trap,http://recordsrc.hostingradio.ru:9010/trap_320,http://rr.lampa.pp.ua/upload/stations_images/trap_image600_white_fill.png
-Tropical,http://recordsrc.hostingradio.ru:9010/trop_320,http://rr.lampa.pp.ua/upload/stations_images/trop_image600_white_fill.png
-Uplifting,http://recordsrc.hostingradio.ru:9010/uplift_320,http://rr.lampa.pp.ua/upload/stations_images/uplift_image600_white_fill.png
-VIP House,http://recordsrc.hostingradio.ru:9010/vip_320,http://rr.lampa.pp.ua/upload/stations_images/vip_image600_white_fill.png
-Веснушка FM,http://recordsrc.hostingradio.ru:9010/deti_320,http://rr.lampa.pp.ua/upload/stations_images/deti_image600_white_fill.png
-Гастарбайтер FM,http://recordsrc.hostingradio.ru:9010/gast_320,http://rr.lampa.pp.ua/upload/stations_images/gast_image600_white_fill.png
-Гоп FM,http://recordsrc.hostingradio.ru:9010/gop_320,http://rr.lampa.pp.ua/upload/stations_images/gop_image600_white_fill.png
-Маятник Фуко,http://recordsrc.hostingradio.ru:9010/mf_320,http://rr.lampa.pp.ua/upload/stations_images/mf_image600_white_fill.png
-Медляк FM,http://recordsrc.hostingradio.ru:9010/mdl_320,http://rr.lampa.pp.ua/upload/stations_images/mdl_image600_white_fill.png
-Нафталин FM,http://recordsrc.hostingradio.ru:9010/naft_320,http://rr.lampa.pp.ua/upload/stations_images/naft_image600_white_fill.png
-Руки Вверх!,http://recordsrc.hostingradio.ru:9010/rv_320,http://rr.lampa.pp.ua/upload/stations_images/rv19_image600_white_fill.png
-Симфония FM,http://recordsrc.hostingradio.ru:9010/symph_320,http://rr.lampa.pp.ua/upload/stations_images/symph_image600_white_fill.png
-Супердискотека 90-х,http://recordsrc.hostingradio.ru:9010/sd90_320,http://rr.lampa.pp.ua/upload/stations_images/sd90_image600_white_fill.png
+2-step,http://recordsrc.hostingradio.ru:9010/2step_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/2step_image600_gray_outline.png
+60's Dance,http://recordsrc.hostingradio.ru:9010/cadillac_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/cadillac_image600_gray_outline.png
+70's Dance,http://recordsrc.hostingradio.ru:9010/1970_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/1970_image600_gray_outline.png
+Ambient,http://recordsrc.hostingradio.ru:9010/ambient_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/ambient_image600_gray_outline.png
+Bass House,http://recordsrc.hostingradio.ru:9010/jackin_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/jackin_image600_gray_outline.png
+Big Hits,http://recordsrc.hostingradio.ru:9010/bighits_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/bighits_image600_gray_outline.png
+Black Rap,http://recordsrc.hostingradio.ru:9010/yo_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/yo_image600_gray_outline.png
+Breaks,http://recordsrc.hostingradio.ru:9010/brks_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/brks_image600_gray_outline.png
+Chill House,http://recordsrc.hostingradio.ru:9010/chillhouse_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/chillhouse_image600_gray_outline.png
+Chill-Out,http://recordsrc.hostingradio.ru:9010/chil_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/chil_image600_gray_outline.png
+Christmas,http://recordsrc.hostingradio.ru:9010/christmas_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/christmas-radio_image600_gray_outline.png
+Christmas Chill,http://recordsrc.hostingradio.ru:9010/christmaschill_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/christmas-chill_image600_gray_outline.png
+Christmas Party,http://recordsrc.hostingradio.ru:9010/party_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/party-24-7_image600_gray_outline.png
+Complextro,http://recordsrc.hostingradio.ru:9010/complextro_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/complextro_image600_gray_outline.png
+Dancecore,http://recordsrc.hostingradio.ru:9010/dc_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/dc_image600_gray_outline.png
+Darkside,http://recordsrc.hostingradio.ru:9010/darkside_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/darkside_image600_gray_outline.png
+Deep,http://recordsrc.hostingradio.ru:9010/deep_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/deep_image600_gray_outline.png
+Disco/Funk,http://recordsrc.hostingradio.ru:9010/discofunk_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/discofunk_image600_gray_outline.png
+D'n'B Classics,http://recordsrc.hostingradio.ru:9010/drumhits_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/drumhits_image600_gray_outline.png
+Dream Dance,http://recordsrc.hostingradio.ru:9010/dream_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/dream_image600_gray_outline.png
+Dream Pop,http://recordsrc.hostingradio.ru:9010/dreampop_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/dream-pop_image600_gray_outline.png
+Dubstep,http://recordsrc.hostingradio.ru:9010/dub_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/dub_image600_gray_outline.png
+EDM,http://recordsrc.hostingradio.ru:9010/club_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/club_image600_gray_outline.png
+EDM Classics,http://recordsrc.hostingradio.ru:9010/edmhits_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/edmhits_image600_gray_outline.png
+Electro,http://recordsrc.hostingradio.ru:9010/elect_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/elect_image600_gray_outline.png
+Eurodance,http://recordsrc.hostingradio.ru:9010/eurodance_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/eurodance_image600_gray_outline.png
+Future Bass,http://recordsrc.hostingradio.ru:9010/fbass_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/fbass_image600_gray_outline.png
+Future House,http://recordsrc.hostingradio.ru:9010/fut_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/fut_image600_gray_outline.png
+GOA/PSY,http://recordsrc.hostingradio.ru:9010/goa_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/goa_image600_gray_outline.png
+Groove/Tribal,http://recordsrc.hostingradio.ru:9010/groovetribal_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/groovetribal_image600_gray_outline.png
+Hard Bass,http://recordsrc.hostingradio.ru:9010/hbass_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/hbass_image600_gray_outline.png
+Hardstyle,http://recordsrc.hostingradio.ru:9010/teo_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/teo_image600_gray_outline.png
+House Classics,http://recordsrc.hostingradio.ru:9010/houseclss_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/houseclss_image600_gray_outline.png
+House Hits,http://recordsrc.hostingradio.ru:9010/househits_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/househits_image600_gray_outline.png
+Hypnotic,http://recordsrc.hostingradio.ru:9010/hypno_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/hypno_image600_gray_outline.png
+Innocence,http://recordsrc.hostingradio.ru:9010/ibiza_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/ibiza_image600_gray_outline.png
+Jungle,http://recordsrc.hostingradio.ru:9010/jungle_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/jungle_image600_gray_outline.png
+Liquid Funk,http://recordsrc.hostingradio.ru:9010/liquidfunk_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/liquidfunk_image600_gray_outline.png
+Lo-Fi,http://recordsrc.hostingradio.ru:9010/lofi_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/lofi_image600_gray_outline.png
+Megamix,http://recordsrc.hostingradio.ru:9010/mix_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/mix_image600_gray_outline.png
+Midtempo,http://recordsrc.hostingradio.ru:9010/mt_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/mt_image600_gray_outline.png
+Minimal/Tech,http://recordsrc.hostingradio.ru:9010/mini_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/mini_image600_gray_outline.png
+Moombahton,http://recordsrc.hostingradio.ru:9010/mmbt_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/mmbt_image600_gray_outline.png
+Neurofunk,http://recordsrc.hostingradio.ru:9010/neurofunk_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/neurofunk_image600_gray_outline.png
+Old School,http://recordsrc.hostingradio.ru:9010/pump_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/pump_image600_gray_outline.png
+Organic,http://recordsrc.hostingradio.ru:9010/organic_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/organic_image600_gray_outline.png
+Pirate Station,http://recordsrc.hostingradio.ru:9010/ps_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/ps_image600_gray_outline.png
+Progressive,http://recordsrc.hostingradio.ru:9010/progr_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/progr_image600_gray_outline.png
+Rap Classics,http://recordsrc.hostingradio.ru:9010/rapclassics_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/rapclassics_image600_gray_outline.png
+Rap Hits,http://recordsrc.hostingradio.ru:9010/rap_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/rap_image600_gray_outline.png
+Rave FM,http://recordsrc.hostingradio.ru:9010/rave_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/rave_image600_gray_outline.png
+Record,http://recordsrc.hostingradio.ru:9010/rr_main,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/record_image600_gray_outline.png
+Record 80-х,http://recordsrc.hostingradio.ru:9010/1980_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/1980_image600_gray_outline.png
+Record Gold,http://recordsrc.hostingradio.ru:9010/gold_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/gold_image600_gray_outline.png
+Remix,http://recordsrc.hostingradio.ru:9010/rmx_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/rmx_image600_gray_outline.png
+Rock,http://recordsrc.hostingradio.ru:9010/rock_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/rock_image600_gray_outline.png
+Russian Gold,http://recordsrc.hostingradio.ru:9010/russiangold_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/russiangold_image600_gray_outline.png
+Russian Hits,http://recordsrc.hostingradio.ru:9010/russianhits_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/russianhits_image600_gray_outline.png
+Russian Mix,http://recordsrc.hostingradio.ru:9010/rus_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/rus_image600_gray_outline.png
+Summer Dance,http://recordsrc.hostingradio.ru:9010/summerparty_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/summer-dance_image600_gray_outline.png
+Synthwave,http://recordsrc.hostingradio.ru:9010/synth_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/synth_image600_gray_outline.png
+Tech House,http://recordsrc.hostingradio.ru:9010/techouse_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/techouse_image600_gray_outline.png
+Techno,http://recordsrc.hostingradio.ru:9010/techno_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/techno_image600_gray_outline.png
+Technopop,http://recordsrc.hostingradio.ru:9010/technopop_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/technopop_image600_gray_outline.png
+Tecktonik,http://recordsrc.hostingradio.ru:9010/tecktonik_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/tecktonik_image600_gray_outline.png
+Trance Classics,http://recordsrc.hostingradio.ru:9010/trancehits_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/trancehits_image600_gray_outline.png
+Trancehouse,http://recordsrc.hostingradio.ru:9010/trancehouse_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/trancehouse_image600_gray_outline.png
+Trancemission,http://recordsrc.hostingradio.ru:9010/tm_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/tm_image600_gray_outline.png
+Trap,http://recordsrc.hostingradio.ru:9010/trap_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/trap_image600_gray_outline.png
+Tropical,http://recordsrc.hostingradio.ru:9010/trop_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/trop_image600_gray_outline.png
+Uplifting,http://recordsrc.hostingradio.ru:9010/uplift_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/uplift_image600_gray_outline.png
+VIP House,http://recordsrc.hostingradio.ru:9010/vip_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/vip_image600_gray_outline.png
+Веснушка FM,http://recordsrc.hostingradio.ru:9010/deti_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/deti_image600_gray_outline.png
+Гастарбайтер FM,http://recordsrc.hostingradio.ru:9010/gast_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/gast_image600_gray_outline.png
+Гоп FM,http://recordsrc.hostingradio.ru:9010/gop_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/gop_image600_gray_outline.png
+Маятник Фуко,http://recordsrc.hostingradio.ru:9010/mf_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/mf_image600_gray_outline.png
+Медляк FM,http://recordsrc.hostingradio.ru:9010/mdl_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/mdl_image600_gray_outline.png
+Нафталин FM,http://recordsrc.hostingradio.ru:9010/naft_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/naft_image600_gray_outline.png
+Руки Вверх!,http://recordsrc.hostingradio.ru:9010/rv_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/rv19_image600_gray_outline.png
+Симфония FM,http://recordsrc.hostingradio.ru:9010/symph_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/symph_image600_gray_outline.png
+Супердискотека 90-х,http://recordsrc.hostingradio.ru:9010/sd90_320,https://sh1708063.b.had.su/ParsXML/Lampa/logo-record/sd90_image600_gray_outline.png
