@@ -1,0 +1,227 @@
+<head>
+    <script src="http://ittv.cc.ua/tv/src/dash.all.min.js"></script>
+    <script src="http://ittv.cc.ua/tv/src/DPlayer.min.js"></script>
+</head>
+
+<body>
+
+<center>
+
+<div id="dplayer" style="width: 720;  height: 408"></div>
+
+
+<script>
+var dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    video: {
+        url: '',
+    },
+
+});
+
+function start(){
+dp.destroy();
+var sel = document.getElementById('select');
+dp = new DPlayer({
+    container: document.getElementById('dplayer'),
+    autoplay: true,
+    video: {
+        url: sel.options[sel.selectedIndex].value,
+    },
+
+});
+}
+</script>
+
+<br>  
+ 
+<select id="select" onchange="start();"> 
+<option>- Выберите канал -</option>
+<option value="http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd">Шансон</option>
+<option value="http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd">Че</option>
+<option value="http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd">ТНТ</option>
+<option value="http://mfe.cliptv.az/dash/Tlum_HD.ism/playlist.mpd">Тлум</option>
+<option value="http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd">ТЕЛЕКАФЕ</option>
+<option value="http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd">ТВ-3</option>
+<option value="http://mfe.cliptv.az/dash/TV_Center_SD.ism/playlist.mpd">ТВ Центр</option>
+<option value="http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd">СТС love</option>
+<option value="http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd">СТС</option>
+<option value="http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd">Русский Роман</option>
+<option value="http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd">Русский Детектив</option>
+<option value="http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd">Россия Культура</option>
+<option value="http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd">Россия 24</option>
+<option value="http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd">Россия 1</option>
+<option value="http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd">РОДНОЕ КИНО</option>
+<option value="http://mfe.cliptv.az/dash/Ren_SD.ism/playlist.mpd">РЕН</option>
+<option value="http://mfe.cliptv.az/dash/RBK_SD.ism/playlist.mpd">РБК</option>
+<option value="http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd">Пятница!</option>
+<option value="http://mfe.cliptv.az/dash/Perviy_Obrazovatelniy_SD.ism/playlist.mpd">Первый Образовательный</option>
+<option value="http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd">Первый Канал</option>
+<option value="http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd">Охота и Рыбалка</option>
+<option value="http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd">НТВ</option>
+<option value="http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd">НСТВ</option>
+<option value="http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd">Ностальгия</option>
+<option value="http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd">НАШЕ НОВОЕ КИНО</option>
+<option value="http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd">Наш Футбол</option>
+<option value="http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd">Мультимания</option>
+<option value="http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd">Мульт</option>
+<option value="http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd">МУЗ</option>
+<option value="http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd">Мужское кино</option>
+<option value="http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd">Мир Сериала</option>
+<option value="http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd">МИР 24</option>
+<option value="http://mfe.cliptv.az/dash/Mir_HD.ism/playlist.mpd">Мир</option>
+<option value="http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd">Матч! Футбол 3</option>
+<option value="http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd">Матч! Футбол 2</option>
+<option value="http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd">Матч! Футбол 1</option>
+<option value="http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd">МАТЧ! НАШ СПОРТ</option>
+<option value="http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd">Матч! Игра</option>
+<option value="http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd">Матч! Боец</option>
+<option value="http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd">Матч! Арена</option>
+<option value="http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd">Матч!</option>
+<option value="http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd">Любимое Кино</option>
+<option value="http://mfe.cliptv.az/dash/KHL_TV_SD.ism/playlist.mpd">КХЛ</option>
+<option value="http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd">Кухня ТВ</option>
+<option value="http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd">КИНОХИТ</option>
+<option value="http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd">КИНОСЕРИЯ</option>
+<option value="http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd">КИНОСЕМЬЯ</option>
+<option value="http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd">КИНОСВИДАНИЕ</option>
+<option value="http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd">КИНОПРЕМЬЕРА</option>
+<option value="http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd">КИНОМИКС</option>
+<option value="http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd">Кинокомедия</option>
+<option value="http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd">Кино ТВ</option>
+<option value="http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd">Карусель</option>
+<option value="http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd">Индийское Кино</option>
+<option value="http://mfe.cliptv.az/dash/Zvezda_SD.ism/playlist.mpd">Звезда</option>
+<option value="http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd">Загородная жизнь</option>
+<option value="http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd">Жара</option>
+<option value="http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd">Европа Плюс</option>
+<option value="http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd">Евроновости</option>
+<option value="http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd">Еврокино</option>
+<option value="http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd">Домашний</option>
+<option value="http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd">Дом Кино Премиум</option>
+<option value="http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd">Дикий</option>
+<option value="http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd">Детский Мир</option>
+<option value="http://mfe.cliptv.az/dash/Bobyor_TV_SD.ism/playlist.mpd">Бобёр ТВ</option>
+<option value="http://mfe.cliptv.az/dash/Mir_Uvleceniy_SD.ism/playlist.mpd">Беларусь 24</option>
+<option value="http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd">Авто Плюс</option>
+<option value="http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd">АВТО 24</option>
+<option value="http://mfe.cliptv.az/dash/Yaban_TV_SD.ism/playlist.mpd">YABAN</option>
+<option value="http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd">XXI</option>
+<option value="http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd">Xəzər</option>
+<option value="http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd">Vip Premiere</option>
+<option value="http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd">VIP Megahit</option>
+<option value="http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd">Vip Comedy</option>
+<option value="http://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd">Viasat Sport</option>
+<option value="http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd">Viasat Nature</option>
+<option value="http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd">Viasat History</option>
+<option value="http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd">VH1 EUROPE</option>
+<option value="http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd">VH1 CLASSIC</option>
+<option value="http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd">TV1000 Русское кино</option>
+<option value="http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd">TV1000 Action</option>
+<option value="http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd">TV1000</option>
+<option value="http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd">TV 8.5</option>
+<option value="http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd">TV 8</option>
+<option value="http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd">TRT World</option>
+<option value="http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd">TRT Spor</option>
+<option value="http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd">TRT Haber</option>
+<option value="http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd">TRT Cocuk</option>
+<option value="http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd">TRT Belgesel</option>
+<option value="http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd">TRT 1</option>
+<option value="http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd">Travel Channel</option>
+<option value="http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd">TMB TV</option>
+<option value="http://mfe.cliptv.az/dash/TLC_HD.ism/playlist.mpd">TLC</option>
+<option value="http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd">Tiji</option>
+<option value="http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd">Teve 2</option>
+<option value="http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd">Star</option>
+<option value="http://mfe.cliptv.az/dash/Spike_SD.ism/playlist.mpd">Spike</option>
+<option value="http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd">Space</option>
+<option value="http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd">Sony Turbo</option>
+<option value="http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd">Sony Sci-Fi</option>
+<option value="http://mfe.cliptv.az/dash/ShowMax_SD.ism/playlist.mpd">ShowMax</option>
+<option value="http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd">Show</option>
+<option value="http://mfe.cliptv.az/dash/RUSONG_TV_SD.ism/playlist.mpd">RUSONG TV</option>
+<option value="http://mfe.cliptv.az/dash/RU_TV_SD.ism/playlist.mpd">Ru TV</option>
+<option value="http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd">RTG TV</option>
+<option value="http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd">Real TV</option>
+<option value="http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd">POWERTURK</option>
+<option value="http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd">PARAMOUNT COMEDY</option>
+<option value="http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd">Paramount Channel</option>
+<option value="http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd">Outdoor</option>
+<option value="http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd">OCEAN TV</option>
+<option value="http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd">NTV</option>
+<option value="http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd">Nickelodeon</option>
+<option value="http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd">NİCK JR</option>
+<option value="http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd">National Geographic Channel</option>
+<option value="http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd">Nat Geo Wild</option>
+<option value="http://mfe.cliptv.az/dash/Nano_TV_SD.ism/playlist.mpd">Nano</option>
+<option value="http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd">MuzTV</option>
+<option value="http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd">MTV RUSSIA</option>
+<option value="http://mfe.cliptv.az/dash/MTV_Live_HD.ism/playlist.mpd">MTV Live</option>
+<option value="http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd">MTV HITS</option>
+<option value="http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd">MTV DANCE</option>
+<option value="http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd">Minika Go</option>
+<option value="http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd">Minika Cocuk</option>
+<option value="http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd">MGM</option>
+<option value="http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd">Mezzo Live</option>
+<option value="http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd">Mədəniyyət</option>
+<option value="http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd">MCM TOP</option>
+<option value="http://mfe.cliptv.az/dash/Mama_SD.ism/playlist.mpd">Mama</option>
+<option value="http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd">Lider</option>
+<option value="http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd">Kanal D</option>
+<option value="http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd">Kanal 7</option>
+<option value="http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd">Investigation Discovery</option>
+<option value="http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd">Idman</option>
+<option value="http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd">Ictimai</option>
+<option value="http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd">History</option>
+<option value="http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd">HD Life</option>
+<option value="http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd">HABERTÜRK</option>
+<option value="http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd">Gulli Girl</option>
+<option value="http://mfe.cliptv.az/dash/Fox_Russia_SD.ism/playlist.mpd">Fox Россия</option>
+<option value="http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd">FightBox</option>
+<option value="http://mfe.cliptv.az/dash/Fishinbox_SD.ism/playlist.mpd">Fashionbox</option>
+<option value="http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd">FASHION TV</option>
+<option value="http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd">EUROSPORT 2</option>
+<option value="http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd">EUROSPORT 1</option>
+<option value="http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd">Dunya TV</option>
+<option value="http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd">DMAX</option>
+<option value="http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd">Disney</option>
+<option value="http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd">Discovery Channel</option>
+<option value="http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd">Dalğa TV</option>
+<option value="http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd">Da Vinci Learning</option>
+<option value="http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd">CINEMA</option>
+<option value="http://mfe.cliptv.az/dash/CBS_Reality_SD.ism/playlist.mpd">CBS Reality</option>
+<option value="http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd">CBC Sport</option>
+<option value="http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd">CBC Azerbaijan</option>
+<option value="http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd">Cartoon Network</option>
+<option value="http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd">BRIDGE TV Dance</option>
+<option value="http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd">BRIDGE TV</option>
+<option value="http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd">Bloomberg</option>
+<option value="http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd">BBC World News</option>
+<option value="http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd">AzTV</option>
+<option value="http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd">ATV</option>
+<option value="http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd">ATV</option>
+<option value="http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd">Arb Günəş</option>
+<option value="http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd">Arb 24</option>
+<option value="http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd">Arb</option>
+<option value="http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd">Animal Planet</option>
+<option value="http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd">Ani</option>
+<option value="http://mfe.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd">Amedia Premium</option>
+<option value="http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd">Amedia Hit</option>
+<option value="http://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd">Amedia 2</option>
+<option value="http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd">Amedia 1</option>
+<option value="http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd">AMC</option>
+<option value="http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd">AKILLI TV</option>
+<option value="http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd">A Spor</option>
+<option value="http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd">A Haber</option>
+<option value="http://mfe.cliptv.az/dash/8_kanal_SD.ism/playlist.mpd">8 канал</option>
+<option value="http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd">5 канал</option>
+<option value="http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd">2x2</option>
+<option value="http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd">360</option>
+
+</select>   
+ 
+<br>  
+
+</center>
+
+</body>
