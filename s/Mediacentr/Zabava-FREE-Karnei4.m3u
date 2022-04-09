@@ -1,9 +1,8 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/706114419045695558/1_sleep_timer_turn_music_off_w176.png",RELAX
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",https://discord.gg/RBy3TKzKAR
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ТВ Эфир" tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg" tvg-id="",Соловьев Live
+https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://karnei4.github.io/convert/logo-z/ea1ea49151191fb742ccb04bb3f3636f.png" tvg-id="#ё (Самара)",#ё (Самара)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
 https://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2
