@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+   <head>
+      <title></title>
+<meta http-equiv="expires" content="Sun, 24 jan 2010 12:28:36 GMT+03:00">
+<meta http-equiv="pragma" content="no-cache"> 
+<script src='http://d2.iptvsmotri.ru/torrenttxt/playerjs-10.05.js' type='text/javascript'></script>
+<script type="text/javascript" src="http://d2.iptvsmotri.ru/js/freimreload.js" charset="UTF-8"></script>
+</head>
+<body>
+
+<style>
+      html,body{
+         margin:0;padding:0;width:800;height:800;
+      }
+   </style>
+<div id="playerjs" style="width:800;height:800;"></div>
+<script type="text/javascript">
+      var ps = location.href.substr(location.href.indexOf("html?")+5).split("&");
+      var vs = {id:"playerjs"};  
+      for(var i = 0; i<ps.length; i++){
+         var p = ps[i].substr(0,ps[i].indexOf("="));
+         var v = ps[i].substr(ps[i].indexOf("=")+1);
+         if(p!=v){
+            vs[p] = decodeURIComponent(v);
+         }
+      }
+      if(vs.file){
+         var playerjs = new Playerjs(vs);
+      }
+   </script>
+</body>
+</html>
