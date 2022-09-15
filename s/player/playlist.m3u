@@ -1,0 +1,365 @@
+#EXTM3U
+#EXTINF:-1, - AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd
+#EXTINF:-1, - Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:-1, - Space
+http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd
+#EXTINF:-1, - ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd
+#EXTINF:-1, - Xəzər
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd
+#EXTINF:-1, - Dalğa TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
+#EXTINF:-1, - CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
+#EXTINF:-1, - Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
+#EXTINF:-1, - Arb
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd
+#EXTINF:-1, - Arb 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd
+#EXTINF:-1, - Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd
+#EXTINF:-1, - Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
+#EXTINF:-1, - Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
+#EXTINF:-1, - CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1, - MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd
+#EXTINF:-1, - Real TV
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - ATV
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1, - Show
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:-1, - Star
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:-1, - TV 8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1, - Kanal 7
+http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
+#EXTINF:-1, - ShowMax
+http://mfe.cliptv.az/dash/ShowMax_SD.ism/playlist.mpd
+#EXTINF:-1, - CNN TURK
+http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd
+#EXTINF:-1, - TRT World
+http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
+#EXTINF:-1, - Bloomberg
+http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
+#EXTINF:-1, - HABERTÜRK
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
+#EXTINF:-1, - NTV
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd
+#EXTINF:-1, - TRT Haber
+http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
+#EXTINF:-1, - TRT 1
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-1, - Haber Global
+http://mfe.cliptv.az/dash/Haber_Global_HD.ism/playlist.mpd
+#EXTINF:-1, - Teve 2
+http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
+#EXTINF:-1, - A Haber
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+#EXTINF:-1, - TV 8.5
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
+#EXTINF:-1, - AKILLI TV
+http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - TRT Belgesel
+http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
+#EXTINF:-1, - TRT Cocuk
+http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd
+#EXTINF:-1, - Minika Go
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:-1, - Minika Cocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+#EXTINF:-1, - DMAX
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
+#EXTINF:-1, - A Spor
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd
+#EXTINF:-1, - TRT Spor
+http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
+#EXTINF:-1, - Line TR
+http://mfe.cliptv.az/dash/Yaban_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - TMB TV
+http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - POWERTURK
+http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd
+#EXTINF:-1, - Kanal D
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-1, - Blomberg EN
+http://mfe.cliptv.az/dash/130_Blomberg_en.ism/playlist.mpd
+#EXTINF:-1, - Mezzo Live
+http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
+#EXTINF:-1, - MTV Live
+http://mfe.cliptv.az/dash/MTV_Live_HD.ism/playlist.mpd
+#EXTINF:-1, - BBC World News
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
+#EXTINF:-1, - CNN International EN
+http://mfe.cliptv.az/dash/134_CNN_EN.ism/playlist.mpd
+#EXTINF:-1, - Мир
+http://mfe.cliptv.az/dash/Mir_HD_542.ism/playlist.mpd
+#EXTINF:-1, - Звезда
+http://mfe.cliptv.az/dash/Zvezda_SD_12q2.ism/playlist.mpd
+#EXTINF:-1, - ТВ Центр
+http://mfe.cliptv.az/dash/TV_Center_SD_159q.ism/playlist.mpd
+#EXTINF:-1, - 8 канал
+http://mfe.cliptv.az/dash/8_kanal_SD_951w.ism/playlist.mpd
+#EXTINF:-1, - РЕН
+http://mfe.cliptv.az/dash/Ren_SD.ism/playlist.mpd
+#EXTINF:-1, - НТВ
+http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
+#EXTINF:-1, - Ностальгия
+http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
+#EXTINF:-1, - 5 канал
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
+#EXTINF:-1, - Первый Канал
+http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
+#EXTINF:-1, - Россия 1
+http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
+#EXTINF:-1, - Евроновости
+http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
+#EXTINF:-1, - РБК
+http://mfe.cliptv.az/dash/RBK_SD.ism/playlist.mpd
+#EXTINF:-1, - Россия 24
+http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd
+#EXTINF:-1, - AMC
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
+#EXTINF:-1, - МИР 24
+http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
+#EXTINF:-1, - ТНТ
+http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
+#EXTINF:-1, - 2x2
+http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
+#EXTINF:-1, - СТС
+http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd
+#EXTINF:-1, - СТС love
+http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1, - Пятница!
+http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
+#EXTINF:-1, - Че
+http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
+#EXTINF:-1, - Авто Плюс
+http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
+#EXTINF:-1, - Охота и Рыбалка
+http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
+#EXTINF:-1, - Домашний
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1, - Кухня ТВ
+http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - HD Life
+http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
+#EXTINF:-1, - RTG TV
+http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd
+#EXTINF:-1, - TLC
+http://mfe.cliptv.az/dash/TLC_HD.ism/playlist.mpd
+#EXTINF:-1, - PARAMOUNT COMEDY
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
+#EXTINF:-1, - Беларусь 24
+http://mfe.cliptv.az/dash/Mir_Uvleceniy_SD.ism/playlist.mpd
+#EXTINF:-1, - Дикий
+http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
+#EXTINF:-1, - Sony Turbo
+http://mfe.cliptv.az/dash/Sony_Turbo_SD_PIV.ism/playlist.mpd
+#EXTINF:-1, - Amedia 2
+http://mfe.cliptv.az/dash/Amedia_2_SD_PIV.ism/playlist.mpd
+#EXTINF:-1, - ТВ-3
+http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd
+#EXTINF:-1, - TV1000
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
+#EXTINF:-1, - TV1000 Action
+http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd
+#EXTINF:-1, - TV1000 Русское кино
+http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD_PIV.ism/playlist.mpd
+#EXTINF:-1, - КИНОХИТ
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1, - КИНОПРЕМЬЕРА
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
+#EXTINF:-1, - КИНОСЕМЬЯ
+http://mfe.cliptv.az/dash/Kinosemya_SD_PIV.ism/playlist.mpd
+#EXTINF:-1, - КИНОСВИДАНИЕ
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
+#EXTINF:-1, - РОДНОЕ КИНО
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1, - НАШЕ НОВОЕ КИНО
+http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1, - Любимое Кино
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1, - Sony Sci-Fi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+#EXTINF:-1, - Индийское Кино
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1, - Кинокомедия
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
+#EXTINF:-1, - XXI
+http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
+#EXTINF:-1, - CBS Reality
+http://mfe.cliptv.az/dash/CBS_Reality_SD.ism/playlist.mpd
+#EXTINF:-1, - Дом Кино Премиум
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
+#EXTINF:-1, - Мужское кино
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
+#EXTINF:-1, - Еврокино
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
+#EXTINF:-1, - MGM
+http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
+#EXTINF:-1, - Vip Comedy
+http://mfe.cliptv.az/dash/VIP_Comedy_HD_PIV.ism/playlist.mpd
+#EXTINF:-1, - VIP Megahit
+http://mfe.cliptv.az/dash/VIP_Megahit_HD_PIV.ism/playlist.mpd
+#EXTINF:-1, - Vip Premiere
+http://mfe.cliptv.az/dash/VIP_Premium_HD_PIV.ism/playlist.mpd
+#EXTINF:-1, - Amedia Premium
+http://mfe.cliptv.az/dash/Amedia_Premium_HD_PIV.ism/playlist.mpd
+#EXTINF:-1, - КИНОМИКС
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
+#EXTINF:-1, - КИНОСЕРИЯ
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
+#EXTINF:-1, - Кино ТВ
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1, - Мир Сериала
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:-1, - CINEMA
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
+#EXTINF:-1, - Fox Россия
+http://mfe.cliptv.az/dash/Fox_Russia_SD.ism/playlist.mpd
+#EXTINF:-1, - Amedia 1
+http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd
+#EXTINF:-1, - Amedia Hit
+http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
+#EXTINF:-1, - НСТВ
+http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1, - Paramount Channel
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
+#EXTINF:-1, - Русский Роман
+http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+#EXTINF:-1, - Русский Детектив
+http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1, - Тлум
+http://mfe.cliptv.az/dash/Tlum_HD.ism/playlist.mpd
+#EXTINF:-1, - Карусель
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
+#EXTINF:-1, - Disney
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
+#EXTINF:-1, - Tiji
+http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
+#EXTINF:-1, - Детский Мир
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+#EXTINF:-1, - Nickelodeon
+http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
+#EXTINF:-1, - Мульт
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
+#EXTINF:-1, - NİCK JR
+http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
+#EXTINF:-1, - Мультимания
+http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
+#EXTINF:-1, - Gulli Girl
+http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
+#EXTINF:-1, - Ani
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
+#EXTINF:-1, - Cartoon Network
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
+#EXTINF:-1, - Outdoor
+http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
+#EXTINF:-1, - Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1, - Матч!
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:-1, - FightBox
+http://mfe.cliptv.az/dash/Fightbox_SD_PIV.ism/playlist.mpd
+#EXTINF:-1, - EUROSPORT 1
+http://mfe.cliptv.az/dash/EuroSport1_SD_PIV.ism/playlist.mpd
+#EXTINF:-1, - Viasat Sport
+http://mfe.cliptv.az/dash/Viasat_Sport_SD_PIV.ism/playlist.mpd
+#EXTINF:-1, - КХЛ
+http://mfe.cliptv.az/dash/KHL_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1, - Матч! Игра
+http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd
+#EXTINF:-1, - Матч! Футбол 1
+http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
+#EXTINF:-1, - Матч! Футбол 2
+http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
+#EXTINF:-1, - Матч! Футбол 3
+http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
+#EXTINF:-1, - Наш Футбол
+http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+#EXTINF:-1, - МАТЧ! НАШ СПОРТ
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+#EXTINF:-1, - EUROSPORT 2
+http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd
+#EXTINF:-1, - Россия Культура
+http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
+#EXTINF:-1, - Viasat History
+http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
+#EXTINF:-1, - Animal Planet
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
+#EXTINF:-1, - Discovery Channel
+http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd
+#EXTINF:-1, - History
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
+#EXTINF:-1, - Nat Geo Wild
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+#EXTINF:-1, - National Geographic Channel
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
+#EXTINF:-1, - Travel Channel
+http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
+#EXTINF:-1, - Viasat Nature
+http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
+#EXTINF:-1, - Spike
+http://mfe.cliptv.az/dash/Spike_SD.ism_xxxz/playlist.mpd
+#EXTINF:-1, - Investigation Discovery
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
+#EXTINF:-1, - 360
+http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - Первый Образовательный
+http://mfe.cliptv.az/dash/Perviy_Obrazovatelniy_SD.ism/playlist.mpd
+#EXTINF:-1, - Загородная жизнь
+http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
+#EXTINF:-1, - Da Vinci Learning
+http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
+#EXTINF:-1, - Mama
+http://mfe.cliptv.az/dash/Mama_SD_542.ism/playlist.mpd
+#EXTINF:-1, - OCEAN TV
+http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
+#EXTINF:-1, - Бобёр ТВ
+http://mfe.cliptv.az/dash/Bobyor_TV_SD.ism_xxxz/playlist.mpd
+#EXTINF:-1, - ТЕЛЕКАФЕ
+http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
+#EXTINF:-1, - АВТО 24
+http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
+#EXTINF:-1, - Nano
+http://mfe.cliptv.az/dash/Nano_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - МУЗ
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
+#EXTINF:-1, - BRIDGE TV Dance
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
+#EXTINF:-1, - Европа Плюс
+http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - Ru TV
+http://mfe.cliptv.az/dash/RU_TV_SD_PIV.ism/playlist.mpd
+#EXTINF:-1, - BRIDGE TV
+http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd
+#EXTINF:-1, - MTV RUSSIA
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
+#EXTINF:-1, - VH1 EUROPE
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
+#EXTINF:-1, - VH1 CLASSIC
+http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
+#EXTINF:-1, - Жара
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
+#EXTINF:-1, - MCM TOP
+http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd
+#EXTINF:-1, - MTV DANCE
+http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
+#EXTINF:-1, - MTV HITS
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1, - Шансон
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
+#EXTINF:-1, - Fashionbox
+http://mfe.cliptv.az/dash/Fishinbox_SD.ism/playlist.mpd
+#EXTINF:-1, - FASHION TV
+http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
