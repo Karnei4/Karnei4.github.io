@@ -71,10 +71,10 @@ https://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/17835e14590303cb4490112afe17c30e.png" tvg-id="Eurosport 4K",Eurosport 4K
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K/bw20000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/5428d651c5bfe33522d1b11aad6eeb2f.png" tvg-id="Love Nature 4K",Love Nature 4K
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K/bw20000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Регионы" tvg-logo="https://karnei4.github.io/convert/logo-z/cbdf706e47447f559b654fbf3fec0c92.png" tvg-id="TMTV (Казань)",TMTV (Казань)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8
@@ -962,4 +962,5 @@ https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C6t6k93/ast2-1080.png",AST TV 2 HD
 #EXTGRP:Для взрослых
 https://www.ast.tv/stream/2/ultra.m3u8
+
 
