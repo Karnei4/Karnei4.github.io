@@ -169,9 +169,6 @@ https://s45177.cdn.ngenix.net/hls/CH_R03_VSYUFA/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Регионы" tvg-logo="https://karnei4.github.io/convert/logo-z/89714ee123dc033fc1b5d97759a811eb.png" tvg-id="ВТК Аргус (Воронеж)",ВТК Аргус (Воронеж)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/584900adbffdc6ccdba9f86328ad6c01.png" tvg-id="Глазами туриста 4K",Глазами туриста 4K
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Регионы" tvg-logo="https://karnei4.github.io/convert/logo-z/5fa337c9d29ab4b480c1f9d2cedadcd2.png" tvg-id="Городской (Брянск)",Городской (Брянск)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_GORODSKOY/variant.m3u8
@@ -933,6 +930,10 @@ http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0VZGVJM/visit-x-tv.png",Visit-X TV
 #EXTGRP:Для взрослых
 http://194.116.150.47:1935/vxtv/live_360p/chunklist_w543388767.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vv3rLY/visit-x-tv-720.png",Visit-X TV HD 720
+#EXTGRP:Для взрослых
+http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vv3rLY/visit-x-tv-720.png",Visit-X TV HD 720
 #EXTGRP:Для взрослых
 http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
