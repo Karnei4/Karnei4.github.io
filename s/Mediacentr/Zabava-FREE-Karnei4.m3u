@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/706114419045695558/1_sleep_timer_turn_music_off_w176.png",RELAX
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="ТВ Эфир" tvg-logo="https://cdn.discordapp.com/attachments/818840730054819843/949441190590316624/1f4d38139e8438be8203324abe89b587.jpg" tvg-id="",Соловьев Live
+https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыка" tvg-logo="https://karnei4.github.io/convert/logo-z/ea1ea49151191fb742ccb04bb3f3636f.png" tvg-id="#ё (Самара)",#ё (Самара)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
 https://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8
@@ -84,10 +86,10 @@ https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
 https://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/ffd848f1f125cd8013f23541ad191550.png" tvg-id="Ultra HD Cinema",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/bw20000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/fd17791e9f766209bd3183d67ac94cfc.png" tvg-id="Ultra Rex UHD",Ultra Rex UHD
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/bw20000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Регионы" tvg-logo="https://karnei4.github.io/convert/logo-z/da917efd306acdba22be5d2c3c7f5c46.png" tvg-id="URAL1 (Челябинск)",URAL1 (Челябинск)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
@@ -375,7 +377,7 @@ https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_YOLA_METR/variant.m
 https://rt-vlg-penza-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_PENZA_NASHDOM/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/5f294633b54e0703b8f1be45988d3e80.png" tvg-id="Наша Сибирь 4K",Наша Сибирь 4K
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Регионы" tvg-logo="https://karnei4.github.io/convert/logo-z/0b9849019d1d0d8f9a84ec35217a4209.png" tvg-id="Наши города (Когалым)",Наши города (Когалым)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer
 https://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
